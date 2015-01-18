@@ -1,0 +1,25 @@
+<!-- Stories List Section -->
+<section id="stories" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <h2 class="section-heading">Stories</h2>
+        <h3 class="section-subheading text-muted">DataSF speaks</h3>
+        {% for post in site.posts %} 
+        {% if post.categories contains "blog" %}
+        <div class="story-item">
+          <div class="story-caption clearfix">
+            <div class="block-image pull-right" style="background-image:url({{site.baseurl}}/img/blog/{{post.thumbnail}})"></div>
+            <time datetime="{{ post.date | date: " %Y-%m-%d " }}" itemprop="datePublished">
+              {{ post.date | date: "%B %d, %Y" }}
+            </time>
+            <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
+            <p class="text-muted">{{ post.description }}</p>
+          </div>
+        </div>
+        {% endif %} 
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
