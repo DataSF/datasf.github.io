@@ -277,7 +277,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    background-image: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)), url(../img/sf-bg.jpg);
+    background-image: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0)), url({{site.baseurl}}/img/sf-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -710,7 +710,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url({{site.baseurl}}/img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
