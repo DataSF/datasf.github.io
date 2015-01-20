@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Data Coordinator Guidebook
 categories: ["resource"]
 tags: ["Data Inventory Guidebooks"]

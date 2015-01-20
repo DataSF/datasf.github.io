@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Data Inventory Template
 categories: ["resource"]
 tags: ["Data Inventory Template"]

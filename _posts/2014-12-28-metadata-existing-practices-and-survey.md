@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Metadata Existing Practices and Survey
 categories: ["resource"]
 tags: ["Metadata"]

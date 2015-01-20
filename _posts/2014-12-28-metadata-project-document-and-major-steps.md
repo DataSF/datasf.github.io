@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Metadata Project Document and Major Steps
 categories: ["resource"]
 tags: ["Metadata"]

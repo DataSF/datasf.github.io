@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Licensing Open Data: A practical guide"
 categories: ["resource"]
 tags: ["Open Data Licensing Standard"]

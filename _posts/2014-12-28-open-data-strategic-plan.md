@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Open Data Strategic Plan
 categories: ['resource']
 tags: ["Strategic Plan"]

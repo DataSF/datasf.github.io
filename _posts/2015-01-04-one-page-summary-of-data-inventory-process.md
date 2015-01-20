@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: One Page Summary of Data Inventory Process
 categories: ["resource"]
 tags: ["Coordinator Resources"]
