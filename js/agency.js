@@ -1,3 +1,5 @@
+---
+---
 /*!
  * Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -38,7 +40,7 @@ $('div.modal').on('show.bs.modal', function() {
 
 var chart = c3.generate({
   data: {
-    url: '../assets/population.csv',
+    url: '{{site.baseurl}}/assets/population.csv',
     x: 'Decade',
     colors: {
       Population: "#ffffff"
