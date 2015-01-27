@@ -2,9 +2,10 @@
 layout: default
 title: Data Coordinator Guidebook
 categories: ["resource"]
-tags: ["Data Inventory Guidebooks"]
+tags: ["Data Inventory Guidance"]
 published: True
 type: document
+date: 2014-06-19 09:15:00
 downloads:
 - type: Google Doc
   url: "https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/edit?usp=sharing"

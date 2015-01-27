@@ -1,7 +1,7 @@
 --- 
 layout: default 
 ---
-<div id="main" role="main">
+<div id="main" role="main" class="blog-post">
   <div class="container">
     <article class="wrap" itemscope itemtype="http://schema.org/Article">
       {% if page.image.feature %}
@@ -15,7 +15,7 @@ layout: default
       {% endif %}
       <!-- include breadcrumbs.html -->
       <div class="row">
-        <div class="col-md-7">
+        <div class="col-md-8">
           <div class="page-title">
             <h1>{{ page.title }}</h1>
           </div>
@@ -25,8 +25,7 @@ layout: default
             {{ content }}
             <hr />
             <div class="page-footer">
-              {% if page.categories %}{% include page-author.html %}{% endif %} {% if page.share != false %}{% include share-this.html %}{% endif %}
-              <!-- include page-meta.html -->
+              
             </div>
             <!-- /.footer -->
             <aside>
@@ -37,9 +36,16 @@ layout: default
           </div>
           <!-- /.content -->
         </div>
-        <div class="col-md-5">
+        <div class="col-md-4 sidebar">
+          <aside>
+          {% if page.categories %}{% include page-author.html %}{% endif %} 
+          {% include page-meta.html %}
+
+          {% if page.share != false %}{% include share-this.html %}{% endif %}
+          
             {% include stories-sidebar.html %}
-          </div>
+          </aside>
+        </div>
       </div>
       <!-- /.inner-wrap -->
     </article>

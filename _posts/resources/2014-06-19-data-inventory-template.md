@@ -2,9 +2,10 @@
 layout: default
 title: Data Inventory Template
 categories: ["resource"]
-tags: ["Data Inventory Template"]
+tags: ["Data Inventory Guidance"]
 published: True
 type: template
+date: 2014-06-19 10:30:00
 downloads: 
 - type: Excel
   url: "http://datasf.org/coordinators/wp-content/uploads/2014/07/DatasetInventory_Template.xlsm"

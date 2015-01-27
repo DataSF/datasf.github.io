@@ -2,8 +2,9 @@
 layout: default
 title: One Page Summary of Data Inventory Process
 categories: ["resource"]
-tags: ["Coordinator Resources"]
+tags: ["Data Inventory Guidance"]
 published: True
+date: 2014-06-19 09:00:00
 type: One Pager
 downloads:
 - type: PDF

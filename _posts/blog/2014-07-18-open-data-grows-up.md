@@ -4,26 +4,35 @@ title: Open Data Grows Up
 date: 2014-07-18 17:39:45.000000000 -07:00
 category: blog
 tags: []
-status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-author: jason_lally
-thumbnail: open-data-theory-of-change.png
+author: joy_bonaguro
+image:
+  thumb: open-data-theory-of-change.png
 description: We released our multi-year strategic plan today!
 ---
-<p>We released our multi-year strategic plan today! <a href="http://sfmayor.org/index.aspx?page=846&amp;recordid=639&amp;returnURL=%2findex.aspx%3fpage%3d1">Read the press release</a>.</p>
-<p>You can read the whole thing as a <a href="http://sfmayor.org/Modules/ShowDocument.aspx?documentID=425">PDF</a> or <a href="https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing">google doc</a>. If you want a quick read, I pasted the executive summary below. You can also track details on our progress on our <a href="https://docs.google.com/spreadsheets/d/1M30oyAFUO6TXkmZ1jqGXTNGdvsTiXh5V7oS7vUCKRJ0/edit?usp=sharing">timeline of activities</a> (google spreadsheet).</p>
-<p>(And PS - we added a <a href="http://datasf.org/blog/?page_id=48">resources page</a> to the blog where we'll post all of our documents - reuse, re-purpose, critique!)</p>
-<h2>Executive Summary</h2>
-<p>San Francisco has been a leader in open data. As one of the first cities with an open data policy, we helped fuel a movement that has spread across the country and the world. Open data can serve as a platform to 1) change how we use, share and consume government data - externally and internally; 2) transform data into services; and 3) foster continuous improvement in decision-making and the business of government.</p>
-<p><img src="{{site.baseurl}}/assets/Open-Data-Theory-of-Change-1.png" alt="Open Data- Theory of Change (1)" width="881" height="291" /></a></p>
-<h3>Need to Evolve.</h3>
-<p>But this plan demonstrates the need to evolve and mature our approach. Not only do we need to reinvigorate our program and release more data, we need to evolve our work to support the use of data in decision-making. To transform our initiative into a program, our strategic plan is designed to build the elements of an institutional approach to open data and data use more generally. The goals and strategies for year 1 lay out a framework for how we can grow, mature, and sustain our program to align our activities and resources with the expectations of the open data policy. In achieving these goals and strategies, we can fulfill our mission of enabling use of the City’s data thereby fostering an ecosystem of data-enabled management, services, and decisions.</p>
-<h3>Timing and Resources.</h3>
-<p>Our strategic plan is ambitious and reflects a vision of what we hope to accomplish over time. We do not expect to be able to deliver on all aspects of our strategic vision in year 1. However, by fully articulating our vision, we are better able to prioritize and allocate our resources and identify where we need key partners to help execute on our goals. Moreover, this plan recognizes that each of our goals are multi-year goals and that a great deal of work is already happening throughout the City. This plan helps us stitch together an overarching vision of how these efforts align, where the role of open data fits in, and how we can move forward to enable use of data.</p>
-<p>While we expect our strategic goals to change over time, we believe the goals in this plan will be in place for the next three years. The Office of the Chief Data Officer (OCDO) will be focused on Goals 1, 2 and 6 in year 1, in conjunction with key partners and the departments themselves. In year 1, OCDO work on goals 3, 4, and 5 is focused on leveraging key partnerships or pursuing strategies that will inform future work. Section 6 and Appendix D include more details.</p>
+We released our multi-year strategic plan today! [Read the press release](http://sfmayor.org/index.aspx?page=846&amp;recordid=639&amp;returnURL=%2findex.aspx%3fpage%3d1).
+
+You can read the whole thing as a [PDF](http://sfmayor.org/Modules/ShowDocument.aspx?documentID=425) or [google doc](https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing). If you want a quick read, I pasted the executive summary below. You can also track details on our progress on our [timeline of activities](https://docs.google.com/spreadsheets/d/1M30oyAFUO6TXkmZ1jqGXTNGdvsTiXh5V7oS7vUCKRJ0/edit?usp=sharing) (google spreadsheet).
+
+(And PS - we added a [resources page](http://datasf.org/blog/?page_id=48) to the blog where we'll post all of our documents - reuse, re-purpose, critique!)
+
+## Executive Summary
+
+San Francisco has been a leader in open data. As one of the first cities with an open data policy, we helped fuel a movement that has spread across the country and the world. Open data can serve as a platform to 1) change how we use, share and consume government data - externally and internally; 2) transform data into services; and 3) foster continuous improvement in decision-making and the business of government.
+
+![Open Data- Theory of Change (1)]({{site.baseurl}}/assets/Open-Data-Theory-of-Change-1.png)</a>
+
+### Need to Evolve.
+
+But this plan demonstrates the need to evolve and mature our approach. Not only do we need to reinvigorate our program and release more data, we need to evolve our work to support the use of data in decision-making. To transform our initiative into a program, our strategic plan is designed to build the elements of an institutional approach to open data and data use more generally. The goals and strategies for year 1 lay out a framework for how we can grow, mature, and sustain our program to align our activities and resources with the expectations of the open data policy. In achieving these goals and strategies, we can fulfill our mission of enabling use of the City’s data thereby fostering an ecosystem of data-enabled management, services, and decisions.
+
+### Timing and Resources.
+
+Our strategic plan is ambitious and reflects a vision of what we hope to accomplish over time. We do not expect to be able to deliver on all aspects of our strategic vision in year 1. However, by fully articulating our vision, we are better able to prioritize and allocate our resources and identify where we need key partners to help execute on our goals. Moreover, this plan recognizes that each of our goals are multi-year goals and that a great deal of work is already happening throughout the City. This plan helps us stitch together an overarching vision of how these efforts align, where the role of open data fits in, and how we can move forward to enable use of data.
+
+While we expect our strategic goals to change over time, we believe the goals in this plan will be in place for the next three years. The Office of the Chief Data Officer (OCDO) will be focused on Goals 1, 2 and 6 in year 1, in conjunction with key partners and the departments themselves. In year 1, OCDO work on goals 3, 4, and 5 is focused on leveraging key partnerships or pursuing strategies that will inform future work. Section 6 and Appendix D include more details.
+
 <table>
 <tbody>
 <tr>
@@ -95,4 +104,5 @@ description: We released our multi-year strategic plan today!
 </tr>
 </tbody>
 </table>
-<p>*Indicates need for resources or activities beyond the OCDO (e.g. key partnerships, department effort, volunteers etc).</p>
+
+*Indicates need for resources or activities beyond the OCDO (e.g. key partnerships, department effort, volunteers etc).

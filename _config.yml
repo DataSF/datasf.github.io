@@ -4,19 +4,33 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 permalink: /:categories/:title/
 
-url: https://dev.datasf.org
+url: http://datasf.org
 baseurl: /datasf-website
+
+paginate: 2
 
 # Site settings
 title: DataSF
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "DataSF is..."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary: 245f7b
+  secondary: 6dbce2  
+  secondary-dark: 333333
+
+owner:
+  name: DataSF
+  email: 
+  twitter: datasf
+  google:
+    ad-client: 
+    ad-slot: 
+    plus:
+  bio: 
+  gravatar:  # 160x160 px image for author byline
+disqus-shortname:
 
 # Team names, titles and social links
 people:

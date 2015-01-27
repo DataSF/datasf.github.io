@@ -4,7 +4,7 @@ title: Open Data Strategic Plan
 categories: ['resource']
 tags: ["Strategic Plan"]
 published: True
-date: 2014-12-28 19:50:25
+date: 2014-07-14 12:50:25
 type: 'document'
 downloads:
 - type: Google Doc
@@ -13,4 +13,4 @@ downloads:
   url: 'https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing'
 ---
 
-Our strategic plan covers our 6 core goals and supporting strategies for the next 3 or so years.
+Our strategic plan covers our 6 core goals and supporting strategies for approximately a three year period. The strategic plan is used in determining our workplan and is subject to intervening updates as necessary.
