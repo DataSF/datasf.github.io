@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Licenses Inventory"
 categories: ["resource"]
 tags: ["Open Data Licensing Standard"]

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: One Page Summary of DataSF Program
 categories: ["resource"]
 tags: ["Data Inventory Guidance"]

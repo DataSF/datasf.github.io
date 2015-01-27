@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Licensing Open Data: Resources and Practices"
 categories: ["resource"]
 tags: ["Open Data Licensing Standard"]

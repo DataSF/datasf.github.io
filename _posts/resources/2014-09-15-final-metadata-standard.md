@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Final Metadata Standard
 categories: ["resource"]
 tags: ["Metadata"]

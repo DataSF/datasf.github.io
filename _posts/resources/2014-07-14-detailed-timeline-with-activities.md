@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Detailed Timeline with Activities
 categories: ["resource"]
 tags: ["Strategic Plan"]

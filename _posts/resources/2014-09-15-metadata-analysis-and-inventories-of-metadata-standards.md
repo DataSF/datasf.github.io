@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Metadata Analysis and Inventories of Standards"
 categories: ["resource"]
 tags: ["Metadata"]

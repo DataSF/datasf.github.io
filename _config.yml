@@ -83,25 +83,37 @@ address:
   - line: Beverly Hills, CA 90210
 
 prose:
-  _posts/blog:
-    - name: "layout"
-      field:
-        element: "hidden"
-        value: "blog"
-    - name: "date"
-      field:
-        element: "text"
-    - name: "author"
-      field:
-        element: "select"
-        options:
-          - name: "Joy Bonaguro"
-            value: "joy_bonaguro"
-          - name: "Jason Lally"
-            value: "jason_lally"
-    - name: "thumbnail"
-      field:
-        element: "text"
-    - name: "description"
-      field:
-        element: "text"
+  siteurl: "http://datasf.github.io/datasf-website"
+  media: "uploads"
+  metadata:
+    _posts/resources:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "resource"
+      - name: "tags"
+        field:
+          element: "select"
+          label: "Select Resource Category"
+          options: "http://datasf.github.io/datasf-website/api/jsonp/tags.json?callback=tagsCallback"
+          alterable: true
+          placeholder: "Choose"
+    _posts/blog:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "date"
+        field:
+          element: "text"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Author"
+          options: http://datasf.github.io/datasf-website/api/jsonp/authors.json?callback=authorsCallback
+      - name: "thumbnail"
+        field:
+          element: "text"
+      - name: "description"
+        field:
+          element: "text"

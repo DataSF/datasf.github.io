@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Data Inventory Example
 categories: ["resource"]
 tags: ["Data Inventory Guidance"]
