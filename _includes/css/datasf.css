@@ -1078,17 +1078,22 @@ color: #fff !important;
 }
 
 .list-group-item-download {
-    background-color: #1A4154;
+    background-color: #4D7487;
     color: #fff;
 }
 
 .list-group-item-download:hover {
-    background-color: #678EA1;
+    background-color: #99C0D3;
     color: #222;
 }
 
 .list-group a:hover {
     text-decoration: none;    
+}
+
+.panel-default>.panel-heading {
+    background-color: #1A4154;
+    color: #eee;
 }
 
 .panel {

@@ -10,6 +10,7 @@ image:
 description: Thank you to everyone who responded to our request for feedback on our metadata draft! We really appreciated your comments and thoughts.
 ---
 <img class="pull-left" src="{{site.baseurl}}/img/blog/u-heart-metadata.png" alt="You heart metadata" width="230" height="191" />
+
 Thank you to everyone who responded to our request for feedback on our metadata draft! We really appreciated your comments and thoughts. Below is a summary of how we are incorporating comments and changes based on feedback from an internal survey, external survey, and our governance committee.
 
 You can view the revised draft and our comments here.

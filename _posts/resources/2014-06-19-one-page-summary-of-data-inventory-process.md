@@ -7,7 +7,7 @@ date: 2014-06-19 09:00:00
 type: One Pager
 downloads:
 - type: PDF
-  url: "http://datasf.org/coordinators/wp-content/uploads/2014/07/3StepProcess_Wave2Deadlines.pdf"
+  url: "https://drive.google.com/file/d/0B3XTBxBQSd0hX0MzWnRodTVVNG8/view?usp=sharing"
 ---
 
 A synopsis flyer describing the data inventory process for data coordinators.
