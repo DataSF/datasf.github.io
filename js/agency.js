@@ -55,5 +55,11 @@ var chart = c3.generate({
     }
   }
 });*/
+var now = moment();
+var dueDate = moment('2015-03-13');
+
+var weeks = dueDate.diff(now, 'weeks');
+
+$('.due-in').html('in ' + weeks + ' weeks on ');
 
 $('table').addClass('table table-striped');

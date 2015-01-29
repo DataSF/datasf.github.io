@@ -19,6 +19,10 @@ body.not-front {
     color: #777;
 }
 
+.well-white {
+    background-color: #fff;
+}
+
 .text-primary {
     color: #{{ site.color.primary }};
 }
@@ -424,13 +428,13 @@ section {
     padding: 25px 0;
 }
 
-section h2.section-heading {
+section h1.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
 }
 
-section h3.section-subheading {
+section p.section-subheading {
     margin-bottom: 30px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -1131,4 +1135,24 @@ color: #fff !important;
 
 .panel>.list-group:last-child .list-group-item:last-child, .panel>.panel-collapse>.list-group:last-child .list-group-item:last-child {
     border-radius: 0;
+}
+
+.task-date {
+  font-weight: 700;
+}
+
+p small {
+  line-height: 1.2;
+}
+
+p.task-item {
+  margin-left: 20px;
+}
+
+.task-current {
+  color: #FF6600;
+}
+
+.task-past {
+  color: #008000;
 }
