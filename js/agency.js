@@ -18,9 +18,9 @@ $(function() {
 });
 
 // Highlight the top nav as scrolling occurs
-$('body').scrollspy({
+/*$('body').scrollspy({
   target: '.navbar-fixed-top'
-})
+})*/
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
@@ -37,7 +37,7 @@ $('div.modal').on('show.bs.modal', function() {
     }
   }
 });
-
+/*
 var chart = c3.generate({
   data: {
     url: '{{site.baseurl}}/assets/population.csv',
@@ -54,6 +54,6 @@ var chart = c3.generate({
       }
     }
   }
-});
+});*/
 
 $('table').addClass('table table-striped');

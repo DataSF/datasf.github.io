@@ -20,10 +20,10 @@
         </li>
         {% for link in site.data.navigation.temp_nav %}
           {% assign current = nil %}
-          {% if page.permalink == link.url %}
+          {% if page.dir == link.url %}
             {% assign current = 'active' %}
           {% endif %}
-          <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %} page-scroll">
+          <li class="{{current}} testing">
             <a class="{{ current }}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
           {% endfor %}
