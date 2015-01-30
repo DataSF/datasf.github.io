@@ -5,7 +5,6 @@ redcarpet:
 permalink: /:categories/:title/
 
 url: http://datasf.org
-baseurl: /datasf-website
 defaultbranch: gh-pages
 
 paginate: 2
