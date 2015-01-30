@@ -1,7 +1,7 @@
 <!-- Stories List Section -->
 <div class="row">
-  <div class="col-lg-12">
-    <h1 class="sidebar-heading">Other stories</h1> 
+  <div class="col-lg-12 story-sidebar">
+    <h3 class="sidebar-heading">Other stories</h3> 
     {% for post in site.posts limit 5 %} 
     {% if post.categories contains "blog" and post.path != page.path %}
     <div class="story-item">

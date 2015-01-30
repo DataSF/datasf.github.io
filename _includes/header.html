@@ -18,21 +18,15 @@
         <li class="hidden">
           <a href="#page-top"></a>
         </li>
-        <li>
-          <a class="page-scroll" href="{{"/use" | prepend: site.baseurl }}">Use City Data</a>
-        </li>
-        <li>
-          <a class="page-scroll" href="{{"/publish" | prepend: site.baseurl }}">Publish City Data</a>
-        </li>
-        <li>
-          <a class="page-scroll" href="{{"/showcase" | prepend: site.baseurl }}">See Data in Action</a>
-        </li>
-        <li>
-          <a class="page-scroll" href="{{"/blog" | prepend: site.baseurl }}">Read our Stories</a>
-        </li>
-        <li>
-          <a class="page-scroll" href="{{"/about" | prepend: site.baseurl }}">Learn more</a>
-        </li>
+        {% for link in site.data.navigation.temp_nav %}
+          {% assign current = nil %}
+          {% if page.dir == link.url %}
+            {% assign current = 'active' %}
+          {% endif %}
+          <li class="{{current}} testing">
+            <a class="{{ current }}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
+          </li>
+          {% endfor %}
       </ul>
     </div>
     <!-- /.navbar-collapse -->

@@ -1,0 +1,27 @@
+<div class="col-md-4">
+  <div class="panel panel-default">
+    <!-- Default panel contents -->
+    <div class="panel-heading">
+      <h4>{{post.title}}</h4>
+    </div>
+    <div class="panel-body">
+      {{ post.content}}
+      <p>
+        <time datetime="{{ post.date | date: " %Y-%m-%d " }}" itemprop="datePublished">
+          {{ post.date | date: "%B %d, %Y" }}
+        </time>
+      </p>
+      {% if page.admin %}
+      <a href="{% if post.path %}https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo&redirect_uri=http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.defaultbranch}}/{{ post.path }}{% else %}https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo&redirect_uri=http://prose.io/#{{site.github.repository_nwo}}{% endif %}" target="_blank" class="btn btn-default"><i class="fa fa-pencil-square-o"></i> Edit</a> {% endif %}
+    </div>
+    <!-- List group -->
+    <ul class="list-group">
+      {% for link in post.downloads %}
+      <a href="{{ link.url }}">
+        <li class="list-group-item list-group-item-download"><i class="fa fa-download"></i> {{ link.type }}
+        </li>
+      </a>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

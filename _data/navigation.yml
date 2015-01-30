@@ -1,0 +1,12 @@
+temp_nav:
+- text: Blog
+  url: /blog
+- text: Coordinators Portal
+  url: /coordinators
+- text: 'Resources'
+  url: /resources
+- text: About
+  url: /about
+
+new_nav:
+- text: Home

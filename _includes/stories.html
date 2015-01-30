@@ -2,14 +2,16 @@
 <section id="stories" class="bg-light-gray">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8">
-        <h2 class="section-heading">Stories</h2>
-        <h3 class="section-subheading text-muted">DataSF speaks</h3>
+      <div class="col-xs-12 section-heading-wrapper">
+        <h1 class="section-heading bg-line">DataSF <i class="fa fa-bullhorn"></i> Speaks</h1>
+        <p class="section-subheading text-muted">Our blog and stories</p>
+      </div>
+      <div class="col-md-8">
         {% for post in site.posts %} 
         {% if post.categories contains "blog" %}
         <div class="story-item">
           <div class="story-caption clearfix">
-            <div class="block-image pull-right" style="background-image:url({{site.baseurl}}/img/blog/{{post.thumbnail}})"></div>
+            <div class="block-image pull-right" style="background-image:url({{site.baseurl}}/img/blog/{{post.image.thumb}})"></div>
             <time datetime="{{ post.date | date: " %Y-%m-%d " }}" itemprop="datePublished">
               {{ post.date | date: "%B %d, %Y" }}
             </time>
@@ -20,6 +22,37 @@
         {% endif %} 
         {% endfor %}
       </div>
+      <div class="col-md-4">
+        <a class="twitter-timeline" href="https://twitter.com/DataSF" data-widget-id="559899210959421440">Tweets by @DataSF</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
     </div>
   </div>
+
+
+  <!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
 </section>

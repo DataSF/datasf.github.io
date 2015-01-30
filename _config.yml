@@ -4,19 +4,34 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 permalink: /:categories/:title/
 
-url: https://dev.datasf.org
-baseurl: /agency-jekyll-theme/
+url: http://datasf.org
+baseurl: /datasf-website
+defaultbranch: gh-pages
+
+paginate: 2
 
 # Site settings
 title: DataSF
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "DataSF is..."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary: 245f7b
+  secondary: 6dbce2  
+  secondary-dark: 333333
+
+owner:
+  name: DataSF
+  email: 
+  twitter: datasf
+  google:
+    ad-client: 
+    ad-slot: 
+    plus:
+  bio: 
+  gravatar:  # 160x160 px image for author byline
+disqus-shortname:
 
 # Team names, titles and social links
 people:
@@ -66,3 +81,39 @@ social:
 address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
+
+prose:
+  siteurl: "http://datasf.github.io/datasf-website"
+  media: "uploads"
+  metadata:
+    _posts/resources:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "resource"
+      - name: "tags"
+        field:
+          element: "select"
+          label: "Select Resource Category"
+          options: "http://datasf.github.io/datasf-website/api/jsonp/tags.json?callback=tagsCallback"
+          alterable: true
+          placeholder: "Choose"
+    _posts/blog:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "date"
+        field:
+          element: "text"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Author"
+          options: http://datasf.github.io/datasf-website/api/jsonp/authors.json?callback=authorsCallback
+      - name: "thumbnail"
+        field:
+          element: "text"
+      - name: "description"
+        field:
+          element: "text"

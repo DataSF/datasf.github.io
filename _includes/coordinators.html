@@ -1,0 +1,87 @@
+<section id="coordinators">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 section-heading-wrapper">
+        <h1 class="section-heading bg-line">Coordinators Portal</h1>
+        <p class="section-subheading">Resources for San Francisco's Data Coordinators</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-7">
+        <h2>Overview</h2>
+        <p>This portal is designed to help you, as a City Data Coordinator, orient to your role and make sure you have the resources you need to execute on your responsibilities.</p>
+        <p>The data coordinator is responsible for:</p>
+        <ul>
+          <li>Developing a catalog of datasets that can be made public (<a href="#quicktips" class="page-scroll">see tips for creating your inventory</a>)</li>
+          <li>Monitoring and responding to comments on public datasets</li>
+          <li>Monitoring and tracking the rollout of public datasets on <a href="http://data.sfgov.org">the open data portal</a>
+          </li>
+          <li>Ensuring that appropriate processes are in place to exclude private, confidential or proprietary data</li>
+        </ul>
+
+        <p>In addition to the responsibilities, data coordinators will be supported in the work through:</p>
+        <ul>
+          <li>Training and workshop opportunities to develop professionally around data management and best practices</li>
+          <li>Tools for tracking and monitoring the publishing of datasets by your department</li>
+          <li>Access to a network of your peer data coordinators at other departments</li>
+          <li>Services for helping to manage the automation of publishing datasets as needed</li>
+        </ul>
+      </div>
+      <div class="col-md-5">
+        <h2>Tasks</h2>
+        <div class="well">
+          <h4>Next Up</h4>
+          <div class="task-card">
+            <div class="task-date"><i class="fa fa-check-circle task-current"></i> Due <span class="due-in"></span>March 13, 2015</div>
+            <p class="task-item">Wave 2* data coordinators complete dataset inventory template. (See <a class="page-scroll" href="#quicktips">tips</a> and <a href="#resources" class="page-scroll">resources</a> below)</p>
+          </div>
+        </div>
+        <div class="well well-white text-muted">
+        <h4>In the future</h4>
+          <div class="task-card">
+            <div class="task-date"><i class="fa fa-check-circle task-current"></i> TBD</div>
+            <p class="task-item">Prioritization and publishing plan</p>
+          </div>
+        </div>
+        <div class="well well-white text-muted">
+        <h4>In the past</h4>
+        <div class="task-card">
+          <div class="task-date"><i class="fa fa-check-circle task-past"></i> Due December 15, 2014</div>
+          <p class="task-item">Wave 2* data coordinators identify data sources</p>
+        </div>
+        <div class="task-card">
+          <div class="task-date"><i class="fa fa-check-circle task-past"></i> Due December 19, 2014</div>
+          <p class="task-item">Wave 1* data coordinators complete dataset inventory</p>
+        </div>
+        <div class="task-card">
+          <div class="task-date"><i class="fa fa-check-circle task-past"></i> Due August 15, 2014</div>
+          <p class="task-item">Wave 1* data coordinators identify data sources</p>
+        </div>
+      </div>
+        <p><small>*Wave 2 data coordinators are those that started in November. Wave 1 started in June. Wave 1 coordinators should have already submitted their full dataset inventories.</small>
+        </p>
+        <!-- include tasks.html -->
+      </div>
+    </div>
+  </div>
+</section>
+<section id="quicktips" class="bg-light-gray">
+  <div class="container">
+    {% include quick-tips.html %}
+  </div>
+</section>
+<section id="resources">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h2>Selected Resources</h2>
+        <p class="text-muted">Below are resources most relevant for data coordinators. You can view <a href="{{site.baseurl}}/resources">all DataSF resources by clicking here</a>.</p>
+      </div>
+    </div>
+    {% assign postquery = site.posts | where:"fordc",true %} {% for post in postquery reversed %} {% assign loopindex = forloop.index | modulo: 3 %} {% if loopindex == 1 %}
+    <div class="row">
+      {% endif %} {% include resources-card.html %} {% if loopindex == 0 or forloop.last %}
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</section>
