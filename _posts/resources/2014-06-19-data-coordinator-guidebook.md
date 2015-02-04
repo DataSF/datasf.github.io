@@ -12,4 +12,4 @@ downloads:
   url: "https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/export?format=pdf"
 fordc: true
 ---
-A guidebook for City and County of San Francisco data coordinators.
+Guidebook for City and County of San Francisco data coordinators.
