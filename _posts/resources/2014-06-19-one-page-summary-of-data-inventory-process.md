@@ -10,5 +10,4 @@ downloads:
   url: "https://drive.google.com/file/d/0B3XTBxBQSd0hX0MzWnRodTVVNG8/view?usp=sharing"
 fordc: true
 ---
-
-A synopsis flyer describing the data inventory process for data coordinators.
+1 page flyer explaining the 3 step data inventory process.
