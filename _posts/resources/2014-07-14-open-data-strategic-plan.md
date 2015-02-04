@@ -12,4 +12,4 @@ downloads:
   url: 'https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/export?format=pdf'
 ---
 
-Our strategic plan covers our 6 core goals and supporting strategies for approximately a three year period. The strategic plan is used in determining our workplan and is subject to intervening updates as necessary.
+Our strategic plan covers our 6 core goals and supporting strategies for next 3 years. Updated annually.
