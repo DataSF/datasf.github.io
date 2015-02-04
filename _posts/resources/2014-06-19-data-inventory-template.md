@@ -10,4 +10,4 @@ downloads:
   url: "https://drive.google.com/uc?export=download&id=0B3XTBxBQSd0hYzJTTUY1TzMwcjA"
 fordc: true
 ---
-Excel template for completing the dataset inventory. Note: The template uses macros, so enable macros for the template to work.
+Excel template for completing the dataset inventory. Note: You must enable macros for the template to work.
