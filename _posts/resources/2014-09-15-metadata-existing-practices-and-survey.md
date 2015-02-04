@@ -9,4 +9,4 @@ downloads:
   url: "https://docs.google.com/document/d/1dz_-yWePLvfNPX8KZRn2SiP1SCpFcojZeO-8U8SPXgE/edit?usp=sharing"
 type: document
 ---
-Research conducted by our intern on what metadata standards exist, how other localities are using them and recommendations for San Francisco.
+Research by our intern on best practices in metadata standards and recommendations for DataSF.
