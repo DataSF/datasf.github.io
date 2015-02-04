@@ -10,5 +10,5 @@ downloads:
   url: "http://google.com"
 fordc: true
 ---
-Example of a completed dataset inventory.!!LINK!
+Example of a completed dataset inventory from the Controller.!!LINK!
 
