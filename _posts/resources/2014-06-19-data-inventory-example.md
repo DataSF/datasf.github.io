@@ -10,5 +10,5 @@ downloads:
   url: "http://google.com"
 fordc: true
 ---
-This dataset inventory example shows what a complete dataset inventory should look like.
+Example of a completed dataset inventory.!!LINK!
 
