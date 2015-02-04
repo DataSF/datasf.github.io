@@ -10,4 +10,4 @@ downloads:
   url: "https://drive.google.com/open?id=0B3XTBxBQSd0hZFBMVDFIZy1fMEk&authuser=0"
 fordc: true
 ---
-Provides high level overview of the SF Open Data Program, DataSF. The purpose is to help build understanding among colleagues within the City.
+1 page flyer describing the Open Data Program. Use it to explain DataSF to your City colleagues.
