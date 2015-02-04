@@ -12,4 +12,4 @@ downloads:
   url: https://docs.google.com/spreadsheets/d/1M30oyAFUO6TXkmZ1jqGXTNGdvsTiXh5V7oS7vUCKRJ0/export?format=xlsx
 ---
 
-This spreadsheet tracks the progress of the open data program against the 3 year strategic plan. Timeline is updated roughly monthly and is subject to changes based on the emergent needs of the program.
+Track our progress against our 3 year plan. Updated quarterly and subject to changes based on need.
