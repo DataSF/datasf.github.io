@@ -12,7 +12,7 @@ body {
 }
 
 body.not-front {
-  margin-top: 70px;
+  margin-top: 102px;
 }
 
 .text-muted {
@@ -28,11 +28,11 @@ body.not-front {
 }
 
 p, li {
-    line-height: 1.75;
+    line-height: 1.5;
 }
 
 p, ul {
-    margin: 0 0 1.2em;
+    margin: 0 0 1em;
 }
 
 .nav ul {
@@ -231,7 +231,7 @@ a:hover, a:active {
   padding: 15px 0;
 }
 
-.navbar li a:after {
+.navbar-default li a:after {
   width: 0;
   background: #{{site.color.secondary}};
 }
@@ -298,6 +298,48 @@ width: 100%;
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
     background-color: transparent;
+}
+
+.navbar.navbar-mini {
+  position: relative;
+  min-height: 32px;
+  line-height: 32px;
+  background-color: #133140;
+  margin: 0;
+  border: none;
+}
+
+.navbar-mini .container {
+  background: url('{{site.baseurl}}/img/city_seal_white.png') no-repeat;
+  background-position: left 0 top -50px;
+}
+
+.navbar.navbar-mini li {
+  vertical-align: top;
+  margin-left: -2px;
+  font-size: 14px;
+  line-height: 32px;
+}
+.navbar.navbar-mini li a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 0 10px;
+  color: #fff;
+  line-height: 32px;
+  margin: 0;
+}
+.navbar.navbar-mini li a:hover {
+  background-color: #2D4B5A;
+}
+.navbar.navbar-mini li.icon a {
+  padding: 0 5px;
+  font-size: 1.4em;
+}
+
+.navbar-brand {
+  padding: 0;
+  line-height: 50px;
 }
 
 @media(min-width:768px) {
