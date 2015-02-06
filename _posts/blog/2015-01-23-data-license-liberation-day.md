@@ -9,8 +9,6 @@ image:
   thumb: DataUnlocked-01.png
 description: It’s official – we have legal sign off on a single licensing strategy for DataSF! Going forward, all data will be released under the friendly, no obligation Public Domain Dedication License (PDDL). Read the super cute friendly description.
 ---
-## PDDL as the Official License of DataSF
-
 <img class="pull-left" style="margin-right: 10px;" src="{{site.baseurl}}/img/blog/DataUnlocked-01.png" alt="Icon representing unlocked data" width="230px">
 
 It’s official – we have legal sign off on a single licensing strategy for [DataSF](https://data.sfgov.org/)! Going forward, all data will be released under the friendly, no obligation Public Domain Dedication License (PDDL). [Read the super cute friendly description](http://opendatacommons.org/licenses/pddl/summary/).
@@ -19,7 +17,7 @@ It’s official – we have legal sign off on a single licensing strategy for [D
 
 One of our early goals was to remove ambiguity about how we license our data. Data on DataSF was available under 7 licenses.
 
-### Table: Data Licensing on DataSF as of Summer 2014
+**Table: Data Licensing on DataSF as of Summer 2014**
 
 License | Dataset Count
 --------|--------------

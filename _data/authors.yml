@@ -1,15 +1,33 @@
 joy_bonaguro:
   name: Joy Bonaguro
+  title: Chief Data Officer
   email: joy.bonaguro@sfgov.org
   bio: "Chief Data Officer, City and County of San Francisco"
+  long_bio: "Joy Bonaguro is the first Chief Data Officer for the City and County of San Francisco, where she manages the City’s open data program. Joy has spent more than a decade working at the nexus of public policy, data, and technology. She worked from the birth of the open data and open government field, spending seven years designing and managing the development of information systems to support planning and decision-making at the Greater New Orleans Community Data. Prior to joining the City, Joy worked at Lawrence Berkeley National Laboratory to help develop technology, cyber and privacy policy working closely with both the National Lab CIO Council and the Department of Energy Information Management Advisory Group. Joy earned her Masters from UC Berkeley’s Goldman School of Public Policy, where she focused on IT policy."
   gravatar: 8614bd4a1d6f6c24c0f6b08a2b9c0335
   twitter: datasf
 
 jason_lally:
   name: Jason Lally
+  title: "Open Data Program Manager"
   email: jason.lally@sfgov.org
   bio: "Open Data Program Manager, City and County of San Francisco"
+  long_bio: "Jason Lally is the Open Data Program Manager, working closely with the City’s Chief Data Officer, Joy Bonaguro, to help operationalize the City’s open data strategy. Jason comes to the City by way of a Mayor’s Innovation Fellowship that wrapped up in August 2014. Before that, he worked at the intersection of technology and urban planning while serving as Director of the Decision Lab at PlaceMatters in Denver, CO. He came to open government and open data through his work in cities and regions across the country on data-informed, community planning processes. Recognizing a need for more robust information services and platforms to support strong community engagement, Jason is pleased to contribute to making data more accessible and useful at the City. Jason earned his Masters in City and Regional Planning from the University of Pennsylvania."
   gravatar: b0d79f25e915d34f7f06907322ad8060
   twitter: synchronouscity
   google:
     plus: jasonlally
+
+jeff_johnson:
+  name: Jeff Johnson
+  title: "Manager, SFGIS and Open Data Services"
+  long_bio: "Jeff Johnson manages San Francisco’s Enterprise GIS Program at the Department of Technology, and has worked with the City’s Open Data platform since its inception.  Over the past several years, he has provided extract, transform and load (ETL) services for City departments, and has become an expert in the use of Safe Software’s FME.   Jeff has built extensive set of institutional knowledge, gained from over 20 years’ experience with the City, and has developed relationships with fellow GIS practitioners and other clients across a wide variety of City departments.  A transplanted East Coaster and graduate of the University of Pennsylvania, he relishes the technical opportunities available working in the beautiful Bay Area for the City and County of San Francisco."
+  email: jeff.johnson@sfgov.org
+  bio: "Manager, SFGIS and Open Data Services"
+  image: jeff_johnson.jpg
+
+sam_valdez:
+  name: Samuel Valdez
+  title: "Enterprise GIS Engineer"
+  long_bio: "Samuel Valdez has been an Enterprise GIS Engineer with the City and County of San Francisco's Enterprise GIS Program (SFGIS) since 2006.  He brings over 30 years of software development, information technology, and GIS experience to the organization, which he gained while working for firms of all sizes, including several start-ups, and over five years with Oracle Corporation.  More recently, he has expanded his career interests to include Python development, spatial system architecture, complex event processing, local government operations, and the ITIL Service Lifecycle.  Before joining the City, Sam consulted on GIS and IT projects for local natural resource management organizations, and was employed with the California Department of Health Services' Environmental Health Investigations Branch.  His information technology and GIS skills and experience have been applied to the following programs and major projects at the City: the Enterprise GIS Program, enterprise-class GIS infrastructure design and deployment, the Open Data Program, and fiber and telecommunications asset management."
+  image: sam_valdez.jpg
