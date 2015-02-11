@@ -2,6 +2,7 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
 {% endif %}
 
+<div class="author-wrapper clearfix">
 <div class="author-image pull-left">
 	<img src="http://gravatar.com/avatar/{{author.gravatar}}?s=100" alt="{{ author.name }}'s picture">
 </div><!-- ./author-image -->
@@ -9,3 +10,4 @@
 	<h3 class="author-name">{% if author.web %}<a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>{% else %}<span itemprop="author">{{ author.name }}</span>{% endif %}</h3>
 	<p class="author-bio">{{ author.bio }}</p>
 </div><!-- ./author-content -->
+</div>
