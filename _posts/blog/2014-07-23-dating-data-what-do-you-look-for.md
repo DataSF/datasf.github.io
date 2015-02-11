@@ -9,7 +9,7 @@ image:
   thumb: i-heart-metadata.png
 description: Finding, dating and settling down with the perfect mate is a lot easier with online dating tools. When you look for a potential match, maybe you only want a few details - like name and a list of interests. But as things get serious, you want to know more.
 ---
-<img class="pull-left" src="{{site.baseurl}}/img/blog/i-heart-metadata.png" alt="I Heart Metadata" width="240" height="200" />
+<img class="pull-left" src="{{site.baseurl}}/img/blog/i-heart-metadata.png" alt="I Heart Metadata" style="width:240px;" />
 
 Finding, dating and settling down with the perfect mate is a lot easier with online dating tools. When you look for a potential match, maybe you only want a few details - like name and a list of interests. But as things get serious, you want to know more.
 

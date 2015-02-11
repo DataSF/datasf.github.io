@@ -15,6 +15,12 @@ body.not-front {
   margin-top: 102px;
 }
 
+body img {
+    max-width: 100%;
+    height: auto;
+    width: auto \9;
+}
+
 .text-muted {
     color: #777;
 }
@@ -312,6 +318,8 @@ width: 100%;
 .navbar-mini .container {
   background: url('{{site.baseurl}}/img/city_seal_white.png') no-repeat;
   background-position: left 0 top -50px;
+  background-position-x: 0;
+  background-position-y: -50px;
 }
 
 .navbar.navbar-mini li {
@@ -515,7 +523,8 @@ section p.section-subheading {
 .block-image {
   display: block;
   background-color: #f0f0f0;
-  background-position: center;
+  background-position-x: 50%;
+  background-position-y: 50%;
   background-origin: border-box;
   background-size: cover;
   height: 150px;
@@ -1208,6 +1217,8 @@ p.task-item {
   height: 200px;
   position: relative;
   background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 50%;
   background-position: center center;
   background-color: #D5ECF7;
   color: #fff;
