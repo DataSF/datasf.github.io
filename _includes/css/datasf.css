@@ -520,6 +520,10 @@ section p.section-subheading {
   max-width: 400px;
 }
 
+.no-backgroundsize .block-image {
+    display: none;
+}
+
 .block-image {
   display: block;
   background-color: #f0f0f0;

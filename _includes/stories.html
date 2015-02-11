@@ -10,7 +10,7 @@
         {% for post in site.posts %} {% if post.categories contains "blog" %}
         <div class="story-item">
           <div class="story-caption clearfix">
-            <div class="block-image pull-right" style="background-image:url({{site.baseurl}}/img/blog/{{post.image.thumb}})"></div>
+            <div class="block-image pull-right" style="background-image:url({{site.baseurl}}/img/blog/{{post.image.thumb}});"></div>
             <time datetime="{{ post.date | date: " %Y-%m-%d " }}" itemprop="datePublished">
               {{ post.date | date: "%B %d, %Y" }}
             </time>
@@ -22,18 +22,7 @@
       </div>
       <div class="col-md-4">
         <a class="twitter-timeline" href="https://twitter.com/DataSF" data-widget-id="559899210959421440">Tweets by @DataSF</a>
-        <script>
-        ! function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0],
-            p = /^http:/.test(d.location) ? 'http' : 'https';
-          if (!d.getElementById(id)) {
-            js = d.createElement(s);
-            js.id = id;
-            js.src = p + "://platform.twitter.com/widgets.js";
-            fjs.parentNode.insertBefore(js, fjs);
-          }
-        }(document, "script", "twitter-wjs");
-        </script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       </div>
     </div>
   </div>
