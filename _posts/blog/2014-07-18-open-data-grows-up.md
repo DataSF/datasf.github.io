@@ -15,7 +15,7 @@ We released our multi-year strategic plan today! [Read the press release](http:/
 
 You can read the whole thing as a [PDF](http://sfmayor.org/Modules/ShowDocument.aspx?documentID=425) or [google doc](https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing). If you want a quick read, I pasted the executive summary below. You can also track details on our progress on our [timeline of activities](https://docs.google.com/spreadsheets/d/1M30oyAFUO6TXkmZ1jqGXTNGdvsTiXh5V7oS7vUCKRJ0/edit?usp=sharing) (google spreadsheet).
 
-(And PS - we added a [resources page](http://datasf.org/blog/?page_id=48) to the blog where we'll post all of our documents - reuse, re-purpose, critique!)
+(And PS - we added a [resources page](/resources) to the blog where we'll post all of our documents - reuse, re-purpose, critique!)
 
 ## Executive Summary
 
