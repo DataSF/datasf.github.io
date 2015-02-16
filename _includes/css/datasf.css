@@ -963,9 +963,12 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.about-features {
-  padding: 80px 0 0 0;
+@media (min-width: 992px) {
+  .about-features {
+    padding-top: 70px;
+  }
 }
+
 
 .portfolio-modal .modal-content {
     padding: 100px 0;
