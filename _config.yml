@@ -7,7 +7,16 @@ permalink: /:categories/:title/
 url: http://datasf.org
 defaultbranch: gh-pages
 
-paginate: 2
+paginate: 3
+paginate_path: "blog/page/:num/"
+
+defaults:
+  -
+    scope:
+      path: "resources"
+      type: "posts"
+    values:
+      hidden: true
 
 # Site settings
 title: DataSF
