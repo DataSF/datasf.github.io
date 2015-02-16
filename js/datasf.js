@@ -10,13 +10,14 @@
 $(function() {
   $('a.page-scroll').bind('click', function(event) {
     var $anchor = $(this);
+    var $bodyMargin = $('body').css('margin-top').split("px")[0];
     $('html, body').stop().animate({
-      scrollTop: $($anchor.attr('href')).offset().top - 112
+      scrollTop: $($anchor.attr('href')).offset().top - (+$bodyMargin + 10)
     }, 1000, 'easeInOutExpo');
     event.preventDefault();
   });
 
-  $('a').on('click touchend', function(e) {
+  $('.navbar a').on('click touchend', function(e) {
     var el = $(this);
     var link = el.attr('href');
     window.location = link;
