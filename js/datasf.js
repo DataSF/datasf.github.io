@@ -17,6 +17,12 @@ $(function() {
   });
 });
 
+$('a').on('click touchend', function(e) {
+    var el = $(this);
+    var link = el.attr('href');
+    window.location = link;
+});
+
 // Highlight the top nav as scrolling occurs
 /*$('body').scrollspy({
   target: '.navbar-fixed-top'
@@ -27,16 +33,6 @@ $('.navbar-collapse ul li a').click(function() {
   $('.navbar-toggle:visible').click();
 });
 
-$('div.modal').on('show.bs.modal', function() {
-  var modal = this;
-  var hash = modal.id;
-  window.location.hash = hash;
-  window.onhashchange = function() {
-    if (!location.hash) {
-      $(modal).modal('hide');
-    }
-  }
-});
 /*
 var chart = c3.generate({
   data: {

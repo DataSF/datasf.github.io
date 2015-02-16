@@ -223,10 +223,6 @@ a:hover, a:active {
 }
 
 @media (min-width: 768px) {
-  .navbar li a:before {
-    width: 100%;
-    background: transparent;
-  }
   .navbar li a:before, .navbar li a:after {
     content: '';
     display: block;
@@ -236,14 +232,18 @@ a:hover, a:active {
     height: 2px;
     -webkit-transition: width 0.3s;
     -moz-transition: width 0.3s;
-    transition: width 0.3s;
+    transition: width 0.3s
   }
-  .navbar li a:active:after, .navbar li a:hover:after, .navbar li.active a:after {
+  .navbar li a:before {
     width: 100%;
+    background: transparent
   }
-  .navbar-default li a:after {
+  .navbar li a:after {
     width: 0;
     background: #{{site.color.secondary}};
+  }
+  .navbar li a:active:after, .menu li a:hover:after {
+    width: 100%
   }
 }
 
