@@ -1,5 +1,5 @@
----
----
+-- -
+-- -
 /*!
  * Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -15,13 +15,15 @@ $(function() {
     }, 1000, 'easeInOutExpo');
     event.preventDefault();
   });
-});
 
-$('a').on('click touchend', function(e) {
+  $('a').on('click touchend', function(e) {
     var el = $(this);
     var link = el.attr('href');
     window.location = link;
+  });
 });
+
+
 
 // Highlight the top nav as scrolling occurs
 /*$('body').scrollspy({
