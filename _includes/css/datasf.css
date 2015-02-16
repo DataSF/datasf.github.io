@@ -242,7 +242,7 @@ a:hover, a:active {
     width: 0;
     background: #{{site.color.secondary}};
   }
-  .navbar li a:active:after, .menu li a:hover:after {
+  .navbar li a:active:after, .navbar li a:hover:after, .navbar li.active a {
     width: 100%
   }
 }
