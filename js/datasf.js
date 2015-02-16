@@ -1,5 +1,5 @@
--- -
--- -
+---
+---
 /*!
  * Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
