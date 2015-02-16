@@ -16,14 +16,12 @@ $(function() {
     event.preventDefault();
   });
 
-  $('a').on('click touchend', function(e) {
+  $('.navbar a').on('click touchend', function(e) {
     var el = $(this);
     var link = el.attr('href');
     window.location = link;
   });
 });
-
-
 
 // Highlight the top nav as scrolling occurs
 /*$('body').scrollspy({
