@@ -86,8 +86,10 @@ h6 {
     padding-top: 20px;
 }
 
-.sidebar aside {
+@media (min-width: 922px) {
+  .sidebar aside {
     margin-top: 80px;
+  }
 }
 
 .data-blurb {
@@ -220,30 +222,38 @@ a:hover, a:active {
   outline: 0;
 }
 
-.navbar li a:before, .navbar li a:after {
-  content: '';
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2px;
-  -webkit-transition: width 0.3s;
-  -moz-transition: width 0.3s;
-  transition: width 0.3s;
+@media (min-width: 768px) {
+  .navbar li a:before {
+    width: 100%;
+    background: transparent;
+  }
+  .navbar li a:before, .navbar li a:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 2px;
+    -webkit-transition: width 0.3s;
+    -moz-transition: width 0.3s;
+    transition: width 0.3s;
+  }
+  .navbar li a:active:after, .navbar li a:hover:after, .navbar li.active a:after {
+    width: 100%;
+  }
+  .navbar-default li a:after {
+    width: 0;
+    background: #{{site.color.secondary}};
+  }
+}
+
+.navbar-collapse li.active {
+  background-color: #4d4d4d;
 }
 
 .nav>li>a {
   margin: 0 15px;
   padding: 15px 0;
-}
-
-.navbar-default li a:after {
-  width: 0;
-  background: #{{site.color.secondary}};
-}
-
-.navbar li a:active:after, .navbar li a:hover:after, .navbar li.active a:after {
-width: 100%;
 }
 
 .navbar-default {
