@@ -236,14 +236,14 @@ a:hover, a:active {
   }
   .navbar li a:before {
     width: 100%;
-    background: transparent
+    background: transparent;
   }
   .navbar li a:after {
     width: 0;
     background: #{{site.color.secondary}};
   }
-  .navbar li a:active:after, .navbar li a:hover:after, .navbar li.active a {
-    width: 100%
+  .navbar li a:active:after, .navbar li a:hover:after, .navbar li.active a:after {
+    width: 100%;
   }
 }
 
