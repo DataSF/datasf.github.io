@@ -247,7 +247,7 @@ a:hover, a:active {
   }
 }
 
-.navbar-collapse li.active {
+.navbar-collapse.in li.active {
   background-color: #4d4d4d;
 }
 
