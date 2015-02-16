@@ -9,7 +9,7 @@ published: true
 author: joy_bonaguro
 image:
   thumb: open-data-theory-of-change.png
-description: We released our multi-year strategic plan today!
+description: We released our multi-year strategic plan today! You can learn about our strategic plan and track our progress over time.
 ---
 We released our multi-year strategic plan today! [Read the press release](http://sfmayor.org/index.aspx?page=846&amp;recordid=639&amp;returnURL=%2findex.aspx%3fpage%3d1).
 

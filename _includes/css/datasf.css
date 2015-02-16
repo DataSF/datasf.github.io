@@ -536,9 +536,26 @@ section p.section-subheading {
   background-position-y: 50%;
   background-origin: border-box;
   background-size: cover;
-  height: 150px;
-  width: 150px;
+  height: 80px;
+  width: 80px;
   margin-left: 20px;
+}
+
+@media (min-width: 768px) {
+  .block-image {
+    height: 150px;
+    width: 150px;
+  }
+}
+
+.twitter-timeline {
+  height: 400px;
+}
+
+@media (min-width: 768px) {
+  .twitter-timeline {
+    height: 550px;
+  }
 }
 
 #stories .story-item .story-link .story-hover {
