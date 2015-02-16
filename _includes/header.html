@@ -13,7 +13,8 @@
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="http://sfgov.org/">SFGov</a></li>
-          <li><a href="http://www.datasf.org">Data Catalog</a></li>
+          <li><a href="{{site.baseurl}}/coordinators">Coordinators Portal</a></li>
+          <li><a href="{{site.baseurl}}/blog">Blog</a></li>
         </ul>
       </div>
     </div>
@@ -42,7 +43,7 @@
           {% if page.dir == link.url %}
             {% assign current = 'active' %}
           {% endif %}
-          <li class="{{current}} testing">
+          <li class="{{current}}">
             <a class="{{ current }}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
           {% endfor %}
