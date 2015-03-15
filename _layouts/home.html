@@ -1,5 +1,33 @@
+--- 
+layout: default 
 ---
-layout: default
----
-
-{% include stories.html %}
+{% include search-catalog.html %}
+<section id="stories" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        {% include stories-iterator.html posts=site.categories.blog limit=3%}
+      </div>
+      <div class="col-md-4">
+				<div class="well">
+					Goal 1
+					Creating data catalogs, provide support to departments
+					Developing methods for the prioritization of datasets for publication
+					Developing program evaluation metrics
+				</div>
+				<div class="well">
+					Goal 2
+					Creating data catalogs, provide support to departments
+					Developing methods for the prioritization of datasets for publication
+					Developing program evaluation metrics
+				</div>
+				<div class="well">
+					Goal 3
+					Creating data catalogs, provide support to departments
+					Developing methods for the prioritization of datasets for publication
+					Developing program evaluation metrics
+				</div>
+      </div>
+    </div>
+  </div>
+</section>

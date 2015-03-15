@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Data License Liberation Day
 date: 2015-01-23 09:00:00
 category: blog

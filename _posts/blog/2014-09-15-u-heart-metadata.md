@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: U Heart Metadata
 date: 2014-09-15 10:27:48.000000000 -07:00
 category: blog

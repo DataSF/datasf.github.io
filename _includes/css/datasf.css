@@ -113,6 +113,11 @@ h6 {
     background-color: #222;
 }
 
+.bg-dark-blue {
+  background-color: #133140;
+  color: #fff;
+}
+
 .btn-primary {
     border-color: #{{ site.color.primary }};
     text-transform: uppercase;
@@ -361,35 +366,38 @@ a:hover, a:active {
 }
 
 @media(min-width:768px) {
-    body.not-front {
-        margin-top: 70px;
-    }
-    .navbar-default {
-        padding: 25px 0;
-        border: 0;
-        background-color: transparent;
-        /*
+  body.not-front {
+    margin-top: 70px;
+  }
+  .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: -18px;
+  }
+  .navbar-default {
+    padding: 25px 0;
+    border: 0;
+    background-color: transparent;
+    /*
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;*/
-    }
-    .navbar-default .navbar-brand {
-        font-size: 3.75em;
-        /*
+  }
+  .navbar-default .navbar-brand {
+    font-size: 3.75em;
+    /*
         -webkit-transition: all .5s;
         -moz-transition: all .5s;
         transition: all .5s;*/
-    }
-    .navbar-default .navbar-nav>.active>a {
-        border-radius: 3px;
-    }
-    .navbar-default.navbar-shrink {
-        padding: 10px 0;
-        background-color: #245f7b;
-    }
-    .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 2.5em;
-    }
+  }
+  .navbar-default .navbar-nav>.active>a {
+    border-radius: 3px;
+  }
+  .navbar-shrink .navbar-default {
+    padding: 10px 0;
+    background-color: #245f7b;
+  }
+  .navbar-shrink .navbar-default .navbar-brand {
+    font-size: 2.5em;
+  }
 }
 
 @media (min-width: 992px) {
@@ -446,8 +454,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 90px;
-        padding-bottom: 75px;
+        padding-top: 112px;
+        padding-bottom: 35px;
     }
 
     header .intro-text .intro-lead-in {
@@ -512,6 +520,14 @@ section p.section-subheading {
     section {
         padding: 50px 0;
     }
+}
+
+.thin-section {
+  padding: 10px 0;
+}
+
+#search-catalog {
+  text-align: center;
 }
 
 .service-heading {

@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<div class="nav-group navbar-fixed-top">
+<div class="nav-group navbar-fixed-top {% if page.is_front != true %} navbar-shrink {% endif %}">
   <nav class="navbar navbar-mini navbar-static-top visible-md visible-lg" role="region" aria-label="external links">
     <div class="container">
       <div class="navbar-header">
@@ -19,7 +19,7 @@
       </div>
     </div>
   </nav>
-<nav class="navbar navbar-default navbar-static-top {% if page.is_front != true %} navbar-shrink {% endif %}">
+<nav class="navbar navbar-default navbar-static-top">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header page-scroll">
@@ -57,17 +57,37 @@
 
 {% if page.is_front %}
 <!-- Header -->
+
 <header id="header">
   <div class="container">
     <div class="intro-text">
       <div class="intro-lead-in">connecting you to city data</div>
-      <div id="chart">
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            Basic panel example<br/>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+          </div>
+        </div>
       </div>
-      <div class="row">
-        <div class="col-md-8 pull-right data-blurb">
-          <h1>City population by decade</h1>
-          <p>San Francisco is a dynamic place that has seen cycles of growth and decline like many cities in the U.S. Read more about what the data tells us about housing and population in San Francisco on the Housing Policy Hub</p>
-          <p>Click for more >></p>
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            Basic panel example
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            Basic panel example
+          </div>
         </div>
       </div>
     </div>
