@@ -7,6 +7,7 @@ published: true
 author: joy_bonaguro
 image:
   thumb: before-after.png
+  feature: before-after.png
 description: Today we released the new DataSF. You spoke and we listened. Our new design addresses some of the major usability issues on our website...
 ---
 Today we released the new DataSF. You spoke and we listened. Our new design addresses some of the major usability issues on our website:
@@ -17,10 +18,6 @@ Today we released the new DataSF. You spoke and we listened. Our new design addr
 *   Simpler, more intuitive and visual help
 *   Quick tips on accessing the API and getting started
 *   Adding an about page with links to our strategic plan and reports
-
-Click to see the before after and read more below:
-
-![Before After]({{site.baseurl}}/img/blog/before-after.png)
 
 ## Multiple ways to discover data
 

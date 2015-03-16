@@ -13,12 +13,14 @@ paginate: 2
 title: DataSF
 email: your-email@domain.com
 description: "DataSF is..."
+locale: en_US
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 245f7b
   secondary: 6dbce2  
   secondary-dark: 333333
+  accent: d0c91f
 
 owner:
   name: DataSF
