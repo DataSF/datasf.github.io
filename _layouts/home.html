@@ -6,28 +6,40 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-md-8">
+      	<h1>DataSF Speaks</h1>
         {% include stories-iterator.html posts=site.categories.blog limit=3%}
       </div>
       <div class="col-md-4">
+      	<h3>What we're working on...</h3>
 				<div class="well">
 					Goal 1
-					Creating data catalogs, provide support to departments
-					Developing methods for the prioritization of datasets for publication
-					Developing program evaluation metrics
+					Creating data catalogs
 				</div>
 				<div class="well">
 					Goal 2
-					Creating data catalogs, provide support to departments
-					Developing methods for the prioritization of datasets for publication
-					Developing program evaluation metrics
+					Develop additional dataset prioritization methods
 				</div>
 				<div class="well">
 					Goal 3
-					Creating data catalogs, provide support to departments
-					Developing methods for the prioritization of datasets for publication
+					Deploying progress dashboard and standard report
 					Developing program evaluation metrics
 				</div>
       </div>
-    </div>
   </div>
+</section>
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Latest resources</h1>
+				<p>For more resources <a href="/resources">click here</a>
+      	{% assign postquery = site.categories.resource %} {% for post in postquery limit:3 %} {% assign loopindex = forloop.index | modulo: 3 %} {% if loopindex == 1 %}
+    <div class="row">
+      {% endif %} {% include resources-card.html %} {% if loopindex == 0 or forloop.last %}
+    </div>
+    {% endif %} {% endfor %}
+      </div>
+    </div>
+		</div>
+	</div>
 </section>

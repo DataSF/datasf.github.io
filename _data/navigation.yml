@@ -1,8 +1,8 @@
 temp_nav:
 - text: Data Catalog
   url: http://data.sfgov.org
-- text: Showcase
-  url: /showcase
+#- text: Showcase
+#  url: /showcase
 - text: Data Academy
   url: /academy
 - text: Resources
