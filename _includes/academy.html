@@ -6,16 +6,38 @@
         <p class="section-subheading">A training program for City and County of San Francisco staff</p>
       </div>
       <div class="col-md-8 col-md-offset-2">
-      Welcome to the City and County of San Francisco’s Data Academy! Our goal is to help analysts citywide explore, refine, and enhance their skills in data analysis and visualization. We also offer classes for those hoping to increase their comfort working with data. We offer a series of classroom based courses detailed below and have also curated a list of courses offered by other institutions for free or at cost.
+        Welcome to the City and County of San Francisco’s Data Academy! Our goal is to help analysts citywide explore, refine, and enhance their skills in data analysis and visualization. We also offer classes for those hoping to increase their comfort working with data. We offer a series of classroom based courses detailed below and have also curated a list of courses offered by other institutions for free or at cost.
+      </div>
     </div>
+    <div id="filters" class="btn-group">
+        <button class="btn btn-default is-checked" data-filter="*">show all</button>
+        <button class="btn btn-default" data-filter=".analysis" aria-label="Analysis Courses"><i class="fa fa-table" aria-hidden="true"></i></button>
+        <button class="btn btn-default" data-filter=".information-design" aria-label="Information Design Courses"><i class="fa fa-info" aria-hidden="true"></i></button>
+        <button class="btn btn-default" data-filter=".mapping" aria-label="Mapping Courses"><i class="fa fa-globe" aria-hidden="true"></i></button>
+        <button class="btn btn-default" data-filter=".management" aria-label="Data Management Courses"><i class="fa fa-sitemap" aria-hidden="true"></i></button>
+         <button class="btn btn-default" data-filter=".visualization" aria-label="Data Visualization Courses"><i class="fa fa-bar-chart" aria-hidden="true"></i></button>
+      </div>
+    <div class="row">
+      <div class="col-md-9">
+        <div class="row isotope">
+            {% for course in site.data.courses %}
+            <div class="col-md-6 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}" data-groups="{{course.tags | jsonify }}">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4>{{course.name}}</h4>
+                </div>
+                <div class="panel-body">
+                <p>{{course.description}}</p>
+                {% for tag in course.tags %} {{ tag }} {% endfor %}
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+        </div>
+      </div>
+      <div class="col-md-3">
+        Course catalog
+      </div>
     </div>
-  <div class="row">
-    <div class="col-md-9">
-      asldjflsaj
-    </div>
-    <div class="col-md-3">
-      Course catalog
-    </div>
-  </div>
   </div>
 </section>
