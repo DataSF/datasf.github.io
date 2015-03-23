@@ -1,9 +1,27 @@
-- Intro to Tableau
-- How to Become Productive in Excel
-- Intermediate Tableau One
-- Intermediate Tableau Two
-- Intermediate Tableau Three
-- Analytic Techniques
-- Data usability: how to design data for consumption
-- Basics of information design
-- Stat: a leadership strategy for improving performance
+- name: Intro to Tableau
+  description: testing
+  tags: [analysis,mapping,visualization]
+- name: How to Become Productive in Excel
+  description: testing
+  tags: [analysis,visualization]
+- name: Intermediate Tableau One
+  description: testing
+  tags: [analysis,information-design,mapping,visualization]
+- name: Intermediate Tableau Two
+  description: testing
+  tags: [analysis,information-design,mapping,visualization]
+- name: Intermediate Tableau Three
+  description: testing
+  tags: [analysis,management]
+- name: Analytic Techniques
+  description: testing
+  tags: [analysis,data-science]
+- name: "Data usability: how to design data for consumption"
+  description: testing
+  tags: [analysis,management]
+- name: Basics of information design
+  description: testing
+  tags: [information-design,visualization]
+- name: "Stat: a leadership strategy for improving performance"
+  description: testing
+  tags: [performance]
