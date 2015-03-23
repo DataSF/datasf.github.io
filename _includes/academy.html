@@ -5,56 +5,36 @@
         <h1 class="section-heading bg-line">Data <i class="fa fa-graduation-cap"></i> Academy</h1>
         <p class="section-subheading">A training program for City and County of San Francisco staff</p>
       </div>
-<<<<<<< HEAD
-      <div class="col-md-8 col-md-offset-2">
-=======
       <div class="col-md-10 col-md-offset-1">
->>>>>>> cleanup
         Welcome to the City and County of San Francisco’s Data Academy! Our goal is to help analysts citywide explore, refine, and enhance their skills in data analysis and visualization. We also offer classes for those hoping to increase their comfort working with data. We offer a series of classroom based courses detailed below and have also curated a list of courses offered by other institutions for free or at cost.
       </div>
     </div>
     <div id="filters" class="btn-group">
         <button class="btn btn-default is-checked" data-filter="*">show all</button>
-<<<<<<< HEAD
-        <button class="btn btn-default" data-filter=".analysis" aria-label="Analysis Courses"><i class="fa fa-table" aria-hidden="true"></i></button>
-        <button class="btn btn-default" data-filter=".information-design" aria-label="Information Design Courses"><i class="fa fa-info" aria-hidden="true"></i></button>
-        <button class="btn btn-default" data-filter=".mapping" aria-label="Mapping Courses"><i class="fa fa-globe" aria-hidden="true"></i></button>
-        <button class="btn btn-default" data-filter=".management" aria-label="Data Management Courses"><i class="fa fa-sitemap" aria-hidden="true"></i></button>
-         <button class="btn btn-default" data-filter=".visualization" aria-label="Data Visualization Courses"><i class="fa fa-bar-chart" aria-hidden="true"></i></button>
-=======
         <button class="btn btn-default" data-filter=".analysis" aria-label="Analysis Courses"><i class="fa fa-table" aria-hidden="true"></i> Analysis</button>
         <button class="btn btn-default" data-filter=".information-design" aria-label="Information Design Courses"><i class="fa fa-info" aria-hidden="true"></i> Information Design</button>
         <button class="btn btn-default" data-filter=".mapping" aria-label="Mapping Courses"><i class="fa fa-globe" aria-hidden="true"></i> Mapping</button>
         <button class="btn btn-default" data-filter=".management" aria-label="Data Management Courses"><i class="fa fa-sitemap" aria-hidden="true"></i> Data Management</button>
         <button class="btn btn-default" data-filter=".visualization" aria-label="Data Visualization Courses"><i class="fa fa-bar-chart" aria-hidden="true"></i> Data Visualization</button>
         <button class="btn btn-default" data-filter=".performance" aria-label="Performance Management Courses"><i class="fa fa-users" aria-hidden="true"></i> Performance Management</button>
->>>>>>> cleanup
       </div>
     <div class="row">
       <div class="col-md-9">
         <div class="row isotope">
             {% for course in site.data.courses %}
-<<<<<<< HEAD
-            <div class="col-md-6 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}" data-groups="{{course.tags | jsonify }}">
-=======
             <div class="col-md-6 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
->>>>>>> cleanup
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h4>{{course.name}}</h4>
                 </div>
                 <div class="panel-body">
                 <p>{{course.description}}</p>
-<<<<<<< HEAD
-                {% for tag in course.tags %} {{ tag }} {% endfor %}
-=======
                 {% for tag in course.tags %} 
                 <span class="fa-stack fa-1x">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa icon-{{tag}} fa-stack-1x fa-inverse"></i>
                 </span>
                 {% endfor %}
->>>>>>> cleanup
                 </div>
               </div>
             </div>
