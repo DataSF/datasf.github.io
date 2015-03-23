@@ -30,4 +30,8 @@ Qualified applicants with disabilities requiring reasonable accommodation in the
 
 In the spirit of diversity and progressiveness that characterizes San Francisco, the Mayor’s Office welcomes intern candidates of various backgrounds who wish to bring innovative ideas from their communities to City Hall and from City Hall to their communities. Minorities, Women and Persons with Disabilities are strongly encouraged to apply.
 
+<<<<<<< HEAD
 Also, our colleagues in the Mayor's Office are also looking for interns, [check the website](http://www.sfmayor.org/index.aspx?page=18) for additional opportunities.
+=======
+Also, our colleagues in the Mayor's Office are also looking for interns, [check the website](http://www.sfmayor.org/index.aspx?page=18) for additional opportunities.
+>>>>>>> 7f88337adca574441d72255758411db2b9c07316
