@@ -22,7 +22,7 @@ Read more about our office and [our work](http://datasf.org/about/), including o
 
 Minimum Qualifications: We can tailor projects to meet your strengths. At a minimum we expect strong analytical, research, writing, verbal, and interpersonal skills. Some projects may require technical skills (though probably nothing exceeding front-end development or scripting). Candidates should be pursuing a graduate degree in government, public policy, management, economics, information science, data science, computer science, or related field.
 
-**Application Procedure:** All interested applicants must complete an internship application, which can be found on [the Mayor’s homepage](http://www.sfmayor.org/index.aspx?page=18) at: .
+**Application Procedure:** All interested applicants must complete an internship application, which can be found on [the Mayor’s homepage](http://www.sfmayor.org/index.aspx?page=18).
 
 In addition to a completed application form, submit a cover letter, resume, and writing sample. Please submit all pieces of your application together; we ignore incomplete applications. 
 
@@ -30,8 +30,5 @@ Qualified applicants with disabilities requiring reasonable accommodation in the
 
 In the spirit of diversity and progressiveness that characterizes San Francisco, the Mayor’s Office welcomes intern candidates of various backgrounds who wish to bring innovative ideas from their communities to City Hall and from City Hall to their communities. Minorities, Women and Persons with Disabilities are strongly encouraged to apply.
 
-<<<<<<< HEAD
 Also, our colleagues in the Mayor's Office are also looking for interns, [check the website](http://www.sfmayor.org/index.aspx?page=18) for additional opportunities.
-=======
-Also, our colleagues in the Mayor's Office are also looking for interns, [check the website](http://www.sfmayor.org/index.aspx?page=18) for additional opportunities.
->>>>>>> 7f88337adca574441d72255758411db2b9c07316
+
