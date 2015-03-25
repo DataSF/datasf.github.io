@@ -28,6 +28,7 @@ color:
   primary: 245f7b
   secondary: 6dbce2  
   secondary-dark: 333333
+  accent: 7dd191
 
 owner:
   name: DataSF
