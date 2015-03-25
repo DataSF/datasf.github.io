@@ -6,43 +6,60 @@
         <p class="section-subheading">A training program for City and County of San Francisco staff</p>
       </div>
       <div class="col-md-10 col-md-offset-1">
-        Welcome to the City and County of San Francisco’s Data Academy! Our goal is to help analysts citywide explore, refine, and enhance their skills in data analysis and visualization. We also offer classes for those hoping to increase their comfort working with data. We offer a series of classroom based courses detailed below and have also curated a list of courses offered by other institutions for free or at cost.
+        Welcome to the City and County of San Francisco’s Data Academy! Our goal is to help analysts citywide explore, refine, and enhance their skills in data analysis and visualization. We also offer classes for those hoping to increase their comfort working
+        with data. We offer a series of classroom based courses detailed below and have also curated a list of courses offered by other institutions for free or at cost.
       </div>
     </div>
     <div id="filters" class="btn-group">
-        <button class="btn btn-default is-checked" data-filter="*">show all</button>
-        <button class="btn btn-default" data-filter=".analysis" aria-label="Analysis Courses"><i class="fa fa-table" aria-hidden="true"></i> Analysis</button>
-        <button class="btn btn-default" data-filter=".information-design" aria-label="Information Design Courses"><i class="fa fa-info" aria-hidden="true"></i> Information Design</button>
-        <button class="btn btn-default" data-filter=".mapping" aria-label="Mapping Courses"><i class="fa fa-globe" aria-hidden="true"></i> Mapping</button>
-        <button class="btn btn-default" data-filter=".management" aria-label="Data Management Courses"><i class="fa fa-sitemap" aria-hidden="true"></i> Data Management</button>
-        <button class="btn btn-default" data-filter=".visualization" aria-label="Data Visualization Courses"><i class="fa fa-bar-chart" aria-hidden="true"></i> Data Visualization</button>
-        <button class="btn btn-default" data-filter=".performance" aria-label="Performance Management Courses"><i class="fa fa-users" aria-hidden="true"></i> Performance Management</button>
-      </div>
+      <button class="btn btn-default is-checked" data-filter="*">show all</button>
+      <button class="btn btn-default" data-filter=".analysis" aria-label="Analysis Courses"><i class="fa fa-table" aria-hidden="true"></i> Analysis</button>
+      <button class="btn btn-default" data-filter=".information-design" aria-label="Information Design Courses"><i class="fa fa-info" aria-hidden="true"></i> Information Design</button>
+      <button class="btn btn-default" data-filter=".mapping" aria-label="Mapping Courses"><i class="fa fa-globe" aria-hidden="true"></i> Mapping</button>
+      <button class="btn btn-default" data-filter=".management" aria-label="Data Management Courses"><i class="fa fa-sitemap" aria-hidden="true"></i> Data Management</button>
+      <button class="btn btn-default" data-filter=".visualization" aria-label="Data Visualization Courses"><i class="fa fa-bar-chart" aria-hidden="true"></i> Data Visualization</button>
+      <button class="btn btn-default" data-filter=".data-science" aria-label="Data Science Courses"><i class="fa fa-flask" aria-hidden="true"></i> Data Science</button>
+      <!--<button class="btn btn-default" data-filter=".performance" aria-label="Performance Management Courses"><i class="fa fa-users" aria-hidden="true"></i> Performance Management</button>-->
+    </div>
     <div class="row">
       <div class="col-md-9">
         <div class="row isotope">
-            {% for course in site.data.courses %}
-            <div class="col-md-6 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4>{{course.name}}</h4>
-                </div>
-                <div class="panel-body">
-                <p>{{course.description}}</p>
-                {% for tag in course.tags %} 
-                <span class="fa-stack fa-1x">
-                  <i class="fa fa-circle fa-stack-2x"></i>
+          {% for course in site.data.courses %}
+          <div class="col-md-6 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
+            <div class="well">
+              <h4 class="course-name">{{course.name}}</h4> 
+              <div class="course-icons">
+              {% for tag in course.tags %}
+              <span class="fa-stack fa-1x">
+                  <i class="fa fa-circle course-icon-background fa-stack-2x"></i>
                   <i class="fa icon-{{tag}} fa-stack-1x fa-inverse"></i>
-                </span>
-                {% endfor %}
-                </div>
+                </span> {% endfor %}
               </div>
+              <p>{{course.description}}</p>
             </div>
-            {% endfor %}
+          </div>
+          {% endfor %}
         </div>
       </div>
       <div class="col-md-3">
-        Course catalog
+        <div class="well" style="background: #fff;">
+          The Data Academy is produced in partnership with the Controller's Office.
+        </div>
+        <div class="well">
+          Download a copy of the full course catalog
+        </div>
+        <form id="form-learn-more">
+          <div class="form-group">
+            <label for="inputemail">Sign up to learn more</label>
+            <input type="email" class="form-control" id="inputemail" name="_replyTo" placeholder="Enter your email">
+            <input type="text" name="_gotcha" style="display:none" />
+          </div>
+          <p class="help-block">Submit your email here to learn about upcoming classes. You must sign up with an official City email address.</p>
+          <div id="form-learn-more-success" class="alert alert-success" role="alert" style="display:none;">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            Thank you for your interest! You should hear back to verify your interest and will then receive emails about upcoming classes.</div>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+        
       </div>
     </div>
   </div>
