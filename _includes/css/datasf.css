@@ -3,7 +3,6 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
 body {
   overflow-x: hidden;
   font-family: "Alegreya", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -65,6 +64,10 @@ h5,
 h6 {
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
+}
+
+article h3 {
+  color: #{{site.color.accent}};
 }
 .resources-category {
   margin-bottom: 30px;
@@ -411,6 +414,11 @@ header .intro-text .intro-heading {
   font-size: 50px;
   font-weight: 700;
   line-height: 50px;
+}
+.attribution {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
 }
 .brand {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Helvetica, Arial, sans-serif;
@@ -1178,4 +1186,27 @@ p.task-item {
 }
 .icon-data-science:before {
   content: "\f0c3";
+}
+
+.course-item .well {
+  background-color: #fff;
+  /*
+  -webkit-box-shadow: 0px 0px 5px 1px #aaa;
+  box-shadow: 0px 0px 5px 1px #aaa;*/
+}
+
+#filters {
+  padding: 20px 0;
+}
+
+.course-name {
+  margin-bottom: 0;
+}
+
+.course-icons {
+  margin-bottom: 10px;
+}
+
+.course-icon-background {
+  color: #{{site.color.accent}};
 }
