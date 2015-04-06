@@ -38,7 +38,7 @@ Basically, we don't want to waste technical resources on something that's, at th
 
 Now, there are plenty of resources that can [explain](http://code.tutsplus.com/tutorials/using-jekyll--cms-20956) [Jekyll](http://jekyllrb.com/) [better](https://help.github.com/articles/using-jekyll-with-pages/) [than](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211) I can, but let me give you an example of how these blog pages are built.
 
-Jekyll is built around [templates](https://github.com/datasf/datasf.github.io/tree/master/_layouts) and simple documents written in Markdown. [According to John Gruber](http://daringfireball.net/projects/markdown/), its creator, "Markdown's syntax is intended for one purpose: to be used as a format for writing for the web." It provides a simple syntax for creating documents with punctuation and simple text syntax conventions.
+Jekyll is built around [templates](https://github.com/datasf/datasf.github.io/tree/master/_layouts) and simple documents written in Markdown. [According to John Gruber](http://daringfireball.net/projects/markdown/), its creator, "Markdown's syntax is intended for one purpose: to be used as a format for writing for the web." It provides a simple syntax for creating documents with punctuation and simple text conventions.
 
 For example. If you want to emphasize text, you can do the following:
 
