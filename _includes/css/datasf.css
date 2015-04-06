@@ -127,6 +127,18 @@ article h3 {
   color: #fff;
   background-color: #{{site.color.primary}};
 }
+.btn-social {
+  padding: 8px 20px;
+  line-height: 1.71429;
+  margin-bottom: 24px;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  border: 0 !important;
+  border-radius: 10px;
+  -webkit-transition: background 0.2s, border 0.2s, width: 0.2s;
+  -moz-transition: background 0.2s, border 0.2s, width: 0.2s;
+  transition: background 0.2s, border 0.2s, width: 0.2s;
+}
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
