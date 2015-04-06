@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Welcome to DataSF's new home"
 date: 2015-03-14 21:33:12
 category: blog
@@ -23,4 +23,4 @@ From day one, we needed a website, not just an open data portal. Unfortunately, 
 	- Civic Starter Kit. A quick how to on how to get involved and contribute to the civic work in the City.
 	- Publishing Plans. Open data publishing targets and plans for departments.
 
-Also, read about the terrific, lightweight framework we used to [build it](http://datasf.org/blog/building-lighter-and-faster/).
+Also, read about the terrific, lightweight framework we used to [build it](http://datasf.org/blog/building-lighter-and-faster).

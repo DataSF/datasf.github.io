@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "DataSF’s corner of the web: building lighter and faster"
 date: 2015-03-14 21:33:12
 category: blog
