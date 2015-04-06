@@ -1,53 +1,26 @@
 - name: Intro to Tableau
-  description: "Tableau is a second-generation data visualization software that allows for fast, drag-
-and-drop creation of charts, maps, and dashboards that provide interactive filter,
-highlight, and drill down capabilities. This training will give you basic tools to start using
-Tableau productively in your department."
+  description: "Tableau is a data visualization tool that allows for fast, drag- and-drop creation of charts, maps, and dashboards that provide interactive filter, highlight, and drill down capabilities. This training will give you basic tools to start using Tableau productively in your department."
   tags: [analysis,mapping,visualization]
 - name: Intermediate Tableau One
-  description: "This training is intended for beginner-intermediate Tableau users or someone who took
-our Introduction to Tableau course. We will cover dual-axis charts, heat maps,
-histograms, bullet graphs, Gantt charts, Pareto diagrams, sparklines, as well as other
-standard charts."
+  description: "This training is intended for beginner to intermediate Tableau users or someone who took our Introduction to Tableau course. We will cover dual-axis charts, heat maps, histograms, bullet graphs, Gantt charts, Pareto diagrams, sparklines, as well as other standard charts."
   tags: [analysis,information-design,mapping,visualization]
 - name: How to Become Productive in Excel
-  description: "This course is intended for MS Excel users who want to sort/filter data, develop
-formulae, use vlookup, do data processing, create pivot tables and charts, and
-format in Excel. Hands on exercises included."
+  description: "This course is intended for MS Excel users who want to sort/filter data, develop formulae, use vlookup, do data processing, create pivot tables and charts, and format in Excel. Hands on exercises included."
   tags: [analysis,visualization]
 - name: Intermediate Tableau Two
-  description: "This training is intended for advanced Tableau users who are very comfortable in
-creating Tableau charts or someone who took our Intermediate Tableau 2 course. We
-will cover visualization best practices, dashboard design and creation, smarter user
-interface with the Actions and Storypoint features, and statistical tools in Tableau."
+  description: "This training is intended for more advanced Tableau users who are very comfortable in creating Tableau charts or someone who took our Intermediate Tableau One course. We will cover visualization best practices, dashboard design and creation, smarter user interface with the Actions and Storypoint features, and statistical tools in Tableau."
   tags: [analysis,information-design,mapping,visualization]
 - name: Intermediate Tableau Three
-  description: "This training is intended for beginner-intermediate Tableau users or someone who took
-our Intermediate Tableau 1-Advanced Visualization course. It will be helpful if you are
-also familiar with data management, modeling, and manipulation concepts, as well as
-Structured Query Language (SQL)."
+  description: "This training is intended for more advanced Tableau users or someone who took our Intermediate Tableau One course. It will be helpful if you are also familiar with data management, modeling, and manipulation concepts, as well as Structured Query Language (SQL)."
   tags: [analysis,management]
 - name: Analytic Techniques
-  description: "Need a refresher on stats? Or just want to understand the basics? Join us for an
-overview of descriptive statistics, what they are, when to use them and when not to use
-them. Also, receive an overview of more advanced techniques and how to identify when
-you need to get help."
+  description: "Need a refresher on stats? Or just want to understand the basics? Join us for an overview of descriptive statistics, what they are, when to use them and when not to use them. Also, receive an overview of more advanced techniques and how to identify when you need to get help."
   tags: [analysis,data-science]
 - name: "Data usability: how to design data for consumption"
-  description: "Basic data design choices
-can make the difference between simple analysis and hours of frustration. This
-workshop will go over how to make certain dataset design decisions that will make your
-reporting life much easier, hopefully reducing repetitive asks for data and interpretation.
-This is a methods course that will primarily use tools and formulas in Excel to help you
-test your data for analysis readiness."
+  description: "Basic data design choices can make the difference between simple analysis and hours of frustration. This workshop will go over how to make certain dataset design decisions that will make your reporting life much easier, hopefully reducing repetitive asks for data and interpretation. This is a methods course that will primarily use tools and formulas in Excel to help you test your data for analysis readiness."
   tags: [analysis,management]
 - name: Basics of Information Design
-  description: "So you have great data, but you want to present it effectively? This class goes over the
-principles of good information design so that you can present your data in uncluttered
-and beautiful ways that get right to the meaning. Learn when to use different types of
-charts to tell different stories, and how to use color and visual cues appropriately to
-support the analysis you’re trying to convey. Go beyond the Excel defaults, and tell
-incredible stories with your data."
+  description: "So you have great data, but you want to present it effectively? This class goes over the principles of good information design so that you can present your data in uncluttered and beautiful ways that get right to the meaning. Learn when to use different types of charts to tell different stories, and how to use color and visual cues appropriately to support the analysis you’re trying to convey. Go beyond the Excel defaults, and tell incredible stories with your data."
   tags: [information-design,visualization]
 - name: Introduction to Business Process Mapping and Analysis
   description: "In this two-hour training, you will learn the basics of undertaking a Business Process Improvement (BPI) project. The focus will be on the basics of developing a high-level process map in PowerPoint and conducting process analysis. This training is recommended for anyone who is new to process mapping and analysis, and is especially recommended for people who have a BPI project in mind or are just getting started."

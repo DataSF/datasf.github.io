@@ -100,6 +100,10 @@ article h3 {
   background-color: #133140;
   color: #fff;
 }
+#header a,
+.bg-dark-blue a {
+  color: #{{site.color.accent}};
+}
 .btn-default {
   color: #333;
   background-color: #7dd191;
@@ -481,7 +485,18 @@ section {
 }
 #header {
   padding-bottom: 50px;
+  position: relative;
 }
+
+.attribution {
+  color: white;
+  font-size: .8em;
+}
+
+.featured-panels a:hover {
+  text-decoration: none;
+}
+
 section h1.section-heading {
   margin-top: 0;
   margin-bottom: 15px;
@@ -1124,6 +1139,10 @@ body {
   text-align: center;
   color: #222;
 }
+.panel-featured:hover {
+  background-color: rgba(42.7%, 73.7%, 88.6%, 1);
+}
+
 .task-date {
   font-weight: 700;
 }
