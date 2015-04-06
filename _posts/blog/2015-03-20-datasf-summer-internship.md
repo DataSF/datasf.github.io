@@ -8,7 +8,7 @@ author: joy_bonaguro
 image:
   thumb: CityHallCropped.jpg
   feature: CityHallCropped.jpg
-description: It’s official – we have legal sign off on a single licensing strategy for DataSF! Going forward, all data will be released under the friendly, no obligation Public Domain Dedication License (PDDL).
+description: We are happy to announce that we are looking for a great intern to help us with the open data program!
 ---
 We are happy to announce that we are looking for a great intern to help us with the open data program! Please read on and click the link below to submit your application.
 
