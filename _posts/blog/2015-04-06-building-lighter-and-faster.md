@@ -32,7 +32,7 @@ Basically, we don't want to waste technical resources on something that's, at th
 
 1. **Prototype faster.** When Joy and I have an idea, it's actually easier to test it out in quick iterations and get feedback from real users. We can leverage open source code to build faster and then refine to something more polished.&nbsp;
 2. **Collaborate easier.** Our [code is open source](https://github.com/datasf/datasf.github.io/) and it's easier for others to copy, test and create their own version or just look through our code to see what we're doing (it's honestly not too complicated, and admittedly has a ways to go, but it's all there)&nbsp;
-3. **Ship sooner.** We're a small team with a lot to do, and while managing a server on it's own isn't overly complicated, it can be a lot in combination with everything else that needs to get done. Jekyll helps us reduce unnecessary dependencies so we can focus on the most important things, like enabling use of the City's data.&nbsp;
+3. **Ship sooner.** We're a small team with a lot to do, and while managing a server on its own isn't overly complicated, it can be a lot in combination with everything else that needs to get done. Jekyll helps us reduce unnecessary dependencies so we can focus on the most important things, like enabling use of the City's data.&nbsp;
 
 ## So how does this thing work?
 
