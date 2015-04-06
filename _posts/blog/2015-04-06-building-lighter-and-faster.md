@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DataSF’s corner of the web: building lighter and faster"
-date: 2015-03-14 21:33:12
+date: 2015-04-06 21:33:12
 category: blog
 published: true
 author: jason_lally
