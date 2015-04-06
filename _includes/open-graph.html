@@ -5,10 +5,10 @@
 	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
 	{% if page.image.feature %}
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="{{ site.url }}/img/blog/{{ page.image.feature }}">
+	<meta name="twitter:image:src" content="{{ site.url }}/img/blog/{{ page.image.feature }}">
 	{% else %}
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/img/blog/{{ page.image.thumb }}{% else %}{{ site.url }}/img/{{ site.logo }}{% endif %}">
+	<meta name="twitter:image:src" content="{% if page.image.thumb %}{{ site.url }}/img/blog/{{ page.image.thumb }}{% else %}{{ site.url }}/img/{{ site.logo }}{% endif %}">
 	{% endif %}
 	<!-- Open Graph -->
 	<meta property="og:locale" content="{{ site.locale }}">

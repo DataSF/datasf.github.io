@@ -36,7 +36,8 @@ var pageMapping = {
   96: "{{site.baseurl}}/coordinators/#resources",
   50: "{{site.baseurl}}/coordinators/#resources",
   13: "{{site.baseurl}}/coordinators/#resources",
-  54: "{{site.baseurl}}/coordinators/#quicktips"
+  54: "{{site.baseurl}}/coordinators/#quicktips",
+  48: "{{site.baseurl}}/resources/"
 }
 
 if (p.p && pageMapping[p.p] != undefined) {
