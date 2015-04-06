@@ -7,7 +7,16 @@ permalink: /:categories/:title/
 url: http://datasf.org
 defaultbranch: gh-pages
 
-paginate: 2
+paginate: 5
+paginate_path: "/blog/:num/"
+
+defaults:
+  -
+    scope:
+      path: "resources"
+      type: "posts"
+    values:
+      hidden: true
 
 # Site settings
 title: DataSF
@@ -20,7 +29,7 @@ color:
   primary: 245f7b
   secondary: 6dbce2  
   secondary-dark: 333333
-  accent: d0c91f
+  accent: 7dd191
 
 owner:
   name: DataSF

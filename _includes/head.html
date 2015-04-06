@@ -13,17 +13,14 @@
     {% include open-graph.html %}
     {% if author.google.plus %}<link rel="author" href="https://plus.google.com/+{{ author.google.plus }}"/>{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
-
+    
+    <script src="{{ "/js/modernizr.custom.94053.js" | prepend: site.baseurl }}"></script>
+    <!-- Custom Fonts -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
-
-
-    <!-- Custom Fonts -->
-    <link rel="stylesheet" href="{{ "/css/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
-    <link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
-    <script src="{{ "/js/modernizr.custom.94053.js" | prepend: site.baseurl }}"></script>
     
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

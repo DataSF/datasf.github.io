@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Metadata & Dating - More in Common than you Think...
 date: 2014-07-23 16:00:23.000000000 -07:00
 category: blog

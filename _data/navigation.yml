@@ -1,9 +1,11 @@
 temp_nav:
-- text: Blog
-  url: /blog
-- text: Coordinators Portal
-  url: /coordinators
-- text: 'Resources'
+- text: Data Catalog
+  url: http://data.sfgov.org
+#- text: Showcase
+#  url: /showcase
+- text: Data Academy
+  url: /academy
+- text: Resources
   url: /resources
 - text: About
   url: /about

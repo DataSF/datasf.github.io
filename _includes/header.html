@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<div class="nav-group navbar-fixed-top">
+<div class="nav-group navbar-fixed-top {% if page.is_front != true %} navbar-shrink {% endif %}">
   <nav class="navbar navbar-mini navbar-static-top visible-md visible-lg" role="region" aria-label="external links">
     <div class="container">
       <div class="navbar-header">
@@ -12,64 +12,92 @@
       </div>
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="http://sfgov.org/">SFGov</a></li>
-          <li><a href="http://www.datasf.org">Data Catalog</a></li>
+          <li><a href="http://sfgov.org/">SFGov</a>
+          </li>
+          <li><a href="{{site.baseurl}}/coordinators">Coordinators Portal</a>
+          </li>
+          <li><a href="{{site.baseurl}}/blog">Blog</a>
+          </li>
         </ul>
       </div>
     </div>
   </nav>
-<nav class="navbar navbar-default navbar-static-top {% if page.is_front != true %} navbar-shrink {% endif %}">
-  <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header page-scroll">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand page-scroll" href="{{site.baseurl}}/"><span class="brand"><span class="brand-highlight">Data</span>SF</span></a>
-    </div>
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header page-scroll">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand page-scroll" href="{{site.baseurl}}/"><span class="brand"><span class="brand-highlight">Data</span>SF</span></a>
+      </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li class="hidden">
-          <a href="#page-top"></a>
-        </li>
-        {% for link in site.data.navigation.temp_nav %}
-          {% assign current = nil %}
-          {% if page.dir == link.url %}
-            {% assign current = 'active' %}
-          {% endif %}
-          <li class="{{current}} testing">
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="hidden">
+            <a href="#page-top"></a>
+          </li>
+          {% for link in site.data.navigation.temp_nav %} {% assign current = nil %} {% if page.dir == link.url %} {% assign current = 'active' %} {% endif %}
+          <li class="{{current}}">
             <a class="{{ current }}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
           {% endfor %}
-      </ul>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
     </div>
-    <!-- /.navbar-collapse -->
-  </div>
-  <!-- /.container-fluid -->
-</nav>
+    <!-- /.container-fluid -->
+  </nav>
 </div>
 
 {% if page.is_front %}
 <!-- Header -->
+
 <header id="header">
   <div class="container">
     <div class="intro-text">
-      <div class="intro-lead-in">connecting you to city data</div>
-      <div id="chart">
+      <div class="intro-lead-in">connecting you to the City's data</div>
+    </div>
+    <div class="row featured-panels">
+      <div class="col-md-4">
+        <a href="https://data.sfgov.org">
+          <div class="panel panel-featured">
+            <div class="panel-body">
+              <h1>Need data?</h1>
+              <i class="fa fa-bar-chart fa-5x"></i>
+              <p>Browse our data catalog</p>
+            </div>
+          </div>
+        </a>
       </div>
-      <div class="row">
-        <div class="col-md-8 pull-right data-blurb">
-          <h1>City population by decade</h1>
-          <p>San Francisco is a dynamic place that has seen cycles of growth and decline like many cities in the U.S. Read more about what the data tells us about housing and population in San Francisco on the Housing Policy Hub</p>
-          <p>Click for more >></p>
-        </div>
+      <div class="col-md-4">
+        <a href="/resources">
+          <div class="panel panel-featured">
+            <div class="panel-body">
+              <h1>Find resources</h1>
+              <i class="fa fa-search fa-5x"></i>
+              <p>In our resource library</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-4">
+        <a href="/academy">
+          <div class="panel panel-featured">
+            <div class="panel-body">
+              <h1>Learn about</h1>
+              <i class="fa fa-graduation-cap fa-5x"></i>
+              <p>training opportunities for CCSF staff</p>
+            </div>
+          </div>
+        </a>
       </div>
     </div>
+    <div class="attribution">By Basil D Soufi (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="http://commons.wikimedia.org/wiki/File%3ASan_Francisco_(Sunset).jpg">via Wikimedia Commons</a></div>
   </div>
 </header>
 {% endif %}

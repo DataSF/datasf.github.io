@@ -1,5 +1,49 @@
+--- 
+layout: default 
 ---
-layout: default
----
-
-{% include stories.html %}
+{% include search-catalog.html %}
+<section id="stories" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+      	<h1>DataSF Speaks</h1>
+        {% include stories-iterator.html posts=site.categories.blog limit=3%}
+      </div>
+      <div class="col-md-4">
+      	<!--
+      	<h3>What we're working on...</h3>
+				<div class="well">
+					Goal 1
+					Creating data catalogs
+				</div>
+				<div class="well">
+					Goal 2
+					Develop additional dataset prioritization methods
+				</div>
+				<div class="well">
+					Goal 3
+					Deploying progress dashboard and standard report
+					Developing program evaluation metrics
+				</div>
+				-->
+				<a class="twitter-timeline" href="https://twitter.com/DataSF" data-widget-id="559899210959421440">Tweets by @DataSF</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
+  </div>
+</section>
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Latest resources</h1>
+				<p>For more resources <a href="/resources">click here</a>
+      	{% assign postquery = site.categories.resource %} {% for post in postquery limit:3 %} {% assign loopindex = forloop.index | modulo: 3 %} {% if loopindex == 1 %}
+    <div class="row">
+      {% endif %} {% include resources-card.html %} {% if loopindex == 0 or forloop.last %}
+    </div>
+    {% endif %} {% endfor %}
+      </div>
+    </div>
+		</div>
+	</div>
+</section>
