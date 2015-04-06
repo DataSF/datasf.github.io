@@ -20,7 +20,7 @@ Read more about our office and [our work](http://datasf.org/about/), including o
 
 **Description of Office:** The Mayor’s Office the Chief Data Officer is responsible for managing the City’s open data program as well as supporting the effective use of data in city government and operations. You can check out our strategic plan at datasf.org/about. Our office functions like a small startup in City government. We love to move fast but thoughtfully and we expect all team members to jump in, get their hands dirty, and have fun (good sense of humor a big plus ;-).
 
-Minimum Qualifications: We can tailor projects to meet your strengths. At a minimum we expect strong analytical, research, writing, verbal, and interpersonal skills. Some projects may require technical skills (though probably nothing exceeding front-end development or scripting). Candidates should be pursuing a graduate degree in government, public policy, management, economics, information science, data science, computer science, or related field.
+**Minimum Qualifications:** We can tailor projects to meet your strengths. At a minimum we expect strong analytical, research, writing, verbal, and interpersonal skills. Some projects may require technical skills (though probably nothing exceeding front-end development or scripting). Candidates should be pursuing a graduate degree in government, public policy, management, economics, information science, data science, computer science, or related field.
 
 **Application Procedure:** All interested applicants must complete an internship application, which can be found on [the Mayor’s homepage](http://www.sfmayor.org/index.aspx?page=18).
 
