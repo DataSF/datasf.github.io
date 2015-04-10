@@ -26,7 +26,7 @@ Jekyll is a basic framework that applies templates to content (stored in files) 
 
 ## Why Jekyll?
 
-Now I know we're the open data people, so why in the world would we put the kibosh on a database-driven website? Well, in this case, it just makes sense. At the end of the day, this little corner on the web is mostly content, and whenever we need dynamic data, we can leverage APIs to serve up that content. For example, we can pull data from the portal if we need to, leveraging the Socrata platform to do so -- don't worry, we're keeping a database driven portal ;-)
+Now I know we're the open data people, so why in the world would we put the kibosh on a database-driven website? Well, in this case, it just makes sense. At the end of the day, this little corner on the web is mostly content, and whenever we need dynamic data, we can leverage Application Programming Interfaces (APIs like the ones that our [open data portal offers](http://dev.socrata.com/docs/endpoints.html)) to serve up that content. For example, we can pull data from the portal if we need to, leveraging the Socrata platform to do so -- don't worry, we're keeping a database driven portal ;-)
 
 Basically, we don't want to waste technical resources on something that's, at the end of the day, nothing more than a bundle of HTML pages. Also, Jekyll allows us to do the following:
 
