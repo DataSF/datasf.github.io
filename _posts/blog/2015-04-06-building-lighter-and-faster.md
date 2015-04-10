@@ -76,7 +76,7 @@ There's lots of other fun things you can do like compile RSS feeds and build res
 
 ## And where does it live?
 
-Currently, we're keeping the hosting of this simple. [GitHub allows us to host public facing webpages](https://pages.github.com/) for free using GitHub pages. This is a feature available to anyone that has an open source project on GitHub. This approach is limited, as noted by 18F, because they don't allow plugins.
+Currently, we're keeping the hosting of this simple. [GitHub allows us to host public facing webpages](https://pages.github.com/) for free using GitHub pages. This is a feature available to anyone that has an open source project on GitHub. This approach is limited, as [noted by 18F](https://18f.gsa.gov/2014/11/17/taking-control-of-our-website-with-jekyll-and-webhooks/#blogging-with-freedom), because they don't allow plugins.
 
 At this stage, this is actually okay for us. We aren't doing anything too complicated yet that requires custom plugins. As we roll out more and begin to hit the limits of GitHub pages, we will evaluate if it makes sense to move to a more robust staging/production model on our own servers. Again, the project is small, the team is small and we still have room to grow into our corner of the web.
 
