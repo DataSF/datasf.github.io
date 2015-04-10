@@ -50,7 +50,7 @@ For example. If you want to emphasize text, you can do the following:
 
 ```
 
-What's awesome about this, is that it gives a very simple way to write content without worrying about HTML. And then with Jekyll, we take these simple documents and turn them into content formatted for the web. So that [this](https://github.com/datasf/datasf.github.io/tree/master/) becomes the blog post you're looking at now.
+What's awesome about this, is that it gives a very simple way to write content without worrying about HTML. And then with Jekyll, we take these simple documents and turn them into content formatted for the web. So that [this](https://raw.githubusercontent.com/DataSF/datasf.github.io/master/_posts/blog/2015-04-06-building-lighter-and-faster.md) becomes the blog post you're looking at now.
 
 Additionally, we can add data about the post and use it in our templates. For example at the front of this blog post markdown file is the following:
 
