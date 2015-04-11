@@ -10,15 +10,15 @@ image:
   feature: data-sf-website-dev.png
 description: "When Joy first started as Chief Data Officer, DataSF, the program, was represented only by the open data portal, the product. Early on, she recognized that part of maturing the open data program meant giving DataSF a true home on the web."
 ---
-When Joy first started as Chief Data Officer, DataSF, the program, was represented only by the open data portal, the product. Early on, she recognized that part of maturing the open data program meant giving DataSF a true home on the web that encapsulated not just the portal, but all the other institutional work that DataSF represents. The first foray in this direction was to work with Socrata to make [some usability improvements on the platform](http://datasf.org/blog/the-new-datasf/), and spin up two wordpress sites, one that would house the blog and resources and another that would act as a portal for our data coordinators.
+When Joy first started as Chief Data Officer, DataSF, the program, was represented only by the open data portal, the product. Early on, she recognized that part of maturing the open data program meant giving DataSF a true home on the web that encapsulated not just the portal, but all the other institutional work that DataSF represents. The first foray in this direction was to work with Socrata to make [some usability improvements on the platform](http://datasf.org/blog/the-new-datasf/), and spin up two WordPress sites, one that would house the blog and resources and another that would act as a portal for our data coordinators.
 
-As time went on, the websites began to show some wear, not for lack of technical knowledge, but because the architecture just didn't support the flexibility we needed, and frankly, we have bigger things to worry about than whether a plugin is updated or the finer points of Wordpress templating.
+As time went on, the websites began to show some wear, not for lack of technical knowledge, but because the architecture just didn't support the flexibility we needed, and frankly, we have bigger things to worry about than whether a plugin is updated or the finer points of WordpPress templating.
 
 ## Charting a new course
 
 When I first joined the DataSF team, one of the things Joy and I both got excited about was creating a fresh, agile face for DataSF and rethinking the relationship of the program to the open data portal. We've been busy with a lot of things, some of which you'll start to see evidence of on the site now, but we cleared the path early this year for relaunching the website. The gist of which you can [read about here](http://datasf.org/blog/our-new-home), and the result of which you are looking at right now.
 
-To get here, we evaluated our options carefully. Inspired in [part by 18F](https://18f.gsa.gov/2014/11/17/taking-control-of-our-website-with-jekyll-and-webhooks/) and [Code for America](http://www.codeforamerica.org/blog/2014/02/14/welcome-to-the-new-codeforamerica-org/), and wanting to optimize for speed, flexibility and being responsive to feedback, we chose to consolidate our wordpress content and relaunch the site in Jekyll.
+To get here, we evaluated our options carefully. Inspired in [part by 18F](https://18f.gsa.gov/2014/11/17/taking-control-of-our-website-with-jekyll-and-webhooks/) and [Code for America](http://www.codeforamerica.org/blog/2014/02/14/welcome-to-the-new-codeforamerica-org/), and wanting to optimize for speed, flexibility and being responsive to feedback, we chose to consolidate our WordPress content and relaunch the site in Jekyll.
 
 ## What is Jekyll?
 
