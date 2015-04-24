@@ -91,6 +91,9 @@ h3, .h3 {
 article h3 {
   color: #{{site.color.accent}};
 }
+article a {
+  text-decoration: underline;
+}
 .resources-category {
   margin-bottom: 30px;
 }
@@ -645,6 +648,11 @@ section p.section-subheading {
 #stories * {
   z-index: 2;
 }
+
+.page-feature > .page-image > img {
+  border: thin solid #eee;
+}
+
 @media(min-width:767px) {
   #stories .story-item {
     margin: 0 0 30px;

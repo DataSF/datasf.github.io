@@ -89,7 +89,7 @@ $(function() {
 
   $("#form-learn-more").validate({
     rules: {
-      _replyTo: {
+      _replyto: {
         required: true,
         email: true,
         matchGov: true
