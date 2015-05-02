@@ -43,7 +43,7 @@
           </li>
           {% for link in site.data.navigation.temp_nav %} {% assign current = nil %} {% if page.dir == link.url %} {% assign current = 'active' %} {% endif %}
           <li class="{{current}}">
-            <a class="{{ current }}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
+            <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
           {% endfor %}
         </ul>
@@ -64,7 +64,7 @@
     </div>
     <div class="row featured-panels">
       <div class="col-md-4">
-        <a href="https://data.sfgov.org">
+        <a href="https://data.sfgov.org" class="ext-sf-opendata">
           <div class="panel panel-featured">
             <div class="panel-body">
               <h1>Need data?</h1>

@@ -1,38 +1,40 @@
 ---
 ---
-/*!
- * Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
-// jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
   $('[data-toggle="tooltip"]').tooltip();
+  
+  $('button.ext-sf-opendata').on('click', function(ev) {
+    ga('send', 'event', 'Catalog', 'Search', $('#search-catalog .search-input').val());
+  });
+  
+  $('a.ext-sf-opendata').on('click', function(ev) {
+    ga('send', 'event', 'Catalog', 'Click Link', 'From ' + window.location.pathname)
+  });
 
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
     return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org)/.test(value);
   }, "Please enter a valid SFGov email address");
-  
+
   //Reset validator defaults to integrate with Bootstrap 3 conventions
   $.validator.setDefaults({
     highlight: function(element) {
-        $(element).closest('.form-group').addClass('has-error');
+      $(element).closest('.form-group').addClass('has-error');
     },
     unhighlight: function(element) {
-        $(element).closest('.form-group').removeClass('has-error');
+      $(element).closest('.form-group').removeClass('has-error');
     },
     errorElement: 'span',
     errorClass: 'help-block',
     errorPlacement: function(error, element) {
-        if(element.parent('.input-group').length) {
-            error.insertAfter(element.parent());
-        } else {
-            error.insertAfter(element);
-        }
+      if (element.parent('.input-group').length) {
+        error.insertAfter(element.parent());
+      }
+      else {
+        error.insertAfter(element);
+      }
     }
-});
+  });
 
   $('a.page-scroll').bind('click', function(event) {
     var $anchor = $(this);
@@ -48,7 +50,7 @@ $(function() {
     var link = el.attr('href');
     window.location = link;
   });
-  
+
   var $container = $('.isotope').isotope({
     itemSelector: '.course-item',
     masonry: {},
@@ -100,14 +102,14 @@ $(function() {
       data += '&_subject=Please add me to the Data Academy list';
       console.log(data);
       $.ajax({
-        url: "//formspree.io/jason.lally@sfgov.org",
-        method: "POST",
-        data: data,
-        dataType: "json"
-      })
-      .done(function() {
-        $('#form-learn-more-success').show();
-      });
+          url: "//formspree.io/jason.lally@sfgov.org",
+          method: "POST",
+          data: data,
+          dataType: "json"
+        })
+        .done(function() {
+          $('#form-learn-more-success').show();
+        });
     }
   });
 });
