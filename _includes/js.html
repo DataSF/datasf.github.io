@@ -1,18 +1,25 @@
- <!-- jQuery Version 1.11.0 -->
-    <script src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script>
+<!-- jQuery Version 1.11.0 -->
+<script src="{{ " /js/vendor/jquery-1.11.0.js " | prepend: site.baseurl }}"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+<!-- D3 for charting (only need this on some pages -->
+<script src="{{ " /js/vendor/d3.js " | prepend: site.baseurl }}"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="{{ " /js/vendor/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
-    {% if page.is_front %}
-    <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
-    {% endif %}
-    <script src="{{ "/js/moment.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/isotope.pkgd.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
+<!-- Plugin JavaScript -->
+<script src="{{ " /js/vendor/jquery.easing.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/vendor/jquery.validate.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/vendor/DataTables-1.10.7/media/js/jquery.dataTables.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/vendor/DataTables-1.10.7/Plugins-1.10.7/integration/bootstrap/3/dataTables.bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
-    <!-- Custom JavaScript -->
-    <script src="{{ "/js/datasf.js" | prepend: site.baseurl }}"></script>
+{% if page.is_front %}
+<script src="{{ " /js/vendor/cbpAnimatedHeader.min.js " | prepend: site.baseurl }}"></script>
+{% endif %}
+
+<script src="{{ " /js/vendor/c3.js " | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/vendor/moment.js " | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/vendor/isotope.pkgd.min.js " | prepend: site.baseurl }}"></script>
+
+<!-- Custom JavaScript -->
+<script src="{{ " /js/datasf.js " | prepend: site.baseurl }}"></script>

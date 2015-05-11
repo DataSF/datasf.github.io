@@ -164,9 +164,9 @@ article a {
   text-decoration: none;
   border: 0 !important;
   border-radius: 10px;
-  -webkit-transition: background 0.2s, border 0.2s, width: 0.2s;
-  -moz-transition: background 0.2s, border 0.2s, width: 0.2s;
-  transition: background 0.2s, border 0.2s, width: 0.2s;
+  -webkit-transition: background 0.2s, border 0.2s, width 0.2s;
+  -moz-transition: background 0.2s, border 0.2s, width 0.2s;
+  transition: background 0.2s, border 0.2s, width 0.2s;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -489,22 +489,7 @@ header .intro-text .intro-heading {
     line-height: 75px;
   }
 }
-#chart {
-  min-height: 400px;
-}
-#chart .c3-line {
-  stroke-width: 5px;
-}
-#chart.c3 line,
-#chart.c3 path {
-  stroke: #6dbce2;
-}
-#chart.c3 .tick text {
-  fill: #6dbce2;
-}
-#chart.c3 .c3-legend-item text {
-  fill: white;
-}
+
 section {
   padding: 25px 0;
 }

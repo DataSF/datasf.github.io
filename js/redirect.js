@@ -1,5 +1,6 @@
 ---
 ---
+//this is a convenience to make sure that a limited number of links get redirected to their new links, this will be retired as soon as we feel these links aren't floating around as much
 var parseQueryString = function(queryString) {
   var params = {},
     queries, temp, i, l;

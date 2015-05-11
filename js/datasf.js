@@ -2,11 +2,11 @@
 ---
 $(function() {
   $('[data-toggle="tooltip"]').tooltip();
-  
+
   $('button.ext-sf-opendata').on('click', function(ev) {
     ga('send', 'event', 'Catalog', 'Search', $('#search-catalog .search-input').val());
   });
-  
+
   $('a.ext-sf-opendata').on('click', function(ev) {
     ga('send', 'event', 'Catalog', 'Click Link', 'From ' + window.location.pathname)
   });
@@ -89,29 +89,89 @@ $(function() {
     });
   });
 
-  $("#form-learn-more").validate({
+  $("#mc-embedded-subscribe-form").validate({
     rules: {
-      _replyto: {
+      EMAIL: {
         required: true,
         email: true,
         matchGov: true
       }
     },
     submitHandler: function(form) {
-      var data = $(form).serialize();
-      data += '&_subject=Please add me to the Data Academy list';
-      console.log(data);
       $.ajax({
-          url: "//formspree.io/jason.lally@sfgov.org",
-          method: "POST",
-          data: data,
-          dataType: "json"
+          url: $(form).attr('action'),
+          method: $(form).attr('method'),
+          data: $(form).serialize(),
+          cache: false,
+          dataType: "json",
+          contentType: "application/json; charset=utf-8"
         })
-        .done(function() {
-          $('#form-learn-more-success').show();
+        .done(function(ret) {
+          console.log(ret);
+          if (ret.result != "success") {
+                $('#mce-error-response').html(ret.msg);
+                $('#mce-error-response').show();
+                $('#mce-success-response').hide();
+            } else {
+                $('#mce-success-response').html(ret.msg);
+                $('#mce-error-response').hide();
+                $('#mce-success-response').show();
+            }
         });
     }
   });
+
+  var table = $('#inventory').DataTable({
+    "columns": [{
+      "data": "department_or_division" 
+    }, {
+      "data": "dataset_name"
+    }, {
+      "data": "dataset_description"
+    }],
+    "columnDefs": [{
+      "data": null,
+      "defaultContent": "",
+      "targets": -1
+    }]
+  });
+  // Construct a SODA query string - I'm using the farmers market data for my experiment
+  url = 'https://data.sfgov.org/resource/q6xv-9c3b.json';
+
+  $.getJSON(url, function(data, textstatus) {
+    table.rows.add(data).draw();
+  }); // end $.getJSON
+  
+  /*
+  var chart = c3.generate({
+    data: {
+      url: '../js/q6xv-9c3b.csv',
+      x: 'publishing_status',
+      type: 'pie'
+    },
+    axis: {
+      x: {
+        type: 'category'
+      }
+    }
+  });
+  
+  var filters = [
+    {
+      field: 'field_3',
+      operator: 'is',
+      value: 'Assessor-Recorder'
+    }
+  ]
+  
+   $.ajax({
+    url: "https://api.knackhq.com/v1/scenes/scene_1/views/view_2/records?filters="+encodeURIComponent(JSON.stringify(filters)),
+    type: "GET",
+    headers: {"X-Knack-Application-Id": "554d59e67bc4aa8c081a4b65", "X-Knack-REST-API-Key":"knack"},
+    success: function(response) { 
+       console.log(response.records);
+    }
+  });*/
 });
 
 // Highlight the top nav as scrolling occurs
