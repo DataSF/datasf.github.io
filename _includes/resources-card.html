@@ -17,8 +17,8 @@
     <!-- List group -->
     <ul class="list-group">
       {% for link in post.downloads %}
-      <a href="{{ link.url }}">
-        <li class="list-group-item list-group-item-download"><i class="fa fa-download"></i> {{ link.type }}
+      <a href="{{ link.url }}" class="download" data-download-type="{{link.type}}" data-download-name="{{post.title}}">
+        <li class="list-group-item list-group-item-download" data-download-type="{{link.type}}" data-download-name="{{post.title}}"><i class="fa fa-download"></i> {{ link.type }}
         </li>
       </a>
       {% endfor %}

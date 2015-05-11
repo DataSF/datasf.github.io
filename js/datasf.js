@@ -10,6 +10,11 @@ $(function() {
   $('a.ext-sf-opendata').on('click', function(ev) {
     ga('send', 'event', 'Catalog', 'Click Link', 'From ' + window.location.pathname)
   });
+  
+   $('a.download').on('click', function(ev) {
+    ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).parent().data('download-name'))
+  });
+  
 
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
