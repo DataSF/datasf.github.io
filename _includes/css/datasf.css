@@ -1083,6 +1083,11 @@ body {
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
+
+img.emoji {
+  margin-bottom: 5px;
+}
+
 .author-image {
   margin-right: 10px;
 }
