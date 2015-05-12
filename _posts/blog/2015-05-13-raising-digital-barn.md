@@ -5,8 +5,9 @@ category: blog
 published: true
 author: jason_lally
 image:
-  thumb: housing-hub-screen.png
-  feature: housing-hub-screen.png
+  thumb: NDoCH_housing_hub.jpg
+  feature: NDoCH_housing_hub.jpg
+  caption: Manu Koenig (right) works on the white board with Victoria Ngo (left), dreaming up what would become the start of the Housing Data Hub interface.
 description: "The Housing Data Hub was born out of the notion that in order to mature our open data practice at the City, we needed to diversify our approach to publishing data. In the City’s open data strategy, a quick look at datasets over time reveals a publishing stagnation."
 ---
 
@@ -20,7 +21,7 @@ These strategic (or thematic) releases allow us to apply focused, collaborative 
 ###Getting started
 One of the key parts of a strategic release is to bundle data with a product. This could be a website, a report, a study, or any product that helps frame and focus the activity around the data. In this case, we imagined a website that presented the portfolio of local policies that affect housing affordability in San Francisco in a clearer manner.
 
-With a concept and buy in from departmental [data stewards](link%20to%20data%20steward%20definition), Joy began work. Starting with paper prototypes and content drafts, the first push on code began during the 2014 [National Day of Civic Hacking](http://hackforchange.org) weekend in San Francisco. Working with local [Code for San Francisco](http://codeforsanfrancisco.org) volunteers ([read about our weekend](http://www.codeforamerica.org/blog/2014/06/24/peer-network-spotlight-joy-bonaguro/) ), the concept was fleshed out in code using the [Ruby on Rails framework](http://rubyonrails.org/).
+With a concept and buy in from departments, Joy began work. Starting with paper prototypes and content drafts, the first push on code began during the 2014 [National Day of Civic Hacking](http://hackforchange.org) weekend in San Francisco. Working with local [Code for San Francisco](http://codeforsanfrancisco.org) volunteers ([read about our weekend](http://www.codeforamerica.org/blog/2014/06/24/peer-network-spotlight-joy-bonaguro/) ), the concept was fleshed out in code using the [Ruby on Rails framework](http://rubyonrails.org/).
 
 ###Changing technical direction
 The volunteer work was incredibly useful for crystallizing the concepts you see in the hub today like the data browser and policy pages. But we hit some challenges using Ruby on Rails for both a content management system (CMS) and to store data. 
@@ -34,6 +35,11 @@ After huddling and laying out the options, we decided to adopt a lighter weight 
 And instead of using a separate database via Ruby on Rails - we used [open data APIs from our portal](http://dev.socrata.com/docs/endpoints.html). This allows us to have the data in a single place and use the same set of tools as our open data portal users. This approach is often referred to as dogfooding, which you can [read more about in the great post by Anthea Watson Strong](https://medium.com/@antheaws/hey-uncle-sam-eat-your-own-dogfood-9f0c110c13c8).
 
 And we were able to save much of the original front-end work from National Day of Civic Hacking weekend ([sign up for 2015](http://codeforsanfrancisco.org/hackforchange/)) even though we changed the underlying technology. Ultimately, I don't see this as a failure, but as an important learning moment and maybe even a necessary part of working in the open. We had to travel down some roads to discover what would work, and being able to put eyes on some code helped us crystallize the approach.
+
+<figure>
+	<img src="{{ site.baseurl }}/img/blog/white_board_NDoCH.jpg">
+	<figcaption>National Day of Civic Hacking 2014 brought together lots of ideas and a working prototype. That work influences the approach to this day.</figcaption>
+</figure>
 
 ###The technology stack
 To implement the desired changes, we evaluated and then picked a mix of frameworks and code libraries that would help us ship the product. The core ones being:
@@ -61,5 +67,10 @@ We'll work on getting some issues up on the repo and working more with civic hac
 
 ###From product to platform
 Now that we've gone deep, we're thinking broad. What if we want to spin up something similar again? Or what if another city would like to do the same? After we get the fundamentals down with the refactor, we'll be looking to abstract the approach so others can follow suit. At a minimum, this means really great documentation, cleaning out the specific content, and using good conventions to maintain the project.
+
+<figure>
+	<img src="{{ site.baseurl }}/img/blog/get_dataset.png">
+	<figcaption>A "Get the source dataset" button exists wherever there is raw data available on the open data portal. Over time, all visuals will have this link.</figcaption>
+</figure>
 
 Even more broadly, I'll point you to a seemingly small feature that actually has larger implications for our strategic approach. On [visualizations](http://housing.datasf.org/data-browser/rent-control/eviction-notices-over-time/) [for](http://housing.datasf.org/data-browser/rent-control/annual-allowable-increases/) [which](http://housing.datasf.org/data-browser/inclusionary-housing/principal-projects-by-declaration/) the underlying data are available on the open data portal, you'll see a "Get the source dataset" button. Following this takes you to the full dataset on [SF OpenData](http://data.sfgov.org), where you can explore and download the data. This is a small but important step toward creating *enduring sources of truth* and *unbroken data lineages*. Gone will be the days of shipping spreadsheets and reports around and losing track of what came from where, and it all starts with that simple, blue button.
