@@ -18,7 +18,7 @@ $(function() {
 
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
-    return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org)/.test(value);
+    return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org)/.test(value);
   }, "Please enter a valid SFGov email address");
 
   //Reset validator defaults to integrate with Bootstrap 3 conventions
