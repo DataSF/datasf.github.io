@@ -13,7 +13,12 @@ layout: default
           {% if page.image.feature %}
           <div class="page-feature">
             <div class="page-image">
+              <figure>
               <img src="{{ site.baseurl }}/img/blog/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image"> {% if page.image.credit %}{% include image-credit.html %}{% endif %}
+              {% if page.image.caption %}
+              <figcaption>{{page.image.caption}}</figcaption>
+              {% endif %}
+              </figure>
             </div>
             <!-- /.page-image -->
           </div>

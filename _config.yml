@@ -4,6 +4,9 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 permalink: /:categories/:title/
 
+gems:
+  - jemoji
+
 url: http://datasf.org
 defaultbranch: gh-pages
 
@@ -20,8 +23,8 @@ defaults:
 
 # Site settings
 title: DataSF
-email: your-email@domain.com
-description: "DataSF is..."
+email: datasf@sfgov.org
+description: "Our mission is to enable use of the City and County of San Francisco's data. Our core product is SF OpenData, the official open data portal."
 locale: en_US
 
 # Color settings (hex-codes without the leading hash-tag)
