@@ -5,9 +5,9 @@ category: blog
 published: true
 author: jason_lally
 image:
-  thumb: NDoCH_housing_hub.jpg
-  feature: NDoCH_housing_hub.jpg
-  caption: Manu Koenig (right) works on the white board with Victoria Ngo (left), dreaming up what would become the start of the Housing Data Hub interface.
+  thumb: white_board_NDoCH.jpg
+  feature: white_board_NDoCH.jpg
+  caption: National Day of Civic Hacking 2014 brought together lots of ideas and a working prototype. That work influences the approach to this day.
 description: "The Housing Data Hub was born out of the notion that in order to mature our open data practice at the City, we needed to diversify our approach to publishing data. In the City’s open data strategy, a quick look at datasets over time reveals a publishing stagnation."
 ---
 
@@ -36,10 +36,13 @@ And instead of using a separate database via Ruby on Rails - we used [open data 
 
 And we were able to save much of the original front-end work from National Day of Civic Hacking weekend ([sign up for 2015](http://codeforsanfrancisco.org/hackforchange/)) even though we changed the underlying technology. Ultimately, I don't see this as a failure, but as an important learning moment and maybe even a necessary part of working in the open. We had to travel down some roads to discover what would work, and being able to put eyes on some code helped us crystallize the approach.
 
+<!--
 <figure>
 	<img src="{{ site.baseurl }}/img/blog/white_board_NDoCH.jpg">
 	<figcaption>National Day of Civic Hacking 2014 brought together lots of ideas and a working prototype. That work influences the approach to this day.</figcaption>
+	Manu Koenig (right) works on the white board with Victoria Ngo (left), designing what would become the start of the Housing Data Hub interface.
 </figure>
+-->
 
 ###The technology stack
 To implement the desired changes, we evaluated and then picked a mix of frameworks and code libraries that would help us ship the product. The core ones being:

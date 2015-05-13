@@ -1090,6 +1090,7 @@ body {
 
 img.emoji {
   margin-bottom: 5px;
+  border: 0;
 }
 
 .author-image {
