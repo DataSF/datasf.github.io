@@ -1417,3 +1417,37 @@ figcaption a:hover {
     padding-left: 0;
     padding-right: 0
 }
+
+#feedback { 
+  height: 104px; 
+  width: 104px; 
+  position: fixed;
+  right: 0;
+  top: 40%; 
+  z-index: 999;
+  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg); 
+  -moz-transform: rotate(90deg); 
+  -o-transform: rotate(90deg); 
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+
+#feedback a { 
+  display: block; 
+  background: #{{site.color.accent}}; 
+  height: 45px; 
+  width: 165px; 
+  padding: 8px 16px;
+  color: #333; 
+  font-family: Arial, sans-serif; 
+  font-size: 17px; 
+  font-weight: bold; 
+  text-decoration: none; 
+  border-bottom: solid 2px #333;
+  border-left: solid 2px #333;
+  border-right: solid 2px #333;
+}
+
+#feedback a:hover { 
+  background: #{{site.color.secondary}}; 
+}
