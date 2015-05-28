@@ -122,7 +122,7 @@ $(function() {
                 $('#mce-error-response').show();
                 $('#mce-success-response').hide();
             } else {
-                $('#mce-success-response').html(ret.msg);
+                $('#mce-success-response').html(ret.msg + " Please check your junk folder if you do not receive the email.");
                 $('#mce-error-response').hide();
                 $('#mce-success-response').show();
             }
