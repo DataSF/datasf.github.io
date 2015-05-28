@@ -144,7 +144,7 @@ $(function() {
       "targets": -1
     }]
   });
-  // Construct a SODA query string - I'm using the farmers market data for my experiment
+  // Construct a SODA query string
   url = 'https://data.sfgov.org/resource/q6xv-9c3b.json';
 
   $.getJSON(url, function(data, textstatus) {
