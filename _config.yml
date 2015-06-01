@@ -6,6 +6,7 @@ permalink: /:categories/:title/
 
 gems:
   - jemoji
+  - jekyll-sitemap
 
 url: http://datasf.org
 defaultbranch: gh-pages
