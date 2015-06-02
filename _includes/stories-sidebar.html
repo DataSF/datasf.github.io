@@ -6,9 +6,7 @@
     {% if post.categories contains "blog" and post.path != page.path %}
     <div class="story-item">
       <div class="story-caption clearfix">
-        <time datetime="{{ post.date | date: " %Y-%m-%d " }}" itemprop="datePublished">
           {{ post.date | date: "%B %d, %Y" }}
-        </time>
         <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
       </div>
     </div>
