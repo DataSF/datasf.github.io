@@ -22,7 +22,7 @@ $(function() {
 
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
-    return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org)/.test(value);
+    return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org)/.test(value);
   }, "Please enter a valid SFGov email address");
 
   //Reset validator defaults to integrate with Bootstrap 3 conventions
@@ -122,7 +122,7 @@ $(function() {
                 $('#mce-error-response').show();
                 $('#mce-success-response').hide();
             } else {
-                $('#mce-success-response').html(ret.msg);
+                $('#mce-success-response').html(ret.msg + " Please check your junk folder if you do not receive the email.");
                 $('#mce-error-response').hide();
                 $('#mce-success-response').show();
             }
@@ -150,37 +150,6 @@ $(function() {
   $.getJSON(url, function(data, textstatus) {
     table.rows.add(data).draw();
   }); // end $.getJSON
-  
-  /*
-  var chart = c3.generate({
-    data: {
-      url: '../js/q6xv-9c3b.csv',
-      x: 'publishing_status',
-      type: 'pie'
-    },
-    axis: {
-      x: {
-        type: 'category'
-      }
-    }
-  });
-  
-  var filters = [
-    {
-      field: 'field_3',
-      operator: 'is',
-      value: 'Assessor-Recorder'
-    }
-  ]
-  
-   $.ajax({
-    url: "https://api.knackhq.com/v1/scenes/scene_1/views/view_2/records?filters="+encodeURIComponent(JSON.stringify(filters)),
-    type: "GET",
-    headers: {"X-Knack-Application-Id": "554d59e67bc4aa8c081a4b65", "X-Knack-REST-API-Key":"knack"},
-    success: function(response) { 
-       console.log(response.records);
-    }
-  });*/
 });
 
 // Highlight the top nav as scrolling occurs

@@ -300,6 +300,11 @@ a:active {
   border-color: transparent;
   background-color: #222;
 }
+
+.navbar-fixed-top .navbar-collapse {
+  max-height: none;
+}
+
 .navbar-default .navbar-brand {
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
   color: #{{site.color.primary}};
