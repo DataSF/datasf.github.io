@@ -100,6 +100,11 @@ article a {
 #main {
   padding-top: 20px;
 }
+
+.first-heading {
+  margin-top: 0;
+}
+
 @media (min-width: 992px) {
   .sidebar aside {
     margin-top: 80px;
@@ -1455,4 +1460,90 @@ figcaption a:hover {
 
 #feedback a:hover { 
   background: #{{site.color.secondary}}; 
+}
+
+
+/* Plans */
+
+.mini-charts-item {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  position: relative;
+  margin-bottom: 30px;
+  min-height: 135px;
+}
+
+.bgm-lightgreen {
+  background-color: #8bc34a !important;
+}
+
+.bgm-orange {
+  background-color: #ff9800 !important;
+}
+
+.bgm-teal {
+  background-color: #009688 !important;
+}
+
+.mini-charts-item .count {
+  overflow: hidden;
+  color: rgba(255, 255, 255, 1);
+  padding: 16px 12px;
+}
+
+.mini-charts-item .count > h2, .mini-charts-item .count > small {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.mini-charts-item .count > small {
+  margin-bottom: 2px;
+  display: block;
+}
+
+.mini-charts-item .chart {
+  padding: 15px;
+  float: left;
+}
+
+.mini-charts-item .chart-number {
+  display: block;
+  font-size: 3em;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1;
+}
+
+.c3 line, .c3 path {
+  stroke: #ffffff;
+}
+
+.c3 .tick text {
+  fill: #ffffff;
+}
+
+.selectize-control.single .selectize-input:after {
+		left: 8px;
+		right: auto;
+		margin-top: -5px;
+		border-width: 8px 8px 0 8px;
+		border-color: #808080 transparent transparent transparent;
+}
+
+.selectize-control.single .selectize-input.dropdown-active:after {
+		margin-top: -5px;
+		border-width: 0 8px 8px 8px;
+		border-color: transparent transparent #808080 transparent;
+	}
+	
+.selectize-dropdown, .selectize-input { 
+  border: 1px solid #e6e6e6;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1;
+  font-size: 30px;
+  color: #6dbce2;
+  padding: 12px 12px 12px 35px;
+}
+
+.selectize-control {
+  margin-bottom: 10px;
 }
