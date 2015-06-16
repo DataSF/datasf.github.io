@@ -1,25 +1,94 @@
 ---
-layout: default
+layout: default 
+js: plans.js 
 ---
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <div id="chart">
 
+<section id="plan">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <h1 class="first-heading">Department Open Data Plans</h1>
+        <select id="select-department" class="form-control selectize-select">
+          <option value="">Citywide</option>
+          {% for dept in site.data.departments %}
+          <option value="{{dept}}">{{dept}}</option>
+          {% endfor %}
+        </select>
+        <p class="mission lead">
+        </p>
+        <p class="narrative-maintenance">
+        </p>
+        <p class="narrative-publishing">
+        </p>
+        <p class="narrative-planning">
+        </p>
       </div>
-
-      <table id="inventory" class="display">
-        <thead>
-          <tr>
-            <th>Department or Division</th>
-            <th>Dataset Name</th>
-            <th>Dataset Description</th>
-          </tr>
-        </thead>
-        <tbody>
-        </tbody>
-      </table>
+      <div class="col-md-4 quick-stats">
+        <div id="inventory-incomplete" class="mini-charts-item bgm-lightgreen" style="display:none;">
+          <div class="clearfix">
+            <div class="count">
+              <p>This department has not completed its dataset inventory. ¯\_(ツ)_/¯</p>
+            </div>
+          </div>
+        </div>
+        <div id="chart-number-published" class="mini-charts-item bgm-lightgreen">
+          <div class="clearfix">
+            <div id="chart" class="chart">
+            </div>
+            <div class="count">
+              <small>Percent published datasets</small>
+              <div class="chart-number"></div> <small class="ratio"></small>
+            </div>
+          </div>
+        </div>
+        <div id="chart-published-since" class="mini-charts-item bgm-orange">
+          <div class="clearfix">
+            <div id="chart2" class="chart">
+            </div>
+            <div class="count">
+              <small>Published datasets</small>
+              <div class="chart-number"></div>
+              <small>since Jan 2015</small>
+            </div>
+          </div>
+        </div>
+        <div id="chart-targeted" class="mini-charts-item bgm-teal">
+          <div class="clearfix">
+            <div id="chart3" class="chart">
+              <i class="fa fa-bullseye fa-5x" style="color: #fff"></i>
+            </div>
+            <div class="count">
+              <small>Targeted datasets for publishing</small>
+              <div class="chart-number"></div> <small>by Dec 31, 2015</small>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
-</div>
+  <div id="testing">
+
+  </div>
+</section>
+<section id="datasets">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <table id="inventory" class="display">
+          <thead>
+            <tr>
+              <th>Department or Division</th>
+              <th>Dataset Name</th>
+              <th>Dataset Description</th>
+              <th>Publishing Status</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+</section>

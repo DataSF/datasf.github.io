@@ -129,27 +129,6 @@ $(function() {
         });
     }
   });
-
-  var table = $('#inventory').DataTable({
-    "columns": [{
-      "data": "department_or_division" 
-    }, {
-      "data": "dataset_name"
-    }, {
-      "data": "dataset_description"
-    }],
-    "columnDefs": [{
-      "data": null,
-      "defaultContent": "",
-      "targets": -1
-    }]
-  });
-  // Construct a SODA query string
-  url = 'https://data.sfgov.org/resource/q6xv-9c3b.json';
-
-  $.getJSON(url, function(data, textstatus) {
-    table.rows.add(data).draw();
-  }); // end $.getJSON
 });
 
 // Highlight the top nav as scrolling occurs
