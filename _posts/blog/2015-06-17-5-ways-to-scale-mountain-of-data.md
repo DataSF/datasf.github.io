@@ -15,7 +15,7 @@ image:
     author_link: "https://www.flickr.com/photos/jcookfisher/"
     license: CC BY 2.0
     license_link: "http://creativecommons.org/licenses/by/2.0/"
-description: "The Housing Data Hub was born out of the notion that in order to mature our open data practice at the City, we needed to diversify our approach to publishing data. In the City’s open data strategy, a quick look at datasets over time reveals a publishing stagnation."
+description: "Creating a data inventory for an entire City feels a lot like climbing a mountain. Read how we scaled this mountain and what we've learned along the way."
 ---
 
 I was completely terrified.  We were hiking downhill towards the Pacific Ocean, and I was fighting visions of slipping, tumbling down the hillside.
