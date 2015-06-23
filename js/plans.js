@@ -165,6 +165,7 @@ var buildPage = function(dept, url, table) {
         "X-Knack-REST-API-Key": "knack"
       },
       success: function(response) {
+        console.log(response);
         if (response.total_records > 0) {
           if (response.records[0].field_44) {
             $("#chart-targeted").show();
@@ -174,6 +175,7 @@ var buildPage = function(dept, url, table) {
             $("#chart-targeted").hide();
           }
           $(".mission").html((response.records[0].field_21 ? response.records[0].field_21 : ""));
+          $(".dept-link").html((response.records[0].field_21 ? response.records[0].field_28 : ""))
           $(".narrative-maintenance").html((response.records[0].field_17 ? response.records[0].field_17 : ""));
           $(".narrative-publishing").html((response.records[0].field_60 ? response.records[0].field_60 : ""));
           $(".narrative-planning").html((response.records[0].field_59 ? response.records[0].field_59 : ""));
@@ -181,6 +183,7 @@ var buildPage = function(dept, url, table) {
         }
         else {
           $(".mission").html('The plan for ' + deptFilter + ' is not ready yet.');
+          $(".dept-link").html('');
           $(".narrative-maintenance").html('');
           $(".narrative-publishing").html('');
           $(".narrative-planning").html('');
