@@ -1256,6 +1256,10 @@ p.task-item {
   box-shadow: 0px 0px 5px 1px #aaa;*/
 }
 
+.btn-academy-resources {
+  margin-bottom: 10px;
+}
+
 #filters {
   padding: 20px 0;
 }
