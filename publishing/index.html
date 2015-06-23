@@ -12,18 +12,23 @@ layout: default
     <div class="row">
       <div class="col-md-8">
         <p>So you want to publish data on SF OpenData? We have just a couple of steps to get you started.</p>
-        <ol class="custom-counter">
+        <ol id="publishingList" class="custom-counter">
           <li>
             <div class="well">
-            Sign up for <a href="https://data.sfgov.org/signup">SF OpenData Account</a> (if you haven't already)
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">More</a>
-            <div id="collapseOne" class="collapse">
-              Here's where more stuff goes
-            </div>
+              Sign up for <a href="https://data.sfgov.org/signup">SF OpenData Account</a> (if you haven't already)
             </div>
           </li>
-          <li><div class="well"><a href="https://github.com/DataSF/utilities/raw/master/Publisher%20Packet.xlsm">Download and complete the Publisher's Packet</a></div></li>
-          <li><div class="well">Submit your packet</div></li>
+          <li>
+            <div class="well"><a href="https://github.com/DataSF/utilities/raw/master/Publisher%20Packet.xlsm">Download and complete the Publisher's Packet</a> <a role="button" data-toggle="collapse" data-parent="#publishingList" href="#collapseTwo" aria-expanded="false"
+              aria-controls="collapseTwo">More Help</a>
+              <div id="collapseTwo" class="collapse">
+                Here's where more stuff goes
+              </div>
+              </div>
+          </li>
+          <li>
+            <div class="well">Submit your packet</div>
+          </li>
         </ol>
         <p>Someone from the open data team will follow up with you shortly to guide you through the rest of the process. Don't worry, it's not complicated. Think of us as your data sherpas guiding you through your journey to published data.</p>
 </section>
