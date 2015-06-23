@@ -35,7 +35,7 @@ Here are some ideas for alternatives to doing a full scale inventory:
  2. **Top Five.** Ask departments to list their top 5 datasets. See [DataLA](https://data.lacity.org/).
  3. **Department Dives.** Dive deep into a handful of departments and inventory (and maybe publish) their data. [See Philly](http://www.phila.gov/data/). 
  4. **Initiative Inventory.** Start with a specific problem or challenge your City is facing and inventory the data related to that. Again, couple with a strategic release.
- 5. **Stop at Systems.** This is basically what is happening at the federal level. Simply identifying systems that generate data could be a natural stopping point. Our legislation was more specific and the dataset inventory is super helpful to have, but it's one way to go.
+ 5. **Stop at Systems.** Simply identifying systems that generate data could be a natural stopping point. Our legislation was more specific and the dataset inventory is super helpful to have, but it's one way to go.
 
 Alternatively - do the full scale inventory, but use these alternatives as an implementation or phasing strategy. Whatever you do...
 
