@@ -20,6 +20,12 @@
 <script src="{{ " /js/vendor/c3.js " | prepend: site.baseurl }}"></script>
 <script src="{{ " /js/vendor/moment.js " | prepend: site.baseurl }}"></script>
 <script src="{{ " /js/vendor/isotope.pkgd.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/vendor/chosen.jquery.js " | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/vendor/selectize.min.js " | prepend: site.baseurl }}"></script>
 
-<!-- Custom JavaScript -->
+<!-- Custom site JavaScript -->
 <script src="{{ " /js/datasf.js " | prepend: site.baseurl }}"></script>
+{% if page.js %}
+<!-- Custom page JS -->
+<script src="{{ " /js/" | prepend: site.baseurl | append: page.js }}"></script>
+{% endif %}
