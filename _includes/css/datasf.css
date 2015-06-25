@@ -1460,3 +1460,18 @@ figcaption a:hover {
 #feedback a:hover { 
   background: #{{site.color.secondary}}; 
 }
+
+/* Publishing */
+
+.list-todo {
+  font-size: 1em;
+  margin: 0;
+  display: inline;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.list-publishing .fa {
+  vertical-align: middle;
+  margin-right: 20px;
+  color: #a8a8a8;
+}
