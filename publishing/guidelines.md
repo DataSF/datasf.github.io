@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: basic
 permalink: /publishing/guidelines/
+title: Publishing Guidelines
+section: publishing-guidelines
 ---
 
 #Publishing Guidelines
@@ -11,7 +13,7 @@ One of the cool things about open data is that people are always surprising us b
 
 For example, if you collect data on fruit and vegetable purchases, you could publish summarized or raw data. In the picture below, if you publish the raw data - you can derive the other two. Publishing your raw data is the best way to foster new uses! We understand, of course, your ability to publish in raw formats may be limited by legal and privacy constraints, so that’s why it's the rawest form **possible**.
 
-Image here
+!['Getting to raw, just like fruits and veggies']({{site.baseurl}}/img/publishing/fruits_veggies.png)
 
 ##Include the dataset steward in the publishing process
 Data stewards are responsible for the dataset and can answer questions about the data and help make decisions about how to publish it. You should not be publishing a dataset without input from the data steward. They are key to helping us actively manage and answer dataset questions. 
@@ -40,20 +42,19 @@ The [open data team](http://datasf.org/about) provides central automation suppor
 We will provide more detailed support and training through the publishing process, especially if you have not been exposed to our central automation services. However, we understand you may appreciate a preview of the publishing methods and what’s involved. The following outline the primary methods. Over time, we will likely add options and best practices as the open data program scales.
 
 ###Manual publishing options
-While manual updates are not preferred, there are certain cases where this option does make sense. Particularly if the frequency of updates are low, the costs of automation are likely not justified. Historic, static and annually updated datasets are examples. In certain cases, even quarterly updates could be done manually, although this will likely vary by dataset. In cases where manual updates are employed, we will send automated notifications to the data steward to make sure the data are updated at the service level indicated in the metadata. While the updates may not be automated, we can monitor the SLAs across the platform in an automated fashion. You can learn more about how to upload data manually in our [open data vendor’s documentation](https://support.socrata.com/hc/en-us/articles/202950098-Publishing-Workflow-Accessing-the-Import-User-Interface).
+While manual updates are not preferred, there are certain cases where this option does make sense. Particularly if the frequency of updates are low, the costs of automation are likely not justified. Historic, static and annually updated datasets are examples. In cases where manual updates are used, we will send automated notifications to the data steward to make sure the data are updated at the service level indicated in the dataset's metadata. While the dataset updates may not be automated, we can monitor publishing across the platform in an automated fashion. You can learn more about how to upload data manually in our [open data vendor’s documentation](https://support.socrata.com/hc/en-us/articles/202950098-Publishing-Workflow-Accessing-the-Import-User-Interface).
 
 ###Automation Services
 This is a bit more involved in the beginning, but automation services are designed to save time and aid in monitoring data publishing across the enterprise. The open data team uses [Safe FME](http://www.safe.com/) to automate publishing. FME provides a desktop authoring environment and server to run automated jobs that can connect to various data systems and formats, run transformations, and load the data into the portal. This process is generally referred to as Extract-Transform-Load (or ETL). 
 
-When deploying automation services, the open data team works closely with technical staff and data stewards to define the appropriate views (often created as stored SQL queries or procedures depending on the system), develop a secure connection and review the data in the portal rigorously before publishing. Through the process the appropriate transformations, quality checks, and notifications are set up and the department representatives are involved at each step, including giving the green light for publishing. Central automation also gets you some additional great benefits like:
+When deploying automation services, the open data team works closely with technical staff and data stewards to define the appropriate views (often created as stored SQL queries or procedures depending on the system), develop a secure connection and review the data in the portal rigorously before publishing. Through the process, the appropriate transformations, quality checks, and notifications are set up and the department representatives are involved at each step, including giving the green light for publishing. Central automation also gets you some additional great benefits like:
 
 - Automatic geocoding (where well formed addresses or consistent block and lot can be provided) - allowing the creation of point based maps
 - Automatic geo-obfuscation - if you don’t want addresses available to the data user for privacy reasons, the data can be assigned to another level of geography, like Census, neighborhood or supervisor district
 - Automatic geo-assignment - similar to the above, you can pass in an address and get boundaries that address falls in as a new column in the dataset.
-- And more
 
 ###Advanced Automation
-On a case by case basis, we may determine that a different automated method is more appropriate. The ETL process above is robust across many different contexts, but there may be opportunity to develop processes that push data directly to the platform using the platform’s available Publisher API or other emerging toolkits. For example, in cases where streaming or near real-time data is involved, this may merit some investigation. Based on the dataset inventory, these kinds of data are rarer. We welcome opportunity to explore these kinds of integrations, but likely these will be larger efforts requiring more commitment from the partner department.
+On a case by case basis, we may determine that a different automated method is more appropriate. The ETL process above is robust across many different contexts, but there may be opportunity to develop processes that push data directly to the platform using the platform’s available Publisher API or other emerging toolkits. For example, in cases where streaming or near real-time data is involved, this may merit some investigation. Based on the dataset inventory, these kinds of data are rarer. We welcome opportunity to explore these kinds of integrations, but likely these will be larger efforts requiring more upfront commitment from the partner department.
 
 ###Phased Publishing
-In some cases, the demand will outstrip the supply of automation service support. We may elect to publish a dataset manually first to be responsive and add the dataset to the queue for automation. Regardless, the Publisher’s Packet is still essential and some of the work to get ready for automation can be done by the department. This will happen on a case by case basis, and we’ll guide you through this if this option is the most appropriate. We will attempt to avoid this, but we want to remain flexible to the needs of departments across the City, while balancing against available resources.
+In some cases, the demand will outstrip the supply of automation service support. We may elect to publish a dataset manually first to be responsive and add the dataset to the queue for automation. Regardless, the Publisher’s Packet is still essential and some of the work to get ready for automation can be done by the department before the automation is in place. This will happen on a case by case basis, and we’ll guide you through this if this option is the most appropriate. We will attempt to avoid this, but we want to remain flexible to the needs of departments across the City, while balancing against available resources.

@@ -1069,7 +1069,7 @@ body {
   h1.bg-line {
     overflow: hidden;
     font-size: 3.75em;
-    line-height: 1em;
+    line-height: 1.2;
     margin: 0px 0px 1.5em 0px;
   }
   h2.bg-line {
@@ -1474,4 +1474,55 @@ figcaption a:hover {
   vertical-align: middle;
   margin-right: 20px;
   color: #a8a8a8;
+}
+
+.wrap-around {
+  position: relative;
+  display: inline-block;
+  padding: 10px 24px 10px 15px;
+  margin-left: -15px;
+  background: red;
+  color: #fff;
+  text-decoration: none;
+}
+.wrap-around:before {
+  content: '';
+  position: absolute;
+  left: -6px;
+  bottom: -3px;
+  width: 6px;
+  height: 44px;
+  background: #800000;
+  transform: skewY(-45deg);
+}
+.wrap-around:after {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  left: -6px;
+  width: 6px;
+  height: 6px;
+  background: #000000;
+  z-index: -1;
+}
+.wrap-around:hover {
+  background: lightblue;
+}
+.wrap-around:hover:before {
+  background: #4baac8;
+}
+.wrap-around:hover:after {
+  background: #235e71;
+}
+
+.panel-dataset p {
+  font-size: .8em;
+  max-height: 150px;
+  white-space: no-wrap;
+  overflow: hidden;
+  text-overflow: "…";
+}
+
+.first {
+  margin-top: 0;
 }

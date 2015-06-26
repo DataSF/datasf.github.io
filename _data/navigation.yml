@@ -1,6 +1,6 @@
 temp_nav:
 - text: Data Catalog
-  url: http://data.sfgov.org
+  url: https://data.sfgov.org
   class: ext-sf-opendata
 #- text: Showcase
 #  url: /showcase
@@ -12,4 +12,24 @@ temp_nav:
   url: /about
 
 new_nav:
-- text: Home
+- text: Data Catalog
+  url: https://data.sfgov.org
+  class: ext-sf-opendata
+#- text: Showcase
+#  url: /showcase
+- text: Academy
+  url: /academy
+- text: Publishing
+  url: /publishing
+- text: Resources
+  url: /resources
+- text: Blog
+  url: /blog
+  
+utility:
+- text: SFGov
+  url: https://www.sfgov.org
+- text: Coordinator's Portal
+  url: /coordinators
+- text: About
+  url: /about
