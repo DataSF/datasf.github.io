@@ -21,8 +21,7 @@ defaults:
       type: "posts"
     values:
       hidden: true
-      sitemap:
-        exclude: "yes"
+      sitemap: false
 
 # Site settings
 title: DataSF

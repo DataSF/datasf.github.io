@@ -9,7 +9,9 @@ $(function() {
   $.getJSON(baseURL + "?" + dataQueryString, function(response){
     var template = $.templates("#datasetTmpl");
     var htmlOutput = template.render(response);
-    $("#recentDatasets").html(htmlOutput);
-  })
+    $(".recent-datasets").html(htmlOutput);
+  });
+  
+  $('#toc').toc({'container':'article','scrollToOffset':110});
 
 });

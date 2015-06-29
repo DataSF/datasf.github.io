@@ -9,6 +9,11 @@ body {
   color: #{{site.color.secondary-dark}};
   font-size: 18px;
 }
+
+.lead {
+  font-size: 21px;
+}
+
 body.not-front {
   margin-top: 50px;
 }
@@ -61,6 +66,11 @@ a.active {
 a {
   color: #{{site.color.primary}};
 }
+
+p a {
+  text-decoration: underline;  
+}
+
 a:hover,
 a:focus,
 a:active,
@@ -83,10 +93,15 @@ h1, .h1 {
 
 h2, .h2 {
     color: #{{site.color.secondary}};
+    font-size: 28px;
+}
+
+.sidebar h2, .sidebar .h2 {
+  font-size: 1.2em;
 }
 
 h3, .h3 {
-    color: #{{site.color.accent}};
+  color: #{{site.color.accent}};
 }
 article h3 {
   color: #{{site.color.accent}};
@@ -1477,12 +1492,13 @@ figcaption a:hover {
 }
 
 .wrap-around {
+  font-size: 14px;
   position: relative;
   display: inline-block;
-  padding: 10px 24px 10px 15px;
+  padding: 5px 24px 5px 15px;
   margin-left: -15px;
-  background: red;
-  color: #fff;
+  background: #{{site.color.accent}};
+  color: #000;
   text-decoration: none;
 }
 .wrap-around:before {
@@ -1491,8 +1507,8 @@ figcaption a:hover {
   left: -6px;
   bottom: -3px;
   width: 6px;
-  height: 44px;
-  background: #800000;
+  height: 30px;
+  background: #2e8342;
   transform: skewY(-45deg);
 }
 .wrap-around:after {
@@ -1516,13 +1532,21 @@ figcaption a:hover {
 }
 
 .panel-dataset p {
+  text-overflow: ellipsis;
   font-size: .8em;
-  max-height: 150px;
+  max-height: 4.2em;
   white-space: no-wrap;
   overflow: hidden;
-  text-overflow: "…";
+}
+
+.panel-dataset h3 {
+  font-size: .9em;
 }
 
 .first {
   margin-top: 0;
+}
+
+.publishing-nav {
+  margin-top: 20px;
 }

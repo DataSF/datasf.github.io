@@ -1,6 +1,7 @@
 ---
 ---
 $(function() {
+  
   $('[data-toggle="tooltip"]').tooltip();
 
   $('button.ext-sf-opendata').on('click', function(ev) {

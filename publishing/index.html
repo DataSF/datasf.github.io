@@ -1,5 +1,6 @@
 ---
 layout: default
+title: DataSF | Publishing
 js: publishing.js
 ---
 <section id="publishing">
@@ -11,7 +12,16 @@ js: publishing.js
       </div>
     </div>
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-4 sidebar col-md-push-8">
+        {% include publishing_sidebar.html %}
+        <div class="visible-md-block visible-lg-block">
+          <h2>Recently Published Datasets</h2>
+          <div class="recent-datasets">
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-8 col-md-pull-4">
         <p class="lead">So you want to publish data on SF OpenData? We have just a handful of steps to get you started.</p>
         <ul id="publishingList" class="custom-counter list-unstyled list-publishing">
           <li>
@@ -32,8 +42,7 @@ js: publishing.js
           <li>
             <div class="well">
               <div class="list-todo"><a href="https://github.com/DataSF/utilities/raw/master/Publisher%20Packet.xlsm"><i class="fa fa-download fa-2x"></i> Download and complete the Publisher's Packet (Excel Workbook)</a></div>
-              <button class="btn btn-primary collapsed pull-right" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                ?
+              <button class="btn btn-primary collapsed pull-right" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> ?
               </button>
               <div id="collapseTwo" class="collapse">
                 Before filling out the Publisher's Packet, make sure to enable editing and macros. Excel will likely prompt you once for each.
@@ -57,13 +66,18 @@ js: publishing.js
         </ul>
         <p>Someone from the open data team will follow up with you shortly to guide you through the rest of the process. Don't worry, it's not complicated. Think of us as your data sherpas guiding you through your journey to published data.</p>
       </div>
-      <div class="col-md-4">
-        <h2 class="first">Recently Published Datasets</h2>
-        <div id="recentDatasets">
-          
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="visible-sm-block visible-xs-block">
+          <h2>Recently Published Datasets</h2>
+          <div class="recent-datasets">
+
+          </div>
         </div>
       </div>
     </div>
+  </div>
 </section>
 
 {% raw %}
