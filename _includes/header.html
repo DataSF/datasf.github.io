@@ -12,12 +12,11 @@
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse-2">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="http://sfgov.org/">SFGov</a>
+          {% for link in site.data.navigation.utility %} {% assign current = nil %} {% if page.dir == link.url %} {% assign current = 'active' %} {% endif %}
+          <li class="{{current}}">
+            <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
-          <li><a href="{{site.baseurl}}/coordinators">Coordinators Portal</a>
-          </li>
-          <li><a href="{{site.baseurl}}/blog">Blog</a>
-          </li>
+          {% endfor %}
         </ul>
       </div>
     </div>
@@ -41,17 +40,16 @@
           <li class="hidden">
             <a href="#page-top"></a>
           </li>
-          {% for link in site.data.navigation.temp_nav %} {% assign current = nil %} {% if page.dir == link.url %} {% assign current = 'active' %} {% endif %}
+          {% for link in site.data.navigation.new_nav %} {% assign current = nil %} {% if page.dir == link.url %} {% assign current = 'active' %} {% endif %}
           <li class="{{current}}">
             <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
           {% endfor %}
-          <li class="visible-xs visible-sm"><a href="{{site.baseurl}}/coordinators">Coordinators Portal</a>
+          {% for link in site.data.navigation.utility %} {% assign current = nil %} {% if page.dir == link.url %} {% assign current = 'active' %} {% endif %}
+          <li class="{{current}} visible-xs visible-sm utility-nav">
+            <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
-          <li class="visible-xs visible-sm"><a href="{{site.baseurl}}/blog">Blog</a>
-          </li>
-          <li class="visible-xs visible-sm"><a href="http://sfgov.org/">SFGov</a>
-          </li>
+          {% endfor %}
         </ul>
       </div>
       <!-- /.navbar-collapse -->

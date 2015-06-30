@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section id="{{page.section}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-md-push-8 sidebar">
+        <div class="publishing-nav">
+          {% include publishing_sidebar.html %}
+        </div>
+        <div>
+        <h2>In this article</h2>
+        <div id="toc"></div>
+        </div>
+      </div>
+      <article class="wrap article" itemscope itemtype="http://schema.org/Article">
+      <div class="col-md-8 col-md-pull-4">
+        {{content}}
+      </div>
+      </article>
+    </div>
+  </div>
+</section>

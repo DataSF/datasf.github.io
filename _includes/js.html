@@ -12,6 +12,10 @@
 <script src="{{ " /js/vendor/jquery.validate.min.js " | prepend: site.baseurl }}"></script>
 <script src="{{ " /js/vendor/DataTables-1.10.7/media/js/jquery.dataTables.min.js " | prepend: site.baseurl }}"></script>
 <script src="{{ " /js/vendor/DataTables-1.10.7/Plugins-1.10.7/integration/bootstrap/3/dataTables.bootstrap.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ " /js/vendor/jsrender.min.js " | prepend: site.baseurl }}"></script>
+{% if page.toc %}
+<script src="{{ " /js/vendor/toc.js" | prepend: site.baseurl }}"></script>
+{% endif %}
 
 {% if page.is_front %}
 <script src="{{ " /js/vendor/cbpAnimatedHeader.js " | prepend: site.baseurl }}"></script>

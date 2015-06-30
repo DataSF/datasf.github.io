@@ -9,6 +9,11 @@ body {
   color: #{{site.color.secondary-dark}};
   font-size: 18px;
 }
+
+.lead {
+  font-size: 21px;
+}
+
 body.not-front {
   margin-top: 50px;
 }
@@ -61,6 +66,11 @@ a.active {
 a {
   color: #{{site.color.primary}};
 }
+
+p a {
+  text-decoration: underline;  
+}
+
 a:hover,
 a:focus,
 a:active,
@@ -83,10 +93,15 @@ h1, .h1 {
 
 h2, .h2 {
     color: #{{site.color.secondary}};
+    font-size: 28px;
+}
+
+.sidebar h2, .sidebar .h2 {
+  font-size: 1.2em;
 }
 
 h3, .h3 {
-    color: #{{site.color.accent}};
+  color: #{{site.color.accent}};
 }
 article h3 {
   color: #{{site.color.accent}};
@@ -1074,7 +1089,7 @@ body {
   h1.bg-line {
     overflow: hidden;
     font-size: 3.75em;
-    line-height: 1em;
+    line-height: 1.2;
     margin: 0px 0px 1.5em 0px;
   }
   h2.bg-line {
@@ -1466,6 +1481,7 @@ figcaption a:hover {
   background: #{{site.color.secondary}}; 
 }
 
+<<<<<<< HEAD
 
 /* Plans */
 
@@ -1554,4 +1570,80 @@ figcaption a:hover {
 
 .selectize-control {
   margin-bottom: 10px;
+}
+
+
+/* Publishing */
+
+.list-todo {
+  font-size: 1em;
+  margin: 0;
+  display: inline;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.list-publishing .fa {
+  vertical-align: middle;
+  margin-right: 20px;
+  color: #a8a8a8;
+}
+
+.wrap-around {
+  font-size: 14px;
+  position: relative;
+  display: inline-block;
+  padding: 5px 24px 5px 15px;
+  margin-left: -15px;
+  background: #{{site.color.accent}};
+  color: #000;
+  text-decoration: none;
+}
+.wrap-around:before {
+  content: '';
+  position: absolute;
+  left: -6px;
+  bottom: -3px;
+  width: 6px;
+  height: 30px;
+  background: #2e8342;
+  transform: skewY(-45deg);
+}
+.wrap-around:after {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  left: -6px;
+  width: 6px;
+  height: 6px;
+  background: #000000;
+  z-index: -1;
+}
+.wrap-around:hover {
+  background: lightblue;
+}
+.wrap-around:hover:before {
+  background: #4baac8;
+}
+.wrap-around:hover:after {
+  background: #235e71;
+}
+
+.panel-dataset p {
+  text-overflow: ellipsis;
+  font-size: .8em;
+  max-height: 4.2em;
+  white-space: no-wrap;
+  overflow: hidden;
+}
+
+.panel-dataset h3 {
+  font-size: .9em;
+}
+
+.first {
+  margin-top: 0;
+}
+
+.publishing-nav {
+  margin-top: 20px;
 }

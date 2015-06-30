@@ -2,15 +2,14 @@
 <div class="row">
   <div class="col-lg-12 story-sidebar">
     <h3 class="sidebar-heading color-primary">Other stories</h3> 
-    {% for post in site.posts limit 5 %} 
-    {% if post.categories contains "blog" and post.path != page.path %}
+    {% for post in site.categories['blog'] limit:5 %} 
     <div class="story-item">
       <div class="story-caption clearfix">
           {{ post.date | date: "%B %d, %Y" }}
         <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
       </div>
     </div>
-    {% endif %} 
     {% endfor %}
+    <div><a href="{{site.baseurl}}/blog">More Stories...</a></div>
   </div>
 </div>

@@ -1,29 +1,94 @@
 ---
 layout: default
+title: DataSF | Publishing
+js: publishing.js
 ---
 <section id="publishing">
   <div class="container">
     <div class="row">
       <div class="col-xs-12 section-heading-wrapper">
-        <h1 class="section-heading bg-line">Publishing Portal</h1>
+        <h1 class="section-heading bg-line">Publishing</h1>
         <p class="section-subheading">Get City data published on the data portal</p>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-8">
-        <p>So you want to publish data on SF OpenData? We have just a couple of steps to get you started.</p>
-        <ol class="custom-counter">
+      <div class="col-md-4 sidebar col-md-push-8">
+        {% include publishing_sidebar.html %}
+        <div class="visible-md-block visible-lg-block">
+          <h2>Recently Published Datasets</h2>
+          <div class="recent-datasets">
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-8 col-md-pull-4">
+        <p class="lead">So you want to publish data on SF OpenData? We have just a handful of steps to get you started.</p>
+        <ul id="publishingList" class="custom-counter list-unstyled list-publishing">
           <li>
             <div class="well">
-            Sign up for <a href="https://data.sfgov.org/signup">SF OpenData Account</a> (if you haven't already)
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">More</a>
-            <div id="collapseOne" class="collapse">
-              Here's where more stuff goes
-            </div>
+              <div class="list-todo"><a href="https://data.sfgov.org"><i class="fa fa-search fa-2x"></i> Make sure your data isn't already published on the portal</a></div>
             </div>
           </li>
-          <li><div class="well"><a href="https://github.com/DataSF/utilities/raw/master/Publisher%20Packet.xlsm">Download and complete the Publisher's Packet</a></div></li>
-          <li><div class="well">Submit your packet</div></li>
-        </ol>
+          <li>
+            <div class="well">
+              <div class="list-todo"><a href="https://data.sfgov.org/signup"><i class="fa fa-pencil fa-2x"></i> Sign up for SF OpenData Account (if you haven't already)</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="well">
+              <div class="list-todo"><a href="{{site.baseurl}}/publishing/guidelines"><i class="fa fa-file-text-o fa-2x"></i> Review the publishing guidelines (these change based on feedback)</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="well">
+              <div class="list-todo"><a href="https://github.com/DataSF/utilities/raw/master/Publisher%20Packet.xlsm"><i class="fa fa-download fa-2x"></i> Download and complete the Publisher's Packet (Excel Workbook)</a></div>
+              <button class="btn btn-primary collapsed pull-right" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> ?
+              </button>
+              <div id="collapseTwo" class="collapse">
+                Before filling out the Publisher's Packet, make sure to enable editing and macros. Excel will likely prompt you once for each.
+                <img src="{{site.baseurl}}/img/publishing/enable_editing.png">
+                <img src="{{site.baseurl}}/img/publishing/enable_macros.png"> The packet contains detailed guidance you can follow along. Fill out all the required fields. The workbook will track your progress toward completion.
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="well">
+              <div class="list-todo"><i class="fa fa-paper-plane-o fa-2x"></i> Click "Submit this Packet!" in your completed workbook</div>
+              <button class="btn btn-primary collapsed pull-right" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThre">
+                ?
+              </button>
+              <div id="collapseThree" class="collapse">
+                You can find this button in the Publisher's Packet at the bottom of either the tab '1 - Instructions' or '5 - Automation Questionnaire'. It will save a copy of your packet with a new name, open an email in your email client and the folder containing your
+                saved packet. Just attach the copy to the email and click send.
+              </div>
+            </div>
+          </li>
+        </ul>
         <p>Someone from the open data team will follow up with you shortly to guide you through the rest of the process. Don't worry, it's not complicated. Think of us as your data sherpas guiding you through your journey to published data.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="visible-sm-block visible-xs-block">
+          <h2>Recently Published Datasets</h2>
+          <div class="recent-datasets">
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
+
+{% raw %}
+<script id="datasetTmpl" type="text/x-jsrender">
+<div class="panel panel-default panel-dataset">
+  <div class="panel-body">
+    <span class="wrap-around">{{:department_or_division}}</span>
+     <h3><a href="{{:dataset_link}}">{{:dataset_name}}</a></h3>
+          <p>{{:dataset_description}}</p>
+          </div>
+        </div>
+      </div>
+</script>
+{% endraw %}
