@@ -17,7 +17,7 @@ $(function() {
   });
   
    $('a.download').on('click', function(ev) {
-    ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).parent().data('download-name'), 1)
+    ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).data('download-name'), 1)
   });
   
 
