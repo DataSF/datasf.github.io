@@ -209,7 +209,7 @@ var buildPage = function(dept, url, table) {
 $(function() {
   var baseURL = 'https://data.sfgov.org/resource/q6xv-9c3b.json';
 
-  $('.selectize-select').selectize();
+  var $select = $('.selectize-select').selectize();
 
   buildPage('', baseURL);
 
@@ -237,7 +237,24 @@ $(function() {
   });
 
   $('#select-department').on('change', function(ev) {
-    buildPage($(ev.target).val(), baseURL, table);
+    window.location.hash = $(ev.target).val();
+    console.log($(ev.target).text());
+    //buildPage($(ev.target).val(), baseURL, table);
   });
+  
+  // Bind an event to window.onhashchange that, when the history state changes,
+  // gets the url from the hash and displays either our cached content or fetches
+  // new content to be displayed.
+  $(window).bind( 'hashchange', function(e) {
+    if(window.location.hash.split("#")[1] != $('#select-department').val()) {
+      var selectize = $select[0].selectize;
+      selectize.setValue(window.location.hash.split("#")[1]);
+    }
+    buildPage($('#select-department').text(), baseURL, table);
+  })
+  
+  // Since the event is only triggered when the hash changes, we need to trigger
+  // the event now, to handle the hash the page may have loaded with.
+  $(window).trigger( 'hashchange' );
 
 });

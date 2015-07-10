@@ -11,7 +11,7 @@ js: plans.js
         <select id="select-department" class="form-control selectize-select">
           <option value="">Citywide</option>
           {% for dept in site.data.departments %}
-          <option value="{{dept}}">{{dept}}</option>
+          <option value="{{dept | slugify}}">{{dept}}</option>
           {% endfor %}
         </select>
         <div class="dept-link"></div>
