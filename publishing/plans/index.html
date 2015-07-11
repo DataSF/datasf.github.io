@@ -14,6 +14,19 @@ js: plans.js
           <option value="{{dept | slugify}}">{{dept}}</option>
           {% endfor %}
         </select>
+        <div id="citywide-narrative">
+          <p class="lead">Welcome to the City’s Department Open Data Plans portal. This is the result of many hours of hard work by departmental data coordinators and their colleagues. It is here we will not just report the plans but automatically track progress as data gets published over time.</p>
+          <p>Here you can see each department’s open data plan. Each plan includes a narrative indicating what the department is committing to through the end of 2015. Along the right hand side are metrics including:
+          </p>
+          <ol>
+            <li>Percent of datasets published out of their inventory</li>
+            <li>Datasets published since July 1, 2015</li>
+            <li>And when appropriate, the number of datasets targeted for publishing by the end of the year</li>
+          </ol>
+          <p>These update to reflect the department you’re viewing. Right now, the metrics to the right reflect the rollup of activity across all departments that have completed their inventory. Also, at the bottom of each page is a table representing the inventory for the department you’re viewing.</p>
+          <p>At this point 75% of departments have completed their inventories and x% have completed their plans. The Office of the Chief Data Officer will continue to work with departments until all inventories and plans are complete. You can track more detailed metrics about the City’s open data program on the DataSF Dashboard.</p>
+          <p>Start browsing the plans by clicking on the department menu at the top of this narrative.</p>
+        </div>
         <div class="dept-link"></div>
         <p class="mission lead">
         </p>
@@ -25,7 +38,7 @@ js: plans.js
         </p>
       </div>
       <div class="col-md-4 quick-stats">
-        <div id="inventory-incomplete" class="mini-charts-item bgm-lightgreen" style="display:none;">
+        <div id="inventory-incomplete" class="mini-charts-item bgm-lightred" style="display:none;">
           <div class="clearfix">
             <div class="count">
               <p>This department has not completed its dataset inventory.</p>
@@ -78,6 +91,7 @@ js: plans.js
         <table id="inventory" class="display">
           <thead>
             <tr>
+              <th>Inventory ID</th>
               <th>Department or Division</th>
               <th>Dataset Name</th>
               <th>Dataset Description</th>

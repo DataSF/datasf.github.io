@@ -165,7 +165,7 @@ var buildPage = function(dept, url, table) {
         "X-Knack-REST-API-Key": "knack"
       },
       success: function(response) {
-        console.log(response);
+        $("#citywide-narrative").hide();
         if (response.total_records > 0) {
           if (response.records[0].field_44) {
             $("#chart-targeted").show();
@@ -193,7 +193,9 @@ var buildPage = function(dept, url, table) {
     });
   }
   else {
+    $("#citywide-narrative").show();
     $(".mission").html('');
+    $(".dept-link").html('');
     $(".narrative-maintenance").html('');
     $(".narrative-publishing").html('');
     $(".narrative-planning").html('');
@@ -202,7 +204,7 @@ var buildPage = function(dept, url, table) {
   }
 
   if (table) {
-    table.columns(0).search(deptFilter).draw();
+    table.columns(1).search(deptFilter).draw();
   }
 }
 
@@ -216,6 +218,8 @@ $(function() {
   //Dataset inventory
   var table = $('#inventory').DataTable({
     "columns": [{
+      "data": "inventory_id"
+    }, {
       "data": "department_or_division"
     }, {
       "data": "dataset_name"
@@ -238,8 +242,6 @@ $(function() {
 
   $('#select-department').on('change', function(ev) {
     window.location.hash = $(ev.target).val();
-    console.log($(ev.target).text());
-    //buildPage($(ev.target).val(), baseURL, table);
   });
   
   // Bind an event to window.onhashchange that, when the history state changes,
