@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Unstick  Your Open Data Publishing"
+title: "How to Unstick Your Open Data Publishing"
 category: blog
 published: true
 author: joy_bonaguro
