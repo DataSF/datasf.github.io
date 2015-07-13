@@ -1541,6 +1541,13 @@ figcaption a:hover {
   line-height: 1;
 }
 
+#dept-link {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+  border: 1px solid #e91e63;
+  text-align: center;
+  padding: 10px;
+}
+
 .c3 line, .c3 path {
   stroke: #ffffff;
 }

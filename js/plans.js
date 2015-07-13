@@ -1,46 +1,5 @@
 //Functions
 
-var constructFilter = function(string, dept) {
-  if (string == '') {
-    if (!dept || dept == '') {
-      return '';
-    }
-    else {
-      return '&$where=department_or_division="' + dept + '"';
-    }
-  }
-  else {
-    return "&$where=" + string + (dept ? '+AND+department_or_division="' + dept + '"' : '');
-  }
-}
-
-var constructChart = function(options) {
-  var constructed = c3.generate({
-    bindto: options.bindto,
-    size: {
-      height: 100,
-      width: 100
-    },
-    data: options.data,
-    legend: {
-      show: false
-    },
-    padding: {
-      top: 0,
-      right: 0,
-      left: 0,
-      bottom: 0
-    },
-    pie: {
-      label: {
-        show: false
-      }
-    },
-    axis: (options.axis ? options.axis : {})
-  });
-  return constructed;
-}
-
 var buildPage = function(dept, url, table) {
   var deptFilter = dept;
   var baseURL = url;
@@ -174,8 +133,10 @@ var buildPage = function(dept, url, table) {
           else {
             $("#chart-targeted").hide();
           }
+          $('#dept-link').show();
           $(".mission").html((response.records[0].field_21 ? response.records[0].field_21 : ""));
-          $(".dept-link").html((response.records[0].field_21 ? response.records[0].field_28 : ""))
+          $("#dept-link .website-text").html((response.records[0].field_21 ? response.records[0].field_28 : ""));
+          $("#dept-link .website-link").attr('href',(response.records[0].field_21 ? response.records[0].field_28 : ""));
           $(".narrative-maintenance").html((response.records[0].field_17 ? response.records[0].field_17 : ""));
           $(".narrative-publishing").html((response.records[0].field_60 ? response.records[0].field_60 : ""));
           $(".narrative-planning").html((response.records[0].field_59 ? response.records[0].field_59 : ""));
@@ -183,7 +144,7 @@ var buildPage = function(dept, url, table) {
         }
         else {
           $(".mission").html('The plan for ' + deptFilter + ' is not ready yet.');
-          $(".dept-link").html('');
+          $("#dept-link").hide();
           $(".narrative-maintenance").html('');
           $(".narrative-publishing").html('');
           $(".narrative-planning").html('');
@@ -195,7 +156,7 @@ var buildPage = function(dept, url, table) {
   else {
     $("#citywide-narrative").show();
     $(".mission").html('');
-    $(".dept-link").html('');
+    $("#dept-link").hide();
     $(".narrative-maintenance").html('');
     $(".narrative-publishing").html('');
     $(".narrative-planning").html('');

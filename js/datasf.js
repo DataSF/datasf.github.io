@@ -150,3 +150,44 @@ var weeks = dueDate.diff(now, 'weeks');
 $('.due-in').html('in ' + weeks + ' weeks on ');
 
 $('table').addClass('table table-striped');
+
+var constructFilter = function(string, dept) {
+  if (string == '') {
+    if (!dept || dept == '') {
+      return '';
+    }
+    else {
+      return '&$where=department_or_division="' + dept + '"';
+    }
+  }
+  else {
+    return "&$where=" + string + (dept ? '+AND+department_or_division="' + dept + '"' : '');
+  }
+}
+
+var constructChart = function(options) {
+  var constructed = c3.generate({
+    bindto: options.bindto,
+    size: {
+      height: 100,
+      width: 100
+    },
+    data: options.data,
+    legend: {
+      show: false
+    },
+    padding: {
+      top: 0,
+      right: 0,
+      left: 0,
+      bottom: 0
+    },
+    pie: {
+      label: {
+        show: false
+      }
+    },
+    axis: (options.axis ? options.axis : {})
+  });
+  return constructed;
+}
