@@ -117,7 +117,6 @@ $(function() {
           contentType: "application/json; charset=utf-8"
         })
         .done(function(ret) {
-          console.log(ret);
           if (ret.result != "success") {
                 $('#mce-error-response').html(ret.msg);
                 $('#mce-error-response').show();
@@ -157,25 +156,29 @@ var constructFilter = function(string, dept) {
       return '';
     }
     else {
-      return '&$where=department_or_division="' + dept + '"';
+      return '&$where=department_or_division="' + encodeURIComponent(dept) + '"';
     }
   }
   else {
-    return "&$where=" + string + (dept ? '+AND+department_or_division="' + dept + '"' : '');
+    return "&$where=" + string + (dept ? '+AND+department_or_division="' + encodeURIComponent(dept) + '"' : '');
   }
 }
 
 var constructChart = function(options) {
+  if (!options.size) {
+    options.size = {
+      width: 100,
+      height: 100
+    }
+  }
   var constructed = c3.generate({
     bindto: options.bindto,
-    size: {
-      height: 100,
-      width: 100
-    },
+    size: options.size,
     data: options.data,
-    legend: {
+    legend: (options.legend ? options.legend : {
       show: false
-    },
+    }),
+    color: (options.color ? options.color : {}),
     padding: {
       top: 0,
       right: 0,
@@ -189,5 +192,21 @@ var constructChart = function(options) {
     },
     axis: (options.axis ? options.axis : {})
   });
+  
   return constructed;
+}
+
+var transform = function(data, label) {
+  var output = [];
+  var total = 0;
+  $.each(data, function(idx, rec) {
+    output.push([rec[label], rec.count]);
+    total += +rec.count;
+  });
+  if (total == 0) {
+    return false;
+  }
+  else {
+    return output;
+  }
 }

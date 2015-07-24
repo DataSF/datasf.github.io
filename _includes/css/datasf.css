@@ -1415,7 +1415,6 @@ figcaption {
     padding-left: 1.618em;
     padding-right: 1.618em;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
     font-size: 1.2rem;
     line-height: 1.71429;
     margin-bottom: 24px;
@@ -1489,10 +1488,15 @@ figcaption a:hover {
   text-align: right;
 }
 
-.mini-charts-item {
+
+
+.mini-charts-item, .pullout-stat {
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
   position: relative;
   margin-bottom: 30px;
+}
+
+.mini-charts-item {
   min-height: 135px;
 }
 
@@ -1548,11 +1552,11 @@ figcaption a:hover {
   padding: 10px;
 }
 
-.c3 line, .c3 path {
+#plan .c3 line, #plan .c3 path {
   stroke: #ffffff;
 }
 
-.c3 .tick text {
+#plan .c3 .tick text {
   fill: #ffffff;
 }
 
@@ -1657,5 +1661,38 @@ figcaption a:hover {
 }
 
 .publishing-nav {
+  margin-top: 20px;
+}
+
+/* Progress report */
+
+#progress-report .chart {
+  min-height: 200px;
+}
+
+.pullout-stat {
+  text-align: center;
+}
+
+.stat-text {
+  font-size: 1.25em;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.stat-number {
+  font-size: 2.2em;
+  font-family: Alegreya, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.note {
+  font-size: .8em;
+}
+
+.break {
+  margin-top: 30px;
+  border-top: dotted thin #ddd;
+}
+
+.quick-stats .btn-block {
   margin-top: 20px;
 }

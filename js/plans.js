@@ -6,9 +6,9 @@ var buildPage = function(dept, url, table) {
 
   //queries
   var dataQueryString = [
-    '$select=publishing_status,count(dataset_name)',
+    '$select=publishing_status,count(dataset_name)+AS+count',
     '$group=publishing_status',
-    '$order=count_dataset_name+desc'
+    '$order=count+desc'
   ].join('&')
 
   var dataQueryString2 = [
@@ -26,19 +26,14 @@ var buildPage = function(dept, url, table) {
     url: baseURL + "?" + dataQueryString + constructFilter("", deptFilter),
     type: "GET",
     success: function(response) {
-      var output = [];
-      var total = 0;
-      $.each(response, function(idx, rec) {
-        output.push([rec.publishing_status, rec.count_dataset_name]);
-        total += +rec.count_dataset_name;
-      });
-      if (total > 0) {
+      var columns = transform(response,"publishing_status");
+      if (columns) {
         $("#chart-number-published").show();
         $("#chart-published-since").show();
         var opts = {
           bindto: '#chart',
           data: {
-            columns: output,
+            columns: columns,
             type: 'pie',
             colors: {
               "Published": '#ffffff',
@@ -57,14 +52,16 @@ var buildPage = function(dept, url, table) {
           }
         }
         var pie = constructChart(opts);
+        
+        var total = +pie.data.values('Published') + +pie.data.values('Not Published');
         $("#chart-number-published .chart-number").html(Math.round(pie.data.values('Published') / total * 1000) / 10 + '%');
         $("#chart-number-published .ratio").html((pie.data.values('Published') ? pie.data.values('Published') : 0 ) + "/" + total + " datasets");
         $("#inventory-incomplete").hide();
       }
       else {
         $("#chart-number-published").hide();
-         $("#chart-published-since").hide();
-         $("#inventory-incomplete").show();
+        $("#chart-published-since").hide();
+        $("#inventory-incomplete").show();
       }
     }
   });
