@@ -1,15 +1,3 @@
-	<!-- Twitter Cards -->
-	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	{% if page.excerpt %}<meta name="twitter:description" content="{{ page.description | strip_html }}">{% endif %}
-	{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
-	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
-	{% if page.image.feature %}
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image:src" content="{{ site.url }}/img/blog/{{ page.image.feature }}">
-	{% else %}
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:image:src" content="{% if page.image.thumb %}{{ site.url }}/img/blog/{{ page.image.thumb }}{% else %}{{ site.url }}/img/{{ site.logo }}{% endif %}">
-	{% endif %}
 	<!-- Open Graph -->
 	<meta property="og:locale" content="{{ site.locale }}">
 	<meta property="og:type" content="article">
@@ -22,3 +10,16 @@
 	<meta property="og:image" content="{{ site.url }}/img/blog/{{ page.image.thumb }}">
 	{% endif %}
 	<meta property="og:site_name" content="{{ site.title }}">
+	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	{% if page.excerpt %}<meta name="twitter:description" content="{{ page.description | strip_html }}">{% endif %}
+	{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
+	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
+	{% if page.image.feature %}
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image:src" content="{{ site.url }}/img/blog/{{ page.image.feature }}">
+	{% else %}
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image:src" content="{% if page.image.thumb %}{{ site.url }}/img/blog/{{ page.image.thumb }}{% else %}{{ site.url }}/img/{{ site.logo }}{% endif %}">
+	{% endif %}
+	
