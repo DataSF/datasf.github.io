@@ -67,7 +67,7 @@ var buildPage = function(dept, url, table) {
   });
 
   $.ajax({
-    url: baseURL + "?" + dataQueryString2 + constructFilter('month>="2015-01-01"+AND+month+IS+NOT+NULL', deptFilter),
+    url: baseURL + "?" + dataQueryString2 + constructFilter('month>="2015-07-01"+AND+month+IS+NOT+NULL', deptFilter),
     type: 'GET',
     success: function(response) {
       var opts = {
@@ -99,7 +99,7 @@ var buildPage = function(dept, url, table) {
   });
 
   $.ajax({
-    url: baseURL + "?" + dataQueryString3 + constructFilter('date_published>="2015-01-01"', deptFilter),
+    url: baseURL + "?" + dataQueryString3 + constructFilter('date_published>="2015-07-01"', deptFilter),
     type: "GET",
     success: function(response) {
       $("#chart-published-since .chart-number").html(response[0].count);
@@ -147,6 +147,7 @@ var buildPage = function(dept, url, table) {
           $(".narrative-planning").html('');
           $("#chart-targeted").hide();
         }
+        $("#chart-targeted-citywide").hide();
       }
     });
   }
@@ -159,6 +160,7 @@ var buildPage = function(dept, url, table) {
     $(".narrative-planning").html('');
     $("#chart-targeted").hide();
     $("#chart-targeted").hide();
+    $("#chart-targeted-citywide").show();
   }
 
   if (table) {

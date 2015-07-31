@@ -1,6 +1,6 @@
 <!-- Navigation -->
 <div class="nav-group navbar-fixed-top {% if page.is_front != true %} navbar-shrink {% endif %}">
-  <nav class="navbar navbar-mini navbar-static-top visible-md visible-lg" role="region" aria-label="external links">
+  <nav class="navbar navbar-mini navbar-static-top visible-sm visible-md visible-lg" role="region" aria-label="external links">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-2">
@@ -46,7 +46,7 @@
           </li>
           {% endfor %}
           {% for link in site.data.navigation.utility %} {% assign current = nil %} {% if page.dir == link.url %} {% assign current = 'active' %} {% endif %}
-          <li class="{{current}} visible-xs visible-sm utility-nav">
+          <li class="{{current}} visible-xs utility-nav">
             <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
           {% endfor %}

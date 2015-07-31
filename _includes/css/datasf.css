@@ -559,6 +559,36 @@ section p.section-subheading {
 .thin-section h1 {
   margin-top: 0;
 }
+section#progress {
+  text-align: center;
+  background-color: #245f7b;
+}
+
+section#progress .chart {
+  height: 50px;
+}
+
+section#progress .stat-text {
+  color: #ffffff;
+  line-height: 1;
+}
+
+#progress .btn {
+  margin-top: 10px;
+  width: 100%;
+}
+
+@media (min-width: 992px) { 
+#progress .btn {
+  width: 175px;
+}
+section#progress {
+  text-align: left;
+  background-color: #245f7b;
+}
+  
+}
+
 #search-catalog {
   text-align: center;
 }
@@ -1690,6 +1720,7 @@ figcaption a:hover {
 
 .break {
   margin-top: 30px;
+  margin-bottom: 15px;
   border-top: dotted thin #ddd;
 }
 

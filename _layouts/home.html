@@ -1,6 +1,25 @@
 --- 
 layout: default 
+js: home.js
 ---
+<section id="progress" class="thin-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3">
+				<div id="chart0" class="chart">
+					
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div id="stat-total-published" class="stat-text"><span class="stat-number">264</span> Published Datasets</div>
+			</div>
+			<div class="col-md-5">
+				<a href="{{site.baseurl}}/progress" class="btn btn-default">Track our progress</a>
+				<a href="{{site.baseurl}}/publishing/plans" class="btn btn-default">Read the publishing plans</a>
+			</div>
+		</div>
+	</div>
+</section>
 {% include search-catalog.html %}
 <section id="stories" class="bg-light-gray">
   <div class="container">

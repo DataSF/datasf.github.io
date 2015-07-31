@@ -1,22 +1,25 @@
 ---
 layout: default 
-title: DataSF | Progress Report
+title: DataSF | In Progress
 js: progress.js
 ---
 <section id="progress-report">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h1 class="first">Progress Report</h1>
+        <h1 class="first">DataSF In Progress</h1>
         <h2>Plan Progress</h2>
-        <p>Our open data legislation requires 1) an inventory of City datasets and 2) publishing plans from each department. March 31, 2015 was the target date for all departments to complete the dataset inventory. We accept department submissions on a rolling monthly basis. Publishing plans were due contingent on inventory completion and will be updated every six months. </p>
+        <p>Our open data legislation requires 1) an inventory of City datasets and 2) publishing plans from each department. March 31, 2015 was the target date for all departments to complete the dataset inventory. We accept department submissions on a rolling monthly basis. Publishing plans were due contingent on inventory completion and will be updated every six months.</p>
       </div>
       <div class="col-md-4 quick-stats">
         <div id="stat-total-dept" class="stat-text"><span class="stat-number">52</span> Departments</div>
         <div id="stat-inventory" class="stat-text"><span class="stat-number"></span> Inventories Complete</div>
         <div id="stat-plans-complete" class="stat-text"><span class="stat-number"></span> Plans Complete</div>
         <div><a href="{{site.baseurl}}/publishing/plans" class="btn btn-default btn-block">Read the Publishing Plans</a></div>
-        <div><a href="{{site.baseurl}}/publishing/plans" class="btn btn-default btn-block">View Progress by Department</a></div>
+        <div><button class="btn btn-default btn-block collapsed" type="button" data-toggle="collapse" data-target="#statusContainer" aria-expanded="false" aria-controls="collapseTwo">View Progress by Department
+              </button></div>
+        
+        
       </div>
       <div class="col-md-4">
         <h3>Inventory status</h3>
@@ -29,6 +32,19 @@ js: progress.js
         <div id="chart1" class="chart">
           
         </div>
+      </div>
+      <div class="col-md-12 collapse" id="statusContainer">
+        <table id="status" class="display">
+          <thead>
+            <tr>
+              <th>Department or Division</th>
+              <th>Inventory Status</th>
+              <th>Publishing Plan Status</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
       </div>
       <div class="col-md-12 break">
         <h2>Publishing Performance</h2>

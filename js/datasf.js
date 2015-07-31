@@ -210,3 +210,75 @@ var transform = function(data, label) {
     return output;
   }
 }
+
+var processCharts = function(c,baseIDs,queryStrings,options,charts) {
+  $.ajax({
+    url: "https://data.sfgov.org/resource/" + baseIDs[c] + ".json?" + queryStrings[c],
+    type: 'GET',
+    success: function(response) {
+      var opts = {
+        bindto: "#chart" + c,
+        size: {},
+        color: {
+          pattern: ['#133140','#1c485e','#2a6b8c','#378eb9', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896', '#9467bd', '#c5b0d5', '#8c564b', '#c49c94', '#e377c2', '#f7b6d2', '#7f7f7f', '#c7c7c7', '#bcbd22', '#dbdb8d', '#17becf', '#9edae5']
+        }
+      }
+      if (options[c].size) {
+        opts.size = options[c].size
+      }
+      
+      if (options[c].colors) {
+        opts.color = {
+          pattern: options[c].colors
+        }
+      }
+      
+      if (options[c].type == 'pie') {
+        response = transform(response, options[c].label);
+        opts.data = {
+          columns: response,
+          type: 'pie'
+        };
+        opts.legend = {
+          show: true,
+          position: 'right'
+        }
+      }
+      else if (options[c].type == 'timeseries' || options[c].type == 'bar') {
+        opts.data = {
+          xFormat: (options[c].type == 'timeseries' ? '%Y-%m-%dT%H:%M:%S.%L' : ''),
+          json: response,
+          mimeType: 'json',
+          keys: options[c].keys,
+          type: 'bar'
+        }
+        opts.axis = {
+          x: {
+            show: (options[c].x_show == false ? false : true),
+            type: (options[c].type == 'timeseries' ? 'timeseries' : 'category'),
+            tick: {
+              format: (options[c].keys.x == 'month' ? '%b %Y' : (options[c].keys.x == 'year' ? '%Y' : ''))
+            }
+          }
+        };
+      }
+      var chart = constructChart(opts);
+      charts.push(chart);
+      if (c < baseIDs.length - 1) {
+        c++
+        processCharts(c,baseIDs,queryStrings,options,charts);
+      }
+      else {
+        processText(charts);
+        return;
+      }
+    }
+  });
+}
+
+var processText = function(charts) {
+  $('#stat-inventory .stat-number').html(charts[0].data.values('Complete'));
+  $('#stat-plans-complete .stat-number').html(charts[1].data.values('Complete'));
+  $('#stat-inventoried-datasets .stat-number').html( +charts[4].data.values('Published') + +charts[4].data.values('Not Published'));
+  $('#stat-published-datasets .stat-number').html( +charts[4].data.values('Published'));
+}
