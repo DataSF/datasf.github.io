@@ -5,8 +5,8 @@ category: blog
 published: true
 author: joy_bonaguro
 image:
-  thumb: year2_cover.png
-  feature: year2_cover.png
+  thumb: data_love.png
+  feature: data_love.png
 description: "We are so excited to launch our strategic plan for Year 2 - Data in San Francisco: Meeting supply, spurring demand!"
 ---
 
