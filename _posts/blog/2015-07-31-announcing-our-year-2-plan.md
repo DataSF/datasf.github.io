@@ -12,7 +12,7 @@ description: "We are so excited to launch our strategic plan for Year 2 - Data i
 
 We are so excited to launch our strategic plan for Year 2 - Data in San Francisco: Meeting supply, spurring demand!
 
-Read the press release or read the whole thing as a google doc or PDF.
+Read the press release or [read the whole thing as a google doc](https://docs.google.com/document/d/1mqunsT9wXRt-mBbOmY3WcEJmsWSpMOISotZ1WHZ1_IU/edit?usp=sharing) or [PDF](https://drive.google.com/uc?export=download&id=0B-65Qm9J0m0WTExmWnVaZVBNNTA).
 
 ## Transforming our City with Data
 Data can feel dry, boring and academic. At the same time, everyone loves a good story. But every story has a rich vein of data threaded throughout, describing a pattern and illuminating a path forward. It’s only when we link the data narratives that underlie our stories, that we are able to make new connections that lead to new insights about what is working or what is possible. Our Year 2 plan is not about data for data’s sake. It is about transforming how we enrich our understanding, our experience and our City with data.
