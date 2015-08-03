@@ -1727,3 +1727,7 @@ figcaption a:hover {
 .quick-stats .btn-block {
   margin-top: 20px;
 }
+
+OL LI OL {
+  list-style-type: lower-alpha;
+}
