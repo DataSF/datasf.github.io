@@ -17,13 +17,13 @@ $(function() {
   });
   
    $('a.download').on('click', function(ev) {
-    ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).data('download-name'), 1)
+    ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).parent().data('download-name'), 1)
   });
   
 
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
-    return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org|sfha.org)/.test(value);
+    return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org)/.test(value);
   }, "Please enter a valid SFGov email address");
 
   //Reset validator defaults to integrate with Bootstrap 3 conventions
@@ -99,7 +99,7 @@ $(function() {
     });
   });
 
-  $("#mc-embedded-subscribe-form").validate({
+  $("#mc-embedded-subscribe-form-academy").validate({
     rules: {
       EMAIL: {
         required: true,
