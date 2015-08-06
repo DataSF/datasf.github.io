@@ -1,5 +1,5 @@
 ---
-title: Detailed Timeline with Activities
+title: Year 1 Detailed Timeline with Activities
 categories: ["resource"]
 tags: ["Strategic Plan"]
 type: document

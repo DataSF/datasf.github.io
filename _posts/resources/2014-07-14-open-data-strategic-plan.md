@@ -1,5 +1,5 @@
 ---
-title: Open Data Strategic Plan
+title: Year 1 Open Data Strategic Plan
 categories: ['resource']
 tags: ["Strategic Plan"]
 published: True
