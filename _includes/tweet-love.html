@@ -1,0 +1,4 @@
+{% capture tweettext %}
+ {{ include.mention | prepend: 'Thanks for the #opendata ' | append: ' #govlove' }}
+{% endcapture %}
+<a class="btn-social twitter btn-block" style="text-align: center;" href="https://twitter.com/intent/tweet?text={{ tweettext | escape | replace:' ','%20' | replace: '#','%23' | replace: '@','%40' }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Tweet your appreciation</a>
