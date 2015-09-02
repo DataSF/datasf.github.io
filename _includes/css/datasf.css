@@ -1731,3 +1731,7 @@ figcaption a:hover {
 OL LI OL {
   list-style-type: lower-alpha;
 }
+
+.toc-wrap.affix {
+  top: 102px;
+}
