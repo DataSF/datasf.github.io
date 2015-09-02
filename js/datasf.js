@@ -1,6 +1,25 @@
 ---
 ---
 $(function() {
+  if (typeof $.fn.toc == 'function') { 
+    $('#article-toc').toc({
+      'container':'article',
+      'scrollToOffset':110,
+      'prefix':'toc',
+      'anchorName': function(i, heading, prefix) {
+        return prefix+i;
+    }});
+    
+    var affix = $('.toc-wrap');
+    var width = $('.sidebar').width();
+    affix.width(width);
+    
+    $('.toc-wrap').affix({
+      offset: {
+        top: $('.toc-wrap').offset().top - 102
+      }
+    })
+  }
   
   $('[data-toggle="tooltip"]').tooltip();
 
