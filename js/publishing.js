@@ -11,7 +11,5 @@ $(function() {
     var htmlOutput = template.render(response);
     $(".recent-datasets").html(htmlOutput);
   });
-  
-  $('#toc').toc({'container':'article','scrollToOffset':110});
 
 });
