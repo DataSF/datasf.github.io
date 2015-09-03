@@ -59,7 +59,7 @@ You can [read a longer description of the job on Google Docs](https://docs.googl
 
 The job post is now live so you can:
 
- 1. [Go go here for the official post and complete your application](http://www.jobaps.com/SF/sup/bulpreview.asp?R1=PEX&R2=1043&R3=066002). Don't forget to include a cover letter and a resume with your application.
+ 1. [Go here for the official post and complete your application](http://www.jobaps.com/SF/sup/bulpreview.asp?R1=PEX&R2=1043&R3=066002). Don't forget to include a cover letter and a resume with your application.
 
 ##Equal Employment Opportunity
 The City and County of San Francisco is committed to equal employment opportunity. [Read more about our equal employment opportunity policy](http://www.sfdhr.org/index.aspx?page=33).
