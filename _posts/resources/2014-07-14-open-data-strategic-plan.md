@@ -10,6 +10,7 @@ downloads:
   url: 'https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing'
 - type: PDF
   url: 'https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/export?format=pdf'
+sitemap: false
 ---
 
 Our strategic plan covers our 6 core goals and supporting strategies for next 3 years. Updated annually.

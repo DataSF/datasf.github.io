@@ -9,5 +9,6 @@ downloads:
 - type: PDF
   url: "https://drive.google.com/file/d/0B3XTBxBQSd0hX0MzWnRodTVVNG8/view?usp=sharing"
 fordc: true
+sitemap: false
 ---
 1 page flyer explaining the 3 step data inventory process.

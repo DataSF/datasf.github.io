@@ -18,11 +18,11 @@ defaults:
   -
     scope:
       path: "resources"
-      type: "posts"
+      layout: null
     values:
-      hidden: true
       sitemap: false
-
+      hidden: true
+      
 # Site settings
 title: DataSF
 email: datasf@sfgov.org

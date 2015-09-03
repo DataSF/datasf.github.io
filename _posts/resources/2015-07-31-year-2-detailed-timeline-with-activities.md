@@ -10,6 +10,7 @@ downloads:
   url: https://docs.google.com/spreadsheets/d/1rxXSf6Rsu2tJxV9gEnRWuVzcbfSmJrpwj-b_T8u8TWs/edit?usp=sharing
 - type: Excel
   url: https://docs.google.com/spreadsheets/d/1rxXSf6Rsu2tJxV9gEnRWuVzcbfSmJrpwj-b_T8u8TWs/export?format=xlsx
+sitemap: false
 ---
 
 Track our progress against our 3 year plan. Updated quarterly and subject to changes based on need.

@@ -8,5 +8,6 @@ downloads:
 - type: YouTube
   url: "https://www.youtube.com/watch?v=sJn6vdaebmU"
 fordc: true
+sitemap: false
 ---
 This webinar covers the tools available for San Francisco Data Coordinators to complete the dataset inventory.

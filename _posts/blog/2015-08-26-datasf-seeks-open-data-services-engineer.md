@@ -3,7 +3,6 @@ layout: post
 title: "Join Us! Seeking service-oriented technologist to scale open data"
 category: blog
 published: true
-tags: ['job']
 author: joy_bonaguro
 image:
   thumb: job-post/sf_hearts.jpg

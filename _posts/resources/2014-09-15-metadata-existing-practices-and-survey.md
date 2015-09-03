@@ -8,5 +8,6 @@ downloads:
 - type: Google Sheet
   url: "https://docs.google.com/document/d/1dz_-yWePLvfNPX8KZRn2SiP1SCpFcojZeO-8U8SPXgE/edit?usp=sharing"
 type: document
+sitemap: false
 ---
 Research by our intern on best practices in metadata standards and recommendations for DataSF.

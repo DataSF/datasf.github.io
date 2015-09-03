@@ -10,5 +10,6 @@ downloads:
 - type: PDF
   url: "https://docs.google.com/document/d/1nT4EF6C8so2Qv6Y61MMn2FH-IATrOymfk0Z9A3DvN6w/export?format=pdf"
 type: document
+sitemap: false
 ---
 Research and recommendations by our intern on data licensing for DataSF.

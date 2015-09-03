@@ -3,7 +3,6 @@ layout: post
 title: "SF Open Data Quarterly Roundup"
 category: blog
 published: true
-tags: ['open data roundup']
 author: jason_lally
 image:
   thumb: inclusionary_map.png
