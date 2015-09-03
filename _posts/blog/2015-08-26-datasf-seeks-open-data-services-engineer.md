@@ -56,10 +56,10 @@ We would love applicants who also meet the following:
 You can [read a longer description of the job on Google Docs](https://docs.google.com/document/d/1Z2dxCeDVedmH3Z5Cvs_x-z1cygePjJoI8saPKjJUS9Q/edit?usp=sharing) or [as a PDF](https://docs.google.com/document/d/1Z2dxCeDVedmH3Z5Cvs_x-z1cygePjJoI8saPKjJUS9Q/export?format=pdf)
 
 ##How to apply
-We're getting the word out early, so there isn't an official post yet, but you can do the following to get ready:
 
- 1. [Sign up on this list so we can let you know when the job is posted (next week or two)](https://docs.google.com/forms/d/1icbddjfRi29RMtkFAU7ZQvYzuqrM5j-DpPxKUL0Hd2Y/viewform).
- 2. Get a head start by getting your name in the system. It's a little cumbersome, but you can start by [creating a "master application" in the SF Jobs System](http://www.jobaps.com/SF/sup/bulpreview.asp?R1=AF0&R2=0000&R3=000000). This will make it easier to apply to the job when we post it.
+The job post is now live so you can:
+
+ 1. [Go go here for the official post and complete your application](http://www.jobaps.com/SF/sup/bulpreview.asp?R1=PEX&R2=1043&R3=066002). Don't forget to include a cover letter and a resume with your application.
 
 ##Equal Employment Opportunity
 The City and County of San Francisco is committed to equal employment opportunity. [Read more about our equal employment opportunity policy](http://www.sfdhr.org/index.aspx?page=33).
