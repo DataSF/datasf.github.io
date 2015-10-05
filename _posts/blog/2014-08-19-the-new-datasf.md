@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: The New DataSF!
 date: 2014-08-19 20:51:00.000000000 -07:00
 category: blog

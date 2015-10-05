@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: Announcing our Graduate Student Summer Internship Opportunity
 date: 2015-03-20
 category: blog

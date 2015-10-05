@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: "DataSF’s corner of the web: building lighter and faster"
 date: 2015-04-06 21:33:12
 category: blog
@@ -50,9 +50,9 @@ For example. If you want to emphasize text, you can do the following:
 
 ```
 
-What's awesome about this, is that it gives a very simple way to write content without worrying about HTML. And then with Jekyll, we take these simple documents and turn them into content formatted for the web. So that [this](https://raw.githubusercontent.com/DataSF/datasf.github.io/master/_posts/blog/2015-04-06-building-lighter-and-faster.md) becomes the blog post you're looking at now.
+What's awesome about this, is that it gives a very simple way to write content without worrying about HTML. And then with Jekyll, we take these simple documents and turn them into content formatted for the web. So that [this](https://raw.githubusercontent.com/DataSF/datasf.github.io/master/_blog-posts/blog/2015-04-06-building-lighter-and-faster.md) becomes the blog blog-post you're looking at now.
 
-Additionally, we can add data about the post and use it in our templates. For example at the front of this blog post markdown file is the following:
+Additionally, we can add data about the blog-post and use it in our templates. For example at the front of this blog blog-post markdown file is the following:
 
 ```yaml
 
@@ -70,9 +70,9 @@ description: "When Joy first started as Chief Data Officer, DataSF, the program,
 ---
 ```
 
-This metadata, called "YAML front-matter" in Jekyll parlance can be used to do things like, display the author and updated date and define a thumbnail for the post.
+This metadata, called "YAML front-matter" in Jekyll parlance can be used to do things like, display the author and updated date and define a thumbnail for the blog-post.
 
-There's lots of other fun things you can do like compile RSS feeds and build resource libraries, but I'll leave that for future posts.
+There's lots of other fun things you can do like compile RSS feeds and build resource libraries, but I'll leave that for future blog-posts.
 
 ## And where does it live?
 

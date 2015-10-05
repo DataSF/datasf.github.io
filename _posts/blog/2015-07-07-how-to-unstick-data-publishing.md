@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: "How to Unstick Your Open Data Publishing"
 category: blog
 published: true
@@ -31,7 +31,7 @@ Ultimately, our departments have to set aside time and resources to publish data
 We then assigned an initial priority level per the picture below and asked departments to revise it as needed.
 
 <figure>
-	<img src="{{ site.baseurl }}/img/blog/PrioritizationGrid-DataSF.png">
+	<img src="{{ site.baseurl }}/assets/img/blog/PrioritizationGrid-DataSF.png">
 	<figcaption>This grid was used to help guide departments in assigning an initial priority.</figcaption>
 </figure>
 

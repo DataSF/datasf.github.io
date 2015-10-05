@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: Housing Data Hub - from Open Data to Information
 category: blog
 published: true
@@ -13,7 +13,7 @@ Today we launched the Housing Data Hub - your go to resource to learn about hous
 This is also the first of what we hope to be a series of strategic open data releases over time. Read more about that below or check out [the Hub](http://housing.datasf.org), which [took a village](http://housing.datasf.org/about/#acknowledgements) to create!
 
 ##Evolution of Open Data: Strategic Releases
-The Housing Data Hub is also born out of a belief that simply publishing data is no longer sufficient. Open data programs need to take on the role of adding value to open data versus simply posting it and hoping for its use. Moreover, we are learning how important context is to understanding government datasets. While [metadata](http://datasf.org/blog/u-heart-metadata/) is an essential part of context, it’s a starting not endpoint.
+The Housing Data Hub is also born out of a belief that simply publishing data is no longer sufficient. Open data programs need to take on the role of adding value to open data versus simply blog-posting it and hoping for its use. Moreover, we are learning how important context is to understanding government datasets. While [metadata](http://datasf.org/blog/u-heart-metadata/) is an essential part of context, it’s a starting not endpoint.
 
 For us a strategic release is one or more key datasets + a data product. A data product can be a report, a website, an analysis, a package of visualizations, an article...you get the idea. The key point: you have done something beyond simply publishing the data. You provide context and information that transforms the data into insights or helps inform a conversation. (P.S. That’s also why we are excited about Socrata’s [new dataset user experience](http://www.socrata.com/rethink) for our open data platform).
 
@@ -35,4 +35,4 @@ And leverage the open data program to expose the key datasets and provide contex
 We also think this is a key part of broadening the value of open data. Open data portals have focused more on a technical audience (what we call our citizen programmers). Strategic releases can help democratize how governments disseminate their data for a local audience that may be focused on issues in addition to the apps and services built on government data. It can also be a means to increase internal buyin and support for open data.
 
 ##Next steps
-As part of our rolling release, we will continue to work to automate the datasets feeding the hub. You can read more about our [rollout process](http://housing.datasf.org/about/#our-process), inspired by the UK Government Digital Service. We’ll also follow up with technical post on the platform, which is [available on GitHub](https://github.com/datasf/housing-data-hub), including how we are consuming the data via our open data APIs.
+As part of our rolling release, we will continue to work to automate the datasets feeding the hub. You can read more about our [rollout process](http://housing.datasf.org/about/#our-process), inspired by the UK Government Digital Service. We’ll also follow up with technical blog-post on the platform, which is [available on GitHub](https://github.com/datasf/housing-data-hub), including how we are consuming the data via our open data APIs.

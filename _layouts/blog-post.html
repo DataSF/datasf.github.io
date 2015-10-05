@@ -15,7 +15,7 @@ layout: default
           <div class="page-feature">
             <div class="page-image">
               <figure>
-              <img src="{{ site.baseurl }}/img/blog/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image"> {% if page.image.credit %}{% include image-credit.html %}{% endif %}
+              <img src="{{ site.baseurl }}/assets/img/blog/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image"> {% if page.image.credit %}{% include image-credit.html %}{% endif %}
               {% if page.image.caption %}
               <figcaption>{{page.image.caption}}
               {%if page.image.source %} <br>Source: "<a rel="nofollow" class="external text" href="{{page.image.source.source_link}}">{{page.image.source.title}}</a>" by <a rel="nofollow" class="external text" href="{{page.image.source.author_link}}">{{page.image.source.author}}</a> is licensed under <a rel="nofollow" class="external text" href="{{page.image.source.license_link}}">{{page.image.source.license}}</a> 

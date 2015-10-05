@@ -1,7 +1,7 @@
 ---
-layout: publishing
+layout: fixed
 permalink: /publishing/automation/
-title: DataSF | Publishing Automation
+title: Publishing Automation
 section: publishing-guidelines
 toc: true
 js: publishing.js

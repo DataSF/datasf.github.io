@@ -22,11 +22,18 @@ defaults:
     values:
       sitemap: false
       hidden: true
+  -
+    scope:
+      path: "blog"
+    values:
+      layout: "blog-post"
+      category: "blog"
+    
       
 # Site settings
 title: DataSF
 email: datasf@sfgov.org
-description: "Our mission is to enable use of the City and County of San Francisco's data. Our core product is SF OpenData, the official open data portal."
+description: "Our mission is to empower use of the City and County of San Francisco's data. Our core product is SF OpenData, the official open data portal."
 locale: en_US
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -98,7 +105,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 prose:
-  siteurl: "http://datasf.github.io/datasf-website"
+  siteurl: "http://datasf.org"
   media: "uploads"
   metadata:
     _posts/resources:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: Data License Liberation Day
 date: 2015-01-23 09:00:00
 category: blog
@@ -9,7 +9,7 @@ image:
   thumb: DataUnlocked-01.png
 description: It’s official – we have legal sign off on a single licensing strategy for DataSF! Going forward, all data will be released under the friendly, no obligation Public Domain Dedication License (PDDL).
 ---
-<img class="pull-left" style="margin-right: 10px; width: 230px;" src="{{site.baseurl}}/img/blog/DataUnlocked-01.png" alt="Icon representing unlocked data" >
+<img class="pull-left" style="margin-right: 10px; width: 230px;" src="{{site.baseurl}}/assets/img/blog/DataUnlocked-01.png" alt="Icon representing unlocked data" >
 
 It’s official – we have legal sign off on a single licensing strategy for [DataSF](https://data.sfgov.org/)! Going forward, all data will be released under the friendly, no obligation Public Domain Dedication License (PDDL). [Read the super cute friendly description](http://opendatacommons.org/licenses/pddl/summary/).
 

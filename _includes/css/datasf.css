@@ -379,7 +379,7 @@ a:active {
   border: none;
 }
 .navbar-mini .container {
-  background: url('{{site.baseurl}}/img/city_seal_white.png') no-repeat;
+  background: url('{{site.baseurl}}/assets/img/city_seal_white.png') no-repeat;
   background-position: left 0 top -50px;
   background-position-x: 0;
   background-position-y: -50px;
@@ -451,7 +451,7 @@ a:active {
   }
 }
 header {
-  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url({{site.baseurl}}/img/sf-bg.jpg);
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url({{site.baseurl}}/assets/img/sf-bg.jpg);
   background-position: center center;
   background-repeat: none;
   -webkit-background-size: cover;
@@ -890,7 +890,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #222;
-  background-image: url({{site.baseurl}}/img/map-image.png);
+  background-image: url({{site.baseurl}}/assets/img/map-image.png);
   background-position: center;
   background-repeat: no-repeat;
 }

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: "Welcome to DataSF's new home"
 date: 2015-04-06 21:33:12
 category: blog

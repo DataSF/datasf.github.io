@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: Hello World, Take 2!
 date: 2014-06-20 08:40:24.000000000 -07:00
 category: blog
@@ -11,11 +11,11 @@ So...we've been a bit quiet about open data in San Francisco. In case anyone was
 
 I started this spring as the City's first Chief Data Officer. This is what we’ve been up to:
 
-**Talking. Alot.** I’ve been spending a lot of time getting to know people working both inside and outside of the City (or in partnership). Along the way, I’ve been learning a lot about our challenges with data use and access, but I’ve also learned a great deal about some amazing work. I’ll be featuring some of these stories in future posts. One thing I’ve learned - the City’s data is a complex ecosystem and it will take time to unfurl and understand.
+**Talking. Alot.** I’ve been spending a lot of time getting to know people working both inside and outside of the City (or in partnership). Along the way, I’ve been learning a lot about our challenges with data use and access, but I’ve also learned a great deal about some amazing work. I’ll be featuring some of these stories in future blog-posts. One thing I’ve learned - the City’s data is a complex ecosystem and it will take time to unfurl and understand.
 
 **Planning and Defining.** I’ve been pulling together a strategic vision for the next 3 years. The full plan will be available online shortly - look for it on this blog. Part of the plan is defining the role of Chief Data Officer and where it fits and how does open data overlap with, complement or frustrate existing data work. I expect the plan to change (even substantively) over time, but we need something to serve as a compass to guide our path forward.
 
-**Starting to execute.** We have started work on a number of things. I’ll be posting more about each of these. The short (and incomplete) list is:
+**Starting to execute.** We have started work on a number of things. I’ll be blog-posting more about each of these. The short (and incomplete) list is:
 
 *   **Portal Overhaul.** [DataSF](https://data.sfgov.org/) is in serious need of a facelift! And if you have feedback, tell us in this [5-10 minute survey](https://docs.google.com/forms/d/135Mghbh-QQWd119byd6IkJ7gbZJQHdLyZ5Qh_VpCGkU/viewform). It has fun questions like "If DataSF were a car, what car would it be?"
 *   **Data Categories.** Part of overhauling DataSF is sorting through how we categorize our data to facilitate data discovery. We have 27 categories - way too much. We’ll be simplifying this.

@@ -1,7 +1,7 @@
 ---
-layout: publishing
+layout: fixed
 permalink: /publishing/guidelines/
-title: DataSF | Publishing Guidelines
+title: Publishing Guidelines
 section: publishing-guidelines
 toc: true
 js: publishing.js
@@ -16,7 +16,7 @@ One of the cool things about open data is that people are always surprising us b
 
 For example, if you collect data on fruit and vegetable purchases, you could publish summarized or raw data. In the picture below, if you publish the raw data - you can derive the other two. Publishing your raw data is the best way to foster new uses! We understand, of course, your ability to publish in raw formats may be limited by legal and privacy constraints, so that’s why it's the rawest form **possible**.
 
-!['Getting to raw, just like fruits and veggies']({{site.baseurl}}/img/publishing/fruits_veggies.png)
+!['Getting to raw, just like fruits and veggies']({{site.baseurl}}/assets/img/publishing/fruits_veggies.png)
 
 ##Include the dataset steward in the publishing process
 Data stewards are responsible for the dataset and can answer questions about the data and help make decisions about how to publish it. You should not be publishing a dataset without input from the data steward. They are key to helping us actively manage and answer dataset questions. 

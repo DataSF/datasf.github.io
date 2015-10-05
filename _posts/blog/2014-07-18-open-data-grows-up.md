@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: blog-post
 title: Open Data Grows Up
 date: 2014-07-18 17:39:45.000000000 -07:00
 category: blog
 tags: []
-type: post
+type: blog-post
 published: true
 author: joy_bonaguro
 image:
@@ -15,7 +15,7 @@ We released our multi-year strategic plan today! [Read the press release](http:/
 
 You can read the whole thing as a [PDF](http://sfmayor.org/Modules/ShowDocument.aspx?documentID=425) or [google doc](https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing). If you want a quick read, I pasted the executive summary below. You can also track details on our progress on our [timeline of activities](https://docs.google.com/spreadsheets/d/1M30oyAFUO6TXkmZ1jqGXTNGdvsTiXh5V7oS7vUCKRJ0/edit?usp=sharing) (google spreadsheet).
 
-(And PS - we added a [resources page](/resources) to the blog where we'll post all of our documents - reuse, re-purpose, critique!)
+(And PS - we added a [resources page](/resources) to the blog where we'll blog-post all of our documents - reuse, re-purpose, critique!)
 
 ## Executive Summary
 

@@ -21,7 +21,7 @@
   {% if page.author %}
     {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
   {% endif %}
-  {% include open-graph.html %}
+  {% include structure/open-graph.html %}
   {% if author.google.plus %}<link rel="author" href="https://plus.google.com/+{{ author.google.plus }}"/>{% endif %}
   
   <!-- Custom Fonts 
@@ -31,8 +31,8 @@
   
   <!-- CSS
   ================================================== -->
-  <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/syntax.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="//cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.css">
   
   <!--[if lte IE 9]><script src="{{site.baseurl}}/aight/aight.min.js"></script><![endif]-->
@@ -48,7 +48,7 @@
   
   <!-- Scripts
   ================================================== -->
-  <script src="{{ "/js/vendor/modernizr.custom.94053.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/assets/js/vendor/modernizr.custom.94053.js" | prepend: site.baseurl }}"></script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

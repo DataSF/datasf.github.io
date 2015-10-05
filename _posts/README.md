@@ -1,11 +1,3 @@
-DataSF Homepage
-==============
-This repository contains DataSF's website, [http://datasf.org](http://datasf.org).
-
-##Publishing a blog post
-
-Go to the [DataSF Blogging Guide](https://github.com/datasf/datasf.github.io/tree/staging/_posts/README.md) to read how you can write and publish a blog post.
-
 ###Drafting
 Blog posts will eventually need to be written in markdown. You can draft in Google docs or use a tool like [Stackedit](https://stackedit.io) to author directly in markdown. If you author in Google Docs, you can use [Gdocs2md](https://github.com/mangini/gdocs2md) to convert your document into markdown.
 
@@ -38,6 +30,3 @@ image:
 description: "Today we launched the Housing Data Hub - your go to resource to learn about housing programs in San Francisco and the data behind them. This is also the first of what we hope to be a series of strategic open data releases over time."
 ---
 ```
-
-##Creating a new page
-Pages are created at 

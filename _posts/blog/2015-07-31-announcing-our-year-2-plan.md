@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: "Announcing our Year 2 Strategic Plan!"
 category: blog
 published: true
