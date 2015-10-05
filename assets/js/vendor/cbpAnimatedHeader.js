@@ -57,7 +57,7 @@ $(document).scroll(function() {
   	'background': 'linear-gradient(rgba(36,95,123,' + opac + '),rgba(36,95,123,' + opac + '))'
   });
   $('header').css({
-    'background': 'linear-gradient(rgba(36,95,123,' + opac + '),rgba(36,95,123,' + opac + ')), url(../img/sf-bg.jpg)',
+    'background': 'linear-gradient(rgba(36,95,123,' + opac + '),rgba(36,95,123,' + opac + ')), url(../assets/img/sf-bg.jpg)',
     'background-repeat': 'no-repeat',
     'background-size': 'cover',
     'background-position': 'center center'
