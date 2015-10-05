@@ -8,7 +8,7 @@ Blog posts will eventually need to be written in markdown. You can draft in Goog
 Have someone on the team take a look at the post in it's draft form for feedback. Once it looks good, we will send it to the City's communications team for review and approval.
 
 ###Creating a blog post file
-To create a new blog post, save your post in the [`_posts` directory](https://github.com/datasf/datasf.github.io/tree/staging/_posts) with the name `2015-02-23-new-post.md` where '2015-02-23' is today's date and `new-post` is the title of your post.
+To create a new blog post, save your post in the [`_posts` directory](https://github.com/datasf/datasf.github.io/tree/staging/_posts/blog) with the name `2015-02-23-new-post.md` where '2015-02-23' is today's date and `new-post` is the title of your post.
 
 ####Include metadata in your post
 
