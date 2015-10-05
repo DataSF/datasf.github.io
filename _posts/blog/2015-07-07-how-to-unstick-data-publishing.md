@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "How to Unstick Your Open Data Publishing"
-category: blog
-published: true
 author: joy_bonaguro
 image:
-  thumb: big_red_button.jpg
-  feature: big_red_button.jpg
+  thumb: unstick-data/big_red_button.jpg
+  feature: unstick-data/big_red_button.jpg
   caption: "There's no big red publish button, unfortunately, but there are strategies to get data published."
   source:
     title: The Big Red Button
@@ -31,7 +28,7 @@ Ultimately, our departments have to set aside time and resources to publish data
 We then assigned an initial priority level per the picture below and asked departments to revise it as needed.
 
 <figure>
-	<img src="{{ site.baseurl }}/img/blog/PrioritizationGrid-DataSF.png">
+	<img src="/assets/blog/unstick-data/PrioritizationGrid-DataSF.png">
 	<figcaption>This grid was used to help guide departments in assigning an initial priority.</figcaption>
 </figure>
 
@@ -48,7 +45,7 @@ We are still building this, but basically, it works like this:
  2. We are building a lightweight endorsement application on top of it (more on that later)
 
 ## Strategy 3: Strategic or Thematic Releases 
-We've [written about this before]({{site.baseurl}}/blog/housing-data-hub-launched/). Strategic releases are the publication of 1 or more datasets + a data product. The [Housing Data Hub](http://housing.datasf.org/) is one. For strategic releases, we'll leverage additional resources from the open data program.
+We've [written about this before](/blog/housing-data-hub-launched/). Strategic releases are the publication of 1 or more datasets + a data product. The [Housing Data Hub](http://housing.datasf.org/) is one. For strategic releases, we'll leverage additional resources from the open data program.
 
 ### Key Criteria ###
 To be a strategic release, it must meet several key criteria:

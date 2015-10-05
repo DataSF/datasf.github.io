@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {% include head.html %}
+  {% include structure/head.html %}
 
 		<!--[if lt IE 9 ]>
    <body id="page-top" class="index {% if page.is_front != true %} not-front {% endif %} ie8">
@@ -9,10 +9,9 @@
 	<!--[if (gte IE 9)|!(IE)]>-->
    <body id="page-top" class="index {% if page.is_front != true %} not-front {% endif %}">
 	<!--<![endif]-->
-    {% include header.html %}
+    {% include structure/header.html %}
     {{ content }}
-    {% include footer.html %}
-    {% include js.html %}
-
+    {% include structure/footer.html %}
+    {% include structure/js.html %}
     </body>
 </html>

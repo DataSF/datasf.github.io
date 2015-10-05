@@ -1,17 +1,14 @@
 ---
-layout: post
 title: "Raising the digital barn, or how we're building the Housing Data Hub"
-category: blog
-published: true
 author: jason_lally
 image:
-  thumb: white_board_NDoCH.jpg
-  feature: white_board_NDoCH.jpg
+  thumb: digital-barn/white_board_NDoCH.jpg
+  feature: digital-barn/white_board_NDoCH.jpg
   caption: National Day of Civic Hacking 2014 brought together lots of ideas and a working prototype. That work influences the approach to this day.
 description: "The Housing Data Hub was born out of the notion that in order to mature our open data practice at the City, we needed to diversify our approach to publishing data. In the City’s open data strategy, a quick look at datasets over time reveals a publishing stagnation."
 ---
 
-A couple weeks ago, [we announced the Housing Data Hub](http://datasf.org/blog/housing-data-hub-launched/)! In this post, read about our technical and process approach to building the hub and what's next.
+A couple weeks ago, [we announced the Housing Data Hub](http://datasf.org/blog/housing-data-hub-launched/)! In this blog-post, read about our technical and process approach to building the hub and what's next.
 
 ##Prototyping together: the Housing Data Hub as process
 The [Housing Data Hub](http://housing.datasf.org) was born out of the notion that in order to mature our open data practice at the City, we needed to diversify our approach to publishing data. In the [City's open data strategy](https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing), a quick look at datasets over time reveals a publishing stagnation. While the inventory process will help us bring institutional focus and planning to citywide data, Joy hit on the idea early on that we also needed to release datasets strategically around common themes or topics. Housing affordability is our first one.
@@ -32,13 +29,13 @@ It was hard to iterate fast enough to get content in for review by our content p
 After huddling and laying out the options, we decided to adopt a lighter weight approach. It turned out we didn't really need full CMS-like capability. The content could be edited in iterations outside the website, and once the content was set, changes would be infrequent. Any CMS capabilities that ended up being built would go underused. It just didn't make sense to apply the effort there. Instead, we focused on making it easy to configure visuals and consume external data sources. We leaned on emerging [CMS-less](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/) [practices](http://thinkshout.com/blog/2014/10/success-building-cmsless-production-sites-with-jekyll/) for content including using [Prose.io](http://prose.io) as a basic editing interface.
 
 ####From database to dogfood
-And instead of using a separate database via Ruby on Rails - we used [open data APIs from our portal](http://dev.socrata.com/docs/endpoints.html). This allows us to have the data in a single place and use the same set of tools as our open data portal users. This approach is often referred to as dogfooding, which you can [read more about in the great post by Anthea Watson Strong](https://medium.com/@antheaws/hey-uncle-sam-eat-your-own-dogfood-9f0c110c13c8).
+And instead of using a separate database via Ruby on Rails - we used [open data APIs from our portal](http://dev.socrata.com/docs/endpoints.html). This allows us to have the data in a single place and use the same set of tools as our open data portal users. This approach is often referred to as dogfooding, which you can [read more about in the great blog-post by Anthea Watson Strong](https://medium.com/@antheaws/hey-uncle-sam-eat-your-own-dogfood-9f0c110c13c8).
 
 And we were able to save much of the original front-end work from National Day of Civic Hacking weekend ([sign up for 2015](http://codeforsanfrancisco.org/hackforchange/)) even though we changed the underlying technology. Ultimately, I don't see this as a failure, but as an important learning moment and maybe even a necessary part of working in the open. We had to travel down some roads to discover what would work, and being able to put eyes on some code helped us crystallize the approach.
 
 <!--
 <figure>
-	<img src="{{ site.baseurl }}/img/blog/white_board_NDoCH.jpg">
+	<img src="{{ site.baseurl }}/assets/img/blog/white_board_NDoCH.jpg">
 	<figcaption>National Day of Civic Hacking 2014 brought together lots of ideas and a working prototype. That work influences the approach to this day.</figcaption>
 	Manu Koenig (right) works on the white board with Victoria Ngo (left), designing what would become the start of the Housing Data Hub interface.
 </figure>
@@ -72,7 +69,7 @@ We'll work on getting some issues up on the repo and working more with civic hac
 Now that we've gone deep, we're thinking broad. What if we want to spin up something similar again? Or what if another city would like to do the same? After we get the fundamentals down with the refactor, we'll be looking to abstract the approach so others can follow suit. At a minimum, this means really great documentation, cleaning out the specific content, and using good conventions to maintain the project.
 
 <figure>
-	<img src="{{ site.baseurl }}/img/blog/get_dataset.png">
+	<img src="/assets/blog/digital-barn/get_dataset.png">
 	<figcaption>A "Get the source dataset" button exists wherever there is raw data available on the open data portal. Over time, all visuals will have this link.</figcaption>
 </figure>
 

@@ -1,27 +1,27 @@
 ---
-layout: post
+layout: blog-post
 title: Open Data Grows Up
 date: 2014-07-18 17:39:45.000000000 -07:00
 category: blog
 tags: []
-type: post
+type: blog-post
 published: true
 author: joy_bonaguro
 image:
-  thumb: open-data-theory-of-change.png
+  thumb: open-data-grows-up/open-data-theory-of-change.png
 description: We released our multi-year strategic plan today! You can learn about our strategic plan and track our progress over time.
 ---
 We released our multi-year strategic plan today! [Read the press release](http://sfmayor.org/index.aspx?page=846&amp;recordid=639&amp;returnURL=%2findex.aspx%3fpage%3d1).
 
 You can read the whole thing as a [PDF](http://sfmayor.org/Modules/ShowDocument.aspx?documentID=425) or [google doc](https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing). If you want a quick read, I pasted the executive summary below. You can also track details on our progress on our [timeline of activities](https://docs.google.com/spreadsheets/d/1M30oyAFUO6TXkmZ1jqGXTNGdvsTiXh5V7oS7vUCKRJ0/edit?usp=sharing) (google spreadsheet).
 
-(And PS - we added a [resources page](/resources) to the blog where we'll post all of our documents - reuse, re-purpose, critique!)
+(And PS - we added a [resources page](/resources) to the blog where we'll blog-post all of our documents - reuse, re-purpose, critique!)
 
 ## Executive Summary
 
 San Francisco has been a leader in open data. As one of the first cities with an open data policy, we helped fuel a movement that has spread across the country and the world. Open data can serve as a platform to 1) change how we use, share and consume government data - externally and internally; 2) transform data into services; and 3) foster continuous improvement in decision-making and the business of government.
 
-![Open Data- Theory of Change (1)]({{site.baseurl}}/assets/Open-Data-Theory-of-Change-1.png)</a>
+![Open Data- Theory of Change (1)](/assets/blog/open-data-grows-up/open-data-theory-of-change.png)</a>
 
 ### Need to Evolve.
 

@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: blog-post
 title: "SF Open Data Quarterly Roundup"
 category: blog
 published: true
 author: jason_lally
 image:
-  thumb: inclusionary_map.png
-  feature: inclusionary_map.png
+  thumb: quarterly-1/inclusionary_map.png
+  feature: quarterly-1/inclusionary_map.png
   caption: "The map of inclusionary units on the <a href='http://housing.datasf.org'>housing data hub</a> is powered by one of the datasets published in the beginning of this year by the Mayor's Office of Housing and Community Development."
 description: "A lot of love goes into publishing datasets to the open data portal. Explore more recently published data and show some appreciation to the publishing departments in our first quarterly open data roundup."
 ---
@@ -76,7 +76,7 @@ Below is our first dataset roundup organized by category. Future roundups will c
 
 [**SF Development Pipeline 2015 Q1**](http://data.sfgov.org/d/2cma-9y6y) - The Planning Department publishes a [quarterly report tracking the development pipeline in San Francisco](http://sf-planning.org/index.aspx?page=1691). The latest one is for the first quarter of 2015.
 
-[**Annual Allowable Rent Increase for Units Under Rent Control**](http://data.sfgov.org/d/hsxb-ci7b) - In accordance with [Rules and Regulations Section 1.12](http://bit.ly/17Oq75y), the Rent Board of Arbitration sets the annual allowable rent increase for rent controlled units. The new rates are effective every year on March 1. The amount is based on 60% of the percentage increase in the Consumer Price Index (CPI) for All Urban Consumers in the San Francisco-Oakland-San Jose region for the 12-month period ending October 31, as posted in November by the Bureau of Labor Statistics.
+[**Annual Allowable Rent Increase for Units Under Rent Control**](http://data.sfgov.org/d/hsxb-ci7b) - In accordance with [Rules and Regulations Section 1.12](http://bit.ly/17Oq75y), the Rent Board of Arbitration sets the annual allowable rent increase for rent controlled units. The new rates are effective every year on March 1. The amount is based on 60% of the percentage increase in the Consumer Price Index (CPI) for All Urban Consumers in the San Francisco-Oakland-San Jose region for the 12-month period ending October 31, as blog-posted in November by the Bureau of Labor Statistics.
 
 [**Eviction Notices**](http://data.sfgov.org/d/5cei-gny5) - Data includes eviction notices filed with the San Francisco Rent Board per San Francisco Administrative Code 37.9(c). A notice of eviction does not necessarily indicate that the tenant was eventually evicted, so the notices below may differ from actual evictions.
 

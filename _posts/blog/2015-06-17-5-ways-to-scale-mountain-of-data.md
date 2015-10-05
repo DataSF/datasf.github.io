@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "5 Ways to Scale the Mountain of Data in Your Organization"
-category: blog
-published: true
 author: joy_bonaguro
 image:
-  thumb: lake_tahoe.jpg
-  feature: lake_tahoe.jpg
+  thumb: scaling-mountain/lake_tahoe.jpg
+  feature: scaling-mountain/lake_tahoe.jpg
   caption: "From the base of the mountain, it can look daunting, but once on top: Oh, the views!"
   source:
     title: Lake Tahoe from Mt. Tallac
@@ -72,7 +69,7 @@ We tracked the status of each department through each phase (and deadline) of th
 At this point, 75% of our departments have completed the inventory, [which you can check out here](https://data.sfgov.org/City-Management-and-Ethics/Dataset-Inventory/y8fp-fbf5). We decided to go live with the inventory despite not having all departments ready. That's also where tracking comes into play. We have rolled the tracking into our quarterly report and are accepting department submissions on a rolling, monthly basis.
 
 ## Anticipate future needs: Inventory as platform ##
-Your inventory is a one time chance to capture a lot of awesome information. Don't waste it. Now that we have this tremendous resource in place, we are building all sorts of stuff on top of it. More on this in subsequent posts but we are using the inventory to:
+Your inventory is a one time chance to capture a lot of awesome information. Don't waste it. Now that we have this tremendous resource in place, we are building all sorts of stuff on top of it. More on this in subsequent blog-posts but we are using the inventory to:
 
  - Create publishing plans
  - Automate monitoring and performance metrics in publishing and open data

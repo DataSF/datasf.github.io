@@ -1,15 +1,11 @@
 ---
-layout: post
 title: U Heart Metadata
-date: 2014-09-15 10:27:48.000000000 -07:00
-category: blog
-published: true
 author: joy_bonaguro
 image:
-  thumb: u-heart-metadata.png
+  thumb: u-heart-metadata/u-heart-metadata.png
 description: Thank you to everyone who responded to our request for feedback on our metadata draft! We really appreciated your comments and thoughts.
 ---
-<img class="pull-left" src="{{site.baseurl}}/img/blog/u-heart-metadata.png" alt="You heart metadata" style="width:230px;" />
+<img class="pull-left" src="/assets/blog/u-heart-metadata/u-heart-metadata.png" alt="You heart metadata" style="width:230px; margin-right: 10px" />
 
 Thank you to everyone who responded to our request for feedback on our metadata draft! We really appreciated your comments and thoughts. Below is a summary of how we are incorporating comments and changes based on feedback from an internal survey, external survey, and our governance committee.
 

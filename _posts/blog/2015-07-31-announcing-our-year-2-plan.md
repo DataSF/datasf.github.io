@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Announcing our Year 2 Strategic Plan!"
-category: blog
-published: true
 author: joy_bonaguro
 image:
-  thumb: data_love.png
-  feature: data_love.png
+  thumb: year-2-plan/data_love.png
+  feature: year-2-plan/data_love.png
 description: "We are so excited to launch our strategic plan for Year 2 - Data in San Francisco: Meeting supply, spurring demand!"
 ---
 

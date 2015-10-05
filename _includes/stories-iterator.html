@@ -2,7 +2,7 @@
 <div class="story-item">
   <div class="story-caption clearfix">
     {% if post.image.thumb %}
-    <div class="block-image pull-right" style="background-image:url({{site.baseurl}}/img/blog/{{post.image.thumb}});"></div>
+    <div class="block-image pull-right" style="background-image:url(/assets/blog/{{post.image.thumb}});"></div>
     {% endif %}
     <time datetime="{{ post.date | date: " %Y-%m-%d " }}" itemprop="datePublished">
       {{ post.date | date: "%B %d, %Y" }}

@@ -1,15 +1,12 @@
 ---
-layout: post
 title: "Meet Casey, the User that Open Data Forgot"
-category: blog
-published: true
 author: joy_bonaguro
 image:
   thumb: meet-casey/my_name_casey.png
   feature: meet-casey/my_name_casey.png
 description: "Casey works her tail off. Open Data could help her, but the portals are failing this user. My advice to the open data movement: solve City reporting challenges with open data and watch the data floodgates open."
 ---
-Casey works her tail off. Every month she works incredibly hard pulling together a bunch of data from multiple departments. She carefully checks and double checks the numbers. She then summarizes them into tables and a few charts. (She would love to be able to map them but just doesn’t know how). When she’s all done, she emails the table and charts to her supervisor to file the official report. Sometimes, they end up being posted to the website where they can be downloaded. Next month, it starts all over.
+Casey works her tail off. Every month she works incredibly hard pulling together a bunch of data from multiple departments. She carefully checks and double checks the numbers. She then summarizes them into tables and a few charts. (She would love to be able to map them but just doesn’t know how). When she’s all done, she emails the table and charts to her supervisor to file the official report. Sometimes, they end up being blog-posted to the website where they can be downloaded. Next month, it starts all over.
 
 Casey describes this process using a couple choice adjectives:
 

@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "DataSF’s corner of the web: building lighter and faster"
-date: 2015-04-06 21:33:12
-category: blog
-published: true
 author: jason_lally
 image:
-  thumb: data-sf-website-dev.png
-  feature: data-sf-website-dev.png
+  thumb: datasf-website/data-sf-website-dev.png
+  feature: datasf-website/data-sf-website-dev.png
 description: "When Joy first started as Chief Data Officer, DataSF, the program, was represented only by the open data portal, the product. Early on, she recognized that part of maturing the open data program meant giving DataSF a true home on the web."
 ---
 When Joy first started as Chief Data Officer, DataSF, the program, was represented only by the open data portal, the product. Early on, she recognized that part of maturing the open data program meant giving DataSF a true home on the web that encapsulated not just the portal, but all the other institutional work that DataSF represents. The first foray in this direction was to work with Socrata to make [some usability improvements on the platform](http://datasf.org/blog/the-new-datasf/), and spin up two WordPress sites, one that would house the blog and resources and another that would act as a portal for our data coordinators.
@@ -50,18 +46,13 @@ For example. If you want to emphasize text, you can do the following:
 
 ```
 
-What's awesome about this, is that it gives a very simple way to write content without worrying about HTML. And then with Jekyll, we take these simple documents and turn them into content formatted for the web. So that [this](https://raw.githubusercontent.com/DataSF/datasf.github.io/master/_posts/blog/2015-04-06-building-lighter-and-faster.md) becomes the blog post you're looking at now.
+What's awesome about this, is that it gives a very simple way to write content without worrying about HTML. And then with Jekyll, we take these simple documents and turn them into content formatted for the web. So that [this](https://raw.githubusercontent.com/DataSF/datasf.github.io/master/_blog-posts/blog/2015-04-06-building-lighter-and-faster.md) becomes the blog blog-post you're looking at now.
 
-Additionally, we can add data about the post and use it in our templates. For example at the front of this blog post markdown file is the following:
+Additionally, we can add data about the blog-post and use it in our templates. For example at the front of this blog blog-post markdown file is the following:
 
 ```yaml
-
 ---
-layout: blog
 title: "DataSF’s corner of the web: building lighter and faster"
-date: 2015-03-14 21:33:12
-category: blog
-published: true
 author: jason_lally
 image:
   thumb: data-sf-website-dev.png
@@ -70,9 +61,9 @@ description: "When Joy first started as Chief Data Officer, DataSF, the program,
 ---
 ```
 
-This metadata, called "YAML front-matter" in Jekyll parlance can be used to do things like, display the author and updated date and define a thumbnail for the post.
+This metadata, called "YAML front-matter" in Jekyll-speak can be used to do things like, display the author and updated date and define a thumbnail for the blog-post.
 
-There's lots of other fun things you can do like compile RSS feeds and build resource libraries, but I'll leave that for future posts.
+There's lots of other fun things you can do like compile RSS feeds and build resource libraries, but I'll leave that for future blog-posts.
 
 ## And where does it live?
 
