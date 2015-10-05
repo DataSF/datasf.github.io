@@ -1,13 +1,9 @@
 ---
-layout: blog-post
 title: The New DataSF!
-date: 2014-08-19 20:51:00.000000000 -07:00
-category: blog
-published: true
 author: joy_bonaguro
 image:
-  thumb: before-after.png
-  feature: before-after.png
+  thumb: new-portal/before-after.png
+  feature: new-portal/before-after.png
 description: Today we released the new DataSF. You spoke and we listened. Our new design addresses some of the major usability issues on our website...
 ---
 Today we released the new DataSF. You spoke and we listened. Our new design addresses some of the major usability issues on our website:

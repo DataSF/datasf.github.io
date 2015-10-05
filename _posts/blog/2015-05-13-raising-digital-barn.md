@@ -1,12 +1,9 @@
 ---
-layout: blog-post
 title: "Raising the digital barn, or how we're building the Housing Data Hub"
-category: blog
-published: true
 author: jason_lally
 image:
-  thumb: white_board_NDoCH.jpg
-  feature: white_board_NDoCH.jpg
+  thumb: digital-barn/white_board_NDoCH.jpg
+  feature: digital-barn/white_board_NDoCH.jpg
   caption: National Day of Civic Hacking 2014 brought together lots of ideas and a working prototype. That work influences the approach to this day.
 description: "The Housing Data Hub was born out of the notion that in order to mature our open data practice at the City, we needed to diversify our approach to publishing data. In the City’s open data strategy, a quick look at datasets over time reveals a publishing stagnation."
 ---
@@ -72,7 +69,7 @@ We'll work on getting some issues up on the repo and working more with civic hac
 Now that we've gone deep, we're thinking broad. What if we want to spin up something similar again? Or what if another city would like to do the same? After we get the fundamentals down with the refactor, we'll be looking to abstract the approach so others can follow suit. At a minimum, this means really great documentation, cleaning out the specific content, and using good conventions to maintain the project.
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/img/blog/get_dataset.png">
+	<img src="/assets/blog/digital-barn/get_dataset.png">
 	<figcaption>A "Get the source dataset" button exists wherever there is raw data available on the open data portal. Over time, all visuals will have this link.</figcaption>
 </figure>
 

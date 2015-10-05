@@ -1,12 +1,9 @@
 ---
-layout: blog-post
 title: "5 Ways to Scale the Mountain of Data in Your Organization"
-category: blog
-published: true
 author: joy_bonaguro
 image:
-  thumb: lake_tahoe.jpg
-  feature: lake_tahoe.jpg
+  thumb: scaling-mountain/lake_tahoe.jpg
+  feature: scaling-mountain/lake_tahoe.jpg
   caption: "From the base of the mountain, it can look daunting, but once on top: Oh, the views!"
   source:
     title: Lake Tahoe from Mt. Tallac

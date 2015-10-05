@@ -5,8 +5,8 @@ category: blog
 published: true
 author: jason_lally
 image:
-  thumb: inclusionary_map.png
-  feature: inclusionary_map.png
+  thumb: quarterly-1/inclusionary_map.png
+  feature: quarterly-1/inclusionary_map.png
   caption: "The map of inclusionary units on the <a href='http://housing.datasf.org'>housing data hub</a> is powered by one of the datasets published in the beginning of this year by the Mayor's Office of Housing and Community Development."
 description: "A lot of love goes into publishing datasets to the open data portal. Explore more recently published data and show some appreciation to the publishing departments in our first quarterly open data roundup."
 ---

@@ -1,13 +1,10 @@
 ---
-layout: blog-post
 title: Announcing our Graduate Student Summer Internship Opportunity
 date: 2015-03-20
-category: blog
-published: true
 author: joy_bonaguro
 image:
-  thumb: CityHallCropped.jpg
-  feature: CityHallCropped.jpg
+  thumb: summer-intern-2015/CityHallCropped.jpg
+  feature: summer-intern-2015/CityHallCropped.jpg
 description: We are happy to announce that we are looking for a great intern to help us with the open data program!
 ---
 We are happy to announce that we are looking for a great intern to help us with the open data program! Please read on and click the link below to submit your application.
