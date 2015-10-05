@@ -59,13 +59,13 @@ assets/blog/housing-hub-launch/housing-hub-screen.png
 * **Use relative links in posts**, with a leading slash and a title attribute, like this:
 
 ```markdown
-![screenshot of the housing data hub](assets/blog/housing-hub-launch/housing-hub-screen.png)
+![screenshot of the housing data hub](/assets/blog/housing-hub-launch/housing-hub-screen.png)
 ```
 
 or in HTML:
 
 ```html
-<img src="assets/blog/housing-hub-launch/housing-hub-screen.png" title="screenshot of the housing data hub" />
+<img src="/assets/blog/housing-hub-launch/housing-hub-screen.png" title="screenshot of the housing data hub" />
 ```
 
 ####Submit a pull request
