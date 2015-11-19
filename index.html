@@ -1,15 +1,37 @@
 ---
 layout: default
 title: DataSF - the open data program of the City and County of San Francisco
-is_front: true
 js: home.js
 ---
+<section id="jumbo-search" class="jumbotron jumbotron-default">
+	<div class="container">
+		<h1>Find the data you need</h1>
+		<p>Search hundreds of datasets from the City and County of San Francisco. Or browse on the <a href="https://data.sfgov.org" class="ext-sf-opendata">data catalog</a></h2>
+			<div class="row">
+				<div class="col-md-12">
+					<form action="https://data.sfgov.org/data" role="form" class="form-inline">
+						<input id="search-catalog-input" class="search-input form-control" type="text" name="search" placeholder="Search for things like Crime, 311 cases, lobbyists, etc." autocomplete="off">
+						<button type="submit" class="fa fa-search" id="search-submit" value="Search"></button>
+					</form>
+				</div>
+			</div>
+	</div>
+</section>
+<section id="data-love" class="thinnest-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				Data, for the <i class="fa fa-heart"><span class="sr-only">love</span></i> of the City. <a href="/about" style="color:white;text-decoration: underline;">Read more about DataSF</a>.
+			</div>
+		</div>
+	</div>
+</section>
 <section id="progress" class="thin-section">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3">
 				<div id="chart0" class="chart">
-					
+
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -22,49 +44,79 @@ js: home.js
 		</div>
 	</div>
 </section>
-{% include search-catalog.html %}
+<div class="content-sections">
+	<section id="featured-showcase">
+		<div class="container">
+			<div class="row featured-showcase">
+				<div class="col-md-12">
+					<h1>Made with Open Data</h1>
+					<p>See applications, reports, analyses and other products made with open data below. You can explore <a href="http://apps.sfgov.org/showcase">more in the showcase</a>.</p>
+				</div>
+				<div class="col-md-4">
+					<a href="http://housing.datasf.org/">
+						<div style="position: relative; background: url('/assets/showcase/housing-data-hub/housing-hub-screen.png'); height: 250px; background-origin: border-box; background-size: cover;" class="showcase-item">
+							<div style="position: absolute; bottom: 0; right: 0; width: 100%; background: rgba(255,255,255,.8);" class="showcase-title">
+								<h2 style="text-align: right;">Housing Data Hub</h2></div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-4">
+					<a href="http://propertymap.sfplanning.org/">
+						<div style="position: relative; background: url('/assets/showcase/property-information-map/pim.png'); height: 250px; background-origin: border-box; background-size: cover;" class="showcase-item">
+							<div style="position: absolute; bottom: 0; right: 0; width: 100%; background: rgba(255,255,255,.8);" class="showcase-title">
+								<h2 style="text-align: right;">Property Information Map</h2></div>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-4">
+					<a href="http://explore311.sfgov.org/main//">
+						<div style="position: relative; background: url('/assets/showcase/311-explorer/311explorer.png'); height: 250px; background-origin: border-box; background-size: cover;" class="showcase-item">
+							<div style="position: absolute; bottom: 0; right: 0; width: 100%; background: rgba(255,255,255,.8);" class="showcase-title">
+								<h2 style="text-align: right;">311 Explorer</h2></div>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+</section>
 <section id="stories" class="bg-light-gray">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8">
-      	<h1>DataSF Speaks</h1>
-        {% include stories-iterator.html posts=site.categories.blog limit=3%}
-      </div>
-      <div class="col-md-4">
-      	<!--
-      	<h3>What we're working on...</h3>
-				<div class="well">
-					Goal 1
-					Creating data catalogs
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1>DataSF Speaks</h1>
+				<p>Latest blog posts and stories from the City and County's open data program. Read more blog posts here.</p>
+				<div class="row">
+					{% include stories-iterator-horizontal.html posts=site.categories.blog limit=3%}
 				</div>
-				<div class="well">
-					Goal 2
-					Develop additional dataset prioritization methods
-				</div>
-				<div class="well">
-					Goal 3
-					Deploying progress dashboard and standard report
-					Developing program evaluation metrics
-				</div>
-				-->
-				<a class="twitter-timeline" href="https://twitter.com/DataSF" data-widget-id="559899210959421440">Tweets by @DataSF</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-      </div>
-  </div>
+			</div>
+		</div>
 </section>
 <section>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
 				<h1>Latest resources</h1>
-				<p>For more resources <a href="/resources">click here</a>
-      	{% assign postquery = site.categories.resource %} {% for post in postquery limit:3 %} {% assign loopindex = forloop.index | modulo: 3 %} {% if loopindex == 1 %}
-    <div class="row">
-      {% endif %} {% include resources-card.html %} {% if loopindex == 0 or forloop.last %}
-    </div>
-    {% endif %} {% endfor %}
-      </div>
-    </div>
+				<p>For more resources <a href="/resources">click here</a> {% assign postquery = site.categories.resource %} {% for post in postquery limit:3 %} {% assign loopindex = forloop.index | modulo: 3 %} {% if loopindex == 1 %}
+					<div class="row">
+						{% endif %} {% include resources-card.html %} {% if loopindex == 0 or forloop.last %}
+					</div>
+					{% endif %} {% endfor %}
+			</div>
 		</div>
 	</div>
+	</div>
 </section>
+</div>
+
+{% raw %}
+<script id="datasetTmpl" type="text/x-jsrender">
+<div class="panel panel-default panel-dataset">
+  <div class="panel-body">
+    <span class="wrap-around">{{:department_or_division}}</span>
+     <h3><a href="{{:dataset_link}}">{{:dataset_name}}</a></h3>
+          <p>{{:dataset_description}}</p>
+          </div>
+        </div>
+      </div>
+</script>
+{% endraw %}
