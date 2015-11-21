@@ -1,9 +1,6 @@
 ---
-layout: blog-post
 title: "Welcome to DataSF's new home"
 date: 2015-04-06 21:33:12
-category: blog
-published: true
 author: joy_bonaguro
 description: "We are excited to launch our new website! Going forward DataSF.org will be the home of our official website, while we have re-branded the open data portal as SF Open Data at data.sfgov.org.
 From day one, we needed a website, not just an open data portal."
