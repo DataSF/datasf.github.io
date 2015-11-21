@@ -30,7 +30,6 @@ defaults:
       type: "posts"
     values:
       layout: "blog-post"
-      category: "blog"
     
       
 # Site settings

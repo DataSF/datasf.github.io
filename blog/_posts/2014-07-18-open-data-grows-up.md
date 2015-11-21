@@ -1,11 +1,6 @@
 ---
-layout: blog-post
 title: Open Data Grows Up
 date: 2014-07-18 17:39:45.000000000 -07:00
-category: blog
-tags: []
-type: blog-post
-published: true
 author: joy_bonaguro
 image:
   thumb: open-data-grows-up/open-data-theory-of-change.png
