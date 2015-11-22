@@ -1,8 +1,5 @@
 ---
-layout: blog-post
 title: "SF Open Data Quarterly Roundup"
-category: blog
-published: true
 author: jason_lally
 image:
   thumb: quarterly-1/inclusionary_map.png
