@@ -1,6 +1,6 @@
 ---
 title: "Licensing Open Data: A practical guide"
-categories: ["resource"]
+
 tags: ["Open Data Licensing Standard"]
 published: True
 type: "External Link"

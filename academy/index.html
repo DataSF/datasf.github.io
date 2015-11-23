@@ -25,25 +25,6 @@ title: DataSF | Data Academy
       <!--<button class="btn btn-default" data-filter=".performance" aria-label="Performance Management Courses"><i class="fa fa-users" aria-hidden="true"></i> Performance Management</button>-->
     </div>
     <div class="row">
-      <div class="col-md-9">
-        <div class="row isotope">
-          {% for course in site.data.courses %}
-          <div class="col-md-6 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
-            <div class="well">
-              <h4 class="course-name">{{course.name}}</h4> 
-              <div class="course-icons">
-              {% for tag in course.tags %}
-              <span class="fa-stack fa-1x">
-                  <i class="fa fa-circle course-icon-background fa-stack-2x"></i>
-                  <i class="fa icon-{{tag}} fa-stack-1x fa-inverse"></i>
-                </span> {% endfor %}
-              </div>
-              <p>{{course.description}}</p>
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
       <div class="col-md-3">
         <div class="well" style="background: #fff;">
           The Data Academy is produced in partnership with the Controller's Office.
@@ -89,6 +70,25 @@ title: DataSF | Data Academy
         </div>
         <!--<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>-->
         <!--End mc_embed_signup-->
+      </div>
+      <div class="col-md-9">
+        <div class="row isotope">
+          {% for course in site.categories.academy %}
+          <div class="col-md-12 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
+            <div class="well">
+              <h4 class="course-name">{{course.title}}</h4> 
+              <div class="course-icons">
+              {% for tag in course.tags %}
+              <span class="fa-stack fa-1x">
+                  <i class="fa fa-circle course-icon-background fa-stack-2x"></i>
+                  <i class="fa icon-{{tag}} fa-stack-1x fa-inverse"></i>
+                </span> {% endfor %}
+              </div>
+              <p>{{course.description}}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>

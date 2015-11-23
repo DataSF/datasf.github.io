@@ -1,6 +1,6 @@
 ---
 title: "Data Coordinator Inventory Tools Webinar"
-categories: ["resource"]
+
 tags: ["Data Inventory Guidance"]
 published: True
 type: video

@@ -1,6 +1,5 @@
 ---
 title: Year 1 Open Data Strategic Plan
-categories: ['resource']
 tags: ["Strategic Plan"]
 published: True
 date: 2014-07-14 12:50:25

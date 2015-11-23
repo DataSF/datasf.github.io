@@ -26,6 +26,12 @@ defaults:
       hidden: true
   -
     scope:
+      path: "academy"
+    values:
+      sitemap: false
+      hidden: true
+  -
+    scope:
       path: "blog"
       type: "posts"
     values:

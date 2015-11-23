@@ -96,7 +96,7 @@ js: home.js
 		<div class="row">
 			<div class="col-md-12">
 				<h1>Latest resources</h1>
-				<p>For more resources <a href="/resources">click here</a> {% assign postquery = site.categories.resource %} {% for post in postquery limit:3 %} {% assign loopindex = forloop.index | modulo: 3 %} {% if loopindex == 1 %}
+				<p>For more resources <a href="/resources">click here</a> {% assign postquery = site.categories.resources %} {% for post in postquery limit:3 %} {% assign loopindex = forloop.index | modulo: 3 %} {% if loopindex == 1 %}
 					<div class="row">
 						{% endif %} {% include resources-card.html %} {% if loopindex == 0 or forloop.last %}
 					</div>
