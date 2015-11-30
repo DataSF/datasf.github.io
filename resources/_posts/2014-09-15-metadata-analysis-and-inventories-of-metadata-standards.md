@@ -1,6 +1,6 @@
 ---
 title: "Metadata Analysis and Inventories of Standards"
-categories: ["resource"]
+
 tags: ["Metadata"]
 type: document
 published: True

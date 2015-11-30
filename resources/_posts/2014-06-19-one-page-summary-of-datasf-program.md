@@ -1,6 +1,5 @@
 ---
 title: One Page Summary of DataSF Program
-categories: ["resource"]
 tags: ["Data Inventory Guidance"]
 published: True
 type: One Pager

@@ -35,3 +35,19 @@ utility:
 #  url: /blog
 - text: About
   url: /about
+
+data_catalog:
+- text: Browse All Data
+  url: 
+- text: Showcase
+  url: 
+- text: Developers
+  url:
+- text: Help
+  url:
+- text: Suggest a Dataset
+  url: 
+- text: Sign Up
+  url:
+- text: Sign In
+  url:

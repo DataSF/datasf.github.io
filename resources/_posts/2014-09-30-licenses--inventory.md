@@ -1,6 +1,6 @@
 ---
 title: "Licenses Inventory"
-categories: ["resource"]
+
 tags: ["Open Data Licensing Standard"]
 published: True
 type: document

@@ -1,6 +1,5 @@
 ---
 title: "Data Coordinator Detailed Inventory Guide: Steps 2 and 3"
-categories: ["resource"]
 tags: ["Data Inventory Guidance"]
 published: True
 type: document

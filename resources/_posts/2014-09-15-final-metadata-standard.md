@@ -1,6 +1,6 @@
 ---
 title: Final Metadata Standard
-categories: ["resource"]
+
 tags: ["Metadata"]
 published: True
 date: 2014-09-15 23:49:25

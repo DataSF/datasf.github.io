@@ -1,6 +1,6 @@
 ---
 title: Metadata Project Document and Major Steps
-categories: ["resource"]
+
 tags: ["Metadata"]
 published: True
 date: 2014-09-15 09:54:04

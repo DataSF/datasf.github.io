@@ -1,6 +1,6 @@
 ---
 title: Year 1 Detailed Timeline with Activities
-categories: ["resource"]
+
 tags: ["Strategic Plan"]
 type: document
 published: True

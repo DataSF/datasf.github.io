@@ -6,6 +6,8 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
 permalink: /:categories/:title/
 
+exclude: ['.c9']
+
 gems:
   - jemoji
   - jekyll-sitemap
@@ -22,6 +24,13 @@ defaults:
       path: "resources"
       layout: null
     values:
+      sitemap: false
+      hidden: true
+  -
+    scope:
+      path: "academy"
+    values:
+      layout: "course"
       sitemap: false
       hidden: true
   -

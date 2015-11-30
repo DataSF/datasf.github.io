@@ -1,6 +1,6 @@
 ---
 title: "Licensing Open Data: Resources and Practices"
-categories: ["resource"]
+
 tags: ["Open Data Licensing Standard"]
 published: True
 date: 2014-09-30 12:00:00
