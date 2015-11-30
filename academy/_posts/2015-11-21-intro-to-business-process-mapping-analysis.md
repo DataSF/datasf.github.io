@@ -1,7 +1,7 @@
 ---
-title: Intro to Tableau
-description: "Tableau is a data visualization tool that allows for fast, drag- and-drop creation of charts, maps, and dashboards that provide interactive filter, highlight, and drill down capabilities. This training will give you basic tools to start using Tableau productively in your department."
-tags: [analysis,mapping,visualization]
+title: "Data usability: how to design data for consumption"
+description: "Basic data design choices can make the difference between simple analysis and hours of frustration. This workshop will go over how to make certain dataset design decisions that will make your reporting life much easier, hopefully reducing repetitive asks for data and interpretation. This is a methods course that will primarily use tools and formulas in Excel to help you test your data for analysis readiness."
+tags: [analysis, management]
 instructors: []
 length: "2.5 hours"
 level: "Intro"

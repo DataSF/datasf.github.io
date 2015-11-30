@@ -1,7 +1,7 @@
 ---
-title: Intro to Tableau
-description: "Tableau is a data visualization tool that allows for fast, drag- and-drop creation of charts, maps, and dashboards that provide interactive filter, highlight, and drill down capabilities. This training will give you basic tools to start using Tableau productively in your department."
-tags: [analysis,mapping,visualization]
+title: Basics of Information Design
+description: "So you have great data, but you want to present it effectively? This class goes over the principles of good information design so that you can present your data in uncluttered and beautiful ways that get right to the meaning. Learn when to use different types of charts to tell different stories, and how to use color and visual cues appropriately to support the analysis you’re trying to convey. Go beyond the Excel defaults, and tell incredible stories with your data."
+tags: [information-design,visualization]
 instructors: []
 length: "2.5 hours"
 level: "Intro"

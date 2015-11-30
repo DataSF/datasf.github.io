@@ -79,43 +79,18 @@ $(function() {
     var link = el.attr('href');
     window.location = link;
   });
-
-  var $container = $('.isotope').isotope({
-    itemSelector: '.course-item',
-    masonry: {},
-    filter: "*"
-  });
-
-
-  // filter functions
-  var filterFns = {
-    // show if number is greater than 50
-    numberGreaterThan50: function() {
-      var number = $(this).find('.number').text();
-      return parseInt(number, 10) > 50;
-    },
-    // show if name ends with -ium
-    ium: function() {
-      var name = $(this).find('.name').text();
-      return name.match(/ium$/);
-    }
-  };
-  // bind filter button click
-  $('#filters').on('click', 'button', function() {
-    var filterValue = $(this).attr('data-filter');
-    // use filterFn if matches value
-    filterValue = filterFns[filterValue] || filterValue;
-    $container.isotope({
-      filter: filterValue
-    });
-  });
-  // change is-checked class on buttons
-  $('.btn-group').each(function(i, buttonGroup) {
-    var $buttonGroup = $(buttonGroup);
-    $buttonGroup.on('click', 'button', function() {
-      $buttonGroup.find('.is-checked').removeClass('is-checked');
-      $(this).addClass('is-checked');
-    });
+  
+  //Filter academy list
+  var $btns = $('.filter-topic').click(function(ev) {
+    ev.preventDefault();
+  if ($(this).data("filter") == '*') {
+    $('#courseList > div').fadeIn(450);
+  } else {
+    var $el = $($(this).data('filter')).fadeIn(450);
+    $('#courseList > div').not($el).fadeOut(450);
+  }
+  $btns.removeClass('active');
+  $(this).addClass('active');
   });
 
   $("#mc-embedded-subscribe-form-academy").validate({

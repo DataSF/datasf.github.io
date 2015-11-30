@@ -1244,6 +1244,7 @@ body {
 .content-sections h1 {
   padding-bottom: 5px;
   border-bottom: thin #000 dotted;
+  margin-top: 0;
 }
 
 .section-heading-wrapper {
@@ -1397,6 +1398,15 @@ p.task-item {
   background-color: transparent;
 }
 /*Academy*/
+
+.filter-topic.active {
+  background-color: #CCC;
+}
+
+.filter-topic {
+  padding: 0 5px;
+}
+
 .icon-analysis:before {
   content: "\f0ce";
 }
