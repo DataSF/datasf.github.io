@@ -1,6 +1,5 @@
 ---
 title: One Page Summary of Data Inventory Process
-categories: ["resource"]
 tags: ["Data Inventory Guidance"]
 published: True
 date: 2014-06-19 09:00:00

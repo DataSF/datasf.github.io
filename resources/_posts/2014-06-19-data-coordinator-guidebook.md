@@ -1,6 +1,5 @@
 ---
 title: Data Coordinator Guidebook
-categories: ["resource"]
 tags: ["Data Inventory Guidance"]
 published: True
 type: document

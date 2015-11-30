@@ -1,6 +1,6 @@
 ---
 title: Metadata Existing Practices and Survey
-categories: ["resource"]
+
 tags: ["Metadata"]
 published: True
 date: 2014-09-15 12:58:30

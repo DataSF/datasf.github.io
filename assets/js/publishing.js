@@ -11,5 +11,4 @@ $(function() {
     var htmlOutput = template.render(response);
     $(".recent-datasets").html(htmlOutput);
   });
-
 });

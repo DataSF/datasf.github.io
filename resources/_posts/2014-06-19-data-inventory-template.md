@@ -1,6 +1,5 @@
 ---
 title: Data Inventory Template
-categories: ["resource"]
 tags: ["Data Inventory Guidance"]
 published: True
 type: template
