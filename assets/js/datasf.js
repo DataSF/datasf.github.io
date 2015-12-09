@@ -293,7 +293,7 @@ var processCharts = function(c, baseIDs, queryStrings, options, charts) {
           type: 'bar',
           groups: (options[c].groups) ? options[c].groups : ''
         }
-        opts.padding = {
+        opts.padding = (options[c].padding) ? options[c].padding : {
           top: 0
         }
         opts.axis = {
