@@ -54,7 +54,7 @@ var buildPage = function(dept, url, table) {
         var pie = constructChart(opts);
         
         var total = +pie.data.values('Published') + +pie.data.values('Not Published');
-        $("#chart-number-published .chart-number").html(Math.round(pie.data.values('Published') / total * 1000) / 10 + '%');
+        $("#chart-number-published .chart-number").html(Math.round(pie.data.values('Published') / total * 1000) / 10);
         $("#chart-number-published .ratio").html((pie.data.values('Published') ? pie.data.values('Published') : 0 ) + "/" + total + " datasets");
         $("#inventory-incomplete").hide();
       }
@@ -89,7 +89,7 @@ var buildPage = function(dept, url, table) {
           x: {
             type: 'timeseries',
             tick: {
-              format: '%b'
+              format: function (x) { var m = ['J','F','M','A','M','J','J','A','S','O','N','D']; return m[x.getMonth()]; }
             }
           }
         }
