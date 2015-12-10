@@ -11,6 +11,8 @@ One of the most frequent questions I get about open data is - why? Most folks un
 
 And to be perfectly fair - very few folks have measured the impact of open data. Since we love being data-driven, we decided to attempt measuring open data. This blog post summarizes what we’re doing and we want to hear your thoughts and feedback so we can learn together.
 
+Learn more below or dive into [DataSF in Progress](http://datasf.org/progress/) - where you can track our metrics in real time!
+
 ## Number of datasets is a bad success measure
 
 Early on, it became clear - we cannot measure open data by counting the number of datasets. A couple problems with this:
@@ -48,27 +50,16 @@ Since our ultimate outcomes are hard to track, we rely on a variety of indirect 
 (You may notice these look suspiciously like the [Results Based Accountability](http://raguide.org/), RBA, approach...that's because we are using it ;-)
 
 ### Publishing Activity
-Our publishing activity measures both progress on our dataset inventory ([learn about this process](http://datasf.org/blog/5-ways-to-scale-mountain-of-data/)) and plans ([view plans](http://datasf.org/publishing/plans/)) as well as the publication of datasets.
+Our publishing activity measures both progress on our dataset inventory ([learn about this process](http://datasf.org/blog/5-ways-to-scale-mountain-of-data/)) and plans ([view plans](http://datasf.org/publishing/plans/)) as well as the publication of datasets. Both of these are mandated by open data legislation.
 
- - Percent/# of departments that have completed the dataset inventory. This is a core activity mandated by our open data legislation.
- - Percent/# of departments that have completed publishing plans. Our open data legislation requires regular publishing plans.
- - Percent of inventoried datasets that are published. Percent of datasets avoids the incentive problem plus allows for cross-department comparison.
- - Percent of inventoried datasets published by priority level. Ideally, we are publishing high priority datasets first.
- - Percent of inventoried datasets published by dataset classification. Ideally, we are publishing public datasets first.
+We also track publishing activity by department, priority level and classification as percentages. Percents allow us to compare performance without distoring incentives.
 
 ### Publishing Quality
-Our quality metrics track how well we publish when we publish.
+Our quality metrics track how well we publish when we publish:
 
  - Performance against target. Every six months, we identify the number of datasets to publish. These measures track how we are performing against those targets.
-	 - Actual datasets published versus target
-	 - % of target met
  - Timeliness of publishing. Fresh data is better than old data. Data should be updated per our commitment captured in the metadata for each dataset.
-	 - % updated on time (per their defined update rate, e.g. weekly)
-	 - % without a publishing lag (defined as more than 1 day)
-	 - Median lag in days (for datasets with a publishing lag)
  - Documentation and Usability. Data that isn't documented puts extra burden on the user and results in unnecessary question loops. Native hosting allows our users to fully leverage our open data services.
-	 - % of published datasets with required metadata
-	 - % of published datasets that are "natively" hosted
 
 We have now added all of our quality metrics to [DataSF in Progress](http://datasf.org/progress/) - where you can track them real time! Couple notes on how we've built this:
 
@@ -80,18 +71,9 @@ If we publish a bunch of data in a quality manner, it doesn't matter if no one u
 
 Until then, we will collect the following data via annual surveys and add to our dashboard as we have multiple years.
 
- - Respondents indicating that SF OpenData has made their analytical work:
-	 - easier
-	 - faster
-	 - more accurate
- - Respondents indicating that the following are medium or major barriers
-	 - Knowledge/awareness of datasets (inter and intra departmental)
-	 - Getting data out of information systems (inter and intra departmental)
-	 - Not knowing who to contact
-	 - No standard process
-	 - Data not available in digital form
- - Respondents indicating that the following would be helpful or very helpful
-	 - Better access to data produced or collected by other departments
+ - Respondents indicating that SF OpenData has made their analytical work easier, faster or more accurate
+ - Respondents indicating a reduction in medium or major barriers to use of data
+ - Respondents indicating sufficient access to data produced or collected by other departments
 
 We'll also try to capture additional impact via:
 
@@ -99,4 +81,4 @@ We'll also try to capture additional impact via:
  - Focus groups or workshops
  - Counts of apps or websites "Made with Open Data" as part of our new showcase. This may include some basic impact questions like "how important was open data to creating your service".
 
-Our [Evaluation and Performance Plan for Open Data](https://docs.google.com/document/d/1wvrSviKN8mYtxVVYCw7WohoujJjSFvSkY_Tj3ku8UMU/edit?usp=sharing) provides more details on our approach, including desired trends, etc. Drop us a note if you think we are missing something key!
+Read our entire [Evaluation and Performance Plan for Open Data](https://docs.google.com/document/d/1wvrSviKN8mYtxVVYCw7WohoujJjSFvSkY_Tj3ku8UMU/edit?usp=sharing), which provides details on our approach, including desired trends, etc. Drop us a note if you think we are missing something key!
