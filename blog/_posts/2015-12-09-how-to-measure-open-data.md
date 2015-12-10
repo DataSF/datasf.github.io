@@ -57,9 +57,9 @@ We also track publishing activity by department, priority level and classificati
 ### Publishing Quality
 Our quality metrics track how well we publish when we publish:
 
- - Performance against target. Every six months, we identify the number of datasets to publish. These measures track how we are performing against those targets.
- - Timeliness of publishing. Fresh data is better than old data. Data should be updated per our commitment captured in the metadata for each dataset.
- - Documentation and Usability. Data that isn't documented puts extra burden on the user and results in unnecessary question loops. Native hosting allows our users to fully leverage our open data services.
+ - **Performance against target.** Every six months, we identify the number of datasets to publish. These measures track how we are performing against those targets.
+ - **Timeliness of publishing.** Fresh data is better than old data. Data should be updated per our commitment captured in the metadata for each dataset.
+ - **Documentation and Usability.** Data that isn't documented puts extra burden on the user and results in unnecessary question loops. Native hosting allows our users to fully leverage our open data services.
 
 We have now added all of our quality metrics to [DataSF in Progress](http://datasf.org/progress/) - where you can track them real time! Couple notes on how we've built this:
 
