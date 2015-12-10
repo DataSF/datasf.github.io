@@ -69,7 +69,7 @@ We have now added all of our quality metrics to [DataSF in Progress](http://data
 ### Publishing Impact
 If we publish a bunch of data in a quality manner, it doesn't matter if no one uses it. This is where our impact measures come into play. They are the hardest to measure and require deliberate data collection. At this time, our impact measures focus on internal metrics. While we’ve attempted external surveys, our “n” has been too low to infer anything from the data. In lieu of this, we are exploring “net promoter” scores and other methods. Welcome thoughts on this one.
 
-Until then, we will collect the following data via annual surveys and add to our dashboard as we have multiple years.
+Until then, we will collect the following data via annual surveys and will add to our dashboard as we have multiple years.
 
  - Respondents indicating that SF OpenData has made their analytical work easier, faster or more accurate
  - Respondents indicating a reduction in medium or major barriers to use of data
