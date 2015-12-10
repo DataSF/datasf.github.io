@@ -2,8 +2,8 @@
 title: How to Measure Open Data
 author: joy_bonaguro
 image:
-  thumb: /assets/blog/measure-open-data/datasf_in_progress.PNG
-  feature: /assets/blog/measure-open-data/datasf_in_progress.PNG
+  thumb: /measure-open-data/datasf_in_progress.PNG
+  feature: /measure-open-data/datasf_in_progress.PNG
 description: "One of the most frequent questions I get about open data is - why? Most folks understand the need for transparency and openness in government, but some question the need to invest the effort in a comprehensive open data effort."
 ---
 
