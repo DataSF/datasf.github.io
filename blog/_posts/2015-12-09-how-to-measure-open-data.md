@@ -50,7 +50,7 @@ Since our ultimate outcomes are hard to track, we rely on a variety of indirect 
 (You may notice these look suspiciously like the [Results Based Accountability](http://raguide.org/), RBA, approach...that's because we are using it ;-)
 
 ### Publishing Activity
-Our publishing activity measures both progress on our dataset inventory ([learn about this process](http://datasf.org/blog/5-ways-to-scale-mountain-of-data/)) and plans ([view plans](http://datasf.org/publishing/plans/)). Both of these are mandated by open data legislation.
+Our publishing activity measures progress on our dataset inventory ([learn about this process](http://datasf.org/blog/5-ways-to-scale-mountain-of-data/)) and publishing plans ([view plans](http://datasf.org/publishing/plans/)). Both of these are mandated by our open data legislation.
 
 We also track publishing activity by department, priority level and classification as percentages. Percents allow us to compare performance without distorting incentives.
 
