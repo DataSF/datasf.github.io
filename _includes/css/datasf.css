@@ -10,6 +10,40 @@ body {
   font-size: 18px;
 }
 
+.pubexpsurvey {
+  background-color: #333;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.pubexpsurveyicon {
+  width: 34px;
+  padding: 5px;
+  margin-right: 7px;
+  display: inline;
+}
+
+.pubexpsurvey p {
+  display: inline-block;
+  color: white;
+  margin: 0;
+  font-size: 13px;
+
+}
+
+.pubexpsurvey a {
+  text-decoration: none;
+  color:#008fff;
+  font-weight: bold;
+}
+
+.pubexpsurvey a:hover {
+  color: white;
+}
+
 .lead {
   font-size: 21px;
 }
