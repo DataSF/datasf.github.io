@@ -21,6 +21,14 @@ For example, if you collect data on fruit and vegetable purchases, you could pub
 ##Include the dataset steward in the publishing process
 Data stewards are responsible for the dataset and can answer questions about the data and help make decisions about how to publish it. You should not be publishing a dataset without input from the data steward. They are key to helping us actively manage and answer dataset questions. 
 
+## Conduct an internal review
+Before you publish the data, make sure you review your plans to publish the data with your internal stakeholders. At a minimum, work with your Data Coordinator to plan how to publish your data. Other stakeholders include
+
+ - **Program subject matter experts.** They can help identify what data fields are most useful or important. They can also generate ideas for how the data can be used.
+ - **Reporting staff.** Open data is a great way to help streamline reporting. Reporting staff can help identify what summary tables and fields are needed to help with their work.
+ - **Legal and privacy staff.** If your data is sensitive or private, this staff can work with you and the open data team on the most responsible way to publish this data.
+ - **Public Information Officer and Sunshine responders.** These folks are a great source of insight on common questions that you can address with open data. Posting and keeping a dataset up to date is a great way to answer ongoing Sunshine requests.
+
 ##Don’t publish data from another department
 This is a corollary to the previous - if your department doesn’t manage the data, you should not publish it. Otherwise we won’t be able to effectively respond to data questions or ensure that the right or best data is being published. There may be occasions when multiple departments contribute to a single dataset, but we’ll handle these on a case by case basis.
 
