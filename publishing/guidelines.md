@@ -50,3 +50,15 @@ If your dataset is a novel analysis and includes a series of indicators, publish
 
 ##Automate data publishing where appropriate
 In order to maintain timely data available across the City, we prefer automation and provide a set of services to help in the automation process. The best way to start publishing data is to fill out a Publisher Packet for the dataset completely. The information in this packet will help the open data team work with you to determine the most appropriate data publishing method. You can [read more about data automation]({{site.baseurl}}/publishing/automation) services, if you want to learn more about the options.
+
+## Responsibly publish private or sensitive data
+If your dataset has private or sensitive data, there are several ways to responsibly publish this data. We will help you with this - you are not alone!
+
+During the process of publication, we will work with you to implement the appropriate method. So at this stage, focus on flagging areas of concern - **not on how to implement it**. In the publication packet we give you a chance to flag your concerns. The table below provides a quick overview of the basic methods we use.
+
+| Method | What it is | Best for |
+| ------------- |-------------| -----|
+| Column Removal | *Remove the privacy implicating columns.* The simplest way to avoid any privacy issues, is to simply not publish the columns that include private data. For example, if a dataset is a list of users and includes their name, address or other information, you can simply remove those columns from the dataset.| Datasets that include individual information that is not necessary for consuming and understanding the data.|
+| Obfuscation | *Mask or transcribe the data.* Obfuscation can happen in a number of ways but a common case is with address data. Sometimes we want to retain a proxy of the address without aggregating the data. | Datasets that include individual information that is not necessary for consuming and understanding the data. |
+| Banding | *Group the data.* Banding is a way to obscure individual values. For example, instead of publishing age, you can publish age group. Other examples of banding include time (date to month to quarter) or race (breakouts to other). | Datasets where individual record data is important to publish but where too much detail can make it easy to identify individuals with uncommon mixes of characteristics. |
+| Aggregation | *Summarize the data based on a data property.* Sometimes de-identifying the data is not sufficient. Your data might need to be aggregated either by geography or some other factor such as a category in the dataset. | Datasets where the individual records pose a privacy risk even if the identifying columns are removed. A common example of this is health related data. If the individual records (rows) are important to publish, use one of the other methods. |
