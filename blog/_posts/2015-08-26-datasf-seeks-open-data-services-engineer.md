@@ -18,15 +18,15 @@ What does open data look like at scale? Would you like to find out? Or rather, w
 
 The Open Data Services Engineer is a new role at the City that will deliver service-oriented open data automation across a diverse range of departments. This role will also help roll out a strategy around geographic data services.
 
-##Do the hard work to make things simple
+## Do the hard work to make things simple
 Publishing open data and access to data is an ongoing challenge in the City. We need someone to help design and implement a scalable framework for accessing and publishing data across the City. Help us unlock the potential of data in San Francisco.
 
-##Who we're looking for
+## Who we're looking for
 We are looking for someone who can learn the contours of a complex and large organization and likes hard, meaty challenges. We are not looking for superhero lone wolfs, but thoughtful, empathetic individuals with a set of broad tools. We are a user-oriented team and we apply that in all of our work. Our users are diverse and varied and come from inside and outside the organization; willingness to take time to learn their needs and perspective is a needed trait.
 
 Folks who can gracefully translate business worries into technical needs and frameworks will thrive in this role.
 
-##Skills we need
+## Skills we need
 We are looking for people with:
 
  - Experience in GIS and mapping concepts and tools or equivalent
@@ -39,7 +39,7 @@ We are looking for people with:
  - 3+ years experience in related work
  - BS/BA in GIS, computer science, engineering, user-centered design or related field
 
-##Skills we prefer
+## Skills we prefer
 We would love applicants who also meet the following:
 
  - Passionate about improving government through open data
@@ -52,11 +52,11 @@ We would love applicants who also meet the following:
 
 You can [read a longer description of the job on Google Docs](https://docs.google.com/document/d/1Z2dxCeDVedmH3Z5Cvs_x-z1cygePjJoI8saPKjJUS9Q/edit?usp=sharing) or [as a PDF](https://docs.google.com/document/d/1Z2dxCeDVedmH3Z5Cvs_x-z1cygePjJoI8saPKjJUS9Q/export?format=pdf)
 
-##How to apply
+## How to apply
 
 The job blog-post is now live so you can:
 
  1. [Go here for the official blog-post and complete your application](http://www.jobaps.com/SF/sup/bulpreview.asp?R1=PEX&R2=1043&R3=066002). Don't forget to include a cover letter and a resume with your application.
 
-##Equal Employment Opportunity
+## Equal Employment Opportunity
 The City and County of San Francisco is committed to equal employment opportunity. [Read more about our equal employment opportunity policy](http://www.sfdhr.org/index.aspx?page=33).

@@ -24,7 +24,8 @@ The responsibilities for the role will include but not be limited to:
  - Liaison with policy and program leaders within and without the City, including Data Sharing Committee members and their respective departments, to ensure that the program is supporting ongoing and emerging needs
  - Keep abreast of the latest developments in practices, regulation and laws related to data sharing
 
-## What We're Looking For
+## What We're Looking Forgot
+
 ### At a minimum
  - A Master's degree from an accredited college or university, preferably in public policy, law, public administration, business, or equivalent.
  - Three (3) years of verifiable and recent experience in one or more of the following: public policy, public administration, law, privacy, management, consulting, or policy analysis.
