@@ -7,7 +7,7 @@ image:
   caption: "The map of inclusionary units on the <a href='http://housing.datasf.org'>housing data hub</a> is powered by one of the datasets published in the beginning of this year by the Mayor's Office of Housing and Community Development."
 description: "A lot of love goes into publishing datasets to the open data portal. Explore more recently published data and show some appreciation to the publishing departments in our first quarterly open data roundup."
 ---
-##Showcasing datasets released since the beginning of this year
+## Showcasing datasets released since the beginning of this year
 
 Recently, [we released our second year strategy]({{site.baseurl}}/blog/announcing-our-year-2-plan), which we're really excited about! We've had our heads down this past year working diligently to get things lined up with the wonderful support of our data coordinators and colleagues throughout the City. In the coming year, we expect to be increasing our publishing and talking more about it with as many people as we can. 
 
@@ -17,7 +17,7 @@ Below is our first dataset roundup organized by category. Future roundups will c
 
 <!-- {% include tweet-love.html mention="@sfpublicworks @sfplanning @sfethics @sfcontroller @SF_DPH @mayoredlee @SFCityCIO @sfrentboard" %}-->
 
-##City Infrastructure
+## City Infrastructure
 [**DPW Street & Sidewalk Evaluation Results, 7-1-2013 to Present**](http://data.sfgov.org/d/83ki-hu3p) - The Controller's Office's City Services Auditor (CSA) Division has worked with the Department of Public Works (DPW) to develop maintenance standards for streets and sidewalks and schedules and inspect for compliance since July 2004. This dataset contains street and sidewalk evaluation results since 7/1/2013 under the new FY12 standards.  You can also [access the annual reports in PDF under "street maintenance" here](http://sfcontroller.org/index.aspx?page=49).
 
 [**Large Utility Excavation Permits**](http://data.sfgov.org/d/i926-ujnc) - The Department of Public Works (DPW) publishes this subset of large utility excavation permits (>=1000 square feet total size) in the last year. Its primary purpose is to support the [Dig Once program](http://www.sfgov3.org/index.aspx?page=5358), a collaboration among DPW the Department of Technology and others involved in street and infrastructure improvements
@@ -41,7 +41,7 @@ Below is our first dataset roundup organized by category. Future roundups will c
 
 {% include tweet-love.html mention="RE: city management and ethics @sfethics @mayoredlee @SFCityCIO @datasf" %}
 
-##Energy and Environment
+## Energy and Environment
 
 [**Urban Bird Refuge**](http://data.sfgov.org/d/a3ua-edzd) - the adopted Standards for Bird-Safe Buildings explains the documented risks that structures present to birds. Over thirty years of research has proven the risk to be biologically significant for certain bird species. This geospatial dataset maps out areas of particular risk to birds.  These areas are within 300ft of: open water, inland water bodies greater than 2 acres in size, open space greater than 2 acres, the shoreline.  [For more information visit the Standards for Bird-Safe Buildings web site](http://www.sf-planning.org/index.aspx?page=2506)
 
@@ -49,7 +49,7 @@ Below is our first dataset roundup organized by category. Future roundups will c
 
 {% include tweet-love.html mention="RE: energy and environment @sfplanning" %}
 
-##Geographic Locations and Boundaries
+## Geographic Locations and Boundaries
 
 [**California Register Districts**](http://data.sfgov.org/d/wvqx-t7yi) and [**National Register Districts**](http://data.sfgov.org/d/286s-n9rt) Each of these two datasets are district boundaries that are either listed or determined eligible to be listed by San Francisco Planning Department preservation staff. One for California Register Districts and another for the National Register. [You can learn more about these district designations on the State's Office of Historic Preservation website.](http://ohp.parks.ca.gov/listedresources/)
 
@@ -61,14 +61,14 @@ Below is our first dataset roundup organized by category. Future roundups will c
 
 {% include tweet-love.html mention="RE: geography @sfpublicworks @sfplanning @SFCityCIO" %}
 
-##Health and Social Services
+## Health and Social Services
 [**Community Resiliency Indicator System**](http://data.sfgov.org/d/banc-xdvr) The Community Resiliency Indicator System was developed by San Francisco's Climate and Health Program managed by the Department of Public Health (DPH) and is part of San Francisco's Climate and Health Profile. The dataset represents the system including 40 indicators and an additive index which is a compilation of all of the indicators. You can visit http://sfclimatehealth.org for more.
 
 [**Permitted Medical Cannabis Dispensaries**](http://data.sfgov.org/d/46p7-cb56) As of December 31st, 2014, there were 28 Permitted Medical Cannabis Dispensaries (MCD) operating in the City and County of San Francisco. This dataset shows their locations. The Department of Public Health issues a permit to operate an MCD once approvals are granted by the Department of Building Inspection, Planning Department, Fire Department and The Mayor's Office of Disability. A permit does not overrule state and federal laws regarding cannabis enforcement.
 
 {% include tweet-love.html mention="RE: health and social services @SF_DPH" %}
 
-##Housing and Buildings
+## Housing and Buildings
 [**2014 Housing Inventory**](http://data.sfgov.org/d/pucn-j93j) - This report is the 45th in the series and describes San Francisco's housing supply.  Housing Inventory data accounts for new housing construction, demolitions, and alterations in a consistent format for analysis of housing production trends.
 
 [**SF Development Pipeline 2015 Q1**](http://data.sfgov.org/d/2cma-9y6y) - The Planning Department publishes a [quarterly report tracking the development pipeline in San Francisco](http://sf-planning.org/index.aspx?page=1691). The latest one is for the first quarter of 2015.

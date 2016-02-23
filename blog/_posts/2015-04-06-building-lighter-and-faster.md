@@ -1,5 +1,5 @@
 ---
-title: "DataSF’s corner of the web: building lighter and faster"
+title: "DataSF's corner of the web: building lighter and faster"
 author: jason_lally
 image:
   thumb: datasf-website/data-sf-website-dev.png
@@ -38,7 +38,7 @@ Jekyll is built around [templates](https://github.com/datasf/datasf.github.io/tr
 
 For example. If you want to emphasize text, you can do the following:
 
-```yaml
+```
 
 *this text would be the same as italicizing*
 
@@ -50,7 +50,7 @@ What's awesome about this, is that it gives a very simple way to write content w
 
 Additionally, we can add data about the blog-post and use it in our templates. For example at the front of this blog blog-post markdown file is the following:
 
-```yaml
+``` yaml
 ---
 title: "DataSF’s corner of the web: building lighter and faster"
 author: jason_lally
