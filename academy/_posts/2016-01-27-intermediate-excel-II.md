@@ -1,0 +1,33 @@
+---
+title: "Intermediate Excel II"
+length: 2
+subject: ["Analysis", "Data Visualization"]
+prereq: "Intermediate Excel I or similar experience working with Excel"
+instructors: ["david_weinzimmer"]
+description: This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy.
+---
+
+## About this course
+This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy. It covers more advanced formulas and techniques than those encountered in the first two courses, which focus on fundamentals. 
+
+This course is a natural continuation of our Intermediate Excel I training.      
+
+
+## What you'll learn
+
+- Data acquisition: connecting to DataSF from Excel
+- Data quality checks and tips
+- Conditional formatting
+- Applications of more advanced functions
+	- SUMIF, SUMIFS, COUNTIF, AVERAGEIF
+	- SUBTOTAL
+	- Boolean Logic
+	- VLOOKUP creating a unique key; using IFERROR if appropriate
+- Nested formulas (VLOOKUP with MATCH inside, etc)
+- INDEX & MATCH
+- Collaboration Tools in Excel
+	- Shared workbooks
+	- Excel Online/Sharepoint
+
+ 
+

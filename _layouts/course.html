@@ -11,9 +11,17 @@ layout: default
     </div>
     <div class="row">
       <div class="col-md-4 col-md-push-8 sidebar">
-        <div class="toc-wrap visible-md-block visible-lg-block">
-          <h2>In this article</h2>
-          <div id="article-toc"></div>
+        <div class="panel panel-default">
+          <!-- Default panel contents -->
+          <div class="panel-heading">Course Details</div>
+          <!-- List group -->
+          <ul class="list-group">
+            <li class="list-group-item">Length: {{page.length}} hours</li>
+            <li class="list-group-item">Price: Free! (Requires RSVP. Only available to City & County of San Francisco employees with supervisor approval)</li>
+            <li class="list-group-item">Subject(s):  {% for subject in page.subject %}{{subject}} {%endfor%}</li>
+            <li class="list-group-item">Level: {{course.level}}</li>
+            <li class="list-group-item">Course Materials: Available on the course materials page</li>
+          </ul>
         </div>
       </div>
       <article class="wrap article" itemscope itemtype="http://schema.org/Article">
