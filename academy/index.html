@@ -86,8 +86,9 @@ js: academy.js
           </a>
         </div>
         <div class="col-md-9">
-          <div id="courseList" class="row isotope">
-            {% for course in site.categories.academy %}
+          {% assign sorted_courses = (site.categories.academy | sort: 'title') %}
+          <div id="courseList" class="row">
+            {% for course in sorted_courses %}
             <div class="col-md-12 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
               <div class="well">
                 <h4 class="course-name">{{course.title}}</h4>
