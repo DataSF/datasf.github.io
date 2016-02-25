@@ -91,7 +91,7 @@ js: academy.js
             {% for course in sorted_courses %}
             <div class="col-md-12 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
               <div class="well">
-                <a href="{{course.url}}"><h4 class="course-name">{{course.title}}</h4></a>
+                <h4 class="course-name">{{course.title}}</h4>
                 <div class="course-icons">
                   {% for tag in course.tags %}
                   <span class="fa-stack fa-1x">
