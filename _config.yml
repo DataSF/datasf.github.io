@@ -123,7 +123,7 @@ prose:
           field:
             element: "number"
             label: "Length of course in hours"
-            default: 2
+            value: 2
         - name: "subject"
           field:
             element: "multiselect"
@@ -172,5 +172,3 @@ prose:
           field:
             element: "textarea"
             label: "Description"
-      
-          
