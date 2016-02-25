@@ -55,6 +55,7 @@ Our publishing activity measures progress on our dataset inventory ([learn about
 We also track publishing activity by department, priority level and classification as percentages. Percents allow us to compare performance without distorting incentives.
 
 ### Publishing Quality
+
 Our quality metrics track how well we publish when we publish:
 
  - **Performance against target.** Every six months, we identify the number of datasets to publish. These measures track how we are performing against those targets.
@@ -67,6 +68,7 @@ We have now added all of our quality metrics to [DataSF in Progress](http://data
  - We use our open data API to populate our dashboard
 
 ### Publishing Impact
+
 If we publish a bunch of data in a quality manner, it doesn't matter if no one uses it. This is where our impact measures come into play. They are the hardest to measure and require deliberate data collection. At this time, our impact measures focus on internal metrics. While we’ve attempted external surveys, our “n” has been too low to infer anything from the data. In lieu of this, we are exploring “net promoter” scores and other methods. Welcome thoughts on this one.
 
 Until then, we will collect the following data via annual surveys and will add to our dashboard as we have multiple years.

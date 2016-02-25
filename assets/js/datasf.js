@@ -1,26 +1,41 @@
 ---
 ---
+var median = function(values) {
+
+  values.sort(function(a, b) {
+    return a - b;
+  });
+
+  var half = Math.floor(values.length / 2);
+
+  if (values.length % 2)
+    return values[half];
+  else
+    return (+values[half - 1] + +values[half]) / 2.0;
+}
+
 $(function() {
-  if (typeof $.fn.toc == 'function') { 
+  if (typeof $.fn.toc == 'function') {
     $('#article-toc').toc({
-      'container':'article',
-      'scrollToOffset':110,
-      'prefix':'toc',
+      'container': 'article',
+      'scrollToOffset': 110,
+      'prefix': 'toc',
       'anchorName': function(i, heading, prefix) {
-        return prefix+i;
-    }});
-    
+        return prefix + i;
+      }
+    });
+
     var affix = $('.toc-wrap');
     var width = $('.sidebar').width();
     affix.width(width);
-    
+
     $('.toc-wrap').affix({
       offset: {
         top: $('.toc-wrap').offset().top - 102
       }
     })
   }
-  
+
   $('[data-toggle="tooltip"]').tooltip();
 
   $('button.ext-sf-opendata').on('click', function(ev) {
@@ -30,15 +45,15 @@ $(function() {
   $('a.ext-sf-opendata').on('click', function(ev) {
     ga('send', 'event', 'Catalog', 'Click Link', 'From ' + window.location.pathname, 1)
   });
-  
+
   $('a.take-survey').on('click', function(ev) {
     ga('send', 'event', 'Take Survey', 'Click', 'Link', 1)
   });
-  
-   $('a.download').on('click', function(ev) {
+
+  $('a.download').on('click', function(ev) {
     ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).parent().data('download-name'), 1)
   });
-  
+
 
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
@@ -79,18 +94,19 @@ $(function() {
     var link = el.attr('href');
     window.location = link;
   });
-  
+
   //Filter academy list
   var $btns = $('.filter-topic').click(function(ev) {
     ev.preventDefault();
-  if ($(this).data("filter") == '*') {
-    $('#courseList > div').fadeIn(450);
-  } else {
-    var $el = $($(this).data('filter')).fadeIn(450);
-    $('#courseList > div').not($el).fadeOut(450);
-  }
-  $btns.removeClass('active');
-  $(this).addClass('active');
+    if ($(this).data("filter") == '*') {
+      $('#courseList > div').fadeIn(450);
+    }
+    else {
+      var $el = $($(this).data('filter')).fadeIn(450);
+      $('#courseList > div').not($el).fadeOut(450);
+    }
+    $btns.removeClass('active');
+    $(this).addClass('active');
   });
 
   $("#mc-embedded-subscribe-form-academy").validate({
@@ -112,14 +128,15 @@ $(function() {
         })
         .done(function(ret) {
           if (ret.result != "success") {
-                $('#mce-error-response').html(ret.msg);
-                $('#mce-error-response').show();
-                $('#mce-success-response').hide();
-            } else {
-                $('#mce-success-response').html(ret.msg + " Please check your junk folder if you do not receive the email.");
-                $('#mce-error-response').hide();
-                $('#mce-success-response').show();
-            }
+            $('#mce-error-response').html(ret.msg);
+            $('#mce-error-response').show();
+            $('#mce-success-response').hide();
+          }
+          else {
+            $('#mce-success-response').html(ret.msg + " Please check your junk folder if you do not receive the email.");
+            $('#mce-error-response').hide();
+            $('#mce-success-response').show();
+          }
         });
     }
   });
@@ -173,7 +190,7 @@ var constructChart = function(options) {
       show: false
     }),
     color: (options.color ? options.color : {}),
-    padding: {
+    padding: (options.padding) ? options.padding : {
       top: 0,
       right: 0,
       left: 0,
@@ -186,26 +203,50 @@ var constructChart = function(options) {
     },
     axis: (options.axis ? options.axis : {})
   });
-  
+
   return constructed;
 }
 
 var transform = function(data, label) {
   var output = [];
   var total = 0;
-  $.each(data, function(idx, rec) {
-    output.push([rec[label], rec.count]);
-    total += +rec.count;
-  });
-  if (total == 0) {
-    return false;
+  if (label === undefined) {
+    for (var key in data[0]) {
+      if (data[0].hasOwnProperty(key)) {
+        output.push([key.replace(/_/g, " ").toTitleCase(), data[0][key]])
+      }
+    }
+    return output
   }
   else {
-    return output;
+    $.each(data, function(idx, rec) {
+      if (typeof rec[label] === 'boolean') {
+        output.push([rec[label] ? 'Yes' : 'No', rec.count]);
+      }
+      else {
+        output.push([rec[label].toTitleCase(), rec.count]);
+      }
+      total += +rec.count;
+    });
+    if (total == 0) {
+      return false;
+    }
+    else {
+      return output;
+    }
   }
 }
 
-var processCharts = function(c,baseIDs,queryStrings,options,charts) {
+var transformNormalize = function(data, groups) {
+  $.each(data, function(idx, rec) {
+    for (group in groups[0]) {
+      rec[groups[0][group]] = Math.round((rec[groups[0][group]] / rec.total) * 100) / 100
+    }
+  });
+  return data;
+}
+
+var processCharts = function(c, baseIDs, queryStrings, options, charts) {
   $.ajax({
     url: "https://data.sfgov.org/resource/" + baseIDs[c] + ".json?" + queryStrings[c],
     type: 'GET',
@@ -214,19 +255,19 @@ var processCharts = function(c,baseIDs,queryStrings,options,charts) {
         bindto: "#chart" + c,
         size: {},
         color: {
-          pattern: ['#133140','#1c485e','#2a6b8c','#378eb9', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896', '#9467bd', '#c5b0d5', '#8c564b', '#c49c94', '#e377c2', '#f7b6d2', '#7f7f7f', '#c7c7c7', '#bcbd22', '#dbdb8d', '#17becf', '#9edae5']
+          pattern: ['#133140', '#1c485e', '#2a6b8c', '#378eb9', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896', '#9467bd', '#c5b0d5', '#8c564b', '#c49c94', '#e377c2', '#f7b6d2', '#7f7f7f', '#c7c7c7', '#bcbd22', '#dbdb8d', '#17becf', '#9edae5']
         }
       }
       if (options[c].size) {
         opts.size = options[c].size
       }
-      
+
       if (options[c].colors) {
         opts.color = {
           pattern: options[c].colors
         }
       }
-      
+
       if (options[c].type == 'pie') {
         response = transform(response, options[c].label);
         opts.data = {
@@ -235,16 +276,25 @@ var processCharts = function(c,baseIDs,queryStrings,options,charts) {
         };
         opts.legend = {
           show: true,
-          position: 'right'
+          position: 'bottom'
         }
       }
       else if (options[c].type == 'timeseries' || options[c].type == 'bar') {
         opts.data = {
           xFormat: (options[c].type == 'timeseries' ? '%Y-%m-%dT%H:%M:%S.%L' : ''),
-          json: response,
+          json: (options[c].transform == 'normalize') ? transformNormalize(response, options[c].groups) : response,
           mimeType: 'json',
           keys: options[c].keys,
-          type: 'bar'
+          names: {
+            not_published: "Not Published",
+            published: "Published",
+            count: "Count"
+          },
+          type: 'bar',
+          groups: (options[c].groups) ? options[c].groups : ''
+        }
+        opts.padding = (options[c].padding) ? options[c].padding : {
+          top: 0
         }
         opts.axis = {
           x: {
@@ -253,6 +303,16 @@ var processCharts = function(c,baseIDs,queryStrings,options,charts) {
             tick: {
               format: (options[c].keys.x == 'month' ? '%b %Y' : (options[c].keys.x == 'year' ? '%Y' : ''))
             }
+          },
+          y: {
+            show: true,
+            padding: {
+              top: 3,
+              bottom: 0
+            },
+            tick: {
+              format: (options[c].yFormat) ? d3.format(options[c].yFormat) : null
+            }
           }
         };
       }
@@ -260,7 +320,7 @@ var processCharts = function(c,baseIDs,queryStrings,options,charts) {
       charts.push(chart);
       if (c < baseIDs.length - 1) {
         c++
-        processCharts(c,baseIDs,queryStrings,options,charts);
+        processCharts(c, baseIDs, queryStrings, options, charts);
       }
       else {
         processText(charts);
@@ -273,6 +333,14 @@ var processCharts = function(c,baseIDs,queryStrings,options,charts) {
 var processText = function(charts) {
   $('#stat-inventory .stat-number').html(charts[0].data.values('Complete'));
   $('#stat-plans-complete .stat-number').html(charts[1].data.values('Complete'));
-  $('#stat-inventoried-datasets .stat-number').html( +charts[4].data.values('Published') + +charts[4].data.values('Not Published'));
-  $('#stat-published-datasets .stat-number').html( +charts[4].data.values('Published'));
+  $('#stat-inventoried-datasets .stat-number').html(+charts[4].data.values('Published') + +charts[4].data.values('Not Published'));
+  $('#stat-published-datasets .stat-number').html(+charts[4].data.values('Published'));
+  $('#stat-published-plan .stat-number').html(+charts[10].data.values('Published'));
+  $('#stat-targeted-datasets .stat-number').html(+charts[10].data.values('Published') + +charts[10].data.values('Not Published'));
+  $.getJSON('https://data.sfgov.org/resource/q6xv-9c3b.json?$select=lag_days&$where=lag_days%3E0&$order=lag_days', function(data) {
+    var lagDays = data.map(function(obj) {
+      return +obj['lag_days']
+    });
+    $('#stat-median-lag .stat-number').html(median(lagDays));
+  })
 }

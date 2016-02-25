@@ -10,14 +10,14 @@ description: Thank you to everyone who responded to our request for feedback on 
 Thank you to everyone who responded to our request for feedback on our metadata draft! We really appreciated your comments and thoughts. Below is a summary of how we are incorporating comments and changes based on feedback from an internal survey, external survey, and our governance committee.
 
 You can view the revised draft and our comments here.
-##Changes we made
+## Changes we made
 We made a handful of changes based on the feedback:
 
 - Removed field 27-Spatial/geo coverage as we concluded this was more confusing than not and that publishing and quality checks would serve to ensure completeness.
 - Changed the fields 12 and 13 to “Required - Private” per feedback from our governance committee who felt that they created unnecessary confusion given that they supported internal management versus understanding the dataset. For example, public users would only see datasets marked as public access level: public. As a result, providing this as a public field doesn’t add value and may create confusion.
 - Incorporated some changes to the drop down menus and what we would include.
 
-##Guidance we’ll incorporate
+## Guidance we’ll incorporate
 
 A few of you had suggestions for new field elements or information to include. Since our research noted that “compliance” is an issue, we are very focused on making the fields easy to populate while recognizing that good metadata is essential.
 
@@ -37,7 +37,7 @@ With the goal of addressing questions about:
 
 And of course, we will monitor this in the next year and see if we need to add additional field elements or improve our guidance.
 
-##Ease of completion
+## Ease of completion
 
 We heard from a few folks concerned about how much effort it will take to complete the metadata. In addition, to the guidance we’ll develop, we worked hard to minimize manual input/writing.
 

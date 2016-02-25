@@ -593,6 +593,10 @@ section p.section-subheading {
   }
 }
 
+.center {
+  text-align: center;
+}
+
 section#data-love {
   text-align: center;
   background: #133140;
@@ -608,6 +612,9 @@ section#data-love {
 .thinnest-section {
   padding: 5px 0;
 }
+
+/* Progress */
+
 section#progress {
   text-align: center;
   background-color: #245f7b;
@@ -627,6 +634,16 @@ section#progress .stat-text {
   width: 100%;
 }
 
+.chart-title {
+  font-size: 1.2em;
+  font-weight: 700;
+  display: block;
+}
+
+.row.inner-break {
+  margin-top: 45px;
+}
+
 @media (min-width: 992px) {
   #progress .btn {
     width: 175px;
@@ -635,6 +652,14 @@ section#progress .stat-text {
     text-align: left;
     background-color: #245f7b;
   }
+}
+
+.c3 line, .c3 path {
+  stroke: #d9d9d9;
+}
+
+.c3 .tick text {
+    fill: #666666;
 }
 
 /*Search catalog*/
@@ -1673,8 +1698,6 @@ figcaption a:hover {
 #feedback a:hover { 
   background: #{{site.color.secondary}}; 
 }
-
-<<<<<<< HEAD
 
 /* Plans */
 

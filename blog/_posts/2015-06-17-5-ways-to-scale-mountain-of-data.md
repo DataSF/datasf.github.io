@@ -60,7 +60,7 @@ Tools we provided:
 
 Check out our [Data Inventory Resources](http://datasf.org/resources/), but before you use them...
  
-##Implement quality control and maintenance ##
+## Implement quality control and maintenance ##
 At each stage in the process, plan to allocate time and energy to ensure quality submissions. If you don't do this, your inventory will be less useful. This takes a lot of work (try to minimize by thinking thoughtfully about your data collection strategy) but it's worth it. Just budget the time. Also, come up with a plan for maintaining the inventory and always, always...
  
 ## Track progress ##

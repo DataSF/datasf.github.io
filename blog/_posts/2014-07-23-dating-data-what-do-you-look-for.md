@@ -17,7 +17,7 @@ You can read more below - but check out our new draft standard:
 - [Draft Metadata Standard](http://bit.ly/SFMetadata)
 - <a href="http://bit.ly/MetadataFeedback">Give us feedback on the draft standard</a> (3 short questions!)</li>
 
-##Metadata Dream Date
+## Metadata Dream Date
 
 In my metadata dreamworld:
 
@@ -27,11 +27,11 @@ In my metadata dreamworld:
 - Our Socrata platform would include an automated dataset of datasets that included each metadata field for each dataset. And I would make charts and views of the dataset of datasets that summarized and tracked our performance in open data.
 - Bonus feature! An API on the dataset of datasets that would let us create apps or feeds for recently updated, new datasets, etc!
 
-###Instead...
+### Instead...
 
 Our metadata (the data about our datasets) is more or less out of the box ([see an example for business registered in SF](https://data.sfgov.org/Business-and-Economic-Development/Businesses-Registered-in-San-Francisco-Active/funx-qxxn/about)). We have a handful of custom fields like Department and frequency, but we haven't sat down and really thought through what fields we should include (and require) and why. And we're inspired by metadata leadership from [Open New York](https://data.ny.gov/) and [Albuquerque](http://www.cabq.gov/abq-data).
 
-##How we're tackling metadata in San Francisco</h2>
+## How we're tackling metadata in San Francisco</h2>
 
 We've kicked off a working group to draft a metadata standard. The team includes some metadata experts, library scientists, and some of our biggest publishers on DataSF. Read our <a href="https://docs.google.com/document/d/1w5-zVPGanEw9ePL7KevAgYgnD2feaNCjpjQgqDL1fVY/edit?usp=sharing">project document with background/motivation/major steps</a>.
 
@@ -44,7 +44,7 @@ Read our full document on <a href="https://docs.google.com/document/d/1dz_-yWePL
 
 (And PS - you can always visit our [Resources](http://datasf.org/resources) page for all of our metadata documents.)
 
-##Your Metadata Dream Date
+## Your Metadata Dream Date
 
 And we want to hear from you:
 - Data publishers - What works and what doesn't about metadata?
