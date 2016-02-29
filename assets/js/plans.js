@@ -164,7 +164,9 @@ var buildPage = function(dept, url, table) {
   }
 
   if (table) {
-    table.columns(1).search(deptFilter).draw();
+    deptFilter = deptFilter == '' ? '' : '(^' + deptFilter + '$)'
+    table.columns(1).search(deptFilter, true, false).draw();
+    debugger
   }
 }
 
