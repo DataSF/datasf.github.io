@@ -111,7 +111,9 @@ var buildPage = function(dept, url, table) {
       field: 'field_20',
       operator: 'is',
       value: deptFilter
-    }]
+    }, {"field":"field_45","operator":"is before","value":"12/31/2015","field_name":"Approval Date"}]
+    
+    
 
     $.ajax({
       url: "https://api.knackhq.com/v1/scenes/scene_42/views/view_57/records?filters=" + encodeURIComponent(JSON.stringify(filters)),
@@ -164,7 +166,8 @@ var buildPage = function(dept, url, table) {
   }
 
   if (table) {
-    table.columns(1).search(deptFilter).draw();
+    var search = deptFilter == '' ? '' : '(^' + deptFilter + '$)'
+    table.columns(1).search(search, true, false).draw()
   }
 }
 
