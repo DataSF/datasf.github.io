@@ -165,8 +165,7 @@ var buildPage = function(dept, url, table) {
 
   if (table) {
     deptFilter = deptFilter == '' ? '' : '(^' + deptFilter + '$)'
-    table.columns(1).search(deptFilter, true, false).draw();
-    debugger
+    table.columns(1).search(deptFilter, true, false).draw()
   }
 }
 
