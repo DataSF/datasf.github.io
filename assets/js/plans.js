@@ -15,8 +15,8 @@ var fetchStats = function(baseURL, deptFilter, index) {
     var index = 0
   }
   
-  var before = moment(planPeriods[index + 1]).add(6,'months').format("YYYY-MM-DD")
-  var after = moment(planPeriods[index + 1]).format("YYYY-MM-DD")
+  var before = moment(planPeriods[index + 1],'MM/DD/YYYY').add(6,'months').format("YYYY-MM-DD")
+  var after = moment(planPeriods[index + 1],'MM/DD/YYYY').format("YYYY-MM-DD")
   
    var dataQueryString2 = [
     '$select=date_trunc_ym(date_published)+AS+month,count(*)',
@@ -86,7 +86,7 @@ var fetchPlan = function(deptFilter, index) {
   if(!index) {
     var index = 0
   }
-  var after = moment(planPeriods[index + 1]).subtract(2,"months").format("MM/DD/YYYY")
+  var after = moment(planPeriods[index + 1],'MM/DD/YYYY').subtract(2,"months").format("MM/DD/YYYY")
   var before = planPeriods[index]
   
   if (deptFilter && deptFilter != '') {
