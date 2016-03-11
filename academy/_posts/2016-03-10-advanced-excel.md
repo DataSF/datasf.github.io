@@ -10,7 +10,7 @@ subjects:
   - Visualization
 team_members:
   - david-weinzimmer
-course_materials_link: "http://site.com
+course_materials_link: "http://site.com"
 ---
 
 
