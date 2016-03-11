@@ -112,6 +112,10 @@ prose:
         field:
           element: "text"
     academy/_posts:
+      - name: 'layout'
+        field:
+          element: 'hidden'
+          value: 'course'
       - name: "title"
         field:
           element: "text"
@@ -124,6 +128,7 @@ prose:
       - name: "subject"
         field:
           element: "multiselect"
+          label: "Topic Area"
           options:
             - name: "Information Design"
               value: "information-design"
@@ -142,6 +147,7 @@ prose:
       - name: "instructors"
         field:
           element: "multiselect"
+          label: "Instructor(s)"
           options: 
             - name: "Sam Dorward"
               value: "sam_dorward"
@@ -165,7 +171,3 @@ prose:
               value: "celeste_berg"
             - name: "Jessie Rubin"
               value: "jessie_rubin"
-      - name: "description"
-        field:
-          element: "textarea"
-          label: "Description"
