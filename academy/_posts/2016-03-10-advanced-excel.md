@@ -1,6 +1,6 @@
 ---
 layout: course
-description: null
+description: Test
 prereq: null
 length: 2
 published: true
