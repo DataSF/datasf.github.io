@@ -1,12 +1,14 @@
 ---
 layout: course
+title: Advanced Excel
 description: Advanced Excel is great
-prereq: None
+prerequisites: None
 length: 2
 published: true
-title: Advanced Excel
 series: Excel
-subject: null
+subjects:
+  - Analysis
+  - Visualization
 team_members:
   - jason-lally
 ---
