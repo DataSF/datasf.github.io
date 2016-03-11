@@ -21,14 +21,14 @@ paginate: 5
 paginate_path: "/blog/:num/"
 
 collections:
-  team:
+  team_members:
     output: true
 
 defaults:
   -
     scope:
       path: ""
-      type: "team"
+      type: "team_members"
     values:
       layout: "team-member"
   -
