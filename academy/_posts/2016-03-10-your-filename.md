@@ -1,12 +1,17 @@
 ---
-title: "Advanced Excel"
-summary: "This is a test"
-instructors:
+layout: course
+title: Advanced Excel
+summary: This is a test
+instructors: 
   - joy_bonaguro
   - jason_lally
 published: true
 prereq: Intermediate Excel II or strong working knowledge of Excel
+description: null
+length: 2
+subject: null
 ---
+
 
 ## A New Post
 
