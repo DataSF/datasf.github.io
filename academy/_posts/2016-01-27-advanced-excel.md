@@ -1,12 +1,16 @@
 ---
-layout: policy
-title: Affordable Housing Financing and Development
-summary: "Housing developers use debt or equity to finance the construction or rehabilitation of housing.  But low-income rents and sales prices cannot cover the costs of repaying market-rate financing..."
+layout: course
+title: Advanced Excel
+summary: "This classroom based workshop is the fourth in a series of workshops on Excel offered by the Data Academy.  It provides the Data Academy's most advanced level of Excel training."
 published: true
-dataCategory: "financing-and-development"
-ami: 60
-image: development.png
-target: units
+instructors:
+  - sam_dorward
+  - david_weinzimmer
+prereq: Intermediate Excel II or strong working knowledge of Excel
+length: 2
+subject:
+  - analysis
+  - visualization
 ---
 
 layout: course
