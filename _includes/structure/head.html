@@ -22,7 +22,9 @@
     {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
   {% endif %}
   {% include structure/open-graph.html %}
-  {% if author.google.plus %}<link rel="author" href="https://plus.google.com/+{{ author.google.plus }}"/>{% endif %}
+  {% if author.google.plus %}
+  <link rel="author" href="https://plus.google.com/+{{ author.google.plus }}"/>
+  {% endif %}
   
   <!-- Custom Fonts 
   ================================================== -->
