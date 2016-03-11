@@ -120,6 +120,7 @@ prose:
         field:
           element: "number"
           label: "Length of course in hours"
+          value: 2
       - name: "subject"
         field:
           element: "multiselect"
