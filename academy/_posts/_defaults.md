@@ -1,8 +1,12 @@
 ---
 layout: course
-subjects:
-team_members:
 title:
-headshot_path:
+description:
+prerequisits:
+length: 2
+subjects:
 series:
+team_members:
+course_materials_link:
+
 ---
