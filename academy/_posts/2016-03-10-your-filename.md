@@ -9,7 +9,8 @@ published: true
 prereq: Intermediate Excel II or strong working knowledge of Excel
 description: null
 length: 2
-subject: null
+subject: 
+  - management
 ---
 
 
