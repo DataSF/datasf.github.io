@@ -3,7 +3,7 @@ layout: course
 description: null
 prereq: null
 length: 2
-published: false
+published: true
 title: Advanced Excel
 series: Excel
 subject: null
