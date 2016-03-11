@@ -86,6 +86,14 @@ social:
   - title: github 
     url: http://github.com/datasf
 
+subjects:
+  - Analysis
+  - Visualization
+  - Mapping
+  - Information Design
+  - Data Management
+  
+
 prose:
   siteurl: 'http://datasf.org'
   metadata:
