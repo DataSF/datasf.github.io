@@ -65,7 +65,6 @@ var buildPage = function(dept, url, table) {
       }
     }
   });
-
   $.ajax({
     url: baseURL + "?" + dataQueryString2 + constructFilter('month>="2015-07-01"+AND+month+IS+NOT+NULL', deptFilter),
     type: 'GET',
