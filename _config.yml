@@ -88,10 +88,10 @@ prose:
         field:
           element: 'text'
           label: 'Title'
-      - name: 'description'
+      - name: 'summary'
         field:
           element: 'textarea'
-          label: 'Description'
+          label: 'Summary'
       - name: "prereq"
         field:
           element: "textarea"
