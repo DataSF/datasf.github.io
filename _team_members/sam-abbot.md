@@ -1,8 +1,10 @@
 ---
-name: Sam Abbot
-work_title: null
-email: null
-bio: null
-gravatar: null
-twitter: null
+name: Sam Abbott
+work_title:
+email:
+bio:
+gravatar:
+twitter:
 ---
+
+
