@@ -16,6 +16,7 @@ team_members:
   - jessie-rubin
   - sam-abbott
 course_materials_link: 'http://site.com'
+order: 0
 ---
 
 
