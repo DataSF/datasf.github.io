@@ -88,11 +88,3 @@ prose:
         field:
           element: 'text'
           label: 'Title'
-      - name: 'length'
-        field:
-          element: 'number'
-          label: 'Length of course in hours'
-      - name: 'prereq'
-        field:
-          element: 'textarea'
-          label: 'Prerequisites'
