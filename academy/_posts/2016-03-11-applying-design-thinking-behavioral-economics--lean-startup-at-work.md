@@ -8,8 +8,6 @@ series: null
 subjects: null
 team_members:
   - marc-hebert
-categories:
-  - academy
 ---
 
 
