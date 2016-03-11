@@ -92,6 +92,26 @@ prose:
         field:
           element: "textarea"
           label: "Prerequisites"
+      - name: 'length'
+        field:
+          element: 'number'
+          value: 2
+          label: 'Length of course in hours'
+      - name: "subject"
+        field:
+          element: "multiselect"
+          label: "Topic Area"
+          options:
+            - name: "Information Design"
+              value: "information-design"
+            - name: "Analysis"
+              value: "analysis"
+            - name: "Mapping"
+              value: "mapping"
+            - name: "Data Management"
+              value: "management"
+            - name: "Data Visualization"
+              value: "visualization"
       - name: 'instructors'
         field:
           element: "multiselect"
