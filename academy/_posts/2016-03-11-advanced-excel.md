@@ -12,6 +12,7 @@ subjects:
 team_members:
   - david-weinzimmer
 course_materials_link: 'http://site.com'
+order: 0
 ---
 
 
