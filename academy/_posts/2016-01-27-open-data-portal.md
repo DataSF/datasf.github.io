@@ -1,14 +1,16 @@
 ---
+layout: course
 title: "Leveraging the City's Open Data Portal"
 length: 2
-subject: null
-prereq: null
+subject: 
+  - management
+prereq: Testing
 instructors: 
-  - joy_bonaguro
   - jason_lally
 description: null
 published: true
 ---
+
 
 
 
