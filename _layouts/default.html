@@ -2,14 +2,7 @@
 <html lang="en">
 
   {% include structure/head.html %}
-
-	<!--[if lt IE 9 ]>
-   <body id="page-top" class="index {% if page.is_front != true %} not-front {% endif %} ie8">
-		<![endif]-->
-	<!--[if (gte IE 9)|!(IE)]>-->
-	
    <body id="page-top" class="index {% if page.is_front != true %} not-front {% endif %}">
-	<!--<![endif]-->
     {% include structure/header.html %}
     {{ content }}
     {% include structure/footer.html %}
