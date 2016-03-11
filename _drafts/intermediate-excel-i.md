@@ -10,12 +10,7 @@ subjects:
   - Analysis
   - Visualization
 team_members:
-  - aaron-low
-  - ashley-groffenberger
-  - celeste-berg
   - david-weinzimmer
-  - jessie-rubin
-  - sam-abbott
 categories:
   - academy
 ---
@@ -23,9 +18,9 @@ categories:
 
 ## About this course
 
-This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy. It covers more advanced formulas and techniques than those encountered in the first two courses, which focus on fundamentals.&nbsp;
+This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy. It covers more advanced formulas and techniques than those encountered in the first two courses, which focus on fundamentals.
 
-This course is a natural continuation of our Intermediate Excel I training. &nbsp; &nbsp;&nbsp;
+This course is a natural continuation of our Intermediate Excel I training.
 
 ## What you’ll learn
 
