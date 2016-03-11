@@ -2,12 +2,13 @@
 layout: course
 title:
 description:
-prerequisits:
+prerequisites:
 length: 2
 subjects:
 series:
 team_members:
 course_materials_link:
+order: 0
 ---
 ## About this course
 
