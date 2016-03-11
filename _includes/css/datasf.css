@@ -8,6 +8,7 @@ body {
   font-family: "Alegreya", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #{{site.color.secondary-dark}};
   font-size: 18px;
+  margin-top: 50px;
 }
 
 .pubexpsurvey {
@@ -48,9 +49,6 @@ body {
   font-size: 21px;
 }
 
-body.not-front {
-  margin-top: 50px;
-}
 body img {
   max-width: 100%;
   height: auto;
@@ -448,7 +446,7 @@ a:active {
   line-height: 50px;
 }
 @media(min-width:768px) {
-  body.not-front {
+  body {
     margin-top: 70px;
   }
   .navbar>.container .navbar-brand,
