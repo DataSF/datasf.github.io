@@ -4,10 +4,11 @@ title: 'Applying Design Thinking, Behavioral Economics & Lean Startup at Work'
 description: Ever wanted to use design thinking to create more effective project outcomes? Plan to have fun practicing these techniques and then commit to trying to apply what youíve learned to one or more of your projects in 24 hours.
 prerequisites: None
 length: 2
-series: null
-subjects: null
+series:
+subjects:
 team_members:
   - marc-hebert
+order: 0
 ---
 
 
