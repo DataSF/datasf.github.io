@@ -92,7 +92,6 @@ prose:
         field:
           element: "textarea"
           label: "Prerequisites"
-         - name: "instructors"
       - name: 'instructors'
         field:
           element: "multiselect"
