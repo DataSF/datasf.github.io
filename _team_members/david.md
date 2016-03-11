@@ -1,8 +1,10 @@
 ---
-name: David
-work_title: null
-email: null
-bio: null
-gravatar: null
-twitter: null
+name: David Weinzimmer
+work_title:
+email:
+bio:
+gravatar:
+twitter:
 ---
+
+
