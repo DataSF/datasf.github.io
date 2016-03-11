@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Introduction to Excel
-description: "This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy.   \n\nIt assumes no prior experience with the program."
+description: This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy.
 prerequisites: None
 length: 2
 series:
@@ -10,12 +10,29 @@ subjects:
   - Analysis
   - Visualization
 team_members:
-  - david-weinzimmer
   - aaron-low
-  - sam-abbott
   - ashley-groffenberger
+  - david-weinzimmer
   - jessie-rubin
+  - sam-abbott
 course_materials_link: 'http://site.com'
 ---
 
 
+## About this course
+
+This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy. &nbsp;&nbsp;
+
+It assumes no prior experience with the program.&nbsp;
+
+## What you’ll learn
+
+* Features of Excel and the tool ribbon
+* Basic shortcuts&nbsp;
+* Filtering and sorting
+* Simple algebra
+* Tables
+* Using formulas for basic summary statistics
+* COUNTIF, COUNTA functions
+* Absolute vs relative cell references
+  &nbsp;
