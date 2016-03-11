@@ -1,5 +1,5 @@
 ---
-title: "Applying Design Thinking, Behavioral Economics & Lean Startup at Work"
+title: Applying Design Thinking, Behavioral Economics & Lean Startup at Work
 length: 2
 prereq: None
 instructors: 
