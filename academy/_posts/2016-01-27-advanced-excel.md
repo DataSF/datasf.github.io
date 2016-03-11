@@ -1,6 +1,9 @@
 ---
 layout: course
 title: Advanced Excel
+---
+
+
 summary: "This classroom based workshop is the fourth in a series of workshops on Excel offered by the Data Academy.  It provides the Data Academy's most advanced level of Excel training."
 published: true
 instructors:
@@ -11,8 +14,6 @@ length: 2
 subject:
   - analysis
   - visualization
----
-
 layout: course
 title: Advanced Excel
 length: 2
