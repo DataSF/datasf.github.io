@@ -84,7 +84,3 @@ prose:
         field:
           element: 'hidden'
           value: 'course'
-      - name: 'title'
-        field:
-          element: 'text'
-          label: 'Title'
