@@ -24,7 +24,7 @@ course_materials_link: 'http://site.com'
 
 This classroom based workshop is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced ways to manipulate and format data in spreadsheets.&nbsp;
 
-This course is a natural continuation of our Introduction to Excel training. &nbsp; &nbsp;&nbsp;
+This course is a natural continuation of our Introduction to Excel training. 
 
 ## What you’ll learn
 
@@ -36,7 +36,3 @@ This course is a natural continuation of our Introduction to Excel training. &nb
 * Making charts presentable
 * Printing, formatting, and sharing spreadsheets/charts
 * Conditional formatting
-
-
-&nbsp;
-&nbsp;
