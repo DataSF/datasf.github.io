@@ -1,4 +1,6 @@
 ---
+title: "Advanced Excel"
+summary: "This is a test"
 published: true
 prereq: Intermediate Excel II or strong working knowledge of Excel
 ---
