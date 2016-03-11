@@ -1,6 +1,5 @@
 ---
 layout: course
-description: "Ever wanted to use design thinking to create more effective project outcomes? Have you wondered how behavioral economics may reduce groupthink and catch blind spots early?"
 prereq: None
 length: 2
 subject: null
