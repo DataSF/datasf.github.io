@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Advanced Excel
 length: 2
 subject: 
