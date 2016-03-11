@@ -77,23 +77,22 @@ social:
     url: http://github.com/datasf
 
 prose:
-  siteurl: "http://datasf.org"
-  media: "uploads"
+  siteurl: 'http://datasf.org'
   metadata:
     academy/_posts:
       - name: 'layout'
         field:
           element: 'hidden'
           value: 'course'
-      - name: "title"
+      - name: 'title'
         field:
-          element: "text"
-          label: "Title"
-      - name: "length"
+          element: 'text'
+          label: 'Title'
+      - name: 'length'
         field:
-          element: "number"
-          label: "Length of course in hours"
-      - name: "prereq"
+          element: 'number'
+          label: 'Length of course in hours'
+      - name: 'prereq'
         field:
-          element: "textarea"
-          label: "Prerequisites"
+          element: 'textarea'
+          label: 'Prerequisites'
