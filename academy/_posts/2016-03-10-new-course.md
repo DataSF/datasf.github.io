@@ -1,15 +1,14 @@
 ---
 layout: course
-summary: New
-prereq: None
+summary: null
+prereq: null
 length: 2
-subject: 
-  - "information-design"
-instructors: 
-  - sam_dorward
-published: false
+subject: null
+instructors: null
+published: true
 title: New course
 ---
+
 
 ## A New Post
 
