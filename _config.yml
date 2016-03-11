@@ -93,6 +93,9 @@ subjects:
   - Information Design
   - Data Management
   
+series:
+  - Excel
+  - Tableau
 
 prose:
   siteurl: 'http://datasf.org'
