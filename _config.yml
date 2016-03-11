@@ -80,37 +80,6 @@ prose:
   siteurl: "http://datasf.org"
   media: "uploads"
   metadata:
-    resources/_posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "resource"
-      - name: "tags"
-        field:
-          element: "select"
-          label: "Select Resource Category"
-          #options: "http://datasf.github.io/datasf-website/api/jsonp/tags.json?callback=tagsCallback"
-          alterable: true
-          placeholder: "Choose"
-    blog/_posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "date"
-        field:
-          element: "text"
-      - name: "author"
-        field:
-          element: "select"
-          label: "Author"
-          #options: http://datasf.github.io/datasf-website/api/jsonp/authors.json?callback=authorsCallback
-      - name: "thumbnail"
-        field:
-          element: "text"
-      - name: "description"
-        field:
-          element: "text"
     academy/_posts:
       - name: 'layout'
         field:
