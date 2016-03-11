@@ -93,8 +93,7 @@ prose:
             options: "http://datasf.github.io/datasf-website/api/jsonp/tags.json?callback=tagsCallback"
             alterable: true
             placeholder: "Choose"
-    blog:
-      _posts:
+      blog/_posts:
         - name: "layout"
           field:
             element: "hidden"
@@ -113,8 +112,7 @@ prose:
         - name: "description"
           field:
             element: "text"
-    academy:
-      _posts:
+      academy/_posts:
         - name: "title"
           field:
             element: "text"
