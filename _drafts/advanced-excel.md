@@ -2,6 +2,6 @@
 title: Advanced Excel
 length: 2
 prereq: None
-team:
+team-members:
   - Jason Lally
 ---
