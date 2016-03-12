@@ -5,10 +5,10 @@ prerequisites: None
 length: 2
 subjects:
   - Information Design
-series:
+series: null
 team_members:
   - joy-bonaguro
-course_materials_link:
+course_materials_link: null
 order: 0
 category: academy
 categories:
@@ -22,7 +22,7 @@ So you have great data, but you want to learn more about how to present it effec
 
 ## What you'll learn in this course
 
-- Analyze designs using design vocabulary
-- Improve charts and graphs using tools you already know
-- Use class handouts effectively
-- Find more resources and help as you advance
+* Analyze designs using design vocabulary
+* Improve charts and graphs using tools you already know
+* Use class handouts effectively
+* Find more resources and help as you advance
