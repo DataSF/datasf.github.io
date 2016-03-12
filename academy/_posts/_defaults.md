@@ -1,5 +1,4 @@
 ---
-layout: course
 title:
 description:
 prerequisites:
