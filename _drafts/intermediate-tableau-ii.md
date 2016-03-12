@@ -14,7 +14,6 @@ order: 0
 category: academy
 categories:
   - academy
-posts:
 ---
 
 
