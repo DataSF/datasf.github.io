@@ -24,3 +24,10 @@ Basic data design choices can make the difference between simple analysis and ho
 This class assumes you are comfortable navigating in an Excel worksheet. You should have access to Excel 2010 or 2013 at your workstation.
 
 ## What you'll learn in this course
+- How to use functions in Excel to clean and prepare data for analysis
+	- Use Paste-Transpose and SEARCH and FIND functions to create categorical variables
+	- Create fiscal years from dates
+	- Prepare addresses using CONCATENATE
+	- Create flexible lookups using INDEX and MATCH
+- New mindsets for approaching data preparation and cleaning
+
