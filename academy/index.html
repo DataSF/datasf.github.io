@@ -86,22 +86,29 @@ js: academy.js
           </a>
         </div>
         <div class="col-md-9">
-          {% assign sorted_courses = (site.categories.academy | sort: 'title') %}
+          {% assign grouped_courses = (site.categories.academy | group_by: 'series') %}
           <div id="courseList" class="row">
-            {% for course in sorted_courses %}
-            <div class="col-md-12 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
-              <div class="well">
-                <h4 class="course-name">{{course.title}}</h4>
-                <div class="course-icons">
-                  {% for tag in course.tags %}
-                  <span class="fa-stack fa-1x">
-                  <i class="fa fa-circle course-icon-background fa-stack-2x"></i>
-                  <i class="fa icon-{{tag}} fa-stack-1x fa-inverse"></i>
-                </span> {% endfor %}
+            {% for courses in grouped_courses %}
+              {% if courses.name == "" %}
+              {% assign sorted_courses = (courses.items | sort: 'title') %}
+              {% else %}
+              {% assign sorted_courses = (courses.items | sort: 'order') %}
+              {%endif%}
+                {% for course in sorted_courses %}
+                <div class="col-md-12 course-item {% for tag in course.tags %} {{tag | append: ' '}}{% endfor %}">
+                  <div class="well">
+                    <h4 class="course-name">{{course.title}}</h4>
+                    <div class="course-icons">
+                      {% for tag in course.tags %}
+                      <span class="fa-stack fa-1x">
+                      <i class="fa fa-circle course-icon-background fa-stack-2x"></i>
+                      <i class="fa icon-{{tag}} fa-stack-1x fa-inverse"></i>
+                    </span> {% endfor %}
+                    </div>
+                    <p>{{course.description}}</p>
+                  </div>
                 </div>
-                <p>{{course.description}}</p>
-              </div>
-            </div>
+              {% endfor %}
             {% endfor %}
           </div>
         </div>

@@ -10,7 +10,7 @@ series:
 team_members:
   - celeste-berg
 course_materials_link:
-order: 0
+order: 3
 category: academy
 categories:
   - academy

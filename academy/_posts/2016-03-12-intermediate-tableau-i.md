@@ -11,7 +11,7 @@ team_members:
   - celeste-berg
   - jessie-rubin
 course_materials_link:
-order: 0
+order: 2
 category: academy
 categories:
   - academy

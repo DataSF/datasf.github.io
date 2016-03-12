@@ -5,20 +5,22 @@ description: 'This classroom based workshop is the first in a series of workshop
 prerequisites: None
 length: 2
 series:
+  - Tableau
 subjects:
   - Analysis
   - Visualization
 team_members:
   - david-weinzimmer
 course_materials_link: 'http://site.com'
+order: 1
 ---
 
 
 ## About this course
 
-This classroom based workshop is the first in a series of workshops on Tableau offered by the Data Academy. &nbsp;Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
-&nbsp; &nbsp;&nbsp;
-In this training, we will orient you to Tableau’s user interface and show you how to make basic charts with open datasets in your department. &nbsp;We will also show you how Tableau’s interactive features add another analytical dimension to your data visualizations.
+This classroom based workshop is the first in a series of workshops on Tableau offered by the Data Academy. Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
+
+In this training, we will orient you to Tableau’s user interface and show you how to make basic charts with open datasets in your department. We will also show you how Tableau’s interactive features add another analytical dimension to your data visualizations.
 
 ## What you’ll learn
 

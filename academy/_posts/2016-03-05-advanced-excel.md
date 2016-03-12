@@ -12,23 +12,22 @@ subjects:
 team_members:
   - david-weinzimmer
 course_materials_link: 'http://site.com'
-order: 0
+order: 4
 ---
-
 
 ## About this course
 
-This classroom based workshop is the fourth in a series of workshops on Excel offered by the Data Academy. &nbsp;It provides the Data Academy's most advanced level of Excel training. &nbsp;
+This classroom based workshop is the fourth in a series of workshops on Excel offered by the Data Academy. It provides the Data Academy's most advanced level of Excel training.
 
 We encourage experienced Excel users to register for this fast-paced course.
 
-## What you’ll learn
+## What you’ll learn in this course
 
 * Automation tools
   * Recording and using macros
 * Analysis tools
   * Statistical tests using the analysis toolpak
-  * What-if analysis &nbsp; &nbsp;
+  * What-if analysis
   * PowerPivot
 * Auditing tools
   * Formula auditing

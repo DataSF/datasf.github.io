@@ -10,7 +10,7 @@ series:
 team_members:
   - david-weinzimmer
 course_materials_link:
-order: 0
+order: 1
 category: academy
 categories:
   - academy
