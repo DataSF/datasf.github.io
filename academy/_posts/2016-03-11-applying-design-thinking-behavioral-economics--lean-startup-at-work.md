@@ -6,6 +6,7 @@ prerequisites: None
 length: 2
 series:
 subjects:
+  - Business Process
 team_members:
   - marc-hebert
 order: 0

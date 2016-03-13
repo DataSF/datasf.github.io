@@ -1468,7 +1468,7 @@ p.task-item {
 .icon-information-design:before {
   content: "\f129";
 }
-.icon-management:before {
+.icon-data-management:before {
   content: "\f0e8";
 }
 .icon-performance:before {
@@ -1479,6 +1479,10 @@ p.task-item {
 }
 .icon-data-science:before {
   content: "\f0c3";
+}
+
+.icon-business-process:before {
+  content: "\f021";
 }
 
 .course-item .well {
@@ -1494,10 +1498,6 @@ p.task-item {
 
 #filters {
   padding: 20px 0;
-}
-
-.course-name {
-  margin-bottom: 0;
 }
 
 .course-icons {
