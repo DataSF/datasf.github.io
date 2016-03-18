@@ -16,24 +16,23 @@ team_members:
   - jessie-rubin
   - sam-abbott
 course_materials_link: 'http://site.com'
-order: 1
+order: 0
 ---
 
 
 ## About this course
 
-This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy. &nbsp;&nbsp;
+This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy.
 
-It assumes no prior experience with the program.&nbsp;
+It assumes no prior experience with the program.
 
 ## What you’ll learn
 
 * Features of Excel and the tool ribbon
-* Basic shortcuts&nbsp;
+* Basic shortcuts
 * Filtering and sorting
 * Simple algebra
 * Tables
 * Using formulas for basic summary statistics
 * COUNTIF, COUNTA functions
 * Absolute vs relative cell references
-  &nbsp;
