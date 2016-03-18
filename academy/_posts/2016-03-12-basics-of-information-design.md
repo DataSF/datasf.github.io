@@ -5,11 +5,11 @@ prerequisites: None
 length: 2
 subjects:
   - Information Design
-series: null
+series:
 team_members:
   - joy-bonaguro
-course_materials_link: null
-order: 0
+course_materials_link:
+order: 3
 category: academy
 categories:
   - academy
