@@ -5,12 +5,11 @@ prerequisites: None
 length: 2
 subjects:
   - Analysis
-  - Business Process
 series:
 team_members:
   - inger-brinck
 course_materials_link:
-order: 0
+order: 2
 category: academy
 categories:
   - academy
@@ -25,12 +24,12 @@ This training is recommended for anyone who is new to process mapping and analys
 
 ## What you'll learn in this course
 
-- How to start a Business Process Improvement project
-	- Buisness Process Improvement methods
-	- How to select a business process to improve
-- How to create a high-level process map
-	- How to map your as-is process
-	- Flowchart diagramming (in both PowerPoint and Visio)
-- Teaser for swimlane mapping and process analysis
-	- Root cause analysis (Five Whys)
-	- Fishbone/root cause diagramming
+* How to start a Business Process Improvement project
+  * Buisness Process Improvement methods
+  * How to select a business process to improve
+* How to create a high-level process map
+  * How to map your as-is process
+  * Flowchart diagramming (in both PowerPoint and Visio)
+* Teaser for swimlane mapping and process analysis
+  * Root cause analysis (Five Whys)
+  * Fishbone/root cause diagramming
