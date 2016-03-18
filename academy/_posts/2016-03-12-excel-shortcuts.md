@@ -10,7 +10,7 @@ series:
 team_members:
   - david-weinzimmer
 course_materials_link:
-order: 1
+order: 5
 category: academy
 categories:
   - academy
@@ -24,10 +24,11 @@ This short workshop is usually offered as a lunch time brown-bag. It serves to c
 This class assumes you are comfortable navigating in an Excel worksheet.
 
 ## What you'll learn in this course
-- Overview of shortcuts in general
-- Navigating around a spreadsheet quickly
-- Other Excel features to save you time
-- Formatting shortcuts
-- Special Paste shortcuts
-- Filter shortcuts
-- Other shortcuts
+
+* Overview of shortcuts in general
+* Navigating around a spreadsheet quickly
+* Other Excel features to save you time
+* Formatting shortcuts
+* Special Paste shortcuts
+* Filter shortcuts
+* Other shortcuts
