@@ -1,8 +1,8 @@
 ---
 title: Excel Shortcuts
-description: "This short workshop is usually offered as a lunch time brown-bag. It serves to compliment the tools you will learn in the other Excel courses offered by the Data Academy. The tricks and tips it includes will save you time when performing analysis in Excel."
+description: This short workshop is usually offered as a lunch time brown-bag. It serves to compliment the tools you will learn in the other Excel courses offered by the Data Academy. The tricks and tips it includes will save you time when performing analysis in Excel.
 prerequisites: Introduction to Excel or basic experience working with Excel
-length: 2
+length: 1
 subjects:
   - Analysis
 series:
