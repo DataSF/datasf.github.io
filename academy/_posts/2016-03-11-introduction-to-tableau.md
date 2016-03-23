@@ -11,7 +11,7 @@ subjects:
   - Visualization
 team_members:
   - david-weinzimmer
-course_materials_link: 'http://site.com'
+course_materials_link:
 order: 1
 ---
 
@@ -31,10 +31,10 @@ In this training, we will orient you to Tableau’s user interface and show you 
   * Show Me Menu
   * Marks Card
   * Filters Card
-* How Tableau defines and formats different variable types&nbsp;
+* How Tableau defines and formats different variable types
 * Hands-on exercises to practice answering management questions by:
   * Building bar charts, line charts, maps, and crosstabs
   * Filtering for specific conditions
-  * Using marks card to drill-down for more information&nbsp;
+  * Using marks card to drill-down for more information
   * Creating a basic dashboard
 * How to share the visualizations you build with others
