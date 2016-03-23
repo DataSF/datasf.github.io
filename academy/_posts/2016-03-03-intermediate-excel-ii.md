@@ -4,23 +4,23 @@ title: Intermediate Excel II
 description: 'This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy. It covers more advanced formulas and techniques than those encountered in the first two courses, which focus on fundamentals.'
 prerequisites: None
 length: 2
-series: 
- - Excel
+series:
+  - Excel
 subjects:
   - Analysis
   - Visualization
 team_members:
   - david-weinzimmer
-course_materials_link: 'http://site.com'
+course_materials_link:
 order: 3
 ---
 
 
 ## About this course
 
-This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy. It covers more advanced formulas and techniques than those encountered in the first two courses, which focus on fundamentals.&nbsp;
+This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy. It covers more advanced formulas and techniques than those encountered in the first two courses, which focus on fundamentals.
 
-This course is a natural continuation of our Intermediate Excel I training. &nbsp; &nbsp; &nbsp;
+This course is a natural continuation of our Intermediate Excel I training.
 
 ## What you’ll learn
 
