@@ -36,9 +36,6 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <li class="hidden">
-            <a href="#page-top"></a>
-          </li>
           {% for link in site.data.navigation.new_nav %} {% assign current = nil %} {% if page.dir == link.url %} {% assign current = 'active' %} {% endif %}
           <li class="{{current}}">
             <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
