@@ -12,9 +12,9 @@ subjects:
 team_members:
   - celeste-berg
   - jessie-rubin
-  - sam-abbott
   - luke-fuller
-course_materials_link:
+  - sam-abbott
+course_materials_link: 'https://drive.google.com/folderview?id=0B_fWQflTbiRwTVhqYmNDaXBOcjQ&usp=sharing'
 order: 1
 ---
 
