@@ -1492,6 +1492,10 @@ p.task-item {
   box-shadow: 0px 0px 5px 1px #aaa;*/
 }
 
+.panel-course-details {
+  margin-top: 20px;
+}
+
 .btn-academy-resources {
   margin-bottom: 10px;
 }
@@ -1697,7 +1701,6 @@ figcaption a:hover {
 .dept-link {
   text-align: right;
 }
-
 
 
 .mini-charts-item, .pullout-stat {
