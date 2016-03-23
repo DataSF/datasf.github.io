@@ -10,22 +10,22 @@ subjects:
   - Analysis
   - Visualization
 team_members:
-  - david-weinzimmer
-  - celeste-berg
   - aaron-low
   - ashley-groffenberger
+  - celeste-berg
+  - david-weinzimmer
   - jessie-rubin
   - sam-abbott
-course_materials_link: 'http://site.com'
+course_materials_link:
 order: 2
 ---
 
 
 ## About this course
 
-This classroom based workshop is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced ways to manipulate and format data in spreadsheets.&nbsp;
+This classroom based workshop is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced ways to manipulate and format data in spreadsheets.
 
-This course is a natural continuation of our Introduction to Excel training. 
+This course is a natural continuation of our Introduction to Excel training.
 
 ## What you’ll learn
 
