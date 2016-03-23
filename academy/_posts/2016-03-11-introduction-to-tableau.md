@@ -10,7 +10,10 @@ subjects:
   - Analysis
   - Visualization
 team_members:
-  - david-weinzimmer
+  - celeste-berg
+  - jessie-rubin
+  - sam-abbott
+  - luke-fuller
 course_materials_link:
 order: 1
 ---
