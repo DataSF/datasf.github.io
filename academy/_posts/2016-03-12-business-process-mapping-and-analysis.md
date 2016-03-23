@@ -8,8 +8,10 @@ subjects:
 series:
 team_members:
   - inger-brinck
+  - ryan-hunter
+  - catherine-omalev
 course_materials_link:
-order: 2
+order: 0
 category: academy
 categories:
   - academy
