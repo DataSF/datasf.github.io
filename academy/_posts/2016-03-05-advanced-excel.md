@@ -11,9 +11,11 @@ subjects:
   - Visualization
 team_members:
   - david-weinzimmer
-course_materials_link: 'http://site.com'
+  - sam-abbott
+course_materials_link:
 order: 4
 ---
+
 
 ## About this course
 
