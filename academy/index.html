@@ -18,6 +18,8 @@ js: academy.js
   </div>
 </section>
 <div class="content-sections">
+  <section id="upcoming-courses" class"bg-light-gray">
+  </section>
   <section id="catalog" class="bg-light-gray">
     <div class="container">
       <div class="row">
@@ -97,7 +99,7 @@ js: academy.js
                 {% for course in sorted_courses %}
                 <div class="col-md-12 course-item {% for subject in course.subjects %} {{subject | slugify | append: ' '}}{% endfor %}">
                   <div class="well">
-                    <h4 class="course-name">{{course.title}}</h4>
+                    <h4 class="course-name"><a href="{{course.url}}" alt-="View the course page">{{course.title}}</a></h4>
                     <p>{{course.description}}</p>
                     <div class="course-icons">
                       {% for subject in course.subjects %}
