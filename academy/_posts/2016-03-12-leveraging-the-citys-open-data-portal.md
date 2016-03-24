@@ -4,13 +4,13 @@ description: 'This course helps you unlock features of the open data portal to i
 prerequisites: Intermediate Excel I or similar experience working with Excel
 length: 2
 subjects:
-  - Data Management
-  - Visualization
   - Analysis
+  - Visualization
+  - Data Management
 series:
 team_members:
   - jason-lally
-course_materials_link:
+course_materials_link: 'https://drive.google.com/file/d/0BwRgeGq-b8f9TGFHRjI2aGN5RWs/view?usp=sharing'
 order: 0
 category: academy
 categories:
