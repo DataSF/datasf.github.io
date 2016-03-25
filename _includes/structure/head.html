@@ -1,43 +1,39 @@
 <head>
-  <!-- Basic
-  ================================================== -->
+  <!-- Basic ================================================== -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
-  <!-- Mobile
-  ================================================== -->
+  <!-- Mobile ================================================== -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
   
-  <!-- Title and meta description
-  ================================================== -->
+  <!-- Title and meta description================================================== -->
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
   <!--<link rel="canonical" href="{{ page.url | replace:'/index.html','' | prepend: site.baseurl | prepend: site.url }}">-->
   
-  <!-- Open Graph and Author Metas
-  ================================================== -->
+  <!-- Open Graph and Author Metas================================================== -->
   {% if page.author %}
     {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
   {% endif %}
   {% include structure/open-graph.html %}
-  {% if author.google.plus %}<link rel="author" href="https://plus.google.com/+{{ author.google.plus }}"/>{% endif %}
+  {% if author.google.plus %}
+  <link rel="author" href="https://plus.google.com/+{{ author.google.plus }}"/>
+  {% endif %}
   
-  <!-- Custom Fonts 
-  ================================================== -->
+  <!-- Custom Fonts ================================================== -->
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
   
-  <!-- CSS
-  ================================================== -->
+  <!-- CSS ================================================== -->
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/assets/css/syntax.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/assets/js/vendor/DataTables-1.10.7/Plugins-1.10.7/integration/bootstrap/3/dataTables.bootstrap.css" | prepend: site.baseurl }}">
   
   <!--[if lte IE 9]><script src="{{site.baseurl}}/assets/js/vendor/aight/aight.min.js"></script><![endif]-->
   <!-- D3 for charting (only need this on some pages -->
-  <script src="{{ "/assets/js/vendor/d3.js " | prepend: site.baseurl }}"></script>
+  <script src="{{ "/assets/js/vendor/d3.js" | prepend: site.baseurl }}"></script>
   <!--[if IE 8]><script src="{{site.baseurl}}/assets/js/vendor/aight/d3/d3.ie8.js"></script><![endif]-->
   
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -46,8 +42,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
   
-  <!-- Scripts
-  ================================================== -->
+  <!-- Scripts ================================================== -->
   <script src="{{ "/assets/js/vendor/modernizr.custom.94053.js" | prepend: site.baseurl }}"></script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -4,15 +4,18 @@
 - name: Information Design
   class: .information-design
   icon: fa-info
-- name: Mapping
-  class: .mapping
-  icon: fa-globe
 - name: Data Management
-  class: .management
+  class: .data-management
   icon: fa-sitemap
 - name: Data Visualization
   class: .visualization
   icon: fa-bar-chart
+- name: Business Process
+  class: .business-process
+  icon: fa-refresh
 #- name: Data Science
 #  class: fa-flask
 #  icon: fa-flask
+#- name: Mapping
+#  class: .mapping
+#  icon: fa-globe

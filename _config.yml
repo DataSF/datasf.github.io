@@ -2,6 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
+version: 3.0.3
 
 kramdown:
   input: GFM
@@ -15,12 +16,21 @@ gems:
   - jekyll-paginate
 
 url: http://datasf.org
-defaultbranch: gh-pages
 
 paginate: 5
 paginate_path: "/blog/:num/"
 
+collections:
+  team_members:
+    output: true
+
 defaults:
+  -
+    scope:
+      path: ""
+      type: "team_members"
+    values:
+      layout: "team-member"
   -
     scope:
       path: "resources"
@@ -76,99 +86,78 @@ social:
   - title: github 
     url: http://github.com/datasf
 
+subjects:
+  - Analysis
+  - Visualization
+  - Mapping
+  - Information Design
+  - Data Management
+  
+
 prose:
-  siteurl: "http://datasf.org"
-  media: "uploads"
+  siteurl: 'http://datasf.org'
   metadata:
-    resources:
-      _posts:
-        - name: "category"
-          field:
-            element: "hidden"
-            value: "resource"
-        - name: "tags"
-          field:
-            element: "select"
-            label: "Select Resource Category"
-            options: "http://datasf.github.io/datasf-website/api/jsonp/tags.json?callback=tagsCallback"
-            alterable: true
-            placeholder: "Choose"
-    blog:
-      _posts:
-        - name: "layout"
-          field:
-            element: "hidden"
-            value: "blog"
-        - name: "date"
-          field:
-            element: "text"
-        - name: "author"
-          field:
-            element: "select"
-            label: "Author"
-            options: http://datasf.github.io/datasf-website/api/jsonp/authors.json?callback=authorsCallback
-        - name: "thumbnail"
-          field:
-            element: "text"
-        - name: "description"
-          field:
-            element: "text"
-    academy:
-      _posts:
-        - name: "title"
-          field:
-            element: "text"
-            label: "Title"
-        - name: "length"
-          field:
-            element: "number"
-            label: "Length of course in hours"
-            value: 2
-        - name: "subject"
-          field:
-            element: "multiselect"
-            options:
-              - name: "Information Design"
-                value: "information-design"
-              - name: "Analysis"
-                value: "analysis"
-              - name: "Mapping"
-                value: "mapping"
-              - name: "Data Management"
-                value: "management"
-              - name: "Data Visualization"
-                value: "visualization"
-        - name: "prereq"
-          field:
-            element: "textarea"
-            label: "Prerequisites"
-        - name: "instructors"
-          field:
-            element: "multiselect"
-            options: 
-              - name: "Sam Dorward"
-                value: "sam_dorward"
-              - name: "David Weinzimmer"
-                value: "david_weinzimmer"
-              - name: "Joy Bonaguro"
-                value: "joy_bonaguro"
-              - name: "Sherman Luk"
-                value: "sherman_luk"
-              - name: "Marc Hebert"
-                value: "marc_hebert"
-              - name: "Jason Lally"
-                value: "jason_lally"
-              - name: "Aaron Low"
-                value: "aaron_low"
-              - name: "Ashley Groffenberger"
-                value: "ashley_groffenberger"
-              - name: "Sam Abbot"
-                value: "sam_abbot"
-              - name: "Celeste Berg"
-                value: "celeste_berg"
-              - name: "Jessie Rubin"
-                value: "jessie_rubin"
-        - name: "description"
-          field:
-            element: "textarea"
-            label: "Description"
+    academy/_posts:
+      - name: 'layout'
+        field:
+          element: 'hidden'
+          value: 'course'
+      - name: 'title'
+        field:
+          element: 'text'
+          label: 'Title'
+      - name: 'summary'
+        field:
+          element: 'textarea'
+          label: 'Summary'
+      - name: "prereq"
+        field:
+          element: "textarea"
+          label: "Prerequisites"
+      - name: 'length'
+        field:
+          element: 'number'
+          value: 2
+          label: 'Length of course in hours'
+      - name: "subject"
+        field:
+          element: "multiselect"
+          label: "Topic Area"
+          options:
+            - name: "Information Design"
+              value: "information-design"
+            - name: "Analysis"
+              value: "analysis"
+            - name: "Mapping"
+              value: "mapping"
+            - name: "Data Management"
+              value: "management"
+            - name: "Data Visualization"
+              value: "visualization"
+      - name: 'instructors'
+        field:
+          element: "multiselect"
+          label: "Instructor(s)"
+          options: 
+            - name: "Sam Dorward"
+              value: "sam_dorward"
+            - name: "David Weinzimmer"
+              value: "david_weinzimmer"
+            - name: "Joy Bonaguro"
+              value: "joy_bonaguro"
+            - name: "Sherman Luk"
+              value: "sherman_luk"
+            - name: "Marc Hebert"
+              value: "marc_hebert"
+            - name: "Jason Lally"
+              value: "jason_lally"
+            - name: "Aaron Low"
+              value: "aaron_low"
+            - name: "Ashley Groffenberger"
+              value: "ashley_groffenberger"
+            - name: "Sam Abbot"
+              value: "sam_abbot"
+            - name: "Celeste Berg"
+              value: "celeste_berg"
+            - name: "Jessie Rubin"
+              value: "jessie_rubin"

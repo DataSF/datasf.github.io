@@ -1,13 +1,9 @@
-/*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
 body {
   overflow-x: hidden;
   font-family: "Alegreya", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #{{site.color.secondary-dark}};
   font-size: 18px;
+  margin-top: 50px;
 }
 
 .pubexpsurvey {
@@ -48,9 +44,6 @@ body {
   font-size: 21px;
 }
 
-body.not-front {
-  margin-top: 50px;
-}
 body img {
   max-width: 100%;
   height: auto;
@@ -448,7 +441,7 @@ a:active {
   line-height: 50px;
 }
 @media(min-width:768px) {
-  body.not-front {
+  body {
     margin-top: 70px;
   }
   .navbar>.container .navbar-brand,
@@ -483,7 +476,7 @@ a:active {
   }
 }
 @media (min-width: 992px) {
-  body.not-front {
+  body {
     margin-top: 102px;
   }
 }
@@ -1475,7 +1468,7 @@ p.task-item {
 .icon-information-design:before {
   content: "\f129";
 }
-.icon-management:before {
+.icon-data-management:before {
   content: "\f0e8";
 }
 .icon-performance:before {
@@ -1488,11 +1481,19 @@ p.task-item {
   content: "\f0c3";
 }
 
+.icon-business-process:before {
+  content: "\f021";
+}
+
 .course-item .well {
   background-color: #fff;
   /*
   -webkit-box-shadow: 0px 0px 5px 1px #aaa;
   box-shadow: 0px 0px 5px 1px #aaa;*/
+}
+
+.panel-course-details {
+  margin-top: 20px;
 }
 
 .btn-academy-resources {
@@ -1501,10 +1502,6 @@ p.task-item {
 
 #filters {
   padding: 20px 0;
-}
-
-.course-name {
-  margin-bottom: 0;
 }
 
 .course-icons {
@@ -1704,7 +1701,6 @@ figcaption a:hover {
 .dept-link {
   text-align: right;
 }
-
 
 
 .mini-charts-item, .pullout-stat {

@@ -6,7 +6,7 @@ var planPeriods = [
   
 //putting this in a variable until we have some time to automate sums, long story but the system of record for plans (Knack) doesn't let us do aggregations yet through the API, so looking at doing a simple js sum on the records
 
-var cityWideTargets = [0, 121]
+var cityWideTargets = [55, 121]
 
 //Functions
 var fetchStats = function(baseURL, deptFilter, index) {
@@ -241,6 +241,28 @@ $(function() {
       "data": null,
       "defaultContent": "",
       "targets": -2
+    },
+    {
+      "targets": -1,
+      "data": "publishing_status",
+      "render": function ( data, type, full, meta ) {
+        if(data === 'Published') {
+          return '<a href="'+full.dataset_link+'" target="_blank">' + data + '</a>';
+        } else {
+          return data
+        }
+      }
+    },
+    {
+      "targets": 2,
+      "data": "dataset_name",
+      "render": function ( data, type, full, meta ) {
+        if(full.publishing_status === 'Published') {
+          return '<a href="'+full.dataset_link+'" target="_blank">'+ data + '</a>';
+        } else {
+          return data
+        }
+      }
     }],
     "pageLength": 10
   });
