@@ -9,7 +9,7 @@ series:
 team_members:
   - joy-bonaguro
 course_materials_link:
-order: 3
+order: 0
 category: academy
 categories:
   - academy
