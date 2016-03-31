@@ -13,13 +13,13 @@ team_members:
   - david-weinzimmer
   - sam-abbott
 course_materials_link:
-order: 4
+order: 3
 ---
 
 
 ## About this course
 
-This classroom based workshop is the fourth in a series of workshops on Excel offered by the Data Academy. It provides the Data Academy's most advanced level of Excel training.
+This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy. It provides the Data Academy's most advanced level of Excel training.
 
 We encourage experienced Excel users to register for this fast-paced course.
 
