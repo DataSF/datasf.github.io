@@ -27,7 +27,7 @@ In this training, we will orient you to Tableau’s user interface and show you 
 
 ## What you’ll learn
 
-* Why you should visualize your data and how Tableau can help
+* [Why you should visualize your data and how Tableau can help](http://www.tableau.com/learn/tutorials/on-demand/getting-started?signin=2eef25056a4473a83a6529b1c5d5353f)
 * How to format source data and import it into Tableau
 * What basic tools you have at your disposal in a Tableau worksheet, including:
   * Columns/Rows Shelves
