@@ -26,12 +26,12 @@ We encourage experienced Excel users to register for this fast-paced course.
 ## What you’ll learn in this course
 
 * Automation tools
-  * Recording and using macros
+  * [Recording and using macros](http://www.lynda.com/Excel-tutorials/Reviewing-recording-method/74463/79053-4.html)
 * Analysis tools
-  * Statistical tests using the analysis toolpak
-  * What-if analysis
+  * [Statistical tests using the analysis toolpak](http://www.lynda.com/Excel-tutorials/Excel-Analysis-ToolPak/422098/459827-4.html)
+  * [What-if analysis](http://www.lynda.com/Excel-tutorials/Finding-target-value-using-Goal-Seek/150165/159913-4.html)
   * PowerPivot
 * Auditing tools
-  * Formula auditing
-  * Precedents/dependents
-  * Conditional formatting
+  * [Formula auditing](http://www.lynda.com/Excel-tutorials/Auditing/363001/460714-4.html)
+  * [Precedents/dependents](http://www.lynda.com/Excel-tutorials/Auditing/363001/460714-4.html)
+  * [Conditional formatting](http://www.lynda.com/Excel-tutorials/Applying-conditional-formatting-across-rows-data/363001/408645-4.html)
