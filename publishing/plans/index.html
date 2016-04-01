@@ -7,7 +7,7 @@ js: plans.js
 <section id="plan">
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-7 col-lg-8">
         <h1 class="first-heading">Department Publishing Plans</h1>
         <select id="select-department" class="form-control selectize-select">
           <option value="">Citywide</option>
@@ -15,18 +15,29 @@ js: plans.js
           <option value="{{dept | slugify}}">{{dept}}</option>
           {% endfor %}
         </select>
+        <div id="plan-picker" style="margin-bottom: 15px;">
+          <form class="form-inline">
+            <div class="form-group">
+            <label for="plan-picker-select">Showing plan for the period covering</label>
+            <select id="plan-picker-select" class="form-control" style="width: auto; font-size: 18px; font-weight: 700; height: auto">
+              <option value="0">Jan 2016 to June 2016</option>
+              <option value="1">July 2015 to Dec 2015</option>
+            </select>
+            </div>
+          </form>
+        </div>
         <div id="citywide-narrative">
           <p class="lead">Welcome to the City’s Department Publishing Plans portal. These plans and supporting data inventories are the result of many hours of hard work by departmental data coordinators and their colleagues. It is here we will not just report the plans but automatically track progress as data gets published over time.</p>
           <p>Each plan includes a narrative indicating what the department is committing to through the end of 2015. Along the right hand side are metrics including:
           </p>
           <ol>
-            <li>Percent of datasets published out of their inventory</li>
-            <li>Datasets published since July 1, 2015</li>
-            <li>And when appropriate, the number of datasets targeted for publishing by the end of the year</li>
+            <li>Percent of datasets published out of the department's inventory</li>
+            <li>Datasets published since <span class="published-since-date">January 2016</span></li>
+            <li>And when appropriate, the number of datasets targeted for publishing by <span class="targeted-date">June 31, 2016</span></li>
           </ol>
           <p>These update to reflect the department you’re viewing. Right now, the metrics to the right reflect the rollup of activity across all departments that have completed their inventory. Also, at the bottom of each page is a table representing the inventory for the department you’re viewing.</p>
-          <p>At this point 75% of departments have completed or partially completed their inventories and 39% have completed their plans. The Office of the Chief Data Officer will continue to work with departments until all inventories and plans are complete. You can track additional metrics about the City’s open data program on the <a href="{{site.baseurl}}/progress">DataSF Progress Report</a>.</p>
-          <p>Start browsing the plans by clicking on the department menu at the top of this page.</p>
+          <p>You can track additional program-wide metrics about the City’s open data program through <a href="{{site.baseurl}}/progress">DataSF in Progress</a>, our dashboard.</p>
+          <p>Start browsing the plans by clicking on the department menu at the top of this page and selecting a department. You can view past plans by .</p>
         </div>
         <div class="dept-link"></div>
         <p class="mission lead">
@@ -38,7 +49,7 @@ js: plans.js
         <p class="narrative-planning">
         </p>
       </div>
-      <div class="col-md-4 quick-stats">
+      <div class="col-md-5 col-lg-4 quick-stats">
         <div id="inventory-incomplete" class="mini-charts-item bgm-lightred" style="display:none;">
           <div class="clearfix">
             <div class="count">
@@ -63,7 +74,7 @@ js: plans.js
             <div class="count">
               <small>Published datasets</small>
               <div class="chart-number"></div>
-              <small>since July 2015</small>
+              <small>since <span class="chart-published-since-date"></span></small>
             </div>
           </div>
         </div>
@@ -74,7 +85,7 @@ js: plans.js
             </div>
             <div class="count">
               <small>Targeted datasets for publishing</small>
-              <div class="chart-number"></div> <small>by Dec 31, 2015</small>
+              <div class="chart-number"></div> <small>by <span class="chart-targeted-date"></span></small>
             </div>
           </div>
         </div>
@@ -85,18 +96,16 @@ js: plans.js
             </div>
             <div class="count">
               <small>Targeted datasets for publishing</small>
-              <div class="chart-number">121</div> <small>by Dec 31, 2015</small>
+              <div class="chart-number">121</div> <small>by <span class="chart-targeted-date"></span></small>
             </div>
           </div>
         </div>
         <div id="dept-link">
           <div class="clearfix">
-            <a class="website-link" href="">
             <div>
               <span class="sr-only">Department's Website</span>
               <span class="website-text"></span>
             </div>
-            </a>
           </div>
         </div>
       </div>
