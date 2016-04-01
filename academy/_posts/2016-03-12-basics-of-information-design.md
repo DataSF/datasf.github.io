@@ -8,12 +8,13 @@ subjects:
 series:
 team_members:
   - joy-bonaguro
-course_materials_link:
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9N0Q1dHphWTNuSlU&usp=sharing'
 order: 0
 category: academy
 categories:
   - academy
 ---
+
 
 ## About this course
 
