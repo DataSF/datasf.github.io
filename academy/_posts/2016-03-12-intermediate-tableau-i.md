@@ -27,7 +27,7 @@ This course is a natural continuation of our Introduction to Tableau training. W
 ## What you'll learn in this course
 
 * How to use multiple measures on the same axis
-  * [Dual-axis charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html?Highlight=dual axis)
+  * [Dual-axis charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html%3FTocPath%3DDo%2520More%2520with%2520Views%7CUsing%2520Multiple%2520Measures%7C_____3)
 * How to show relationships between numerical values
   * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html?Highlight=scatter plots)
 * How to view distributions and set up parameters
