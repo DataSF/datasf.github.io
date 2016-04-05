@@ -20,25 +20,25 @@ categories:
 
 ## About this course
 
-This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy.  Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
+This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy. &nbsp;Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
 
 This course is a natural continuation of our Introduction to Tableau training. We will show you how to create advanced and beautiful visualizations with only a few clicks.
 
 ## What you'll learn in this course
 
 * How to use multiple measures on the same axis
-  * Dual-axis charts
+  * [Dual-axis charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html?Highlight=dual axis)
 * How to show relationships between numerical values
-  * Scatter plots
+  * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html?Highlight=scatter plots)
 * How to view distributions and set up parameters
-  * Histograms
+  * [Histograms](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_histogram.html?Highlight=histograms)
   * Circle charts
-  * Box-and-whisker plots
+  * [Box-and-whisker plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_boxplot.html?Highlight=box and whisker)
 * Instructions on how to create additional charts
-  * Heat maps
-  * Tree maps
-  * Bullet graphs
+  * [Heat maps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_heatmap.html?Highlight=heat maps)
+  * [Treemaps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_treemap.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____9)
+  * [Bullet graphs](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#reflines_adddistributions_bullet.html)
   * Pareto charts
   * Spark lines
-  * Gantt charts
+  * [Gantt charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_gantt.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____7)
   * Waterfall charts
