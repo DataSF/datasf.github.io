@@ -29,11 +29,11 @@ This course is a natural continuation of our Introduction to Tableau training. W
 * How to use multiple measures on the same axis
   * [Dual-axis charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html%3FTocPath%3DDo%2520More%2520with%2520Views%7CUsing%2520Multiple%2520Measures%7C_____3)
 * How to show relationships between numerical values
-  * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html?Highlight=scatter plots)
+  * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____4)
 * How to view distributions and set up parameters
-  * [Histograms](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_histogram.html?Highlight=histograms)
+  * [Histograms](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_histogram.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____6)
   * Circle charts
-  * [Box-and-whisker plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_boxplot.html?Highlight=box and whisker)
+  * [Box-and-whisker plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#qs_boxplots.html?)
 * Instructions on how to create additional charts
   * [Heat maps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_heatmap.html?Highlight=heat maps)
   * [Treemaps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_treemap.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____9)
