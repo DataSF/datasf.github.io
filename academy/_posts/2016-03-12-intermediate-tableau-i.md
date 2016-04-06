@@ -34,6 +34,7 @@ This course is a natural continuation of our Introduction to Tableau training. W
   * [Histograms](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_histogram.html?Highlight=histograms)
   * Circle charts
   * [Box-and-whisker plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_boxplot.html?Highlight=box and whisker)
+  * [Calculated fields](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#calculations_calculatedfields.html)
 * Instructions on how to create additional charts
   * [Heat maps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_heatmap.html?Highlight=heat maps)
   * [Treemaps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_treemap.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____9)
