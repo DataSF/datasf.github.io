@@ -33,7 +33,6 @@ This course is a natural continuation of our Introduction to Tableau training. W
   * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html?)
 * How to view distributions and set up parameters
   * [Histograms](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_histogram.html?Highlight=histograms)
-  * Circle charts
   * [Box-and-whisker plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_boxplot.html?)
   * [Calculated fields](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#calculations_calculatedfields.html)
 * Instructions on how to create additional charts
