@@ -30,7 +30,7 @@ This course is a natural continuation of our Introduction to Tableau training. W
   * [Dual-axis charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html?)
   * [Combination charts](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#multiplemeasures_combocharts.html)
 * How to show relationships between numerical values
-  * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html?Highlight=scatter plots)
+  * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html?)
 * How to view distributions and set up parameters
   * [Histograms](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_histogram.html?Highlight=histograms)
   * Circle charts
