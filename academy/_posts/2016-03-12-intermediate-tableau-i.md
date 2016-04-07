@@ -10,7 +10,7 @@ series:
 team_members:
   - celeste-berg
   - jessie-rubin
-course_materials_link:
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9cFpVR25RZUs5dXc&usp=sharing'
 order: 2
 category: academy
 categories:
