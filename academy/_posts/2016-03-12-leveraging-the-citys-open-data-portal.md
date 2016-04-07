@@ -24,7 +24,7 @@ Have you heard of the [City's open data portal](https://data.sfgov.org)? Even if
 
 The class assumes you have working knowledge of Excel and a curiosity to learn new tools.
 
-## What you'll learn in this course
+## What you'll learn
 
 * How to connect to live data using Excel and the Power Query add-in
 * How to ask questions about datasets through the portal
