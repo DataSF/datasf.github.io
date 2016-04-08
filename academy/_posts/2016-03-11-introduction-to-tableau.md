@@ -14,7 +14,7 @@ team_members:
   - jessie-rubin
   - luke-fuller
   - sam-abbott
-course_materials_link: 'https://drive.google.com/folderview?id=0B_fWQflTbiRwTVhqYmNDaXBOcjQ&usp=sharing'
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9Ym45cDhTQ21fbk0&usp=sharing'
 order: 1
 ---
 
@@ -27,7 +27,7 @@ In this training, we will orient you to Tableau’s user interface and show you 
 
 ## What you’ll learn
 
-Please click on the links to access how-to guides.&nbsp; A few links will require you to log in using a free Tableau Public account.
+Please click on the links to access how-to guides.  A few links will require you to log in using a free Tableau Public account.
 
 * [Why you should visualize your data and how Tableau can help](http://www.tableau.com/learn/tutorials/on-demand/getting-started?signin=2eef25056a4473a83a6529b1c5d5353f)
 * [How to format source data and import it into Tableau](http://www.tableau.com/learn/tutorials/on-demand/data-prep-text-and-excel-files?signin=72bd892169df0bda86f5bbdbce40b0a9)
