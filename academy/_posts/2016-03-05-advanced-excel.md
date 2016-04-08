@@ -12,7 +12,7 @@ subjects:
 team_members:
   - david-weinzimmer
   - sam-abbott
-course_materials_link:
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9bHp1UUtqNWJMTjA&usp=sharing'
 order: 3
 ---
 
