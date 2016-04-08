@@ -9,7 +9,7 @@ subjects:
 series:
 team_members:
   - jason-lally
-course_materials_link:
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9dW9LQ2MxTHdiRms&usp=sharing'
 order: 0
 category: academy
 categories:
