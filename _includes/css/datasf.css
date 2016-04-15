@@ -95,7 +95,7 @@ a {
 }
 
 p a {
-  text-decoration: underline;  
+  text-decoration: underline;
 }
 
 a:hover,
@@ -802,7 +802,7 @@ section#progress .stat-text {
   transition: all ease .5s;
   background: rgba(254, 209, 54, .9);
   /* Fallback when no plugin support */
-  
+
   background: rgba( {
     {
       site.color.primary | hex_to_rgb | join: ','
@@ -1216,10 +1216,12 @@ ul.social-buttons li a:active {
 ::-moz-selection {
   text-shadow: none;
   background: #{{site.color.primary}};
+  color: #fff;
 }
 ::selection {
   text-shadow: none;
-  background: #{{site.color.secondary}};
+  background: #{{site.color.primary}};
+  color: #fff;
 }
 img::selection {
   background: 0 0;
@@ -1386,7 +1388,7 @@ img.emoji {
 }
 .panel-featured {
   /*background-color: #{{site.color.secondary}};*/
-  
+
   background-color: rgba(42.7%, 73.7%, 88.6%, .8);
   border-radius: 10px;
   text-align: center;
@@ -1662,38 +1664,38 @@ figcaption a:hover {
     padding-right: 0
 }
 
-#feedback { 
-  height: 104px; 
-  width: 104px; 
+#feedback {
+  height: 104px;
+  width: 104px;
   position: fixed;
   right: 0;
-  top: 40%; 
+  top: 40%;
   z-index: 999;
   transform: rotate(90deg);
-  -webkit-transform: rotate(90deg); 
-  -moz-transform: rotate(90deg); 
-  -o-transform: rotate(90deg); 
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 }
 
-#feedback a { 
-  display: block; 
-  background: #{{site.color.accent}}; 
-  height: 45px; 
-  width: 165px; 
+#feedback a {
+  display: block;
+  background: #{{site.color.accent}};
+  height: 45px;
+  width: 165px;
   padding: 8px 16px;
-  color: #333; 
-  font-family: Arial, sans-serif; 
-  font-size: 17px; 
-  font-weight: bold; 
-  text-decoration: none; 
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  text-decoration: none;
   border-bottom: solid 2px #333;
   border-left: solid 2px #333;
   border-right: solid 2px #333;
 }
 
-#feedback a:hover { 
-  background: #{{site.color.secondary}}; 
+#feedback a:hover {
+  background: #{{site.color.secondary}};
 }
 
 /* Plans */
@@ -1719,7 +1721,7 @@ figcaption a:hover {
 
 .bgm-lightred {
   background-color: #C34A4A !important;
-  
+
 }
 
 .bgm-orange {
@@ -1786,8 +1788,8 @@ figcaption a:hover {
 		border-width: 0 8px 8px 8px;
 		border-color: transparent transparent #808080 transparent;
 	}
-	
-.selectize-dropdown, .selectize-input { 
+
+.selectize-dropdown, .selectize-input {
   border: 1px solid #e6e6e6;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
