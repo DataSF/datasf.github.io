@@ -10,7 +10,7 @@ subjects:
 team_members:
   - marc-hebert
 order: 0
-course_materials_link:
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9bUx5MFpOT0hsV3c&usp=sharing'
 ---
 
 
