@@ -10,6 +10,7 @@ subjects:
 team_members:
   - marc-hebert
 order: 0
+course_materials_link:
 ---
 
 
