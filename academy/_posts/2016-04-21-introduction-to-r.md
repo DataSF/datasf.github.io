@@ -9,7 +9,7 @@ subjects:
 series:
 team_members:
   - joe-lapka
-course_materials_link:
+course_materials_link: 'https://drive.google.com/open?id=0BwRgeGq-b8f9YndNZmhoTGlGTTg'
 order: 0
 category: academy
 categories:
