@@ -5,9 +5,9 @@
 	{% if page.description %}<meta property="og:description" content="{{ page.description | strip_html }}">{% endif %}
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 	{% if page.image.feature %}
-	<meta property="og:image" content="{{ site.url }}/assets/img/blog/{{ page.image.feature }}">
+	<meta property="og:image" content="{{ site.url }}/assets/blog/{{ page.image.feature }}">
 	{% elsif page.image.thumb %}
-	<meta property="og:image" content="{{ site.url }}/assets/img/blog/{{ page.image.thumb }}">
+	<meta property="og:image" content="{{ site.url }}/assets/blog/{{ page.image.thumb }}">
 	{% endif %}
 	<meta property="og:site_name" content="{{ site.title }}">
 	<!-- Twitter Cards -->
@@ -17,9 +17,9 @@
 	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
 	{% if page.image.feature %}
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image:src" content="{{ site.url }}/assets/img/blog/{{ page.image.feature }}">
+	<meta name="twitter:image:src" content="{{ site.url }}/assets/blog/{{ page.image.feature }}">
 	{% else %}
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:image:src" content="{% if page.image.thumb %}{{ site.url }}/assets/img/blog/{{ page.image.thumb }}{% else %}{{ site.url }}/assets/img/{{ site.logo }}{% endif %}">
+	<meta name="twitter:image:src" content="{% if page.image.thumb %}{{ site.url }}/assets/blog/{{ page.image.thumb }}{% else %}{{ site.url }}/assets/img/{{ site.logo }}{% endif %}">
 	{% endif %}
 	
