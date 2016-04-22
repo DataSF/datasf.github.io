@@ -5,8 +5,8 @@ description: "We are excited to announce the release of a slew of new datasets f
 categories:
   - blog
 image:
-  thumb: /yum-new-data/affordable-rental-projects.png
-  feature: /yum-new-data/affordable-rental-projects.png
+  thumb: yum-new-data/affordable-rental-projects.png
+  feature: yum-new-data/affordable-rental-projects.png
 ---
 
 
