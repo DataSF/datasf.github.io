@@ -8,7 +8,7 @@ image:
   caption: "The Mayor's Office of Housing and Community Development recently published data about their affordable housing portfolio. Here it is on a simple map. what interesting analysis will you do with this data?"
 ---
 
-We are excited to announce the release of a slew of new datasets [for Bayes Hack 2016](http://bayeshack.org/housing-and-urban-development.html)! Below we've highlighted a number of datasets in the spirit of the event's theme "How can data help communities thrive?" Read on for some delicious data we hope helps and inspires folks this weekend and beyond.
+We are excited to announce the release of a slew of new datasets [for Bayes Hack 2016](http://bayeshack.org/)! Below we've highlighted a number of datasets in the spirit of the theme "How can data help communities thrive?" Read on for some delicious data we hope helps and inspires folks this weekend and beyond.
 
 ## New Housing Related Data
 
