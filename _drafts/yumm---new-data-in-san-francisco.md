@@ -6,7 +6,7 @@ categories:
   - blog
 image:
   thumb: /yum-new-data/affordable-rental-projects.png
-  feature: yum-new-data/affordable-rental-projects.png
+  feature: /yum-new-data/affordable-rental-projects.png
 ---
 
 
