@@ -1,7 +1,7 @@
 ---
 title: 'Yumm...new data in San Francisco!'
 author: joy_bonaguro
-description: "So...we've been a bit quiet about open data in San Francisco. In case anyone was worried, we're still here and\_about to get quite chatty. Going forward, we’ll use this blog to talk about what we are doing, what are our plans, and what are our struggles with\_open data."
+description: "We are excited to announce the release of a slew of new datasets for Bayes Hack 2016! In this post, we've highlighted a number of datasets in the spirit of the event's theme \"How can data help communities thrive?\""
 categories:
   - blog
 ---
