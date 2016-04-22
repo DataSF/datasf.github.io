@@ -4,6 +4,9 @@ author: joy_bonaguro
 description: "We are excited to announce the release of a slew of new datasets for Bayes Hack 2016! In this post, we've highlighted a number of datasets in the spirit of the event's theme \"How can data help communities thrive?\""
 categories:
   - blog
+image:
+  thumb: /measure-open-data/datasf_in_progress.PNG
+  feature: /measure-open-data/datasf_in_progress.PNG
 ---
 
 
