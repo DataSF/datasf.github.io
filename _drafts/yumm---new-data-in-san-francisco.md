@@ -34,7 +34,7 @@ You can search all of our housing data on [datasf.org](http://datasf.org/) or vi
 
 * [City survey data 1996-2015](https://data.sfgov.org/City-Management-and-Ethics/San-Francisco-City-Survey-Data-1996-2015/89tc-4uwi)
 * [Park evaluation scores in fiscal year 2015](https://data.sfgov.org/Culture-and-Recreation/Park-Evaluation-Scores-starting-Fiscal-Year-2015/r33y-seqv)&nbsp;and [Historic Park Evaluation Scores 2005-2014](https://data.sfgov.org/Culture-and-Recreation/Park-Scores-2005-2014/fjq8-r8ws)
-* [Municipal g](__notset__)[reen house gas inventory](https://data.sfgov.org/Energy-and-Environment/San-Francisco-Municipal-Greenhouse-Gas-Inventory/pxac-sadh)[](__notset__)and [communitywide version](http://data.sfgov.org/d/btm4-e4ak)
+* [Municipal green house gas inventory](https://data.sfgov.org/Energy-and-Environment/San-Francisco-Municipal-Greenhouse-Gas-Inventory/pxac-sadh)&nbsp;and the&nbsp;[communitywide version](http://data.sfgov.org/d/btm4-e4ak)
 * [Pavement condition index (PCI) scores](https://data.sfgov.org/City-Infrastructure/Paving-PCI-Scores-Historical-Data/78va-8dhi)
 * [Flood health vulnerability index](http://data.sfgov.org/d/cne3-h93g) and related website
 * [Travel decision survey data](https://data.sfgov.org/Transportation/Travel-Decision-Survey-Data-2014/v3h7-53cb) from SFMTA (search for additional years)
