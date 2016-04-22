@@ -7,7 +7,7 @@ categories:
 image:
   thumb: yum-new-data/affordable-rental-projects.png
   feature: yum-new-data/affordable-rental-projects.png
-  caption: "The Mayor's Office of Housing and Community Development recently published data about their affordable housing portfolio. Here it is on a simple map, what exciting analysis will you do with this data?"
+  caption: "The Mayor's Office of Housing and Community Development recently published data about their affordable housing portfolio. Here it is on a simple map. what exciting analysis will you do with this data?"
 ---
 
 
