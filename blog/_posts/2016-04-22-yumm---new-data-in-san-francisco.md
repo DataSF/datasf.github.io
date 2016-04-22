@@ -8,7 +8,8 @@ image:
   caption: "The Mayor's Office of Housing and Community Development recently published data about their affordable housing portfolio. Here it is on a simple map. what interesting analysis will you do with this data?"
 ---
 
-We are excited to announce the release of a slew of new datasets [for Bayes Hack 2016](http://bayeshack.org/)! Below we've highlighted a number of datasets in the spirit of the theme "How can data help communities thrive?" Read on for some delicious data we hope helps and inspires folks this weekend and beyond.
+
+We are excited to announce the release of a slew of new datasets [for Bayes Hack 2016](http://bayeshack.org/)! Below we've highlighted a number of datasets in [the spirit of the theme "How can data help communities thrive?"](http://bayeshack.org/housing-and-urban-development.html) Read on for some delicious data we hope helps and inspires folks this weekend and beyond.
 
 ## New Housing Related Data
 
@@ -28,14 +29,14 @@ You can search all of our housing data on [datasf.org](http://datasf.org/) or vi
   * [Fire safety complaints](https://data.sfgov.org/Housing-and-Buildings/Fire-Safety-Complaints/2wsq-7wmv)
   * [Fire violations](https://data.sfgov.org/Housing-and-Buildings/Fire-Violations/4zuq-2cbe)
 * [City funded affordable rental portfolio](http://data.sfgov.org/d/9rdx-httc)
-* In addition to the Rent Board [eviction notices](http://data.sfgov.org/d/cne3-h93g) data, we recently added [buyout agreements](https://data.sfgov.org/Housing-and-Buildings/Buyout-agreements/wmam-7g8d), [petitions](https://data.sfgov.org/Housing-and-Buildings/Petitions-to-the-Rent-Board/6swy-cmkq) and [appeals](https://data.sfgov.org/Housing-and-Buildings/Appeals-to-the-Rent-Board/w2ze-eag5)
+* In addition to the Rent Board [eviction notices](http://data.sfgov.org/d/cne3-h93g)&nbsp;data, we recently added [buyout agreements](https://data.sfgov.org/Housing-and-Buildings/Buyout-agreements/wmam-7g8d), [petitions](https://data.sfgov.org/Housing-and-Buildings/Petitions-to-the-Rent-Board/6swy-cmkq) and [appeals](https://data.sfgov.org/Housing-and-Buildings/Appeals-to-the-Rent-Board/w2ze-eag5)
 
 
 ## Neighborhood and Quality of Life Data
 
 * [City survey data 1996-2015](https://data.sfgov.org/City-Management-and-Ethics/San-Francisco-City-Survey-Data-1996-2015/89tc-4uwi)
-* [Park evaluation scores in fiscal year 2015](https://data.sfgov.org/Culture-and-Recreation/Park-Evaluation-Scores-starting-Fiscal-Year-2015/r33y-seqv) and [Historic Park Evaluation Scores 2005-2014](https://data.sfgov.org/Culture-and-Recreation/Park-Scores-2005-2014/fjq8-r8ws)
-* [Municipal green house gas inventory](https://data.sfgov.org/Energy-and-Environment/San-Francisco-Municipal-Greenhouse-Gas-Inventory/pxac-sadh) and the [communitywide version](http://data.sfgov.org/d/btm4-e4ak)
+* [Park evaluation scores in fiscal year 2015](https://data.sfgov.org/Culture-and-Recreation/Park-Evaluation-Scores-starting-Fiscal-Year-2015/r33y-seqv)&nbsp;and [Historic Park Evaluation Scores 2005-2014](https://data.sfgov.org/Culture-and-Recreation/Park-Scores-2005-2014/fjq8-r8ws)
+* [Municipal green house gas inventory](https://data.sfgov.org/Energy-and-Environment/San-Francisco-Municipal-Greenhouse-Gas-Inventory/pxac-sadh)&nbsp;and the&nbsp;[communitywide version](http://data.sfgov.org/d/btm4-e4ak)
 * [Pavement condition index (PCI) scores](https://data.sfgov.org/City-Infrastructure/Paving-PCI-Scores-Historical-Data/78va-8dhi)
 * [Flood health vulnerability index](http://data.sfgov.org/d/cne3-h93g) and related website
 * [Travel decision survey data](https://data.sfgov.org/Transportation/Travel-Decision-Survey-Data-2014/v3h7-53cb) from SFMTA (search for additional years)
