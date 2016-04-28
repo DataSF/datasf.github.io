@@ -27,6 +27,9 @@ This classroom based workshop is the first in a series of workshops on Tableau o
 In this training, we will orient you to Tableau’s user interface and show you how to make basic charts with open datasets in your department. We will also show you how Tableau’s interactive features add another analytical dimension to your data visualizations.
 {: .present-before-paste}
 
+&nbsp;
+{: .present-before-paste}
+
 ## What you’ll learn
 
 Please click on the links to access how-to guides.&nbsp; A few links will require you to log in using a free Tableau Public account.
@@ -47,6 +50,8 @@ Please click on the links to access how-to guides.&nbsp; A few links will requir
   * [Creating a basic dashboard](http://www.tableau.com/learn/tutorials/on-demand/building-dashboard?signin=abfac91951e18c991976ce7091f6c1b2)
 * [How to share the visualizations you build with others](http://www.tableau.com/learn/tutorials/on-demand/getting-started-tableau-server-and-tableau-online?signin=a17b7025b9293339f7a665f25fe6b9ba)
 
+
+## &nbsp;
 
 ## More resources
 
