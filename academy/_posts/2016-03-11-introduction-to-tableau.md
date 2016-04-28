@@ -22,12 +22,15 @@ order: 1
 ## About this course
 
 This classroom based workshop is the first in a series of workshops on Tableau offered by the Data Academy. Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
+{: .present-before-paste}
 
 In this training, we will orient you to Tableau’s user interface and show you how to make basic charts with open datasets in your department. We will also show you how Tableau’s interactive features add another analytical dimension to your data visualizations.
+{: .present-before-paste}
 
 ## What you’ll learn
 
-Please click on the links to access how-to guides.  A few links will require you to log in using a free Tableau Public account.
+Please click on the links to access how-to guides.&nbsp; A few links will require you to log in using a free Tableau Public account.
+{: .present-before-paste}
 
 * [Why you should visualize your data and how Tableau can help](http://www.tableau.com/learn/tutorials/on-demand/getting-started?signin=2eef25056a4473a83a6529b1c5d5353f)
 * [How to format source data and import it into Tableau](http://www.tableau.com/learn/tutorials/on-demand/data-prep-text-and-excel-files?signin=72bd892169df0bda86f5bbdbce40b0a9)
@@ -43,3 +46,15 @@ Please click on the links to access how-to guides.  A few links will require yo
   * [Using marks card to drill-down for more information](http://www.tableau.com/learn/tutorials/on-demand/getting-started-visual-analytics)
   * [Creating a basic dashboard](http://www.tableau.com/learn/tutorials/on-demand/building-dashboard?signin=abfac91951e18c991976ce7091f6c1b2)
 * [How to share the visualizations you build with others](http://www.tableau.com/learn/tutorials/on-demand/getting-started-tableau-server-and-tableau-online?signin=a17b7025b9293339f7a665f25fe6b9ba)
+
+
+## More resources
+
+* Tableau.com
+  * [Free Tableau Training Videos](http://www.tableau.com/learn/training)
+  * [Online Tableau Help Guide](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.html)
+  * [Tableau Desktop 9 Qualified Associate Exam Preparation Guide](http://mkt.tableau.com/files/Desktop-9-QA-Prep-Guide.pdf)
+* Lynda
+  * [Tableau 9 Essential Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) (2h 55m)
+* Coursera
+  * [Data Visualization and Communication in Tableau](https://www.coursera.org/learn/analytics-tableau/) (5 weeks, 3 - 5 hours per week)
