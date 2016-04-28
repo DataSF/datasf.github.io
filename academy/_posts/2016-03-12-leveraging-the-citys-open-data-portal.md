@@ -10,7 +10,7 @@ subjects:
 series:
 team_members:
   - jason-lally
-course_materials_link: 'https://drive.google.com/file/d/0BwRgeGq-b8f9TGFHRjI2aGN5RWs/view?usp=sharing'
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9M1BvYlRnQlBKWG8&usp=sharing'
 order: 0
 category: academy
 categories:
@@ -24,7 +24,7 @@ Have you heard of the [City's open data portal](https://data.sfgov.org)? Even if
 
 The class assumes you have working knowledge of Excel and a curiosity to learn new tools.
 
-## What you'll learn in this course
+## What you'll learn
 
 * How to connect to live data using Excel and the Power Query add-in
 * How to ask questions about datasets through the portal

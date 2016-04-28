@@ -12,7 +12,7 @@ subjects:
 team_members:
   - david-weinzimmer
   - sam-abbott
-course_materials_link:
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9bHp1UUtqNWJMTjA&usp=sharing'
 order: 3
 ---
 
@@ -23,7 +23,7 @@ This classroom based workshop is the third in a series of workshops on Excel off
 
 We encourage experienced Excel users to register for this fast-paced course.
 
-## What you’ll learn in this course
+## What you’ll learn
 
 * Automation tools
   * [Recording and using macros](http://www.lynda.com/Excel-tutorials/Reviewing-recording-method/74463/79053-4.html)

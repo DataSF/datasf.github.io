@@ -23,7 +23,7 @@ This short workshop is usually offered as a lunch time brown-bag. It serves to c
 
 This class assumes you are comfortable navigating in an Excel worksheet.
 
-## What you'll learn in this course
+## What you'll learn
 
 * Overview of shortcuts in general
 * Navigating around a spreadsheet quickly

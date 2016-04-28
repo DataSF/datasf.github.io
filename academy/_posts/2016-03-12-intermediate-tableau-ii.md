@@ -23,7 +23,7 @@ This classroom based workshop is the third in a series of workshops on Tableau o
 
 This course is a natural continuation of our first two Tableau trainings (Introduction to Tableau and Intermediate Tableau I). We will show you how to create a compelling story by stringing your cool charts together in a management dashboard.
 
-## What you'll learn in this course
+## What you'll learn
 
 * Introduction to dashboards
 * Dashboard actions
