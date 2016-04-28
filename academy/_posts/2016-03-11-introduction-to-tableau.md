@@ -59,7 +59,7 @@ Please click on the links to access how-to guides.&nbsp; A few links will requir
   * [Free Tableau Training Videos](http://www.tableau.com/learn/training)
   * [Online Tableau Help Guide](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.html)
   * [Tableau Desktop 9 Qualified Associate Exam Preparation Guide](http://mkt.tableau.com/files/Desktop-9-QA-Prep-Guide.pdf)
-* Lynda
-  * [Tableau 9 Essential Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) (2h 55m)
+* Lynda - [click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to learn how to sign up for a free Lynda account
+  * [Tableau 9 Essential Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) (2h 55m, total)
 * Coursera
   * [Data Visualization and Communication in Tableau](https://www.coursera.org/learn/analytics-tableau/) (5 weeks, 3 - 5 hours per week)
