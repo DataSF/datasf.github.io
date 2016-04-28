@@ -23,7 +23,11 @@ This classroom based workshop is the third in a series of workshops on Excel off
 
 We encourage experienced Excel users to register for this fast-paced course.
 
+&nbsp;
+
 ## What you’ll learn
+
+Please click on the links to access how-to guides from Lynda.com. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 
 * Automation tools
   * [Recording and using macros](http://www.lynda.com/Excel-tutorials/Reviewing-recording-method/74463/79053-4.html)
