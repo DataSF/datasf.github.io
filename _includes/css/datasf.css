@@ -307,6 +307,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar {
   font-size: 14px;
+  -webkit-font-smoothing: antialiased;
 }
 a:hover,
 a:active {
