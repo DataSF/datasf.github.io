@@ -20,13 +20,15 @@ categories:
 
 ## About this course
 
-This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy.  Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
+This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy. &nbsp;Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
 
 This course is a natural continuation of our Introduction to Tableau training. We will show you how to create advanced and beautiful visualizations with only a few clicks.
 
+&nbsp;
+
 ## What you'll learn
 
-Please click on the links to access how-to guides.  A few links will require you to log in using a free Tableau Public account.
+Please click on the links to access how-to guides.&nbsp; A few links will require you to log in using a free Tableau Public account.
 
 * How to use multiple measures on the same axis
   * [Dual axes charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html?)
@@ -45,3 +47,10 @@ Please click on the links to access how-to guides.  A few links will require yo
   * [Sparklines](http://kb.tableau.com/articles/knowledgebase/sparklines-bullets)
   * [Gantt charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_gantt.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____7)
   * [Waterfall charts](http://www.tableau.com/learn/tutorials/on-demand/waterfall-charts-chart-type)
+
+
+## &nbsp;
+
+## More resources
+
+&nbsp;
