@@ -24,8 +24,6 @@ This classroom based workshop is the second in a series of workshops on Tableau 
 
 This course is a natural continuation of our Introduction to Tableau training. We will show you how to create advanced and beautiful visualizations with only a few clicks.
 
-&nbsp;
-
 ## What you'll learn
 
 Please click on the links to access how-to guides.&nbsp; A few links will require you to log in using a free Tableau Public account.
@@ -53,4 +51,12 @@ Please click on the links to access how-to guides.&nbsp; A few links will requir
 
 ## More resources
 
-&nbsp;
+* Tableau.com
+  * [Free Tableau Training Videos](http://www.tableau.com/learn/training)
+  * [Online Tableau Help Guide](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.html)
+  * [Tableau Desktop 9 Qualified Associate Exam Preparation Guide](http://mkt.tableau.com/files/Desktop-9-QA-Prep-Guide.pdf)
+* Lynda - [click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to learn how to sign up for a free Lynda account
+  * [Tableau 9 Essential Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) (2h 55m, total)
+  * [Creating Interactive Dashboards in Tableau](https://www.lynda.com/Tableau-tutorials/Creating-Interactive-Dashboards-Tableau/417094-2.html) (1h 38m, total)
+* Coursera
+  * [Data Visualization and Communication in Tableau](https://www.coursera.org/learn/analytics-tableau/) (5 weeks, 3 - 5 hours per week)
