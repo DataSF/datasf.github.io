@@ -27,7 +27,11 @@ This classroom based workshop is the second in a series of workshops on Excel of
 
 This course is a natural continuation of our Introduction to Excel training.
 
+## &nbsp;
+
 ## What you’ll learn
+
+Please click on the links to access how-to guides from Lynda.com. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 
 * Paste Special, Text to Columns, and Concatenate
 * VLOOKUP
