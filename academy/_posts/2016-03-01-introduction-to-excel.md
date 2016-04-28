@@ -22,9 +22,9 @@ order: 0
 
 ## About this course
 
-This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy.
+This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy. &nbsp;It assumes no prior experience with the program.
 
-It assumes no prior experience with the program.
+&nbsp;
 
 ## What you’ll learn
 
