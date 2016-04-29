@@ -31,7 +31,7 @@ This course is a natural continuation of our Introduction to Excel training.
 
 ## What you’ll learn
 
-Please click on the links to access how-to guides from Lynda.com. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+Please click the below links to access how-to guides from Lynda.com! &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 
 * Paste Special, Text to Columns, and Concatenate
 * VLOOKUP
