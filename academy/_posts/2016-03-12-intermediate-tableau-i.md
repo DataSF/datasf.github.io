@@ -24,11 +24,9 @@ This classroom based workshop is the second in a series of workshops on Tableau 
 
 This course is a natural continuation of our Introduction to Tableau training. We will show you how to create advanced and beautiful visualizations with only a few clicks.
 
-&nbsp;
-
 ## What you'll learn
 
-Please click on the links to access how-to guides.&nbsp; A few links will require you to log in using a free Tableau Public account.
+Please click the below links to access how-to guides!&nbsp; Some links will direct you to sign up for a free Tableau Public account.
 
 * How to use multiple measures on the same axis
   * [Dual axes charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html?)
