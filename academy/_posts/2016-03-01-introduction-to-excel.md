@@ -45,4 +45,4 @@ Please click the below links to access how-to guides from Lynda.com! &nbsp;[Clic
 ## More resources
 
 * San Francisco Public Library
-  * [Introduction to Microsoft Excel 2013](http://education.gale.com/l-sfpl/online-courses/microsoft-excel-2013-introduction?tab=detail) (6 weeks, 24hrs total works)
+  * [Introduction to Microsoft Excel 2013](http://education.gale.com/l-sfpl/online-courses/microsoft-excel-2013-introduction?tab=detail)[&nbsp;from Gale Courses](__notset__) (6 weeks, 24hrs total works)
