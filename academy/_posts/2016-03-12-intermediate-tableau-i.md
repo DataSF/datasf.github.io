@@ -24,6 +24,8 @@ This classroom based workshop is the second in a series of workshops on Tableau 
 
 This course is a natural continuation of our Introduction to Tableau training. We will show you how to create advanced and beautiful visualizations with only a few clicks.
 
+&nbsp;
+
 ## What you'll learn
 
 Please click the below links to access how-to guides!&nbsp; Some links will direct you to sign up for a free Tableau Public account.
