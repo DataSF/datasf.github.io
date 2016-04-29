@@ -22,18 +22,14 @@ order: 1
 ## About this course
 
 This classroom based workshop is the first in a series of workshops on Tableau offered by the Data Academy. Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
-{: .present-before-paste}
 
 In this training, we will orient you to Tableau’s user interface and show you how to make basic charts with open datasets in your department. We will also show you how Tableau’s interactive features add another analytical dimension to your data visualizations.
-{: .present-before-paste}
 
 &nbsp;
-{: .present-before-paste}
 
 ## What you’ll learn
 
-Please click the below links to access how-to guides.&nbsp; Some links will direct you to sign up for a free Tableau Public account.
-{: .present-before-paste}
+Please click the below links to access how-to guides!&nbsp; Some links will direct you to sign up for a free Tableau Public account.
 
 * [Why you should visualize your data and how Tableau can help](http://www.tableau.com/learn/tutorials/on-demand/getting-started?signin=2eef25056a4473a83a6529b1c5d5353f)
 * [How to format source data and import it into Tableau](http://www.tableau.com/learn/tutorials/on-demand/data-prep-text-and-excel-files?signin=72bd892169df0bda86f5bbdbce40b0a9)
