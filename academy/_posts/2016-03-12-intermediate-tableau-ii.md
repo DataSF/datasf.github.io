@@ -27,15 +27,17 @@ This course is a natural continuation of our first two Tableau trainings (Introd
 
 ## What you'll learn
 
-* Introduction to dashboards
-* Dashboard actions
+Please click the below links to access how-to guides!&nbsp; Some links will direct you to sign up for a free Tableau Public account.
+
+* [Introduction to dashboards](http://www.tableau.com/learn/tutorials/on-demand/getting-started-dashboards-and-stories?signin=2a605b07b036fce61a341126449e7252)
+* [Dashboard actions](http://www.tableau.com/learn/tutorials/on-demand/dashboard-interactivity-using-actions)
   * Chart-to-chart filters
   * Selected fields filter
   * Pre-filtering a large table
-* Parameters
-  * Parameters with filters
+* [Parameters](http://www.tableau.com/learn/tutorials/on-demand/parameters?signin=84fdd9f339b4afab0d1493b995f67018)
+  * [Parameters with filters](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#parameters_filters.html)
   * Parameters with sets
-  * Parameters with calculated fields
+  * [Parameters with calculated fields](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#parameters_calculations.html)
   * Swapping out measures and dimensions with parameters
 
 
