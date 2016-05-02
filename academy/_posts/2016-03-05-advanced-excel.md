@@ -35,6 +35,7 @@ Please click the below links to access how-to guides from Lynda.com! &nbsp;[Clic
   * [Statistical tests using the analysis toolpak](http://www.lynda.com/Excel-tutorials/Excel-Analysis-ToolPak/422098/459827-4.html)
   * [What-if analysis](http://www.lynda.com/Excel-tutorials/Finding-target-value-using-Goal-Seek/150165/159913-4.html)
   * PowerPivot
+  * [Data Tables](http://www.lynda.com/Excel-tutorials/Using-data-tables/376986/431781-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3adennis+taylor%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 * Auditing tools
   * [Formula auditing](http://www.lynda.com/Excel-tutorials/Auditing/363001/460714-4.html)
   * [Precedents/dependents](http://www.lynda.com/Excel-tutorials/Auditing/363001/460714-4.html)
