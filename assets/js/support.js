@@ -2683,12 +2683,12 @@ $(document).ready(function() {
     // ALL PAGES // SITE WIDE JS
     // =====================================================
     $('body').addClass(deskEV('current-page'));
-    console.log($('#PreCreate'));
+    /* This is causing problems and I don't think we need it
     $('#PreCreate').appendTo("body").modal('show');
     //MODAL CLOSE GO BACK
     $('#PreCreate .onclick-go-back').click(function() {
         history.back();
-    });
+    });*/
     //MODERATION FUNCTIONALITY
     $('#Moderated').appendTo("body").modal('show');
     $('#moderation_okay_button, #Moderated .close').click(function() {
