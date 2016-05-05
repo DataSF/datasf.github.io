@@ -2690,10 +2690,11 @@ $(document).ready(function() {
         history.back();
     });*/
     //MODERATION FUNCTIONALITY
+    /* Also causing issues, commenting out since we're not using this anyway
     $('#Moderated').appendTo("body").modal('show');
     $('#moderation_okay_button, #Moderated .close').click(function() {
         window.location = location.origin + location.pathname;
-    });
+    });*/
     //BREADCRUMBS HOME LINK
     var home_link = $('#breadcrumbs a:first-child').attr("href") || location.href;
     $("a[href='/']").attr("href", home_link);
