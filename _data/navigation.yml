@@ -18,23 +18,27 @@ new_nav:
 #- text: Showcase
 #  url: http://apps.sfgov.org/showcase/
 - text: Publishing
-  url: /publishing
+  url: /publishing/
 - text: Academy
-  url: /academy
+  url: /academy/
+  layout: course
 - text: Resources
-  url: /resources
+  url: /resources/
 - text: Blog
-  url: /blog
+  url: /blog/
+  layout: blog-post
   
 utility:
 - text: SFGov
   url: https://www.sfgov.org
 - text: Coordinator's Portal
-  url: /coordinators
+  url: /coordinators/
 #- text: Blog
 #  url: /blog
 - text: About
-  url: /about
+  url: /about/
+- text: Help
+  url: 'http://support.datasf.org'
 
 data_catalog:
 - text: Browse All Data
