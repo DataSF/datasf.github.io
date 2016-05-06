@@ -1,0 +1,421 @@
+/* -----------------------------------------------------------
+MOBILE BRAND/USER ------
+----------------------------------------------------------- */
+  #mobile-menu img.gravatar{
+    margin: 10px auto;
+    diplay: block;
+  }
+  #mobile-menu .brand {
+    background: #252A31;
+    padding: 15px 10px;
+  }
+  #mobile-menu .brand .logo {
+    display: none;
+  }
+  #mobile-menu .brand h1 {
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+  }
+  #mobile-menu .brand h4{
+    text-align: center;
+    color: #ccc;
+  }
+  #mobile-menu .brand h5{
+    text-align: center;
+    font-size: 12px;
+  }
+/* -----------------------------------------------------------
+MOBILE NAV/LANGUAGE ------
+----------------------------------------------------------- */
+  #mobile-menu .nav {
+    list-style: none;
+  }
+  #mobile-menu .nav li{
+    margin: 0px;
+    padding: 0px;
+  }
+  #mobile-menu .nav li a{
+    color: #fff;
+    font-weight: 400;
+    padding: 14px 20px 13px 20px;
+    display: block;
+    cursor: pointer;
+    color: #D4D9DE;
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: normal;
+    margin: 0 0 1px;
+    font-size: 13px;
+  }
+  #mobile-menu .nav li a:hover,
+  #mobile-menu .nav li a:focus{
+    background: none;
+  }
+  #mobile-menu .nav li a i {
+    float: right;
+  }
+  #mobile-menu select,
+  #mobile-menu input,
+  #mobile-menu input {
+    background: transparent;
+    background-color: transparent;
+    outline: none;
+    width: 100%;
+    -webkit-appearance: none;
+  }
+  /* Lanague Dropdown */
+  #mobile-menu #desk-mobile-lang-list select{
+    padding: 14px 20px 13px 20px;
+  }
+  #mobile-menu .moblangslct {
+    color: #D4D9DE;
+    display: inline-block;
+    width: 100%;
+    font-size: 13px;
+    padding: 14px 20px 13px 20px;
+    border: none;
+  }
+  #mobile-menu .moblangslct.moblangslctHover {
+  /* Styles for when the select box is hovered */
+      background: none;
+      border-color: #fff;
+  }
+  #mobile-menu .moblangslct.moblangslctOpen {
+  /* Styles for when the select box is open */
+      background: none;
+      border-color: #fff;
+  }
+  #mobile-menu .moblangslct.moblangslctFocus {
+  /* Styles for when the select box is in focus */
+      background: none;
+      border-color: #fff;
+  }
+  #mobile-menu .moblangslct > .moblangslctInner{
+    color: #fff;
+    width: 100% important!;
+  }
+  #mobile-menu .moblangslct > .moblangslctInner i {
+    float: right;
+  }
+  /* Mobile Breadcrumbs? */
+/* -----------------------------------------------------------
+MOBILE SEARCH ------
+----------------------------------------------------------- */
+  #mobile-menu .search {
+    min-height: 45px;
+    background: #1A86CF;
+  }
+  #mobile-menu .search .row{
+    margin: 0px;
+    height: 45px;
+    background: rgba(20, 0, 20, .10);
+  }
+  #mobile-menu .search .row > div{
+    padding: 0px;
+  }
+  #mobile-menu input#q2 {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: #39A0E5;
+    border: 0;
+    float: left;
+    margin: 8px 0 0 10px;
+    padding: 4px 0px 4px 14px;
+    width: 244px;
+    color: #FFF;
+    font-size: 13px;
+    line-height: 19px;
+    height: 27px;
+  }
+  #mobile-menu .search button {
+    color: rgba(255,255,255, 0.4);
+    background: none;
+    border: none;
+    font-size: 16px;
+    position: absolute;
+    right: 18px;
+    top: 12px;
+    z-index: 999;
+  }
+   #mobile-menu input#q2 ::-webkit-input-placeholder {
+     color: #fff !important;
+     font-weight: 300;
+     transition: opacity 0.25s ease;
+  }
+   #mobile-menu input#q2 :-moz-placeholder { /* Firefox 18- */
+     color: #fff !important;
+      font-weight: 300;
+     transition: opacity 0.25s ease;
+  }
+   #mobile-menu input#q2 ::-moz-placeholder {  /* Firefox 19+ */
+     color: #fff !important;
+      font-weight: 300;
+     transition: opacity 0.25s ease;
+  }
+   #mobile-menu input#q2 :-ms-input-placeholder {
+     color: #fff !important;
+      font-weight: 300;
+     transition: opacity 0.25s ease;
+  }
+  #mobile-menu input#q2 [placeholder]:focus::-webkit-input-placeholder {
+    transition: opacity 0.25s ease;
+     font-weight: 300;
+      opacity: 0.33;
+  }
+  /* Mobile Search Suggestion */
+  #mobile-menu .mobile-suggest{
+      -webkit-transition: 0.5s ease-in-out;
+      -o-transition:0.5s ease-in-out;
+      transition: 0.5s ease-in-out;
+  }
+  #mobile-menu .mobile-suggest ul.results {
+    list-style: none;
+    margin-bottom: 0px;
+  }
+  #mobile-menu .mobile-suggest ul.results li{
+    line-height: 19px;
+  }
+  #mobile-menu .mobile-suggest ul.results li a{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 14px 80px 13px 20px;
+    display: block;
+    cursor: pointer;
+    color: #D4D9DE;
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: normal;
+    margin: 0 0 1px;
+  }
+  #mobile-menu .mobile-suggest ul.results li a i{
+    color: #3498db;
+    position: absolute;
+    right: 15px;
+    top: 16px;
+    min-width: 20px;
+    text-align: center;
+  }
+  #mobile-menu .mobile-suggest ul.results li.title {
+    display: block;
+    padding: 13px 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #8C939C;
+    background: #252A31;
+    border: none;
+  }
+/* -----------------------------------------------------------
+MOBILE HEADER/TOPBAR ------
+----------------------------------------------------------- */
+  #mobileHeader {
+    margin-bottom: 0px;
+    background: #3498db;
+    border: none;
+    height: 45px;
+  }
+  #mobileHeader a.menu{
+    color: #fff;
+    float: left;
+    background: none;
+    border: none;
+    height: 45px;
+    margin-left: 10px;
+  }
+  #mobileHeader a i{
+    float: left;
+    cursor: pointer;
+    font-size: 22px;
+    line-height: 45px;
+    font-weight:300;
+  }
+  #mobileHeader h1 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0px;
+    padding: 0px;
+    line-height: 45px;
+  }
+  #mobileHeader h1 a {
+    color: #fff;
+  }
+/* -----------------------------------------------------------
+MOBILE MENU BRUGER BUTTON ------
+----------------------------------------------------------- */
+  #mobileHeader .menu-button{
+    cursor: pointer;
+    display: inline-block;
+    font-size: 10px;
+    height: 3em;
+    margin: 7px 0px 0px 12px;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: 0.5s ease-in-out;
+    transition: 0.5s ease-in-out;
+    width: 3em;
+    -webkit-tap-highlight-color: transparent;
+  }
+  #mobileHeader .menu-button span{
+    background: #fff;
+    border-radius: 1em;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    height: 0.4em;
+    position: absolute;
+    -webkit-transition: 0.5s ease-in-out;
+    transition: 0.5s ease-in-out;
+    width: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+  #mobileHeader .menu-button span {
+    width: 50%;
+  }
+  #mobileHeader .menu-button span:nth-child(1) {
+    border-radius: 1em 0 0 1em;
+    left: 0;
+    top: .5em;
+  }
+  #mobileHeader .menu-button span:nth-child(2) {
+    border-radius: 0 1em 1em 0;
+    top: .5em;
+    right: 0;
+  }
+  #mobileHeader .menu-button span:nth-child(3) {
+    left: 0;
+    top: 1.3em;
+    width: 100%;
+  }
+  #mobileHeader .menu-button span:nth-child(4) {
+    border-radius: 1em 0 0 1em;
+    left: 0;
+    top: 2.1em;
+  }
+  #mobileHeader .menu-button span:nth-child(5) {
+    border-radius: 0 1em 1em 0;
+    right: 0;
+    top: 2.1em;
+  }
+  #mobileHeader .menu-button.open span:nth-child(1) {
+    -webkit-transform: rotate(45deg) translate(0.4em);
+    -ms-transform: rotate(45deg) translate(0.4em);
+    transform: rotate(45deg) translate(0.4em);
+  }
+  #mobileHeader .menu-button.open span:nth-child(2) {
+    -webkit-transform: rotate(-45deg) translate(-0.45em);
+    -ms-transform: rotate(-45deg) translate(-0.45em);
+    transform: rotate(-45deg) translate(-0.45em);
+  }
+  #mobileHeader .menu-button.open span:nth-child(3) {
+    opacity: 0;
+  }
+  #mobileHeader .menu-button.open span:nth-child(4) {
+    -webkit-transform: rotate(-45deg) translate(0.4em);
+    -ms-transform: rotate(-45deg) translate(0.4em);
+    transform: rotate(-45deg) translate(0.4em);
+  }
+  #mobileHeader .menu-button.open span:nth-child(5) {
+    -webkit-transform: rotate(45deg) translate(-0.45em);
+    -ms-transform: rotate(45deg) translate(-0.45em);
+    transform: rotate(45deg) translate(-0.45em);
+  }
+
+
+/* -----------------------------------------------------------
+MOBILE QUERIES
+----------------------------------------------------------- */
+#mobileHeader {display: none;}
+@media only screen and (max-width : 1200px) {
+  #mobileHeader {display: none;}
+}
+@media only screen and (max-width : 979px) {
+    #header,
+    #search {display: none;}
+    #mobileHeader {display: block;}
+    #content > .container > .row > .col-md-4 {padding-left: 15px;}
+    #content > .container > .row > .col-md-8 {padding-right: 15px;}
+}
+@media only screen and (max-width : 767px) {
+    #header,
+    #search {display: none;}
+    #mobileHeader {display: block;}
+
+    #content .container.myportal.index {padding-top: 20px;}
+    .myportal.index .header ul.case-menu li {width: 100%;margin-bottom: 10px;}
+    .myportal.index .header ul.case-menu li.new a.button {display: inline-block; width: 100%;}
+    
+
+    /* Email/Form Mobile Adjustments */
+    .panel-default .panel-body, .panel-default .panel-footer {padding: 15px;}
+
+    #PreCreate .modal-header h2 {font-size: 18px; margin-top: 0px;}
+    #PreCreate .modal-header p {font-size: 12px;}
+    #PreCreate .modal-body {padding: 10px;}
+    #PreCreate .modal-body ul.results li {margin-bottom: 10px; font-size: 12px;}
+    #PreCreate .modal-body ul.results li h4{font-size: 16px;}
+    #PreCreate .modal-body ul.results li h4 i.fa{display:none;}
+    #PreCreate .modal-body ul.results li p{font-size: 12px; padding-left: 0px;}
+    #PreCreate .modal-body ul.results li.note {margin-bottom: 0px;}
+    #PreCreate .modal-footer {font-size: 12px; text-align: left;}
+    #PreCreate .modal-footer .btn.btn-submit{font-size: 14px;padding: 7px 16px; margin: 0px 0px 0px 10px; float: right;}
+
+    .myportal.index .body table tbody tr td.a-casesubject {padding: 0px 10px;}
+
+
+
+}
+@media only screen and (max-width : 480px) {
+    #header,
+    #search {display: none;}
+    #sidebar {margin-top: 50px;}
+    #mobileHeader {display: block;}
+    #mobileHeader select {padding: 10px 15px;}
+    #content .gravatar {display: none;}
+    #mobile-menu .gravatar {display: block;}
+    #content .container.index .desk-topic ul,
+    #content .container.index .get-sat ul,
+    #content .container.index .desk-qna ul{
+      list-style: none;
+      padding: 0px;
+    }
+
+    #content .container.index .desk-topic ul li,
+    #content .container.index .get-sat ul li,
+    #content .container.index .desk-qna ul li {
+      width: 100%;
+      margin-bottom: 0px;
+      padding: 10px 0px;
+      border-bottom: 1px solid #efefef;
+    }
+    #content .container.index .desk-topic ul li a,
+    #content .container.index .get-sat ul li a,
+    #content .container.index .desk-qna ul li a{
+      display: inline-block;
+      width: 100%;
+    }
+    #content .container.index a.desk-topic-view-all {
+      float: right;
+    }
+    div.options ul li,
+    .alternatelogins > div {
+      width: 100%;
+      margin: 5px auto;
+    }
+    .chat-container {width: 90%;}
+    .new_customer_contact_email input {max-width: 70%;}
+    .new_customer_contact_email button {width: 25%;margin:0px;float: right;}
+    .myportal.case .status .stats {padding: 0px 15px;}
+    .myportal.case .status button, .myportal.case .status input[type="submit"] {width: 100%; display: inline-block; margin-top: 15px;}
+}
