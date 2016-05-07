@@ -100,7 +100,7 @@ var fetchPlan = function(deptFilter, index) {
     ]
 
     $.ajax({
-      url: "https://api.knackhq.com/v1/scenes/scene_42/views/view_57/records?filters=" + encodeURIComponent(JSON.stringify(filters)),
+      url: "https://api.knack.com/v1/scenes/scene_42/views/view_57/records?filters=" + encodeURIComponent(JSON.stringify(filters)),
       type: "GET",
       headers: {
         "X-Knack-Application-Id": "554d59e67bc4aa8c081a4b65",
