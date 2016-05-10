@@ -165,7 +165,7 @@ var buildPage = function(dept, url, table) {
 
   //construct charts
   $.ajax({
-    url: baseURL + "?" + dataQueryString + constructFilter("", deptFilter),
+    url: baseURL + "?" + dataQueryString + constructFilter("publishing_status <> 'Retired'", deptFilter),
     type: "GET",
     success: function(response) {
       var columns = transform(response,"publishing_status");
