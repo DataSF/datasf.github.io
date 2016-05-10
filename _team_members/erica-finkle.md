@@ -2,9 +2,9 @@
 name: Erica Finkle
 work_title: ShareSF Coordinator
 email: erica.finkle@sfgov.org
-bio:
-gravatar:
-twitter:
+bio: 'ShareSF Coordinator, City and County of San Francisco'
+gravatar: b0c421b0165eb300d6eba034029479f6
+twitter: erilynnf
 ---
 
 
