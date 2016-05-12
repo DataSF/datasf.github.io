@@ -12,8 +12,6 @@ team_members:
 course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9dW9jS25pM1JJcDQ&usp=sharing'
 order: 3
 category: academy
-categories:
-  - academy
 ---
 
 
