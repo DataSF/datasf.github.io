@@ -25,7 +25,7 @@ This course is a natural continuation of our first two Tableau trainings (Introd
 
 ## What you'll learn
 
-Please click the below links to access how-to guides!  Some links will direct you to sign up for a free Tableau Public account.
+Please click the below links to access how-to guides! Some links will direct you to sign up for a free Tableau Public account.
 
 * [Introduction to dashboards](http://www.tableau.com/learn/tutorials/on-demand/getting-started-dashboards-and-stories?signin=2a605b07b036fce61a341126449e7252)
 * [Dashboard actions](http://www.tableau.com/learn/tutorials/on-demand/dashboard-interactivity-using-actions)
