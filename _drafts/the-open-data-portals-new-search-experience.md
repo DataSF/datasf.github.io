@@ -1,7 +1,7 @@
 ---
-title: "The open data portal's new search experience"
+title: "The open data catalog's new search experience"
 author: jason_lally
-description: "So...we've been a bit quiet about open data in San Francisco. In case anyone was worried, we're still here and\_about to get quite chatty. Going forward, we’ll use this blog to talk about what we are doing, what are our plans, and what are our struggles with\_open data."
+description: "Socrata has been rolling out a new search experience across their customer sites. We're happy to announce, we've just gone live with the new search in our data catalog."
 categories:
   - blog
 ---
