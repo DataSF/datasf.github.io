@@ -6,7 +6,7 @@ prerequisites: Intermediate Excel I or similar experience
 length: 2
 subjects:
   - Data Management
-series:
+series: z
 team_members:
   - jason-lally
 course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9dW9LQ2MxTHdiRms&usp=sharing'
