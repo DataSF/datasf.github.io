@@ -7,7 +7,7 @@ subjects:
   - Analysis
   - Visualization
   - Data Management
-series:
+series: z
 team_members:
   - jason-lally
 course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9M1BvYlRnQlBKWG8&usp=sharing'
