@@ -6,7 +6,7 @@ length: 8
 subjects:
   - Analysis
   - Visualization
-series:
+series: z
 team_members:
   - joe-lapka
 course_materials_link: 'https://drive.google.com/open?id=0BwRgeGq-b8f9YndNZmhoTGlGTTg'
