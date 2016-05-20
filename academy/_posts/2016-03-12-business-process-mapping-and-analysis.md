@@ -5,7 +5,7 @@ prerequisites: None
 length: 2
 subjects:
   - Analysis
-series:
+series: z
 team_members:
   - catherine-omalev
   - inger-brinck
