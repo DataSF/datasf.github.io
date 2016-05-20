@@ -5,7 +5,7 @@ prerequisites: None
 length: 2
 subjects:
   - Information Design
-series:
+series: z
 team_members:
   - joy-bonaguro
 course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9N0Q1dHphWTNuSlU&usp=sharing'
