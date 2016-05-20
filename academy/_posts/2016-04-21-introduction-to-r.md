@@ -19,7 +19,7 @@ categories:
 
 ## About this course
 
-R is one of the leading programming languages for statistics and data analysis.  In this introductory class, participants will learn practical skills necessary for reading data into R from external sources, manipulating the data, and visualizing it.  The course will also cover other basic programming concepts as they are implemented in R, including data types and structures, variable assignment, functions, and packages.
+R is one of the leading programming languages for statistics and data analysis. In this introductory class, participants will learn practical skills necessary for reading data into R from external sources, manipulating the data, and visualizing it. The course will also cover other basic programming concepts as they are implemented in R, including data types and structures, variable assignment, functions, and packages.
 
 ## What you'll learn in this course
 
