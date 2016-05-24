@@ -15,7 +15,7 @@ team_members:
   - david-weinzimmer
   - jessie-rubin
   - sam-abbott
-course_materials_link:
+course_materials_link: https://drive.google.com/folderview?id=0BwRgeGq-b8f9YmlxVUV4WWlUNTA&usp=sharing
 order: 0
 ---
 
