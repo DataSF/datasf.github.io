@@ -7,7 +7,7 @@ categories:
 ---
 
 
-[Socrata](https://www.socrata.com) has been rolling out a new search experience across their customer sites. We're happy to announce, we've just gone live with the new search in our data catalog. If you're used to the old search experience, it'll feel different, but in this case, that's a good thing!
+[Socrata](https://www.socrata.com)&nbsp;has been rolling out a new search experience across their customer sites. We're happy to announce, we've just gone live with the new search in our data catalog. If you're used to the old search experience, it'll feel different, but in this case, that's a good thing!
 
 ![The old search experience was harder to navigate, slower and didn't always give you the most relevant results.](/uploads/versions/oldsearch---x----1020-1027x---.png)
 
