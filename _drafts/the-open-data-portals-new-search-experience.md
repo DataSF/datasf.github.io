@@ -2,8 +2,17 @@
 title: A new search experience for SF Open Data
 author: jason_lally
 description: "Socrata has been rolling out a new search experience across their customer sites. We're happy to announce, we've just gone live with the new search in our data catalog."
-categories:
-  - blog
+image:
+  thumb:
+  feature:
+  caption:
+  source:
+    title:
+    author: 
+    source_link: 
+    author_link: 
+    license: 
+    license_link: 
 ---
 
 
