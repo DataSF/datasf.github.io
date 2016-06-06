@@ -5,14 +5,14 @@ description: "Socrata has been rolling out a new search experience across their 
 image:
   thumb:
   feature:
-  caption:
+  caption: 'The new catalog search experience (on the right) is a much needed improvement to SF Open Data and is available now!'
   source:
     title:
-    author: 
-    source_link: 
-    author_link: 
-    license: 
-    license_link: 
+    author:
+    source_link:
+    author_link:
+    license:
+    license_link:
 ---
 
 
