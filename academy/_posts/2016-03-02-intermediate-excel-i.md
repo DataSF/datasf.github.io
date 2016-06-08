@@ -28,7 +28,7 @@ This classroom based workshop is the second in a series of workshops on Excel of
 
 This course is a natural continuation of our Introduction to Excel training.
 
-##
+# #
 
 ## What you’ll learn
 
