@@ -15,7 +15,7 @@ team_members:
   - david-weinzimmer
   - jessie-rubin
   - sam-abbott
-course_materials_link: https://drive.google.com/folderview?id=0BwRgeGq-b8f9YmlxVUV4WWlUNTA&usp=sharing
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9YmlxVUV4WWlUNTA&usp=sharing'
 order: 0
 ---
 
@@ -23,8 +23,6 @@ order: 0
 ## About this course
 
 This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy. &nbsp;It assumes no prior experience with the program.
-
-## &nbsp;
 
 ## What you’ll learn
 
@@ -39,8 +37,6 @@ Please click the below links to access how-to guides from Lynda.com! &nbsp;[Clic
 * [COUNTIF, COUNTA functions](http://www.lynda.com/Excel-tutorials/Using-COUNTIF-family-functions/376986/431762-4.html?)
 * [Absolute vs relative cell references](http://www.lynda.com/Excel-tutorials/Working-relative-absolute-mixed-references/376986/431720-4.html?)
 
-
-&nbsp;
 
 ## More resources
 
