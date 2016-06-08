@@ -5,6 +5,7 @@ prerequisites: Introduction to Excel or basic experience working with Excel
 length: 1
 subjects:
   - Analysis
+  - Excel
 series:
   - Excel
 team_members:
