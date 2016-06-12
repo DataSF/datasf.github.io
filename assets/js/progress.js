@@ -38,7 +38,7 @@ $(function() {
     ].join('&'), [
       '$select=on_time,count(*)',
       '$group=on_time',
-      '$where=publishing_status="Published"'  
+      '$where=publishing_status="Published" and on_time<>""'  
     ].join('&'), [
       '$select=CASE(lag=true,"Data lag",lag=false,"No data lag")+as+lag_status,count(*)',
       '$group=lag_status',
