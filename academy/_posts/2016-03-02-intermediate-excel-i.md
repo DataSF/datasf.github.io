@@ -7,9 +7,9 @@ length: 2
 series:
   - Excel
 subjects:
-  - Excel
   - Analysis
   - Visualization
+  - Excel
 team_members:
   - aaron-low
   - ashley-groffenberger
@@ -17,7 +17,7 @@ team_members:
   - david-weinzimmer
   - jessie-rubin
   - sam-abbott
-course_materials_link:
+course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9QWJHMWNnaTRFVVU&usp=sharing'
 order: 2
 ---
 
