@@ -28,11 +28,11 @@ This classroom based workshop is the second in a series of workshops on Excel of
 
 This course is a natural continuation of our Introduction to Excel training.
 
-# #
+&nbsp;
 
 ## What you’ll learn
 
-Please click the below links to access how-to guides from Lynda.com!  [Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+Please click the below links to access how-to guides from Lynda.com! &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 
 * [Paste Special](http://www.lynda.com/Excel-tutorials/Display-Paste-Special-options-instantly/167361/182304-4.html?), [Text to Columns](http://www.lynda.com/Excel-tutorials/Splitting-data-multiple-columns/376985/431670-4.html?), and [Concatenate](http://www.lynda.com/Excel-tutorials/Use-CONCATENATE-function-combine-text/439680/487078-4.html?)
 * [VLOOKUP](http://www.lynda.com/Excel-tutorials/Getting-exact-table-data-VLOOKUP-function/376985/431658-4.html?)
