@@ -5,6 +5,7 @@ prerequisites: Intermediate Tableau I or strong working knowledge of Tableau
 length: 2.5
 subjects:
   - Visualization
+  - Tableau
 series:
   - Tableau
 team_members:
