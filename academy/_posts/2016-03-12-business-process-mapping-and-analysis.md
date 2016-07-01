@@ -22,7 +22,7 @@ categories:
 
 &nbsp;
 
-This course will no longer be offered
+This is under development and will be available soon!
 
 &nbsp;
 
