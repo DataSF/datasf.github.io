@@ -1921,3 +1921,11 @@ OL LI OL {
 .toc-wrap.affix {
   top: 102px;
 }
+
+.fr_option{
+  font-weight: normal;
+}
+
+.control {
+   font-weight: normal;
+}
