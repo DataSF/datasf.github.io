@@ -1924,8 +1924,18 @@ OL LI OL {
 
 .fr_option{
   font-weight: normal;
+   font-size:16px;
 }
 
 .control {
    font-weight: normal;
+    font-size:16px;
+}
+
+.fr_min_max_guide{
+  font-size:16px;
+}
+
+.fr_description{
+ font-size:16px;
 }
