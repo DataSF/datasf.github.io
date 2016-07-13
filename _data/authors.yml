@@ -32,7 +32,7 @@ janine_heiser:
   title: Open Data Services Engineer
   email: janine.heiser@sfgov.org
   bio: 'Open Data Services Engineer, City and County of San Francisco'
-  long_bio: "Janine Heiser is the Open Data Services Engineer working to help design and implement a scalable framework for accessing and publishing data across the City. In her technologist role, she enjoys applying user-centered design methodologies to the process of creating and implementing new data products and services. Prior to joining the DataSF team, Janine worked as an engineer on data infrastructure and software projects at a variety of different organizations including the Democratic Party, a digital music distribution company and the UC Bancroft Library. Janine earned her Masters degree in Information Management and Systems from the UC Berkeley School of Information."
+  long_bio: "Janine Heiser is the Open Data Services Engineer working to help design and implement a scalable framework for accessing and publishing data across the City. In her technologist role, she enjoys applying user-centered design methodologies to the process of creating and implementing new data products and services. Prior to joining the DataSF team, Janine worked as an engineer on data infrastructure and software projects at a variety of organizations including the Democratic Party, a digital music distribution company and the UC Bancroft Library. Janine earned her Masters degree in Information Management and Systems from the UC Berkeley School of Information."
   gravatar: a15af49cb9ec97776196f650feefc26b
   twitter: J9Heiser
 
@@ -49,3 +49,10 @@ sam_valdez:
   title: "Enterprise GIS Engineer"
   long_bio: "Samuel Valdez has been an Enterprise GIS Engineer with the City and County of San Francisco's Enterprise GIS Program (SFGIS) since 2006.  He brings over 30 years of software development, information technology, and GIS experience to the organization, which he gained while working for firms of all sizes, including several start-ups, and over five years with Oracle Corporation.  More recently, he has expanded his career interests to include Python development, spatial system architecture, complex event processing, local government operations, and the ITIL Service Lifecycle.  Before joining the City, Sam consulted on GIS and IT projects for local natural resource management organizations, and was employed with the California Department of Health Services' Environmental Health Investigations Branch.  His information technology and GIS skills and experience have been applied to the following programs and major projects at the City: the Enterprise GIS Program, enterprise-class GIS infrastructure design and deployment, the Open Data Program, and fiber and telecommunications asset management."
   image: sam_valdez.jpg
+  
+brian_quinn:
+  name: Brian Quinn
+  title: "Architect/Analyst SFGIS Program"
+  long_bio: "Brian Quinn is the Architect/Analyst for SFGIS, helping to modernize GIS infrastructure from systems to enterprise datasets.  He likes to help users find the most GIS enjoyment from the least effort, and loves 3D virtual worlds.  A geophysicist who gave up oil to stay in San Francisco, Brian's perspective is informed by more than a decade of experience in each of academic research, private sector GIS, and public sector GIS, with international field sites, plus East- and North Bay agencies.  Brian holds a Rock Physics Ph.D. from Stanford and is a Certified GIS Professional."
+  gravatar: d09ebdcf3025301227ee4c47b4dd8c62
+  
