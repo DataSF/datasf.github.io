@@ -24,7 +24,7 @@ order: 2
 
 ## About this course
 
-This classroom based workshop is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced ways to manipulate and format data in spreadsheets.
+This classroom based workshop, formerly titled *How to Be Productive in Excel*, is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced ways to manipulate and format data in spreadsheets.
 
 This course is a natural continuation of our Introduction to Excel training.
 
