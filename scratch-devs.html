@@ -1,0 +1,147 @@
+<div class="siteContentWrapper" role="main">
+          
+
+
+
+
+<div class="socrata-component component-Container   notRendered socrata-container" id="s1" style=""><div class="socrata-component component-Text serverRendered notRendered" id="s2" style=""><div class="content-wrapper  "><section id="resources">
+  <div class="row">
+    <div class="small-12 text-center columns">
+      <h2>DataSF Developer Resources</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-12 medium-4 text-center columns resource">
+      <a href="http://dev.socrata.com/consumers/getting-started/" target="_blank">
+        <img class="res-img" src="/api/assets/25A973C7-59F9-487D-B081-736D9D0CD865">
+        <h4>Getting started with SODA</h4>
+      </a>
+      <p>
+        Building applications on open data is easy with the Socrata Open Data API (SODA). <a href="http://dev.socrata.com/consumers/getting-started/" target="_blank">Read our Getting Started guide to learn more.</a>
+      </p>
+    </div>
+    <div class="small-12 medium-4 text-center columns resource">
+      <a href="http://dev.socrata.com/" target="_blank">
+        <img class="res-img" src="/api/assets/1C2AF03B-6C9B-45EC-9AC8-EEFE8A21B80C">
+        <h4>Additional API documentation</h4>
+      </a>
+      <p>
+        Looking for more in-depth examples? Need libraries for Java, Ruby, Scala, or other languages? <a href="http://dev.socrata.com/" target="_blank">Our full API documentation has you covered.</a>
+      </p>
+    </div>
+    <div class="small-12 medium-4 text-center columns resource">
+      <a href="https://docs.google.com/forms/d/1-gNCVRAuv01G6zK4cEmCjPjRSskY3kCjujhDQ3N1CrU/viewform" target="_blank">
+        <img class="res-img" src="/api/assets/A9AA41A3-7AC1-4698-B956-4E38CAF4F4E3">
+        <h4>Submit your app</h4>
+      </a>
+      <p>
+        Show off your open data-powered application! <a href="https://docs.google.com/forms/d/1-gNCVRAuv01G6zK4cEmCjPjRSskY3kCjujhDQ3N1CrU/viewform" target="_blank">Tell us about it here</a> and <a href="/showcase">check out our app showcase</a>.
+      </p>
+    </div>
+  </div>
+</section>
+<section id="api" class="section-alt">
+  <div class="row">
+    <div class="small-12 text-center columns">
+      <h3>How do I access an API?</h3>
+    </div>
+  </div>
+  <div class="row collapse">
+    <div class="small-12 medium-2 columns">
+      <div class="api-text api-text-right">
+        <h4 class="api-text-header">Look for the Export button.</h4>
+        <p>Every dataset, map, chart, and filtered view has an API! To find it, click the Export button and select SODA API.</p>
+      </div>
+    </div>
+    <div class="small-12 medium-2 medium-push-8 text-left columns">
+      <div class="api-text">
+        <h4 class="api-text-header">Find the API endpoint.</h4>
+        <p>Under SODA API, you will find the endpoint URL as well as a list of available column names.</p>
+      </div>
+    </div>
+    <div class="small-12 medium-8 medium-pull-2 text-center columns">
+      <img src="/api/assets/A5EFE5FE-C4B2-48D8-8083-22C618D60465?apiAccessSwitchedArrows.png" id="arrows" class="hide-for-small">
+      <img src="/api/assets/C75F0D46-18A5-4CAD-9D2E-CF52F8C4702B" style="display:none;" id="sans-arrows" class="show-for-small">
+    </div>
+  </div>
+  <div class="row spacer">
+    <div class="small-12 text-center columns">
+      <a href="http://dev.socrata.com/" class="fndtn-button small">Socrata Developers site <span class="fa fa-external-link-square"></span></a>
+    </div>
+  </div>
+</section>
+<section id="submit-app" style="display:none;"> <!-- MOMENTARILY HIDDEN, WORK IN PROGRESS -->
+  <div class="row">
+    <div class="small-12 text-center columns">
+      <h3>Submit your open data app!</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-10 small-centered medium-9 large-8 columns">
+      <div id="form" class="form-frame">
+        <form method="POST" enctype="multipart/form-data" data-defaultsuccessredirect="https://data.sfgov.org/dataset/{dataset.name}/{dataset.id}/form_success" action="https://data.sfgov.org/views/{dataset.id}/rows.html?method=createForm&amp;successRedirect=https://data.sfgov.org/developers&amp;errorRedirect=https://data.sfgov.org/dataset/{dataset.name}/{dataset.id}/form_error">
+          <div class="row">
+            <div class="small-12 medium-5 large-4 columns">
+              <label for="form_field_application_name" title="Application Name">Application Name</label>
+            </div>
+            <div class="small-12 medium-7 large-8 columns">
+              <input type="text" id="form_field_application_name" name="application_name" placeholder="Hello, my name is..." required="">
+            </div>
+          </div>
+          <div class="row">
+            <div class="small-12 medium-5 large-4 columns">
+              <label for="form_field_application_owner_team" title="Application Owner/Team">Application Owner/Team</label>
+            </div>
+            <div class="small-12 medium-7 large-8 columns">
+              <input type="text" id="form_field_application_owner_team" name="application_owner_team" placeholder="I was made by..." required="">
+            </div>
+          </div>
+          <div class="row">
+            <div class="small-12 medium-5 large-4 columns">
+              <label for="form_field_image" title="Image">Image <span class="suggestion">(192x192px)</span></label>
+            </div>
+            <div class="small-12 medium-7 large-8 columns">
+              <input type="file" id="form_field_image" name="image" accept="image/*">
+            </div>
+          </div>
+          <div class="row">
+            <div class="small-12 medium-5 large-4 columns">
+              <label for="form_field_description" title="Description">Description</label>
+            </div>
+            <div class="small-12 medium-7 large-8 columns">
+              <textarea type="text" id="form_field_description" name="description" maxlength="280" placeholder="This app is... in 280 characters or less." title="This app is... in 280 characters or less. It" s="" like="" a="" double="" tweet!'="" required=""></textarea>
+            </div>
+          </div>
+          <div class="row">
+            <div class="small-12 medium-5 large-4 columns">
+              <label for="form_field_link_to_app" title="Link to App">Link to App</label>
+            </div>
+            <div class="small-12 medium-7 large-8 columns">
+              <input type="text" id="form_field_link_to_app" name="link_to_app" placeholder="http://www.awesomeapp.com" required="">
+            </div>
+          </div>
+          <div class="row">
+            <div class="small-12 medium-5 large-4 columns">
+              <label for="form_field_link_to_code_repository" title="Link to Code Repository">Link to Code Repository</label>
+            </div>
+            <div class="small-12 medium-7 large-8 columns">
+              <input type="text" id="form_field_link_to_code_repository" name="link_to_code_repository" placeholder="http://www.myappcode.com/">
+            </div>
+          </div>
+          <div class="row" style="margin-top: 20px;">
+            <div class="small-12 columns text-center">
+              <input type="submit" value="Submit" class="fndtn-button small">
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+</div></div></div>
+
+
+
+
+
+        </div>
