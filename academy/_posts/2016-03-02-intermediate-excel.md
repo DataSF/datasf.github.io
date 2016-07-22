@@ -1,6 +1,7 @@
 ---
 layout: course
 title: Intermediate Excel
+course_short_name: "Excel - Intermediate"
 description: This classroom based workshop is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced ways to manipulate and format data in spreadsheets.
 prerequisites: None
 length: 2

@@ -2,6 +2,7 @@
 title: Introduction to R
 description: "In this introductory class, participants will learn practical skills necessary for reading data into R from external sources, manipulating the data, and visualizing it.\_ The course will also cover other basic programming concepts as they are implemented in R."
 prerequisites: Advanced-level skills in Excel
+course_short_name: "R - Intro"
 length: 8
 subjects:
   - Analysis

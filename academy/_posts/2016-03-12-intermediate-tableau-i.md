@@ -1,6 +1,7 @@
 ---
 title: Intermediate Tableau I
 description: "This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy. \_Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities."
+course_short_name: "Tableau - Intermediate I"
 prerequisites: Introduction to Tableau or basic familiarity with Tableau
 length: 2.5
 subjects:

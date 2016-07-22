@@ -1,5 +1,6 @@
 ---
 title: "Leveraging the City's Open Data Portal"
+course_short_name: "Leveraging the City's Open Data Portal"
 description: 'This course helps you unlock features of the open data portal to improve your own data workflows. To get the most out of this class, you should have Excel 2010 with the Power Query Add-in (free) or Excel 2013 on your work computer.'
 prerequisites: Intermediate Excel I or similar experience working with Excel
 length: 2

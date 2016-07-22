@@ -1,6 +1,7 @@
 ---
 layout: course
 title: Data Usability - designing data for consumption
+course_short_name: "Data Usability"
 description: 'Basic data design choices can make the difference between simple analysis and hours of frustration. This classroom based workshop will go over how to make certain dataset design decisions that will make your reporting life much easier, hopefully reducing repetitive asks for data and interpretation.'
 prerequisites: Intermediate Excel I or similar experience
 length: 2

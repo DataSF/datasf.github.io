@@ -1462,6 +1462,14 @@ p.task-item {
   padding: 0 5px;
 }
 
+.icon-tableau:before {
+  content: "\f1c3";
+}
+
+.icon-excel:before {
+  content: "\f00a";
+}
+
 .icon-analysis:before {
   content: "\f0ce";
 }

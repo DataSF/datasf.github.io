@@ -1,5 +1,6 @@
 ---
 title: Business Process Mapping and Analysis
+course_short_name: "Business Process Mapping"
 description: 'In this classroom based workshop, you will learn the basics of undertaking a Business Process Improvement (BPI) project. The focus will be on the basics of developing a high-level process map in PowerPoint and conducting process analysis.'
 prerequisites: None
 length: 2

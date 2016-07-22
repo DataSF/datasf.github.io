@@ -1,6 +1,7 @@
 ---
 layout: course
 title: Introduction to Tableau
+course_short_name: "Tableau - Intro"
 description: 'This classroom based workshop is the first in a series of workshops on Tableau offered by the Data Academy.  Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.'
 prerequisites: None
 length: 2
