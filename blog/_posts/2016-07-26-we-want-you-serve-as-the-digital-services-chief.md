@@ -12,9 +12,9 @@ category: blog
 
 At DataSF, our mission is to empower use of data. But when City data is locked into cumbersome backends, it’s not empowering, it’s exhausting. :-(
 
-Data has the potential to transform our services. In the not so far future, data should be helping the City learn what services residents want and contribute to a cycle of improved service delivery. In an ideal world, filing a permit or getting a parking pass are parts of a much greater whole that are helping us serve our community better. Much of that City data is the digital exhaust of a service or interaction with a resident, business or visitor (e.g. filing for a permit, getting a parking pass, paying a ticket).
+Much of that City data is the digital exhaust of a service or interaction with a resident, business or visitor (e.g. filing for a permit, getting a parking pass, paying a ticket). Data can help transform those services by identifying what residents want and how we can improve our services. 
 
-But, we aren’t there yet. Unfortunately, the experience of City services can often feel as cumbersome as our backends. That’s why we were so excited to be part of the working group that helped write and launch [San Francisco’s Digital Services Strategy](http://digitalservices.sfgov.org/) to transform our services in the modern age.
+Unfortunately, the experience of City services can often feel as cumbersome as our backends. That’s why we were so excited to be part of the working group that helped write and launch [San Francisco’s Digital Services Strategy](http://digitalservices.sfgov.org/) to transform our services in the modern age.
 
 ## A New Role in SF: Chief Digital Services Officer
 
