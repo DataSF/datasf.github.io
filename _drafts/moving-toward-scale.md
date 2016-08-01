@@ -18,7 +18,7 @@ categories:
 ---
 
 
-The DataSF team has come a long way in maturing our publishing approaches, including working with a range of datasets of varying complexity. We’ve been able to accomplish quite a bit along the way toward continuous improvement, including:
+The DataSF team has come a long way in maturing our publishing approaches, including working with a range of datasets of varying complexity. We’ve also made continuous and ongoing improvements, including:
 
 * Establishing a more robust automation environment
 * Introducing a bulk publishing process and templates to bundle data publishing more efficiently
@@ -38,11 +38,11 @@ Data that does not flow (appropriately) through the organization and within soci
 * policy decisions based on stale or stagnant data, or none at all
 * services poorly aligned to serve residents in most need
 * staff unable to easily understand how their work relates to the bigger picture
-* time spent stitching together reports
+* little understanding of impacts related certain programs or policies
 
 
-A generalized&nbsp;
+## A generalized architecture for scale
 
-&nbsp;
+Over the next year, we'll lay out more specifics on how we're scaling our data work, but we've started with a very generalized draft architecture. It attempts to provide greater flexibility and accommodate more modes of data sharing over time.
 
 &nbsp;
