@@ -14,11 +14,11 @@ $(function() {
       '$group=publishing_plan_status',
       '$order=publishing_plan_status'
     ].join('&'), [
-      '$select=date_trunc_ym(date_published)+AS+month,count(*)',
+      '$select=date_trunc_ym(first_published)+AS+month,count(*)',
       '$group=month',
       '$order=month'
     ].join('&'), [
-      '$select=date_trunc_y(date_published)+AS+year,count(*)',
+      '$select=date_trunc_y(first_published)+AS+year,count(*)',
       '$group=year',
       '$order=year'
     ].join('&'), [
