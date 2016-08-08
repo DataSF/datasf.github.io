@@ -3,7 +3,7 @@ $(function() {
 
   var queryStrings = [
     [
-      '$select=date_trunc_ym(date_published)+AS+month,count(*)',
+      '$select=date_trunc_ym(first_published)+AS+month,count(*)',
       '$group=month',
       '$order=month'
     ].join('&')
