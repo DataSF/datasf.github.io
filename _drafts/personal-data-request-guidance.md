@@ -1,17 +1,18 @@
 ---
 title: Personal Data Request Guidance
 tags:
-  - Data Inventory Guidance
-published: true
-type: document
-date: 2014-06-19T09:30:00.000Z
+  - Personal Data Requests
+published: false
+type: PDF
+date: 2016-08-08T16:00:00.000Z
 downloads:
-  - type: Google Doc
-    url: 'https://docs.google.com/document/d/1W5C5oO2TrVnmOgLe81_KYgmbghj6hDs9-4SC-ygMDV4/edit'
   - type: PDF
-    url: 'https://docs.google.com/document/d/1W5C5oO2TrVnmOgLe81_KYgmbghj6hDs9-4SC-ygMDV4/export?format=pdf'
+    url: 'https://drive.google.com/open?id=0B0jc1tmJAlTcb3RDWUlhd1BnTUU'
 fordc: true
 sitemap: false
 categories:
   - resources
 ---
+
+
+Guide for City and County of San Francisco departments and agencies to implement a process to provide individuals with their own personal data upon request.
