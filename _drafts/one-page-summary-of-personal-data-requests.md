@@ -2,7 +2,7 @@
 title: One Page Summary of Personal Data Requests
 tags:
   - Personal Data Requests
-published: true
+published: false
 type: document
 date: 2016-08-08T16:00:00.000Z
 downloads:
@@ -15,3 +15,4 @@ categories:
 ---
 
 
+1 page flyer explaining the personal data request process.
