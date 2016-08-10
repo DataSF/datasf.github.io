@@ -19,7 +19,7 @@ var fetchStats = function(baseURL, deptFilter, index) {
   var after = moment(planPeriods[index + 1],'MM/DD/YYYY').format("YYYY-MM-DD")
   
    var dataQueryString2 = [
-    '$select=date_trunc_ym(date_published)+AS+month,count(*)',
+    '$select=date_trunc_ym(first_published)+AS+month,count(*)',
     '$group=month',
     '$order=month'
   ].join('&')
@@ -61,7 +61,7 @@ var fetchStats = function(baseURL, deptFilter, index) {
   });
   
   $.ajax({
-    url: baseURL + "?" + dataQueryString3 + constructFilter('date_published>="'+after+'"+AND+date_published<"'+before+'"', deptFilter),
+    url: baseURL + "?" + dataQueryString3 + constructFilter('first_published>="'+after+'"+AND+first_published<"'+before+'"', deptFilter),
     type: "GET",
     success: function(response) {
       var targetDate = moment(before).subtract(1,"day").format('MMM, DD YYYY'),
