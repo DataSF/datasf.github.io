@@ -18,20 +18,20 @@ categories:
 ---
 
 
-We quietly posted our annual plan update last month. A few updates on Year 2 and some teasers on what’s coming.
+We quietly posted our [annual plan update](https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit?usp=sharing) last month. A few updates on Year 2 and some teasers on what’s coming.
 
 ## Our favorite things from Year 2
 
-* New team members. Janine and Erica joined DataSF to accelerate data automation and services and internal data sharing, respectively. Read more about them and how awesome they are.
-* 133 new datasets versus 49 last year (171% increase)
-* 2 rounds of publishing plans and automated reporting on open data metrics
-* Brand new help desk with 384 tickets and counting
-* 34 classes via Data Academy
-* ShareSF committee together and working
-* New partners with What Works Cities and the Harvard Ash Center
+* New team members. Janine and Erica joined DataSF to accelerate data automation and services and internal data sharing, respectively. [Read more about them and how awesome they are](https://datasf.org/about/).
+* 133 new datasets versus 49 last year (171% increase) and the[automation program](https://datasf.org/publishing/automation/) to make it happen
+* 2 rounds of [publishing plans](https://datasf.org/publishing/plans/) and [automated reporting](https://datasf.org/progress/) on [open data metrics](https://datasf.org/blog/how-to-measure-open-data/)
+* Brand new [help desk](http://support.datasf.org/) with 384 tickets and counting
+* 34 classes via [Data Academy](https://datasf.org/academy/)
+* Advancing data governance and infrastructure through ShareSF, HOPE SF, Our Children Our Families and more
+* New partners with [What Works Cities](http://whatworkscities.bloomberg.org/) and the [Harvard Ash Center](http://ash.harvard.edu/civic-analytics-network)
 
 
-And so much more…read Year 2 in Review in our plan
+And so much more…read Year 2 in Review in [our new plan](https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit?usp=sharing)
 
 ## Focus in Year 3
 
@@ -40,7 +40,7 @@ In Year 3, we are maintaining and improving our open data work but deepening and
 * Internal data sharing for coordinated care
 * Data infrastructure and services
 * Data governance and management (we added a new goal for this)
-* Putting our data to work
+* Putting our data to work with analytics and special projects
 
 
 ## Some fun things underway this quarter (Jul - Sep)
@@ -54,6 +54,6 @@ In Year 3, we are maintaining and improving our open data work but deepening and
 * Unifying our web properties
 
 
-Read the whole plan or check out our 1 page strategy map.
+Read the [whole plan](https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit?usp=sharing) or check out our [1 page strategy map.](https://drive.google.com/file/d/0B-65Qm9J0m0WdHowYjNtc3Q4Wm8/view?usp=sharing)
 
 Many thanks to a great team and all the partners we had a chance to work with this last year!
