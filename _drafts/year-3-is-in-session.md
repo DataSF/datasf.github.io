@@ -56,4 +56,4 @@ In Year 3, we are maintaining and improving our open data work but deepening and
 
 Read the [whole plan](https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit?usp=sharing) or check out our [1 page strategy map.](https://drive.google.com/file/d/0B-65Qm9J0m0WdHowYjNtc3Q4Wm8/view?usp=sharing)
 
-Many thanks to a great team and all the partners we had a chance to work with this last year!
+Many thanks to a [great team](/about/) and all the partners we had a chance to work with this last year!
