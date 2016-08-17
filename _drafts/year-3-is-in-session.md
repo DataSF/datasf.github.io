@@ -54,6 +54,6 @@ In Year 3, we are maintaining and improving our open data work but deepening and
 * Unifying our web properties
 
 
-Read the [whole plan](https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit?usp=sharing) or check out our [1 page strategy map.](https://drive.google.com/file/d/0B-65Qm9J0m0WdHowYjNtc3Q4Wm8/view?usp=sharing)
+Read the [whole plan](https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit?usp=sharing) or check out our [1 page strategy map.](https://drive.google.com/file/d/0B-65Qm9J0m0WdHowYjNtc3Q4Wm8/view?usp=sharing)&nbsp;The appendix links to some documents that go into detail about our thinking on [data governance, quality, and integration](https://docs.google.com/document/d/1zObXTSM7oKAQwbpqEf1lT4gcr6Zq2XgO1wSH1fr4LlI/edit?usp=sharing); [geo data services](https://docs.google.com/document/d/1AyDX9i58usd85TtnTohyHSFadp1TZ4VoCyIilVrg4Rc/edit?usp=sharing) and our[technology and services architecture](https://docs.google.com/document/d/1CbOqNNmzDbllSudT_4mg49xa8RmX74awlNoa6oaT8BY/edit?usp=sharing).
 
 Many thanks to a [great team](/about/) and all the partners we had a chance to work with this last year!
