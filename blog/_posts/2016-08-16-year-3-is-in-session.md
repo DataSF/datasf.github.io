@@ -12,7 +12,7 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: We quietly posted our annual plan update last month. A few updates on Year 2 and some teasers on what’s coming.
 categories:
   - blog
 ---
