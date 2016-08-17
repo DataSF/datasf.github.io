@@ -4,7 +4,7 @@ author: joy_bonaguro
 image:
   thumb: year-3-plan/year3strategicplan.png
   feature: year-3-plan/year3strategicplan.png
-  caption: 'Check out our year three strategic plan!'
+  caption: 'Check out our latest strategic plan!'
   source:
     title:
     author:
