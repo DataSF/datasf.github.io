@@ -23,7 +23,7 @@ We quietly posted our [annual plan update](https://docs.google.com/document/d/1c
 ## Our favorite things from Year 2
 
 * New team members. Janine and Erica joined DataSF to accelerate data automation and services and internal data sharing, respectively. [Read more about them and how awesome they are](https://datasf.org/about/).
-* 133 new datasets versus 49 last year (171% increase) and the[automation program](https://datasf.org/publishing/automation/) to make it happen
+* 133 new datasets versus 49 last year (171% increase) and the&nbsp;[automation program](https://datasf.org/publishing/automation/) to make it happen
 * 2 rounds of [publishing plans](https://datasf.org/publishing/plans/) and [automated reporting](https://datasf.org/progress/) on [open data metrics](https://datasf.org/blog/how-to-measure-open-data/)
 * Brand new [help desk](http://support.datasf.org/) with 384 tickets and counting
 * 34 classes via [Data Academy](https://datasf.org/academy/)
