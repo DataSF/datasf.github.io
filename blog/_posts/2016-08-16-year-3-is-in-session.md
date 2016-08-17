@@ -31,7 +31,7 @@ We quietly posted our [annual plan update](https://docs.google.com/document/d/1c
 * New partners with [What Works Cities](http://whatworkscities.bloomberg.org/) and the [Harvard Ash Center](http://ash.harvard.edu/civic-analytics-network)
 
 
-And so much more…read Year 2 in Review in [our new plan](https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit?usp=sharing)
+And so much more…read Year 2 in Review in [our new plan](https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit?usp=sharing).
 
 ## Focus in Year 3
 
