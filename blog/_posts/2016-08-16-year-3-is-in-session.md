@@ -2,9 +2,9 @@
 title: Year 3 is in Session
 author: joy_bonaguro
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: year-3-plan/year3strategicplan.png
+  feature: year-3-plan/year3strategicplan.png
+  caption: 'Check out our year three strategic plan!'
   source:
     title:
     author:
