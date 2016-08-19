@@ -10,9 +10,6 @@
 - name: Data Visualization
   class: .visualization
   icon: fa-bar-chart
-- name: Business Process
-  class: .business-process
-  icon: fa-refresh
 - name: Excel
   class: .excel 
   icon: fa-file-excel-o
