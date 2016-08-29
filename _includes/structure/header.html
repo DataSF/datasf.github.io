@@ -1,14 +1,6 @@
 <div class="nav-group navbar-fixed-top {% if page.is_front != true %} navbar-shrink {% endif %}">
-  <nav class="navbar navbar-mini navbar-static-top visible-sm visible-md visible-lg" role="region" aria-label="external links">
+  <div class="navbar navbar-mini navbar-static-top visible-sm visible-md visible-lg" role="region" aria-label="external links">
     <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-2">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      </div>
       <div class="collapse navbar-collapse" id="navbar-collapse-2">
         <ul class="nav navbar-nav navbar-right">
           {% for link in site.data.navigation.utility %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout %} {% assign current = 'active' %} {% endif %}
@@ -19,7 +11,7 @@
         </ul>
       </div>
     </div>
-  </nav>
+  </div>
   <nav class="navbar navbar-default navbar-static-top">
     <div class="container">
       <!-- Brand and toggle get grouped for better mobile display -->
@@ -36,7 +28,7 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          {% for link in site.data.navigation.new_nav %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout %} {% assign current = 'active' %} {% endif %}
+          {% for link in site.data.navigation.main_nav %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout or (page.index == link.index and page.index != null) %} {% assign current = 'active' %} {% assign index = link.index %} {% endif %}
           <li class="{{current}}">
             <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
@@ -54,4 +46,19 @@
     </div>
     <!-- /.container-fluid -->
   </nav>
+  {% if index %}
+  <div class="navbar navbar-subnav navbar-static-top visible-sm visible-md visible-lg" role="region" aria-label="external links">
+    <div class="container">
+      <div class="collapse navbar-collapse" id="navbar-collapse-3">
+        <ul class="nav navbar-nav navbar-right">
+          {% for link in site.data.navigation[index] %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout %} {% assign current = 'active' %} {% endif %}
+          <li class="{{current}}">
+            <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+  {% endif %}
 </div>

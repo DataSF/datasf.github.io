@@ -34,10 +34,6 @@
   <!--[if lte IE 9]><script src="{{site.baseurl}}/assets/js/vendor/aight/aight.min.js"></script><![endif]-->
   <!-- D3 for charting (only need this on some pages -->
   <script src="{{ "/assets/js/vendor/d3.js" | prepend: site.baseurl }}"></script>
-  <link href="//d3q1ytufopwvkq.cloudfront.net/0/formrenderer.css" rel="stylesheet" />
-  <!-- for screen door form -->
-  <script src="//code.jquery.com/jquery-2.2.3.min.js"></script>
-  <script src="//d3q1ytufopwvkq.cloudfront.net/0/formrenderer.js"></script>
 
   <!--[if IE 8]><script src="{{site.baseurl}}/assets/js/vendor/aight/d3/d3.ie8.js"></script><![endif]-->
   
@@ -58,4 +54,7 @@
     ga('create', 'UA-53975719-3', 'auto');
     ga('send', 'pageview');
   </script>
+  {% if page.screendoor %}
+  {% include structure/screendoor.html %}
+  {% endif %}
 </head>

@@ -3,7 +3,7 @@
 
   {% include structure/head.html %}
   
-   <body>
+   <body {%if page.subnav%} class="has-subnav" {% endif %}>
     {% include structure/header.html %}
     {{ content }}
     {% include structure/footer.html %}

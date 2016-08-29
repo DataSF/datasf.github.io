@@ -308,12 +308,17 @@ fieldset[disabled] .btn-xl.active {
 .navbar {
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
+  margin-bottom: 0;
 }
 a:hover,
 a:active {
   outline: 0;
 }
 @media (min-width: 768px) {
+  .navbar-default li.active {
+    background-color: #{{site.color.tertiary}};
+  }
+  
   .navbar li a:before,
   .navbar li a:after {
     content: '';
@@ -332,12 +337,16 @@ a:active {
   }
   .navbar li a:after {
     width: 0;
-    background: #{{site.color.secondary}};
+    background: #{{site.color.tertiary}};
   }
   .navbar li a:active:after,
   .navbar li a:hover:after,
-  .navbar li.active a:after {
+  .navbar-mini li.active a:after {
     width: 100%;
+  }
+  .navbar-default li.active a:after,
+  .navbar-subnav li a:hover:after {
+    width: 0;
   }
 }
 .navbar-collapse.in li.active {
@@ -346,6 +355,7 @@ a:active {
 .nav>li>a {
   margin: 0 15px;
   padding: 15px 0;
+  color: #fff;
 }
 .navbar-default {
   border-color: transparent;
@@ -354,6 +364,12 @@ a:active {
 
 .navbar-fixed-top .navbar-collapse {
   max-height: none;
+}
+
+.navbar-subnav {
+  background-color: #{{site.color.tertiary}};
+  color: #fff;
+  margin-bottom: 20px;
 }
 
 .navbar-default .navbar-brand {
@@ -387,6 +403,23 @@ a:active {
   letter-spacing: 1px;
   color: #fff;
 }
+.navbar-subnav .nav li a {
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 0 10px;
+  margin: 0;
+  line-height: 40px;
+}
+
+.navbar.navbar-subnav {
+  line-height: 40px;
+  min-height: 40px;
+}
+
+.navbar.navbar-subnav li a:hover,
+.navbar.navbar-subnav li.active a {
+  background-color: #5da3c4;
+}
+
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
   outline: 0;
@@ -441,9 +474,14 @@ a:active {
   padding: 0 0 0 15px;
   line-height: 50px;
 }
+
+.navbar-static-top {
+  border: 0;
+}
+
 @media(min-width:768px) {
   body {
-    margin-top: 70px;
+    margin-top: 50px;
   }
   .navbar>.container .navbar-brand,
   .navbar>.container-fluid .navbar-brand {
@@ -468,17 +506,20 @@ a:active {
   .navbar-default .navbar-nav>.active>a {
     border-radius: 3px;
   }
-  .navbar-shrink .navbar-default {
-    padding: 10px 0;
+  .nav-group .navbar-default {
+    padding: 0;
     background-color: #245f7b;
   }
-  .navbar-shrink .navbar-default .navbar-brand {
+  .nav-group .navbar-default .navbar-brand {
     font-size: 2.5em;
   }
 }
 @media (min-width: 992px) {
   body {
-    margin-top: 102px;
+    margin-top: 82px;
+  }
+  body.has-subnav {
+    margin-top: 122px;
   }
 }
 header {
