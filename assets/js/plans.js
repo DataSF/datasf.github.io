@@ -1,12 +1,13 @@
 var planPeriods = [
+  '01/01/2017',
   '07/01/2016',
   '01/01/2016',
   '07/01/2015'
   ]
   
-//putting this in a variable until we have some time to automate sums, long story but the system of record for plans (Knack) doesn't let us do aggregations yet through the API, so looking at doing a simple js sum on the records
+//putting this in a variable until we have some time to automate sums, the system of record for plans (Knack) doesn't let us do aggregations yet through the API, so looking at doing a simple js sum on the records
 
-var cityWideTargets = [64, 121]
+var cityWideTargets = [42, 64, 121]
 
 //Functions
 var fetchStats = function(baseURL, deptFilter, index) {
