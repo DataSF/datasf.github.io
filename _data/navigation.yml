@@ -18,13 +18,15 @@ main_nav:
   layout: blog-post
   
 publishing:
-  - text: Start Publishing Process
+  - text: Publishing Submission
     url: /publishing/
-  - text: Guidelines
+  - text: Submission Guidelines
+    url: /publishing/submission-guidelines/
+  - text: Publishing Guidelines
     url: /publishing/guidelines/
   - text: Automation Services
     url: /publishing/services/
-  - text: Publishing Plans
+  - text: Plans
     url: /publishing/plans/
   
 catalog:
@@ -36,6 +38,8 @@ catalog:
     url: 'https://data.sfgov.org/analytics'
   - text: Developers
     url: /catalog/developers/
+  - text: Sign Up
+    url: 'https://data.sfgov.org/signup'
   - text: Sign In 
     url: 'https://data.sfgov.org/login'
     

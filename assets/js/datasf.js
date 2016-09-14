@@ -18,7 +18,7 @@ $(function() {
   if (typeof $.fn.toc == 'function') {
     $('#article-toc').toc({
       'container': 'article',
-      'scrollToOffset': 110,
+      'scrollToOffset': 125,
       'prefix': 'toc',
       'anchorName': function(i, heading, prefix) {
         return prefix + i;
@@ -31,7 +31,7 @@ $(function() {
 
     $('.toc-wrap').affix({
       offset: {
-        top: $('.toc-wrap').offset().top - 102
+        top: $('.toc-wrap').offset().top - 142
       }
     })
   }
@@ -57,7 +57,7 @@ $(function() {
 
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
-    return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfusd.edu|ucsf.edu|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org|sfcta.org)/.test(value);
+    return this.optional(element) || /[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@(sfgov.org|sfusd.edu|ucsf.edu|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org|sfcta.org)/.test(value);
   }, "Please enter a valid SFGov email address");
 
   //Reset validator defaults to integrate with Bootstrap 3 conventions
