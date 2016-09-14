@@ -1138,29 +1138,7 @@ section#contact:-ms-input-placeholder {
 section#contact .text-danger {
   color: #e74c3c;
 }
-footer {
-  padding: 25px 0 0 0;
-  text-align: center;
-}
-footer span.copyright {
-  text-transform: uppercase;
-  text-transform: none;
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 40px;
-}
-footer ul.quicklinks {
-  margin-bottom: 0;
-  text-transform: uppercase;
-  text-transform: none;
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 40px;
-}
-footer .made-in {
-  background-color: #245f7b;
-  color: #fff;
-  margin-top: 25px;
-  padding: 5px 0;
-}
+
 ul.social-buttons {
   margin-bottom: 0;
 }
@@ -1853,7 +1831,6 @@ figcaption a:hover {
   margin-bottom: 10px;
 }
 
-
 /* Publishing */
 
 .list-todo {
@@ -1971,10 +1948,22 @@ OL LI OL {
   top: 102px;
 }
 
+.toc-h3 {
+  margin-left: 20px;
+}
+
+article span:before { content: ''; display: block; position: relative; width: 0; height: 120px; margin-top: -120px }
+
 .fr_option{
   font-weight: normal;
    font-size:16px;
 }
+
+.fr_after_submit_page {
+  text-align: center;
+  font-size: 1.5em;
+}
+
 
 .control {
    font-weight: normal;
@@ -1987,4 +1976,44 @@ OL LI OL {
 
 .fr_description{
  font-size:16px;
+}
+
+/* Footer */
+
+.footer-content-wrapper {
+  background-color: #408bae;
+  padding-top: 20px;
+  color: #fff;
+}
+
+footer {
+  padding: 25px 0 0 0;
+}
+footer span.copyright {
+  text-transform: uppercase;
+  text-transform: none;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 40px;
+}
+footer ul.quick-links {
+  text-align: right;
+}
+
+.footer-content-wrapper a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+footer .made-in {
+  background-color: #245f7b;
+  color: #fff;
+  padding: 5px 0;
+}
+
+footer .extra-links {
+  margin-bottom: 20px;
+}
+
+footer .catalog-powered {
+  font-size: .8em;
 }
