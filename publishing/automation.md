@@ -36,17 +36,17 @@ Through automation services described in the previous section, a series of data 
 
 ### Field transformations
 
-| Transformation | General description |
-| --- | --- |
-| Example | Description |
+- **Format dates.** Take a date formatted as a string and output a properly encoded
+- **Convert string case.** For example, take a field encoded in all capital letters and turn it into lowercase or title case.
+- **Lookup definition (joins).** Join a reference dataset to include a definition column for a common code 
 
 ### Geographic transformations
 
-| Transformation | General description |
-| --- | --- |
-| Example | Description |
-
-
+- **Generate coordinates.** Take an input location field like an address or parcel and generate a latitude or longitude point for mapping
+- **Append geographic boundary.** Based on location, add columns indicating a boundary that a location falls within. Examples include:
+    - Supervisor District
+    - Neighborhood
+    - Census Boundary
 
 ## Advanced Automation
 On a case by case basis, we may determine that a different automated method is more appropriate. The ETL process above is robust across many different contexts, but there may be opportunity to develop processes that push data directly to the platform using the platform’s [available Publisher API](http://dev.socrata.com/publishers/getting-started.html) or other emerging toolkits. For example, in cases where streaming or near real-time data is involved, we may need a different approach. Based on [the dataset inventory](https://data.sfgov.org/City-Management-and-Ethics/Dataset-Inventory/y8fp-fbf5), these kinds of data are rare. We welcome opportunities to explore these kinds of integrations, but expect them to be larger efforts requiring more upfront commitment from the partner department.
