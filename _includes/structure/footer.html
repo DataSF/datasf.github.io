@@ -1,16 +1,23 @@
 <footer>
-  <div class="container">
-    <div class="row">
+  <div class="container extra-links">
+    <div class="row text-center">
       <div class="col-md-4">
 
       </div>
       <div class="col-md-4">
+        {% if page.index != 'catalog' %}
         <ul class="list-inline social-buttons">
           {% for network in site.social %}
           <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
           </li>
           {% endfor %}
         </ul>
+        {% else %}
+        <div class="catalog-powered">
+          Data catalog powered by <span class="sr-only">Socrata</span><br/>
+          <a href="https://socrata.com" target="_blank"><img src="/assets/img/socrata.jpg" alt="Socrata logo" width="100px"></a>
+        </div>
+        {% endif %}
       </div>
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
@@ -19,7 +26,34 @@
       </div>
     </div>
   </div>
-  <div class="text-center made-in">
-      Made with <i class="fa fa-heart"><span class="sr-only">heart</span></i> in San Francisco
+  <div class="footer-content-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 left-border-dotted">
+          <ul class="list-unstyled quick-links">
+            {% for link in site.data.navigation.main_nav %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout or (page.index == link.index and page.index != null) %} {% assign current = 'active' %} {% assign index = link.index %} {% endif %}
+              <li class="{{current}}">
+                <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
+              </li>
+            {% endfor %}
+            {% if page.index == 'catalog' %}
+              <li>---------------------</li>
+              <li><a href="/catalog/terms-of-use">Terms of Use</a></li>
+              <li><a href="https://socrata.com/privacy/">Socrata Privacy Policy</a></li>
+            {% else %}
+              <li style="margin-top: 15px;"><a href="/privacy/">Privacy Policy</a></li>
+            {% endif %}
+          </ul>
+        </div>
+        <div class="col-md-6 mission">
+          <p>DataSF's mission is to empower use of data. We seek to transform the way the City works through the use of data. We believe use of data and evidence can improve our operations and the services we provide. This ultimately leads to increased quality of life and work for San Francisco residents, employers, employees and visitors. <a href="/about">Learn more about our work.</a></p>
+        </div>
+      </div>
     </div>
+  </div>
+  {% if page.index != 'catalog' %}
+  <div class="text-center made-in">
+    Made with <i class="fa fa-heart"><span class="sr-only">heart</span></i> in San Francisco
+  </div>
+  {% endif %}
 </footer>

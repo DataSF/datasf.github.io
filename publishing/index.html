@@ -1,8 +1,11 @@
 ---
-layout: default
-title: DataSF | Publishing
-js: publishing.js
+layout: default 
+title: DataSF | Publishing 
+index: publishing 
+screendoor: true 
+subnav: true 
 ---
+
 <section id="publishing">
   <div class="container">
     <div class="row">
@@ -12,59 +15,158 @@ js: publishing.js
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4 sidebar col-md-push-8">
-        {% include publishing_sidebar.html %}
-        <div class="visible-md-block visible-lg-block">
-          <h2>Recently Published Datasets</h2>
-          <div class="recent-datasets">
-
-          </div>
-        </div>
-      </div>
-      <div class="col-md-8 col-md-pull-4">
-        <p class="lead">So you want to publish data on SF OpenData? We have just a handful of steps to get you started.</p>
+      <div class="col-md-8 col-sm-12 col-md-offset-2">
+        <p class="lead">So you want to publish data on the City's <a href="https://data.sfgov.org">open data catalog</a>? Get started by following the instructions below and submitting the form. <a href="http://support.datasf.org/customer/portal/emails/new">Please contact us if you have any questions</a>.</p>
         <ul id="publishingList" class="custom-counter list-unstyled list-publishing">
           <li>
             <div class="well">
-              <div class="list-todo"><a href="https://data.sfgov.org"><i class="fa fa-search fa-2x"></i> Make sure your data isn't already published on the portal</a></div>
+              <div class="list-todo"><a href="/publishing/submission-guidelines"><i class="fa fa-file-text-o fa-2x" aria-hidden="true"></i>Review the submission guidelines</a></div>
             </div>
           </li>
           <li>
             <div class="well">
-              <div class="list-todo"><a href="https://data.sfgov.org/signup"><i class="fa fa-pencil fa-2x"></i> Sign up for SF OpenData Account (if you haven't already)</a></div>
+              <div class="list-todo"><i class="fa fa-files-o fa-2x" aria-hidden="true"></i>Review the form below and gather necessary information</div>
             </div>
           </li>
           <li>
             <div class="well">
-              <div class="list-todo"><a href="{{site.baseurl}}/publishing/guidelines"><i class="fa fa-file-text-o fa-2x"></i> Review the publishing guidelines (these change based on feedback)</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="well">
-              <div class="list-todo"><a href="https://github.com/DataSF/utilities/raw/master/Publisher%20Packet.xlsm" class="download" data-download-type="Excel" data-download-name="Publisher Packet"><i class="fa fa-download fa-2x"></i> Download and complete the Publisher's Packet (Excel Workbook)</a></div>
-              <button class="btn btn-primary collapsed pull-right" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> ?
-              </button>
-              <div id="collapseTwo" class="collapse">
-                Before filling out the Publisher's Packet, make sure to enable editing and macros. Excel will likely prompt you once for each.
-                <img src="{{site.baseurl}}/assets/img/publishing/enable_editing.png">
-                <img src="{{site.baseurl}}/assets/img/publishing/enable_macros.png"> The packet contains detailed guidance you can follow along. Fill out all the required fields. The workbook will track your progress toward completion.
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="well">
-              <div class="list-todo"><i class="fa fa-paper-plane-o fa-2x"></i> Click "Submit this Packet!" in your completed workbook</div>
-              <button class="btn btn-primary collapsed pull-right" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThre">
-                ?
-              </button>
-              <div id="collapseThree" class="collapse">
-                You can find this button in the Publisher's Packet at the bottom of either the tab '1 - Instructions' or '5 - Automation Questionnaire'. It will save a copy of your packet with a new name, open an email in your email client and the folder containing your
-                saved packet. Just attach the copy to the email and click send.
-              </div>
+              <div class="list-todo"><i class="fa fa-paper-plane-o fa-2x" aria-hidden="true"></i> Fill out the form and click submit</div>
             </div>
           </li>
         </ul>
-        <p>Someone from the open data team will follow up with you shortly to guide you through the rest of the process. Don't worry, it's not complicated. Think of us as your data sherpas guiding you through your journey to published data.</p>
+        <form data-formrenderer>This form requires JavaScript to complete.</form>
+
+        <script>
+          // Uncomment this line and set it to the CSS class that your website uses for buttons:
+          FormRenderer.BUTTON_CLASS = 'btn btn-default'
+          FormRenderer.t.errors.domain_invalid = 'Please enter an email at a valid City and County of SF domain'
+
+          var oldValidate = FormRenderer.Validators.IdentificationValidator.validate;
+          FormRenderer.Validators.IdentificationValidator.validate = function(model) {
+            var oldValidationResult = oldValidate.apply(this, arguments);
+            if (oldValidationResult) return oldValidationResult;
+            if (!model.get('value.email').match(/@(sfgov.org|sfusd.edu|ucsf.edu|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org|sfcta.org)/)) {
+              return 'domain_invalid';
+            }
+          }
+
+          var SELECT_DATASET_FIELD_ID = '37534'
+          var SELECT_DEPARTMENT_FIELD_ID = '34388'
+          var TITLE_FIELD_ID = '37478'
+          var DESCRIPTION_FIELD_ID = '37479'
+          var CLASS_FIELD_ID = '37481'
+          var INVENTORY_FIELD_ID = '37637'
+
+          var datasetView
+          var titleView
+          var descriptionView
+          var classificationView
+          var inventoryIdView
+          var selectedDepartment = ''
+
+          var fr = new FormRenderer({
+            "project_id": "fCgxNErrr16qKjFs"
+          })
+
+          fr.on('viewRendered', function(view) {
+            if (view.optsLoaded) return;
+
+            if (view.$el.hasClass('fr_response_field_dropdown') && view.model.id == SELECT_DEPARTMENT_FIELD_ID) {
+              selectedDepartment = view.model.attributes.value
+              view.model.on('change:value', function(field) {
+                if (!datasetView) return
+                selectedDepartment = field.attributes.value
+                setDatasetField(datasetView, selectedDepartment)
+              })
+            }
+
+            if (view.$el.hasClass('fr_response_field_text') && view.model.id == TITLE_FIELD_ID) {
+              titleView = view
+            }
+            if (view.$el.hasClass('fr_response_field_paragraph') && view.model.id == DESCRIPTION_FIELD_ID) {
+              descriptionView = view
+            }
+            if (view.$el.hasClass('fr_response_field_dropdown') && view.model.id == CLASS_FIELD_ID) {
+              classificationView = view
+            }
+            if (view.$el.hasClass('fr_response_field_text') && view.model.id == INVENTORY_FIELD_ID) {
+              inventoryIdView = view
+
+              view.
+              $el.
+              find('input').
+              prop('disabled', true)
+            }
+
+
+            if (view.$el.hasClass('fr_response_field_dropdown') && view.model.id == SELECT_DATASET_FIELD_ID) {
+              datasetView = view
+              view.model.set('value', '', {
+                silent: true
+              })
+
+              view.
+              $el.
+              find('select').
+              prop('disabled', true).
+              find('option').
+              val('').
+              end()
+
+              setDatasetField(view, selectedDepartment)
+
+              view.model.on('change:value', function(field) {
+                if (field.attributes.value !== '***Dataset not in inventory' && field.attributes.value !== '') {
+                  $.getJSON("https://data.sfgov.org/resource/q6xv-9c3b.json?$where=department_or_division='" + encodeURIComponent(selectedDepartment) + "'+AND+dataset_name='" + encodeURIComponent(field.attributes.value) + "'", function(opts) {
+                    titleView.model.set('value', opts[0].dataset_name)
+                    descriptionView.model.set('value', opts[0].dataset_description)
+                    classificationView.model.set('value', opts[0].data_classification)
+                    inventoryIdView.model.set('value', opts[0].inventory_id)
+                  })
+                }
+                else {
+                  titleView.model.set('value', '')
+                  descriptionView.model.set('value', '')
+                  classificationView.model.set('value', '')
+                  inventoryIdView.model.set('value', '')
+                }
+
+              })
+            }
+          })
+
+          var setDatasetField = function(view, field) {
+            $.getJSON("https://data.sfgov.org/resource/q6xv-9c3b.json?$where=department_or_division=+'" + encodeURIComponent(field) + "'+AND+NOT+publishing_status='Published'", function(opts) {
+              view.optsLoaded = true;
+              console.log(field)
+              var arr = [{
+                label: ''
+              }]
+              for (i in opts) {
+                arr.push({
+                  label: opts[i].dataset_name
+                })
+              }
+              if (field !== '' && field) {
+                arr.push({
+                  label: '***Dataset not in inventory'
+                })
+              }
+              else {
+                arr.push({
+                  label: 'Please select a department above first'
+                })
+              }
+              view.model.set('field_options.options', arr)
+              if (arr[0]) {
+                view.model.set('value', arr[0].label, {
+                  silent: true
+                });
+              }
+              view.render()
+            })
+          }
+        </script>
       </div>
     </div>
     <div class="row">
@@ -79,16 +181,3 @@ js: publishing.js
     </div>
   </div>
 </section>
-
-{% raw %}
-<script id="datasetTmpl" type="text/x-jsrender">
-<div class="panel panel-default panel-dataset">
-  <div class="panel-body">
-    <span class="wrap-around">{{:department_or_division}}</span>
-     <h3><a href="{{:dataset_link}}">{{:dataset_name}}</a></h3>
-          <p>{{:dataset_description}}</p>
-          </div>
-        </div>
-      </div>
-</script>
-{% endraw %}
