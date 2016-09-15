@@ -48,7 +48,7 @@ $(function() {
       '$group=metadata_status',
       '$where=publishing_status="Published"'
     ].join('&'), [
-      '$select=sum(published_through_june_2016)+as+published,(sum(target_june_2016)-published)+as+not_published',
+      '$select=sum(published_through_december_2016)+as+published,(sum(target_december_2016)-published)+as+not_published',
     ].join('&'), [
       '$select=data_classification,sum(CASE(publishing_status="Published",1))%20as%20published,%20sum(CASE(publishing_status="Not%20Published",%201))%20as%20not_published,count(*)%20as%20total',
       '$group=data_classification',
