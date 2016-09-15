@@ -1,3 +1,5 @@
+// each planning period, add the start date of the ***next*** period at the top of the array below
+
 var planPeriods = [
   '01/01/2017',
   '07/01/2016',
@@ -7,7 +9,7 @@ var planPeriods = [
   
 //putting this in a variable until we have some time to automate sums, the system of record for plans (Knack) doesn't let us do aggregations yet through the API, so looking at doing a simple js sum on the records
 
-var cityWideTargets = [42, 64, 121]
+var cityWideTargets = [43, 64, 121]
 
 //Functions
 var fetchStats = function(baseURL, deptFilter, index) {
@@ -65,7 +67,7 @@ var fetchStats = function(baseURL, deptFilter, index) {
     url: baseURL + "?" + dataQueryString3 + constructFilter('first_published>="'+after+'"+AND+first_published<"'+before+'"', deptFilter),
     type: "GET",
     success: function(response) {
-      var targetDate = moment(before).subtract(1,"day").format('MMM, DD YYYY'),
+      var targetDate = moment(before).subtract(1,"day").format('MMM DD, YYYY'),
         sinceDate = moment(after).format('MMM YYYY')
         
       $("#chart-published-since .chart-number").html(response[0].count);
@@ -118,7 +120,7 @@ var fetchPlan = function(deptFilter, index) {
             $("#chart-targeted").hide();
           }
           $('#dept-link').show();
-          $(".mission").html((response.records[0].field_21 ? response.records[0].field_21 : ""));
+          $(".department-mission").html((response.records[0].field_21 ? response.records[0].field_21 : ""));
           $("#dept-link .website-text").html((response.records[0].field_21 ? response.records[0].field_28 : ""));
           $(".narrative-maintenance").html((response.records[0].field_17 ? response.records[0].field_17 : ""));
           $(".narrative-publishing").html((response.records[0].field_60 ? response.records[0].field_60 : ""));
@@ -126,7 +128,7 @@ var fetchPlan = function(deptFilter, index) {
           $("#inventory-incomplete").hide();
         }
         else {
-          $(".mission").html('The plan for this period is not available.');
+          $(".department-mission").html('The plan for this period is not available.');
           $("#dept-link").hide();
           $(".narrative-maintenance").html('');
           $(".narrative-publishing").html('');
@@ -139,7 +141,7 @@ var fetchPlan = function(deptFilter, index) {
   }
   else {
     $("#citywide-narrative").show();
-    $(".mission").html('');
+    $(".department-mission").html('');
     $("#dept-link").hide();
     $(".narrative-maintenance").html('');
     $(".narrative-publishing").html('');
