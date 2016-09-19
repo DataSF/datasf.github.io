@@ -47,7 +47,7 @@ body {
 body img {
   max-width: 100%;
   height: auto;
-  width: auto \9;
+  width: auto;
 }
 .color-primary {
     color: #{{site.color.primary}};
@@ -314,7 +314,9 @@ a:hover,
 a:active {
   outline: 0;
 }
+
 @media (min-width: 768px) {
+  
   .navbar-default li.active {
     background-color: #{{site.color.tertiary}};
   }
@@ -331,24 +333,30 @@ a:active {
     -moz-transition: width 0.3s;
     transition: width 0.3s
   }
+  
   .navbar li a:before {
     width: 100%;
     background: transparent;
   }
+  
   .navbar li a:after {
     width: 0;
     background: #{{site.color.tertiary}};
   }
+  
   .navbar li a:active:after,
   .navbar li a:hover:after,
   .navbar-mini li.active a:after {
     width: 100%;
   }
+  
   .navbar-default li.active a:after,
   .navbar-subnav li a:hover:after {
     width: 0;
   }
+  
 }
+
 .navbar-collapse.in li.active {
   background-color: #4d4d4d;
 }
@@ -843,15 +851,6 @@ section#progress .stat-text {
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   background: rgba(254, 209, 54, .9);
-  /* Fallback when no plugin support */
-
-  background: rgba( {
-    {
-      site.color.primary | hex_to_rgb | join: ','
-    }
-  }
-  ,
-  .9);
 }
 #stories .story-item .story-link .story-hover:hover {
   opacity: 1;
