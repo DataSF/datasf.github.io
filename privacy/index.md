@@ -33,7 +33,7 @@ We will **not** use this information to identify individuals, except for site se
 
 # What is personal information?
 
-&quot;Personal information&quot; is information about a natural person that identifies or describes an individual, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, and medical or employment history, readily identifiable to that specific individual
+&quot;Personal information&quot; is information about a natural person that identifies or describes an individual, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, and medical or employment history, readily identifiable to that specific individual.
 
 # What personal information do we collect?
 
