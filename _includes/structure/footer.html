@@ -29,7 +29,7 @@
   <div class="footer-content-wrapper">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 left-border-dotted">
+        <div class="col-sm-3 col-md-4 left-border-dotted">
           <ul class="list-unstyled quick-links">
             {% for link in site.data.navigation.main_nav %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout or (page.index == link.index and page.index != null) %} {% assign current = 'active' %} {% assign index = link.index %} {% endif %}
               <li class="{{current}}">

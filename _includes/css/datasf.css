@@ -1313,6 +1313,11 @@ body {
   text-transform: uppercase;
 }
 
+.showcase-item {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: #333 thin dotted;
+}
 
 .content-sections h1 {
   padding-bottom: 5px;

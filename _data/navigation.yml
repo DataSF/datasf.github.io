@@ -3,8 +3,8 @@ main_nav:
   url: https://data.sfgov.org
   class: ext-sf-opendata
   index: catalog
-#- text: Showcase
-#  url: http://apps.sfgov.org/showcase/
+- text: Showcase
+  url: /showcase/
 - text: Publishing
   url: /publishing/
   index: publishing
