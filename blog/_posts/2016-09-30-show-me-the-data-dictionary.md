@@ -69,4 +69,4 @@ To track our progress, we've created a simple PowerBI dashboard. It is linked to
 
 ## Toward greater understanding
 
-While this may seem like a wonky, technical exercise, it is in the pursuit of creating shared understanding. Both users and City department publishers benefit when there's more context. We believe this effort will increase the usability and usefulness of the City's data.
+While this may seem like a wonky, technical exercise, it is in the pursuit of creating shared understanding. Both data users and City department publishers benefit when there's more context, and we look forward to this effort increasing the usability and usefulness of the City's data.
