@@ -1,24 +1,13 @@
-temp_nav:
+main_nav:
 - text: Data Catalog
   url: https://data.sfgov.org
   class: ext-sf-opendata
-#- text: Showcase
-#  url: /showcase
-- text: Data Academy
-  url: /academy
-- text: Resources
-  url: /resources
-- text: About
-  url: /about
-
-new_nav:
-- text: Data Catalog
-  url: https://data.sfgov.org
-  class: ext-sf-opendata
-#- text: Showcase
-#  url: http://apps.sfgov.org/showcase/
+  index: catalog
+- text: Showcase
+  url: /showcase/
 - text: Publishing
   url: /publishing/
+  index: publishing
 - text: Academy
   url: /academy/
   layout: course
@@ -28,6 +17,32 @@ new_nav:
   url: /blog/
   layout: blog-post
   
+publishing:
+  - text: Publishing Submission
+    url: /publishing/
+  - text: Submission Guidelines
+    url: /publishing/submission-guidelines/
+  - text: Publishing Guidelines
+    url: /publishing/guidelines/
+  - text: Automation Services
+    url: /publishing/services/
+  - text: Plans
+    url: /publishing/plans/
+  
+catalog:
+  - text: Catalog Home
+    url: /catalog/
+  - text: Search Data
+    url: 'https://data.sfgov.org/browse'
+  - text: Site Analytics
+    url: 'https://data.sfgov.org/analytics'
+  - text: Developers
+    url: /catalog/developers/
+  - text: Sign Up
+    url: 'https://data.sfgov.org/signup'
+  - text: Sign In 
+    url: 'https://data.sfgov.org/login'
+    
 utility:
 - text: SFGov
   url: https://www.sfgov.org
@@ -39,19 +54,3 @@ utility:
   url: /about/
 - text: Help
   url: 'http://support.datasf.org'
-
-data_catalog:
-- text: Browse All Data
-  url: 
-- text: Showcase
-  url: 
-- text: Developers
-  url:
-- text: Help
-  url:
-- text: Suggest a Dataset
-  url: 
-- text: Sign Up
-  url:
-- text: Sign In
-  url:

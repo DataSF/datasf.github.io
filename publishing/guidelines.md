@@ -5,9 +5,11 @@ title: Publishing Guidelines
 section: publishing-guidelines
 toc: true
 js: publishing.js
+index: publishing
+subnav: true
 ---
 
-We’ve created some guidelines for publishing data on [SF Open Data](https://data.sfgov.org). Following these guidelines will help maximize the value of publishing your data and support a consistent experience for our users.
+We’ve created some guidelines for publishing data on [the City's open data catalog](https://data.sfgov.org). Following these guidelines will help maximize the value of publishing your data and support a consistent experience for data users.
 
 ## Publish data in the rawest form possible
 One of the cool things about open data is that people are always surprising us by what they do with it. Publishing data in the rawest form possible helps make the data as flexible as possible.
@@ -16,25 +18,14 @@ For example, if you collect data on fruit and vegetable purchases, you could pub
 
 !['Getting to raw, just like fruits and veggies']({{site.baseurl}}/assets/img/publishing/fruits_veggies.png)
 
-## Include the dataset steward in the publishing process
-Data stewards are responsible for the dataset and can answer questions about the data and help make decisions about how to publish it. You should not be publishing a dataset without input from the data steward. They are key to helping us actively manage and answer dataset questions. 
-
-## Conduct an internal review
-Before you publish the data, make sure you review your plans to publish the data with your internal stakeholders. At a minimum, work with your Data Coordinator to plan how to publish your data. Other stakeholders include:
-
- - **Program subject matter experts.** They can help identify what data fields are most useful or important. They can also generate ideas for how the data can be used.
- - **Reporting staff.** Open data is a great way to help streamline reporting. Reporting staff can help identify what summary tables and fields are needed to help with their work.
- - **Legal and privacy staff.** If your data is sensitive or private, this staff can work with you and the open data team on the most responsible way to publish this data.
- - **Leadership.** Depending on the dataset, you may need to communicate the publication with leadership. Consult with your Data Coordinator on this.
- - **Public Information Officer and Sunshine responders.** These folks are a great source of insight on common questions that you can address with open data. Posting and keeping a dataset up to date is a great way to answer ongoing Sunshine requests.
-
-During the publishing process, we'll ask you to document the internal stakeholders that were part of the review.
-
 ## Don’t publish data from another department
 This is a corollary to the previous - if your department doesn’t manage the data, you should not publish it. Otherwise we won’t be able to effectively respond to data questions or ensure that the right or best data is being published. There may be occasions when multiple departments contribute to a single dataset, but we’ll handle these on a case by case basis.
 
 ## Publish address or point data in tabular format - not as a shapefile
 Most users are confused by or don’t have the resources to use shapefiles. (Whereas our savvier users find it simple to go from tabular to mapped data). Tabular data makes it easier for most users to use. Plus, our open data platform allows us to create maps on top of the tabular view anyway. SF crime incident data, for example, [is published in this way](https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2014/tmnf-yvry) and users can make a bunch of maps from it, [like this one](https://data.sfgov.org/Public-Safety/West-Portal-Area/yani-faij). Overall, this increases the flexibility and usability of those point layer datasets.
+
+## Include the data steward in the publishing process
+Data stewards are responsible for the dataset and can answer questions about the data and help make decisions about how to publish it. You should not be publishing a dataset without input from the data steward. They are key to helping us actively manage and answer dataset questions. 
 
 ## Publish non-point geographic data natively
 Upload geographic lines or polygons so that they are hosted natively on the platform (versus a zipped shapefile). We are moving toward native hosting of all datasets to create a more consistent platform experience for users.
@@ -52,7 +43,7 @@ In order to maintain timely data available across the City, we prefer automation
 ## Responsibly publish private or sensitive data
 If your dataset has private or sensitive data, there are several ways to responsibly publish this data. We will help you with this - you are not alone!
 
-During the process of publication, we will work with you to implement the appropriate method. So at this stage, focus on flagging areas of concern - **not on how to implement it**. In the publication packet we give you a chance to flag your concerns. The table below provides a quick overview of the basic methods we use.
+During the process of publication, we will work with you to implement the appropriate method. So at this stage, focus on flagging areas of concern - **not on how to implement it**. During the publishing process we ask you to identify concerns and have introduced a <a href="/publishing/submission-guidelines/#toc5">new process to guide you through identifying the appropriate publishing method</a>. The table below provides a quick overview of the basic methods we use.
 
 | Method | What it is | Best for |
 | ------------- |-------------| -----|

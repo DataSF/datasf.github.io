@@ -18,7 +18,7 @@ $(function() {
   if (typeof $.fn.toc == 'function') {
     $('#article-toc').toc({
       'container': 'article',
-      'scrollToOffset': 110,
+      'scrollToOffset': 125,
       'prefix': 'toc',
       'anchorName': function(i, heading, prefix) {
         return prefix + i;
@@ -31,7 +31,7 @@ $(function() {
 
     $('.toc-wrap').affix({
       offset: {
-        top: $('.toc-wrap').offset().top - 102
+        top: $('.toc-wrap').offset().top - 142
       }
     })
   }
@@ -57,7 +57,7 @@ $(function() {
 
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
-    return this.optional(element) || /[_a-z0-9-]+(\.[_a-z0-9-]+)*@(sfgov.org|sfusd.edu|ucsf.edu|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org|sfcta.org)/.test(value);
+    return this.optional(element) || /[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@(sfgov.org|sfusd.edu|ucsf.edu|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org|sfcta.org)/.test(value);
   }, "Please enter a valid SFGov email address");
 
   //Reset validator defaults to integrate with Bootstrap 3 conventions
@@ -209,7 +209,7 @@ var processCharts = function(c, baseIDs, queryStrings, options, charts) {
         bindto: "#chart" + c,
         size: {},
         color: {
-          pattern: ['#133140', '#1c485e', '#2a6b8c', '#378eb9', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896', '#9467bd', '#c5b0d5', '#8c564b', '#c49c94', '#e377c2', '#f7b6d2', '#7f7f7f', '#c7c7c7', '#bcbd22', '#dbdb8d', '#17becf', '#9edae5']
+          pattern: ['#133140', '#408bae', '#2a6b8c', '#378eb9', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896', '#9467bd', '#c5b0d5', '#8c564b', '#c49c94', '#e377c2', '#f7b6d2', '#7f7f7f', '#c7c7c7', '#bcbd22', '#dbdb8d', '#17becf', '#9edae5']
         }
       }
       if (options[c].size) {
