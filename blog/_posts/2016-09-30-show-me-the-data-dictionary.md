@@ -51,22 +51,22 @@ One of our primary goals is to reduce the overhead of maintaining and accessing 
 
 As of today, we're releasing a working dataset of all fields stored in the open data portal with and without documentation. We have a bit of work to do to get complete field coverage, but you'll be able to track our progress (see below).
 
-The finished dataset will ultimately power a more user-friendly documentation interface. Don't worry, we won't expect everyone to go to the dataset to look up field definitions. It will also enable meta-analyses on the portal. For example, we anticipate it informing our efforts around consistent data publishing practices.
+The finished dataset will ultimately power a more user-friendly documentation interface. Don't worry, we won't expect everyone to go to the dataset to look up field definitions forever. It will also enable meta-analyses of fields. For example, we anticipate it informing our efforts around consistent data publishing practices.
 
 ## Follow along with us
 
-At current count there over 7000 fields. About 32% of them are documented either within the open data platform or through the template attachments. That leaves us with nearly 5000 fields with no documentation. That may sound like a lot, but we're breaking it down into smaller pieces:
+At current count there over 7000 fields. About one third of them are documented either within the open data platform or through the template attachments. That leaves us with nearly 5000 fields with no documentation. That may sound like a lot, but we're breaking it down into smaller pieces:
 
 1. **Define unique, undocumented fields.&nbsp;**We'll rely on the data stewards to submit definitions for the currently undocumented fields that aren't global. This averages to about 25 fields per steward.
 2. **Define global fields.** There are many fields that show up in multiple datasets. We can define these once and propagate them.
 3. **Migrate documentation from templates.&nbsp;**A subset of the 32% documented fields are in other documents. We'll script what we can and systematically enter the rest.
-4. **Deal with the rest as needed.&nbsp;**If we get to 80% coverage using the above 3 tactics, we're okay with rolling on the rest as needed. Priorities can be determined based on where we're seeing confusion through our help desk and other signals.
+4. **Deal with the rest as needed.&nbsp;**Even if we don't get to full coverage using the above 3 tactics, we're okay with rolling on the rest as needed. Priorities can be determined based on where we're seeing confusion through our help desk and other signals.
 
 
 To track our progress, we've created a simple PowerBI dashboard. It is linked to the field dataset and will update automatically. Follow along with us toward a brighter documentation future!
 
-&lt;insert PowerBI report&gt;
+&lt;insert PowerBI embed&gt;
 
 ## Toward greater understanding
 
-While this may seem like a wonky, technical exercise, it is in the pursuit of creating shared understanding. Both data users and City department publishers benefit when there's more context, and we look forward to this effort increasing the usability and usefulness of the City's data.
+While this may seem like a wonky, technical exercise, it is in the pursuit of creating shared understanding of the City's data (and operations). Both data users and City department publishers benefit when there's more context, and we look forward to this effort increasing the usability and usefulness of the City's data.
