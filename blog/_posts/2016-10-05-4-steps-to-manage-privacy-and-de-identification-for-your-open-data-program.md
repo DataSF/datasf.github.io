@@ -2,8 +2,8 @@
 title: 4 Steps to Manage Privacy and De-Identification for your Open Data Program
 author: erica_finkle
 image:
-  thumb:
-  feature:
+  thumb: open-data-release/open-data-release.png
+  feature: open-data-release/open-data-release.png
   caption:
   source:
     title:
