@@ -20,17 +20,17 @@ categories:
 
 Today we are excited to launch the Open Data Release Toolkit to help you manage the release of sensitive or protected datasets on the open data portal.
 
-# Challenge: following the letter of the law is not enough
+## Challenge: following the letter of the law is not enough
 
 While privacy laws state how to protect data, most of them were written well before modern computing and statistical tools. These tools challenge the idea of simple de-identification of data. For example, you could publish record level data on probationers without obvious identifiers, such as names and social security numbers, and still be within the law. But by combining that data with other sources or just doing some crosstabs, you might be able to identify the individuals in the dataset and associated sensitive or personal information about them. As a result, open data programs need a much more robust way of managing the release of sensitive or protected datasets.
 
-# That sounds scary, so why still publish?
+## That sounds scary, so why still publish?
 
 Sensitive or protected raw data is a lot like the information you carry around in your wallet. There will always be a risk, no matter how infinitely small, that someone is going to steal your wallet. (Even if you are a vigilant city dweller who securely tucks it away.) So why do we carry some of our most sensitive information around with us? Because we value the activities we can engage in - going to a bar with our ID card, purchasing lunch with our credit card, keeping our medical information to hand in case of emergency, etc. &nbsp;
 
 Substitute that card in your wallet for sensitive or protected data, such as a person’s identity or sensitive information about them. Just like most people still find reasons to carry around a wallet, our open data program aims to proactively make data available for the public benefit. Open data can help us to, among other things, measure the effectiveness of government services; stimulate new ideas and services; identify communities in need of better assistance; and ultimately change how we use, share and consume data to work more efficiently and effectively.
 
-# Responsible risk management
+## Responsible risk management
 
 Like a vigilant tourist who purchases the best money-belt on the market before a trip, we seek to publish data responsibly. This requires a balancing of competing factors such as:
 
@@ -52,7 +52,7 @@ The Open Data Release Toolkit will guide you through a step-by-step process to:
 
 The Open Data Release Form included in the Toolkit is also meant to serve as a way to facilitate and document the decision-making process.
 
-# Remember - risk can be managed, but it will not be zero
+## Remember - risk can be managed, but it will not be zero
 
 We can never have absolute certainty (i.e. zero risk) that successful re-identification will not occur. Techniques for re-identification continually evolve, often faster than security measures intended to protect data. While re-identification risk will never be 0%, it can be reduced and managed. Acknowledging the supposed failures of “perfect anonymization”, the Open Data Release Toolkit moves forward by setting out a decision-making process to publish valuable information while managing risk of re-identification and sensitive attribute disclosure in a thoughtful way.
 
