@@ -40,7 +40,7 @@ Like a vigilant tourist who purchases the best money-belt on the market before a
 * the likelihood of re-identification. &nbsp;
 
 
-Sound tricky? It is. Especially when you pile on top ever-evolving data analysis and re-identification techniques. That is why we created this handy Toolkit! To provide guidance and direction for government employees in considering publication of sensitive or protected raw data.
+Sound tricky? It is. Especially when you pile on top ever-evolving data analysis and re-identification techniques. That is why we created this handy Toolkit! To provide practical, clear guidance for government employees considering publication of sensitive or protected raw data.
 
 The Open Data Release Toolkit will guide you through a step-by-step process to:
 
