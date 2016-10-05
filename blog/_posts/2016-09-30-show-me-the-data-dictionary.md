@@ -15,6 +15,7 @@ image:
 description: 'For San Francisco’s open data, finding that documentation can be, ahem, inconsistent, and it’s high time we address that for everyone’s sanity! We are beginning a project to make the collection, maintenance and dissemination of data documentation consistent for data publishers, DataSF staff and data users.'
 categories:
   - blog
+published: false
 ---
 
 
