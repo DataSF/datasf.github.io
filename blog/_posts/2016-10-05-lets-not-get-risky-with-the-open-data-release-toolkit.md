@@ -12,7 +12,7 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: Today we are excited to launch the Open Data Release Toolkit to help you manage the release of sensitive or protected datasets on the open data portal.
 categories:
   - blog
 ---
