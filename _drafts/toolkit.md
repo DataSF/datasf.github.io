@@ -1,6 +1,6 @@
 ---
-title: Toolkit
-author:
+title: 'Let’s (Not) Get Risky, With the Open Data Release Toolkit'
+author: Erica Finkle
 image:
   thumb:
   feature:
@@ -16,3 +16,5 @@ description:
 categories:
   - blog
 ---
+
+
