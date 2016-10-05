@@ -18,7 +18,7 @@ categories:
 ---
 
 
-Today we are excited to launch the Open Data Release Toolkit to help you manage the release of sensitive or protected datasets on the open data portal.
+Today we are excited to launch the [Open Data Release Toolkit](https://drive.google.com/open?id=1MhvEuGKFuGY2vLcNqiXBsPjCzxYebe4dJicRWe6gf_s) to help you manage the release of sensitive or protected datasets on the open data portal.
 
 ## Challenge: following the letter of the law is not enough
 
