@@ -2,7 +2,7 @@
 title: Personal Data Request Guidebook
 tags:
   - Personal Data Requests
-published: false
+published: true
 type: PDF
 date: 2016-08-08 16:00:00
 downloads:
