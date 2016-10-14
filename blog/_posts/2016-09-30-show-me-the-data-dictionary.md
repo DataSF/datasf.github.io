@@ -61,13 +61,13 @@ At current count there over 7000 fields. About one third of them are documented 
 1. **Define unique, undocumented fields.&nbsp;**We'll rely on the data stewards to submit definitions for the currently undocumented fields that aren't global. This averages to about 25 fields per steward.
 2. **Define global fields.** There are many fields that show up in multiple datasets. We can define these once and propagate them.
 3. **Migrate documentation from templates.&nbsp;**A subset of the 32% documented fields are in other documents. We'll script what we can and systematically enter the rest.
-4. **Deal with the rest as needed.&nbsp;**Even if we don't get to full coverage using the above 3 tactics, we're okay with rolling on the rest as needed. Priorities can be determined based on where we're seeing confusion through our help desk and other signals.
+4. **Deal with the rest as needed.&nbsp;**Even if we don't get to full coverage using the above 3 tactics, we're okay with rolling on the rest as needed. Priorities can be determined based on where we're seeing confusion through our support portal.
 
 
-To track our progress, we've created a simple PowerBI dashboard. It is linked to the field dataset and will update automatically. Follow along with us toward a brighter documentation future!
+To track our progress, we've created a simple PowerBI dashboard. It's linked to the master field definition dataset and will update automatically. Follow along with us toward a brighter documentation future!
 
 &lt;insert PowerBI embed&gt;
 
 ## Toward greater understanding
 
-While this may seem like a wonky, technical exercise, it is in the pursuit of creating shared understanding of the City's data (and operations). Both data users and City department publishers benefit when there's more context, and we look forward to this effort increasing the usability and usefulness of the City's data.
+While this may seem like a wonky, technical exercise, it is in the pursuit of creating shared understanding of the City's data (and operations). Both data users and City department publishers benefit when there's more context, and we look forward to this effort increasing the usability and usefulness of the City's data!

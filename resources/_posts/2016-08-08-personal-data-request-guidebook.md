@@ -1,10 +1,10 @@
 ---
-title: Personal Data Request Guidance
+title: Personal Data Request Guidebook
 tags:
   - Personal Data Requests
-published: false
+published: true
 type: PDF
-date: 2016-08-08T16:00:00.000Z
+date: 2016-08-08 16:00:00
 downloads:
   - type: PDF
     url: 'https://drive.google.com/open?id=0B0jc1tmJAlTcb3RDWUlhd1BnTUU'
