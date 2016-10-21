@@ -95,7 +95,10 @@ subjects:
   - Data Management
   - Excel
   - Tableau
-  
+ 
+ series:
+  - Excel
+  - Tableau
 
 prose:
   siteurl: 'http://datasf.org'
