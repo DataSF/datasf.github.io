@@ -65,3 +65,5 @@ We have over 7,000 fields. About one third of them are documented either within 
 To track our progress, we've created a simple dashboard. It's linked to the field definition dataset and will update automatically. Follow along with us toward a brighter documentation future!
 
 &lt;insert PowerBI embed&gt;
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYTU1NzMzZmEtYjlkYi00NjczLTlkNDgtODExMGRiODg4MGQzIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
