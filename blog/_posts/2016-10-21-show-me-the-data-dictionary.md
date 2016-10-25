@@ -49,7 +49,7 @@ So we're centralizing and systematizing to support continuous improvement of doc
 
 One of our primary goals is to reduce the overhead of maintaining and accessing field documentation. We know that data stewards spend a good bit of time explaining data to users. Maybe something gets written down, but many times, the documentation hasn't been systematic. Or, if it has, it's not easily accessible.
 
-As of today, we're releasing a working dataset of all fields stored in the open data portal. We include field definitions where available. We also provide a link to data dictionary attachments where they exist. We have a bit of work to do to document all of the fields, but you'll be able to track our progress (see below).
+As of today, [we're releasing a working dataset](https://data.sfgov.org/City-Management-and-Ethics/Field-Dictionary-for-Open-Data-Portal-Datasets/wn8x-uk7i) of all fields stored in the open data portal. We include field definitions where available. We also provide a link to data dictionary attachments where they exist. We have a bit of work to do to document all of the fields, but you'll be able to track our progress (see below).
 
 The finished dataset will ultimately power a more user-friendly documentation interface. Don't worry, we won't expect everyone to go to the dataset to look up field definitions forever. It will also enable meta-analyses of fields. For example, we anticipate it informing our efforts around consistent data publishing practices.
 
@@ -64,4 +64,4 @@ We have over 7,000 fields. About one third of them are documented either within 
 
 To track our progress, we've created a simple dashboard. It's linked to the field definition dataset and will update automatically. Follow along with us toward a brighter documentation future!
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk2ODgwZjctZWEzMC00YzJkLWJlOGYtNjg0OGUyNDQ4YmJmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk2ODgwZjctZWEzMC00YzJkLWJlOGYtNjg0OGUyNDQ4YmJmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowfullscreen="true"></iframe>
