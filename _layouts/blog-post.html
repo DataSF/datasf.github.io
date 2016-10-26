@@ -48,7 +48,7 @@ layout: default
           <aside>
             {% if page.categories %}
                 {% for author in page.author %}
-                    {% include page-authors-multiple.html author=author %}
+                    {% include page-authors-multiple.html author=page.author %}
                 {% endfor %}
             {% endif %}
             {% include page-meta.html %} 
