@@ -1,5 +1,7 @@
-{% if include.author %}
-  {% assign author = site.data.authors[include.author] %}{% else %}{% assign author = site.owner %}
+{% if include.author-param %}
+  {% assign author = site.data.authors[include.author-param] %}
+{% else %}
+	{% assign author = site.owner %}
 {% endif %}
 
 <div class="author-wrapper clearfix">

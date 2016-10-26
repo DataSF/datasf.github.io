@@ -47,9 +47,13 @@ layout: default
         <div class="col-md-4 sidebar">
           <aside>
             {% if page.categories %}
-                {% for author in page.author %}
-                    {% include page-authors-multiple.html author=page.author %}
+              {% if page.author[0] %}
+                {% for blog_author in page.author %}
+                    {% include page-authors-multiple.html author-param=blog_author %}
                 {% endfor %}
+              {% else %}
+                {% include page-authors-multiple.html author-param=page.author %}
+              {% endif %}
             {% endif %}
             {% include page-meta.html %} 
             {% if page.share != false %}

@@ -1,17 +1,12 @@
 ---
-title: 'Show me the Data Dictionary!'
-author: jason_lally
+title: 'Show me the data (dictionary)!'
+author: 
+ - jason_lally
+ - janine_heiser
 image:
-  thumb:
-  feature:
-  caption:
-  source:
-    title:
-    author:
-    source_link:
-    author_link:
-    license:
-    license_link:
+  thumb: /data-dictionary/definition.jpg
+  feature: /data-dictionary/definition.jpg
+  caption: We're working to make field definitions easier to discover and manage
 description: 'For San Francisco’s open data, finding that documentation can be, ahem, inconsistent, and it’s high time we address that for everyone’s sanity! We are beginning a project to make the collection, maintenance and dissemination of data documentation consistent for data publishers, DataSF staff and data users.'
 categories:
   - blog
