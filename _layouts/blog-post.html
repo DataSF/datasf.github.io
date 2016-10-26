@@ -46,7 +46,7 @@ layout: default
         </div>
         <div class="col-md-4 sidebar">
           <aside>
-            {% if page.categories %}{% include page-author.html %}{% endif %} {% include page-meta.html %} {% if page.share != false %}{% include share-this.html %}{% endif %} {% include stories-sidebar.html %}
+            {% if page.categories %}{% include page-authors-multiple.html author=page.author %}{% endif %} {% include page-meta.html %} {% if page.share != false %}{% include share-this.html %}{% endif %} {% include stories-sidebar.html %}
           </aside>
           {% include mailchimp-newsletter.html %}
         </div>
