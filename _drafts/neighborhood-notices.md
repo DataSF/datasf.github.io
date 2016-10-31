@@ -28,13 +28,14 @@ If you are a user-centered technologist, join us to validate and develop our use
 ## Your responsibilities
 
 This is a temporary (approximately 1 year) appointment to research and develop a neighborhood noticing system. The City currently contributes data feeds from the open data portal to CityGram.org, which allows users to subscribe to event updates via text or email for a given dataset near a given location at a given frequency. You will:
-Conduct user research and assess the current state of noticing in San Francisco
-Develop a process and technical approach to improve noticing, including but not limited to:
-Work with departments to prepare data
-Automate relevant data feeds to SF OpenData
-Expand the scope of CityGram, if appropriate, to include the additional feeds
-Customize CityGram, if appropriate
-Develop a website to complement the noticing and subscription service
+
+1. Conduct user research and assess the current state of noticing in San Francisco
+2. Develop a process and technical approach to improve noticing, including but not limited to:
+    1. Work with departments to prepare data
+    2. Automate relevant data feeds to SF OpenData
+    3. Expand the scope of CityGram, if appropriate, to include the additional feeds
+    4. Customize CityGram, if appropriate
+3. Develop a website to complement the noticing and subscription service
 
 ## Skills we expect
 
