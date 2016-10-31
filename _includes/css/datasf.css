@@ -2027,3 +2027,7 @@ footer .catalog-powered {
 .embed-responsive-square {
   padding-bottom: 100%;
 }
+
+.embed-responsive iframe {
+  z-index: 1;
+}
