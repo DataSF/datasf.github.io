@@ -1328,6 +1328,8 @@ body {
 .section-heading-wrapper {
   text-align: center;
 }
+
+/** Blog **/
 .blog-post img {
   margin-left: 0;
   margin-right: 0;
@@ -2020,4 +2022,8 @@ footer .extra-links {
 
 footer .catalog-powered {
   font-size: .8em;
+}
+
+.embed-responsive-square {
+  padding-bottom: 100%;
 }
