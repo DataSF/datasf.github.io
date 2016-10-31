@@ -2,7 +2,6 @@
 layout: default
 title: DataSF | Resources
 ---
-
 <section id="resources">
   <div class="container">
     <div class="row">
@@ -11,43 +10,53 @@ title: DataSF | Resources
       </div>
     </div>
     <!-- Resources Grid Section -->
-    {% capture site_tags %}{% for resource in site.categories.resources %}{{ resource.tags | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+    {% capture site_tags %}
+    {% for resource in site.categories.resources %}
+      {{ resource.tags | first | strip_newlines | strip }}
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    {% endcapture %}
     <!-- site_tags: {{ site_tags }} -->
     {% assign tag_words = site_tags | split:',' | sort %}
     {% assign tags_str = "" %}
     {% for tag in tag_words %}
+      {% assign strip_tag = tag | strip_newlines | strip %}
         {% assign tags_arr = tags_str | split:',' %}
-        {% unless tags_arr contains tag %}
-            {% assign tags_str = tags_str | append: ',' | append: tag %}
+        {% unless tags_arr contains strip_tag %}
+            {% assign tags_str = tags_str | append: ',' | append: strip_tag %}
         {% endunless %}
     {% endfor %}
     {% assign tag_words = tags_str | remove_first:',' | split:',' %}
     <!-- tag_words: {{ tag_words }} -->
     <div class="row" style="text-align: center;">
-      {% for item in (0..tag_words.size) %} {% unless forloop.last %} {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-      <a href="#{{this_word | slugify}}" class="page-scroll">{{ this_word }}</a> {% unless forloop.index == tag_words.size - 1 %} | {% endunless %} {% endunless %} {% endfor %}
+      {% for item in (0..tag_words.size) %} {% unless forloop.last %} {% capture this_word %}{{ tag_words[item] | strip_newlines | strip }}{% endcapture %}
+      <a href="#{{this_word | slugify}}" class="page-scroll">{{ this_word }}</a> {% unless forloop.index == tag_words.size %} | {% endunless %} {% endunless %} {% endfor %}
     </div>
-    {% for item in (0..tag_words.size) %} {% unless forloop.last %} {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+    {% for item in (0..tag_words.size) %} {% unless forloop.last %} {% capture this_word %}{{ tag_words[item] | strip_newlines | strip }}{% endcapture %}
     <div class="row resources-category">
       <div class="col-md-12">
         <h2 id="{{this_word | slugify}}">{{ this_word }} <small>{{ site.tags[this_word].size }} resources</small></h2>
       </div>
     </div>
-    {% assign resource_count = 0 %}
-    {% for post in site.tags[this_word] reversed %} 
-    {% if post.categories contains "resources" %} 
+    <!-- {% assign resource_count = 0 %} -->
+    {% for post in site.tags[this_word] %}
+    {% if post.tags contains this_word %}
       {% assign resource_count = resource_count | plus:1 %}
       {% assign loopindex = forloop.index | modulo: 3 %} 
-    {% if loopindex == 1 %}
-    <div class="row resources-cards">
-    {% endif %}
-      <!-- Resource Card -->
-      {% include resources-card.html %}
-      <!-- /Resource Card -->
-    {% if loopindex == 0 or forloop.last %}
-    </div>
-    {% endif %} {% endif %} {% if resource_count == 0 %} 
+      {% if loopindex == 1 %}
+      <div class="row resources-cards">
+      {% endif %}
+        <!-- Resource Card -->
+        {% include resources-card.html %}
+        <!-- /Resource Card -->
+      {% if loopindex == 0 or forloop.last %}
+      </div>
+      {% endif %} 
+    {% endif %} 
+    <!--
+    {% if resource_count == 0 %} 
     <div class="empty-resources"></div> 
-    {% endif %} {% endfor %} {% endunless %} {% endfor %}
+    {% endif %} -->
+    {% endfor %} {% endunless %} {% endfor %}
   </div>
 </section>

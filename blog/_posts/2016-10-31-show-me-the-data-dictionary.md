@@ -47,3 +47,16 @@ One of our primary goals is to reduce the overhead of maintaining and accessing 
 As of today, [we're releasing a working dataset](https://data.sfgov.org/City-Management-and-Ethics/Field-Dictionary-for-Open-Data-Portal-Datasets/wn8x-uk7i) of all fields stored in the open data portal. We include field definitions where available. We also provide a link to data dictionary attachments where they exist. We have a bit of work to do to document all of the fields, but you'll be able to track our progress (see below).
 
 The finished dataset will ultimately power a more user-friendly documentation interface. Don't worry, we won't expect everyone to go to the dataset to look up field definitions forever. It will also enable meta-analyses of fields. For example, we anticipate it informing our efforts around consistent data publishing practices.
+
+## Follow along with us
+
+We have over 7000 fields. About one third of them are documented either within the open data platform or through the template attachments. That leaves us with nearly 5000 fields with no documentation. That may sound like a lot, but we're breaking it down into smaller pieces:
+
+1. **Define unique, undocumented fields.** We'll rely on the data stewards to submit definitions for the currently undocumented fields that aren't global. This averages to about 25 fields per steward.
+2. **Define global fields.** There are many fields that show up in multiple datasets. We can define these once and propagate them.
+3. **Migrate documentation from templates.** A subset of the 32% documented fields are in other documents. We'll script what we can and systematically enter the rest.
+4. **Deal with the rest as needed.** Even if we don't get to full coverage using the above 3 tactics, we're okay with rolling on the rest as needed. Priorities can be determined based on where we're seeing confusion through our support portal.
+
+To track our progress, we've created a simple dashboard. It's linked to the field definition dataset and will update automatically. Follow along with us toward a brighter documentation future!
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk2ODgwZjctZWEzMC00YzJkLWJlOGYtNjg0OGUyNDQ4YmJmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe> 
