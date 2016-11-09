@@ -37,7 +37,9 @@ Automate relevant data feeds to SF OpenData
 Expand the scope of CityGram, if appropriate, to include the additional feeds
 Customize CityGram, if appropriate
 Develop a website to complement the noticing and subscription service
+
 ## Skills we expect
+
 We are looking for people with:
 Experience with back end development and database management, in particular familiarity with Ruby on Rails or equivalent
 Experience with agile development and methodologies
@@ -50,13 +52,19 @@ Familiar with the concepts of open data
 Comfort creating, following, standardizing, and automating business processes to support program management
 3+ years experience in related work
 BS/BA in GIS, computer science, engineering, user-centered design or related field
+
 ## Skills we want
+
 We would love applicants who also have the following:
 Passion about improving government through open data
 Enthusiasm about empowering use of data
 Advanced experience with front end development
 Experience with Feature Manipulation Engine (FME) from SAFE or similar ETL toolkits or frameworks
+
 ## How to apply
+
 @@Complete application #sss at the City’s Jobs Portal. Include a cover letter and a resume with your application. And the City’s application is a little clunky - so don’t leave it to the last minute ;-) Or you can send the cover letter to datasf at sfgov dot org.
+
 ## Equal Employment Opportunity
+
 The City and County of San Francisco is committed to equal employment opportunity. Read more about our equal employment opportunity policy.
