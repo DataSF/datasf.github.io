@@ -13,7 +13,7 @@ image:
     license:
     license_link:
 description: 'Want to transform City services through the use of analytics? Then join the DataSF team to empower and expand use of data in government!'
-date: 2016-11-10 00:00:00
+date: 2016-11-09 00:00:00
 categories:
   - blog
 ---
