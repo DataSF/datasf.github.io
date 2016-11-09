@@ -15,7 +15,7 @@ image:
 description: 'Want to improve the experience in San Francisco neighborhoods? Well, we’ve got a job for you. We are hiring a Neighborhood Services Engineer to reimagine what it means for residents and businesses to track what’s happening in their neighborhood.'
 categories:
   - blog
-published: true
+published: false
 date: 2016-11-08 00:00:00
 ---
 
