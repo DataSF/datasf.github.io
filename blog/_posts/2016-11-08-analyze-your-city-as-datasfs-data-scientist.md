@@ -72,7 +72,7 @@ We would love applicants who also have the following:
 
 ## How to apply
 
-@@Complete application #sss at the City’s Jobs Portal. Include a cover letter and a resume with your application. And the City’s application is a little clunky - so don’t leave it to the last minute ;-) Or you can send the cover letter to datasf at sfgov dot org.
+[Submit your application at the City’s Jobs Porta](https://www.jobaps.com/SF/sup/bulpreview.asp?R1=PEX&amp;R2=1823&amp;R3=072007)[l](__notset__). Include a cover letter and a resume with your application. And the City’s application is a little clunky - so don’t leave it to the last minute ;-) Or you can send the cover letter to datasf at sfgov dot org.
 
 ## Equal Employment Opportunity
 
