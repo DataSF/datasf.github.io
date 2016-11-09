@@ -4,7 +4,7 @@ author: joy_bonaguro
 image:
   thumb: /data-science-hire/pandas.jpg
   feature: /data-science-hire/pandas.jpg
-  caption:
+  caption: DataSF seeks data scientist
   source:
     title: 1600 pandas
     author: DocChewbacca
