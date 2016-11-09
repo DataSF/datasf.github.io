@@ -60,7 +60,12 @@ We are looking for people with:
 
 ## Skills we want
 
-We would love applicants who also have the following:Passion about improving government through open dataEnthusiasm about empowering use of dataAdvanced experience with front end developmentExperience with Feature Manipulation Engine (FME) from SAFE or similar ETL toolkits or frameworks
+We would love applicants who also have the following:
+
+* Passion about improving government through open data
+* Enthusiasm about empowering use of data
+* Advanced experience with front end development
+* Experience with Feature Manipulation Engine (FME) from SAFE or similar ETL toolkits or frameworks
 
 ## How to apply
 
