@@ -2,16 +2,16 @@
 title: "Analyze Your City as DataSF's Data Scientist!"
 author: joy_bonaguro
 image:
-  thumb:
-  feature:
+  thumb: /data-science-hire/pandas.jpg
+  feature: /data-science-hire/pandas.jpg
   caption:
   source:
-    title:
-    author:
-    source_link:
-    author_link:
-    license:
-    license_link:
+    title: 1600 pandas
+    author: DocChewbacca
+    source_link: 'https://www.flickr.com/photos/st3f4n/3412305562'
+    author_link: 'https://www.flickr.com/photos/st3f4n/'
+    license: CC BY-SA 2.0
+    license_link: 'https://creativecommons.org/licenses/by-sa/2.0/'
 description: 'Want to transform City services through the use of analytics? Then join the DataSF team to empower and expand use of data in government!'
 date: 2016-11-09 00:00:00
 categories:
