@@ -1,15 +1,17 @@
 ---
 title: Tableau Certification Preview
-description:
+description: "This classroom based workshop is the fourth in a series of workshops on Tableau offered by the Data Academy. \_ Our goal is to familiarize you with the Tableau Qualified Associate Certification.\_We will provide quick tips on how to tackle the two hour certification exam and apply them to sample problems together."
 prerequisites:
 length:
 subjects:
 series:
+  - Tableau
 team_members:
-course_short_name: "Tableau Certification Preview"
+course_short_name: Tableau Certification Preview
 course_materials_link:
 order:
-category: academy
+category:
+  - academy
 categories:
   - academy
 ---
@@ -19,7 +21,7 @@ categories:
 
 This classroom based workshop is the fourth in a series of workshops on Tableau offered by the Data Academy.   Our goal is to familiarize you with the Tableau Qualified Associate Certification ([http://www.tableau.com/support/certification](http://www.tableau.com/support/certification)).  We will provide quick tips on how to tackle the two hour certification exam and apply them to sample problems together.
 
-## What you'll learn
+## What you’ll learn
 
 * Tips and Takeaways
 * Applying them to sample questions
