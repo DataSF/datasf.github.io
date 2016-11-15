@@ -7,7 +7,7 @@ subjects:
 series:
   - Tableau
 team_members:
-course_short_name: Tableau Certification Preview
+course_short_name: Tableau - Certification Preview
 course_materials_link:
 order:
 category:
