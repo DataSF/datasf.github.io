@@ -2,11 +2,14 @@
 title: Tableau Certification Preview
 description: "This classroom based workshop is the fourth in a series of workshops on Tableau offered by the Data Academy. \_ Our goal is to familiarize you with the Tableau Qualified Associate Certification.\_We will provide quick tips on how to tackle the two hour certification exam and apply them to sample problems together."
 prerequisites:
-length:
+length: '1'
 subjects:
+  - Tableau
+  - Visualization
 series:
   - Tableau
 team_members:
+  - sherman-luk
 course_short_name: Tableau - Certification Preview
 course_materials_link:
 order:
