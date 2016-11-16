@@ -1,5 +1,5 @@
 ---
-topic_name:
+title: Data Inventory Guidance
 description:
 tags:
 resource_links:
