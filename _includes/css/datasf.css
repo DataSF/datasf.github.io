@@ -137,10 +137,17 @@ article a {
   text-decoration: underline;
 }
 
+
+/*** Resources ***/
+
 .resources-category {
   margin-bottom: 30px;
 }
 
+.resource-list-item {
+  margin-bottom: 20px;
+  border-bottom: thin dotted #333333;
+}
 
 #main {
   padding-top: 20px;

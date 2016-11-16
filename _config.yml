@@ -23,8 +23,9 @@ paginate_path: "/blog/:num/"
 collections:
   team_members:
     output: true
-  resources:
+  resource_topics:
     output: true
+    permalink: '/resources2/:title/'
 
 defaults:
   -
@@ -52,6 +53,12 @@ defaults:
       type: "posts"
     values:
       layout: "blog-post"
+  -
+    scope:
+      path: ""
+      type: "resource_topics"
+    values:
+      layout: "resource-topic"
     
       
 # Site settings
