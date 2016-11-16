@@ -23,6 +23,8 @@ paginate_path: "/blog/:num/"
 collections:
   team_members:
     output: true
+  resources:
+    output: true
 
 defaults:
   -
