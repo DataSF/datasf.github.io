@@ -2,7 +2,7 @@
 topic_name:
 description:
 tags:
-resources:
+resource_links:
   - name: Data Inventory Template
     description: 'Excel template for completing the dataset inventory. Note: You must enable macros for the template to work.'
     post_date: 2014-06-19 00:00:00
