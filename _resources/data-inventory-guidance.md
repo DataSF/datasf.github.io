@@ -42,6 +42,20 @@ resource_links:
         type: Google Doc
       - link: 'https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/export?format=pdf'
         type: PDF
+  - name: One Page Summary of Data Inventory Process
+    description: 1 page flyer explaining the 3 step data inventory process.
+    post_date: 2014-06-19 00:00:00
+    type: One Pager
+    links:
+      - link: 'https://drive.google.com/file/d/0B3XTBxBQSd0hX0MzWnRodTVVNG8/view?usp=sharing'
+        type: PDF
+  - name: One Page Summary of DataSF Program
+    description: 1 page flyer describing the Open Data Program. Use it to explain DataSF to your City colleagues.
+    post_date: 2014-06-19 00:00:00
+    type: One Pager
+    links:
+      - link: 'https://drive.google.com/open?id=0B3XTBxBQSd0hZFBMVDFIZy1fMEk&authuser=0'
+        type: PDF
 ---
 
 
