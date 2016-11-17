@@ -4,7 +4,7 @@ author: joy_bonaguro
 image:
   thumb: /new-data-block-1-library/library.jpg
   feature: /new-data-block-1-library/library.jpg
-  caption: DataSF seeks data scientist
+  caption: One of many daily patrons to the public library
   source:
     title: Children's section berkeley public library
     author: jasonunbound
@@ -12,7 +12,7 @@ image:
     author_link: 'https://www.flickr.com/photos/jasonunbound/'
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
-description: 'Newly posted library data!'
+description: 'This is the first in a series of posts in which we highlight recently published data to the open data portal. First up, library data!'
 date: 2016-11-17 00:00:00
 categories:
   - blog
