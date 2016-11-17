@@ -1,9 +1,6 @@
 - name: Analysis
   class: .analysis
   icon: fa-table
-- name: Information Design
-  class: .information-design
-  icon: fa-info
 - name: Data Management
   class: .data-management
   icon: fa-sitemap
@@ -13,6 +10,12 @@
 - name: Excel
   class: .excel 
   icon: fa-file-excel-o
+- name: Information Design
+  class: .information-design
+  icon: fa-info
+- name: Process Improvement
+  class: .process-improvement
+  icon: fa-refresh
 - name: Tableau
   class: .tableau
   icon: fa-th
