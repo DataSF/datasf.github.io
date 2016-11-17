@@ -16,6 +16,8 @@
 - name: Tableau
   class: .tableau
   icon: fa-th
+- name: Process Improvement
+  class: .process-improvement
 #- name: Data Science
 #  class: fa-flask
 #  icon: fa-flask
