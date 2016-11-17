@@ -13,7 +13,7 @@ image:
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description: 'Newly posted library data!'
-date: 2016-11-28 00:00:00
+date: 2016-11-17 00:00:00
 categories:
   - blog
 ---
