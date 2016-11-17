@@ -13,7 +13,7 @@ image:
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description: 'This is the first in a series of posts in which we highlight recently published data to the open data portal. First up, library data!'
-date: 2016-11-17 00:00:00
+date: 2017-11-17 00:00:00
 categories:
   - blog
 ---
