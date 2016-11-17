@@ -26,7 +26,7 @@ But above all else we are thankful to be living in a city like San Francisco. A 
 
 Started in 1932 the [Civic Art Collection](http://www.sfartscommission.org/pubartcollection/about-public-art-and-civic-art-collection/program-information/) now comprises over 4,000 objects. Below is a listing of public art works currently available for viewing. Select a location from the map to find out more.
 
-<iframe width="750" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYzcyOGQ4YmItNjQ4Zi00MzVjLTg1NjUtOTMxMzdmYjljZGE5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="750" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiNzNkODkxODQtMWQ2Mi00OGZhLWFjOWMtMjkyOTgyNDI1MWYzIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## We are Thankful for Green Spaces
 
