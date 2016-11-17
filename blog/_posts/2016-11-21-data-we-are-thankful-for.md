@@ -25,7 +25,7 @@ But above all else we are thankful to be living in a city like San Francisco. A 
 ## We are Thankful for Public Art
 
 Started in 1932 the [Civic Art Collection](http://www.sfartscommission.org/pubartcollection/about-public-art-and-civic-art-collection/program-information/) now comprises over 4,000 objects. Below is a listing of public art works currently available for viewing. Select a location from the map to find out more.
-
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZmFmNzA0ZTQtNWQwNC00OTc3LWI2OTgtOGRlYTQzMzI4ZDI1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 ## We are Thankful for Green Spaces
 
 What would San Francisco be without its beautiful parks and the diverse types of trees that populate our city. 
