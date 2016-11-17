@@ -1,5 +1,5 @@
 ---
-title: Lean 101
+title: Lean 101 - One day to better government
 description: "Have you ever wanted to change the way your workplace operates but didn’t know where to begin? Wish you could clear the obstacles in your daily work or reduce bureaucracy for your customers? \_The Twin Peaks team trains and coaches people at all levels to rapidly improve the work they do every day."
 prerequisites:
 length: '8'
@@ -20,9 +20,7 @@ categories:
 
 ## About this course
 
-One day to better government services
-
-Have you ever wanted to change the way your workplace operates but didn’t know where to begin? Wish you could clear the obstacles in your daily work or reduce bureaucracy for your customers?  The Twin Peaks team trains and coaches people at all levels to rapidly improve the work they do every day.. Participants will leave this one-day training with tools to identify and eliminate obstacles, provide services to customers more quickly and effectively, and spend more time on what’s most important. You’re the expert on improving your own department’s processes–this training will equip you with the tools to do it!
+Have you ever wanted to change the way your workplace operates but didn’t know where to begin? Wish you could clear the obstacles in your daily work or reduce bureaucracy for your customers? &nbsp;The Twin Peaks team trains and coaches people at all levels to rapidly improve the work they do every day. Participants will leave this one-day training with tools to identify and eliminate obstacles, provide services to customers more quickly and effectively, and spend more time on what’s most important. You’re the expert on improving your own department’s processes–this training will equip you with the tools to do it!
 
 ## What you’ll learn
 
