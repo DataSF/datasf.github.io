@@ -130,6 +130,7 @@ media_types:
 audiences:
   - Data Coordinator
   - Data Publisher
+  - Open Data Staff
 
 prose:
   siteurl: 'http://datasf.org'
