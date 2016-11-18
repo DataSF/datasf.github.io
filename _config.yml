@@ -109,7 +109,7 @@ series:
   - Excel
   - Tableau
   
-resource_type:
+resource_types:
   - Document
   - Guide
   - Toolkit
@@ -119,7 +119,7 @@ resource_type:
   - Research
   - One Pager
   
-media_type:
+media_types:
   - Excel
   - Word
   - Google Doc
