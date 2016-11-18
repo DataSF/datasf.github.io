@@ -1,5 +1,5 @@
 ---
-title: Personal Data Request
+title: Managing Personal Data Requests
 description: Guide for City and County of San Francisco departments and agencies to implement a process to provide individuals with their own personal data upon request.
 tags:
 resources_list:
