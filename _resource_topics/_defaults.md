@@ -2,6 +2,7 @@
 title:
 description:
 tags:
+audiences:
 resources_list:
   - name:
     description:
