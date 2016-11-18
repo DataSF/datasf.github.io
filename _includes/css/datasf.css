@@ -140,6 +140,35 @@ article a {
 
 /*** Resources ***/
 
+.resource-downloads {
+  margin: 10px 0;
+}
+
+.resource-downloads a {
+  text-decoration: none;
+}
+
+.resource-downloads .btn {
+  background-color: #476481;
+  text-transform: none;
+}
+
+.color-guide {
+  color: #A952E0;
+}
+
+.color-template {
+  color: #FFA519;
+}
+
+.color-one-pager {
+  color: #CC071E;
+}
+
+.color-video {
+  color: #532E6B;
+}
+
 .resources-category {
   margin-bottom: 30px;
 }
@@ -148,6 +177,27 @@ article a {
   margin-bottom: 20px;
   border-bottom: thin dotted #333333;
 }
+
+.resource-icon-guide:before {
+  content: "\f14e";
+}
+
+.resource-icon-one-pager:before {
+  content: "\f0f6";
+}
+
+.resource-icon-video:before {
+   content: "\f03d";
+}
+
+.resource-icon-template:before {
+  content: "\f085";
+}
+
+h2.resource-title {
+  margin-top: 0;
+}
+/*** End Resources **/
 
 #main {
   padding-top: 20px;

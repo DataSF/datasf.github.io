@@ -17,14 +17,14 @@ resources_list:
     post_date: 2014-06-19 00:00:00
     resource_type: One Pager
     links:
-      - link: 'https://drive.google.com/open?id=0B3XTBxBQSd0hZFBMVDFIZy1fMEk&authuser=0'
+      - link: 'https://drive.google.com/uc?export=download&id=0B3XTBxBQSd0hZFBMVDFIZy1fMEk'
         media_type: PDF
   - name: One Page Summary of Data Inventory Process
     description: 1 page flyer explaining the 3 step data inventory process.
     post_date: 2014-06-19 00:00:00
     resource_type: One Pager
     links:
-      - link: 'https://drive.google.com/file/d/0B3XTBxBQSd0hX0MzWnRodTVVNG8/view?usp=sharing'
+      - link: 'https://drive.google.com/uc?export=download&id=0B3XTBxBQSd0hX0MzWnRodTVVNG8'
         media_type: PDF
   - name: 'Data Coordinator Detailed Inventory Guide: Steps 2 and 3'
     description: Provides data coordinators with detailed guidance on steps 2 and 3 of the data inventory.
@@ -32,7 +32,7 @@ resources_list:
     resource_type: Guide
     links:
       - link: 'https://docs.google.com/document/d/1W5C5oO2TrVnmOgLe81_KYgmbghj6hDs9-4SC-ygMDV4/edit'
-        type: Google Doc
+        media_type: Google Doc
       - link: 'https://docs.google.com/document/d/1W5C5oO2TrVnmOgLe81_KYgmbghj6hDs9-4SC-ygMDV4/export?format=pdf'
         media_type: PDF
   - name: Data Coordinator Inventory Tools Webinar
@@ -41,7 +41,7 @@ resources_list:
     resource_type: Video
     links:
       - link: 'https://www.youtube.com/watch?v=sJn6vdaebmU'
-        media_type: Video
+        media_type: Link
   - name: Data Inventory Template
     description: 'Excel template for completing the dataset inventory. Note: You must enable macros for the template to work.'
     post_date: 2014-06-19 00:00:00

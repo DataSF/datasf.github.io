@@ -14,12 +14,16 @@ layout: default
         <div class="col-sm-12">
             {{ content }}
             {% for resource in page.resources_list %}
+            {% assign type_slug = resource.resource_type | slugify | downcase %}
             <div class="resource-list-item">
-            {{ resource.type }}
-              <h2>{{ resource.name }}</h2>
+              <small class="color-{{type_slug}}" style="font-weight: bold">{{ resource.resource_type }}</small>
+              <h2 class="resource-title"><i class="fa resource-icon-{{type_slug}} color-{{type_slug}}" aria-hidden="true"></i> {{ resource.name }}</h2>
+              <div class="resource-downloads">
               {% for link in resource.links %}
-                <a href="{{link.link}}">Download {{link.type}}</a>
+                {% assign action = site.data.actions[link.media_type].action %}
+                <a href="{{link.link}}" class="btn btn-xs btn-primary">{{action}} {{link.media_type}}</a>
               {% endfor %}
+              </div>
               <p>{{ resource.description }}</p>
             </div>
             {% endfor %}
