@@ -1,9 +1,13 @@
 ---
-topic_name:
+title:
 description:
 tags:
-links:
+resources_list:
   - name:
-    link:
-    type:
+    description:
+    post_date:
+    resource_type:
+    links:
+      - link:
+        media_type:
 ---
