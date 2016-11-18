@@ -12,6 +12,13 @@ resources_list:
     links:
       - link: 'https://drive.google.com/uc?export=download&id=0B0jc1tmJAlTcZTBlY0duZjVGdUk'
         media_type: PDF
+  - name: One Page Summary of Personal Data Requests
+    description: 1 page flyer explaining the personal data request process.
+    post_date: 2016-08-08 00:00:00
+    resource_type: One Pager
+    links:
+      - link: 'https://drive.google.com/open?id=0B0jc1tmJAlTcWk4xMXZUZEplQW8'
+        media_type: PDF
 ---
 
 
