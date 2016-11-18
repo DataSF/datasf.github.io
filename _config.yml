@@ -108,6 +108,24 @@ subjects:
 series:
   - Excel
   - Tableau
+  
+resource_type:
+  - Document
+  - Guide
+  - Toolkit
+  - Template
+  - Video
+  - Spreadsheet
+  - Research
+  - One Pager
+  
+media_type:
+  - Excel
+  - Word
+  - Google Doc
+  - Google Spreadsheet
+  - PDF
+  - Link
 
 prose:
   siteurl: 'http://datasf.org'
