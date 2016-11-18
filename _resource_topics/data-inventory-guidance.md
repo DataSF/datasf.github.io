@@ -9,7 +9,7 @@ resources_list:
     resource_type: Guide
     links:
       - link: 'https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/edit?usp=sharing'
-        type: Google Doc
+        media_type: Google Doc
       - link: 'https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/export?format=pdf'
         media_type: PDF
   - name: One Page Summary of DataSF Program
