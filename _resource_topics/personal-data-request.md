@@ -8,7 +8,7 @@ resources_list:
     post_date: 2016-08-08 00:00:00
     resource_type: Guide
     links:
-      - link: 'https://drive.google.com/open?id=0B0jc1tmJAlTcb3RDWUlhd1BnTUU'
+      - link: 'https://drive.google.com/uc?export=download&id=0B0jc1tmJAlTcZTBlY0duZjVGdUk'
         media_type: PDF
 ---
 
