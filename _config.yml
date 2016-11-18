@@ -126,6 +126,10 @@ media_types:
   - Google Spreadsheet
   - PDF
   - Link
+  
+audiences:
+  - Data Coordinator
+  - Data Publisher
 
 prose:
   siteurl: 'http://datasf.org'
