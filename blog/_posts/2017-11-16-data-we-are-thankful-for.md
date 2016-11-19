@@ -13,7 +13,7 @@ image:
     license: CC BY-NC-ND 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc-nd/2.0/'
 description: 'Thanksgiving is just around the corner. It is a great opportunity to take time to think about what we are thankful for. Here at DataSF we are thankful for many things: open data (of course!), our Data Coordinators...'
-date: 2017-11-17 00:00:00
+date: 2016-11-17 00:00:00
 categories:
   - blog
 ---
