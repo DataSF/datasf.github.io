@@ -51,6 +51,8 @@ Each day almost 200 [crossing guards](https://www.sfmta.com/services/streets-sid
 
 <div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## We are Thankful that we don’t have to Cook Thanksgiving Dinner!
 
 San Francisco is a culinary delight. While you could spend all those hours making dinner, why not just eat out! More time for data analysis! Below is a map of every food establishment in San Francisco. 
