@@ -27,7 +27,7 @@ But above all else we are thankful to be living in a city like San Francisco. A 
 
 Started in 1932 the [Civic Art Collection](http://www.sfartscommission.org/pubartcollection/about-public-art-and-civic-art-collection/program-information/) now comprises over 4,000 objects. Below is a listing of public art works currently available for viewing. Select a location from the map to find out more.
 
-<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzJiNjZjZWYtOWQ4OC00NzMwLWEzMDgtYTIxMDVlOWVmOTg0IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzJiNjZjZWYtOWQ4OC00NzMwLWEzMDgtYTIxMDVlOWVmOTg0IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe></div>
 
 ## We are Thankful for Green Spaces
 
@@ -49,13 +49,13 @@ No one reads like the youth of San Francisco. Below is a sneak peak at a soon to
 
 Each day almost 200 [crossing guards](https://www.sfmta.com/services/streets-sidewalks/request-crossing-guard) ensure the children of San Francisco make it to school safely and on time. 
 
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"</iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
 ## We are Thankful that we don’t have to Cook Thanksgiving Dinner!
 
 San Francisco is a culinary delight. While you could spend all those hours making dinner, why not just eat out! More time for data analysis! Below is a map of every food establishment in San Francisco. 
 
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMzZlZDQzNjgtYTUxNy00NTU4LWI1NmYtNGNkZDYwYzY0YzA2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"</iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMzZlZDQzNjgtYTUxNy00NTU4LWI1NmYtNGNkZDYwYzY0YzA2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
 ## We are Thankful that our City Builds Inclusive Housing
 
@@ -67,10 +67,10 @@ The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-progr
 
 The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. Below are two charts. The first shows the completed affordable housing projects as of 2015. 
 
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNmI3MmViNzAtYjhmMS00ZTljLTg1MzAtYjE3MmM4ZGU5MDM2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"</iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNmI3MmViNzAtYjhmMS00ZTljLTg1MzAtYjE3MmM4ZGU5MDM2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
 The following chart shows all the affordable housing projects currently in progress for 2016. 
 
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNDdlNDUxYWQtYTUxYi00ZmQxLWJjZWQtZTc5YjBhMzA1MzVjIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"</iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNDdlNDUxYWQtYTUxYi00ZmQxLWJjZWQtZTc5YjBhMzA1MzVjIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
 These are just a few of the things we are thankful for. What about you?
