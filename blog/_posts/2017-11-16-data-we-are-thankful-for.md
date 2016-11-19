@@ -74,3 +74,5 @@ The following chart shows all the affordable housing projects currently in progr
 <div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNDdlNDUxYWQtYTUxYi00ZmQxLWJjZWQtZTc5YjBhMzA1MzVjIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
 These are just a few of the things we are thankful for. What about you?
+
+<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiZTBjMzkzYWItNmE5NC00OWNmLWE2NjktNmMxZDhiMGY4NTU2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
