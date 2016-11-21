@@ -31,9 +31,9 @@ Started in 1932 the [Civic Art Collection](http://www.sfartscommission.org/pubar
 
 ## We are Thankful for Green Spaces
 
-What would San Francisco be without its diverse species of trees and beautiful parks that populate our city. You may not realize it but the city cares for over 400 species of trees. Even more impressive than that is they track every single one. In the first chart below you can select your favorite species of tree and find its location around San Francisco. I’m personally fond of the Yoshino Cherry. On the second chart, you can find a listing of San Francisco public parks. You can sort by type of park and see the average public score for the currently selected parks.
+What would San Francisco be without its diverse species of trees and beautiful parks that populate our city. You may not realize it but the city cares for over 400 species of trees. Even more impressive than that is they track every single one. In the first page below you can select your favorite species of tree and find its location around San Francisco. I’m personally fond of the Yoshino Cherry. On the second page, you can find a listing of San Francisco public parks. You can sort by type of park and see the average public score for the currently selected parks.
 
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMGZjYTJiMmQtOTBiMC00OGIwLTg2MzMtMjAzZTgzMjgzNzE3IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiMGZjYTJiMmQtOTBiMC00OGIwLTg2MzMtMjAzZTgzMjgzNzE3IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
 
 ## We are Thankful for our Young Readers
 
@@ -43,24 +43,24 @@ No one reads like the youth of San Francisco. Below is a sneak peak at a soon to
 
 ## We are Thankful for those Protecting the Next Generation
 
-Each day almost 200 [crossing guards](https://www.sfmta.com/services/streets-sidewalks/request-crossing-guard) ensure the children of San Francisco make it to school safely and on time. 
+Each day almost 200 [crossing guards](https://www.sfmta.com/services/streets-sidewalks/request-crossing-guard) ensure the children of San Francisco make it to school safely and on time.
 
-<iframe width="680" height="568" src="https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="568" frameborder="0"></iframe>
 
-## We are Thankful that we don’t have to Cook Thanksgiving Dinner!
+## We are Thankful that we don’t *have* to Cook Thanksgiving Dinner!
 
-San Francisco is a culinary delight. While you could spend all those hours making dinner, why not just eat out! More time for data analysis! Below is a map of every food establishment in San Francisco. 
+San Francisco is a culinary delight. While you could spend all those hours making dinner, why not just eat out! More time for data analysis! Below is a map of every food establishment in San Francisco.
 
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMzZlZDQzNjgtYTUxNy00NTU4LWI1NmYtNGNkZDYwYzY0YzA2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiMzZlZDQzNjgtYTUxNy00NTU4LWI1NmYtNGNkZDYwYzY0YzA2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
 
 ## We are Thankful that our City Builds Inclusive Housing
 
 San Francisco cares about people and ensuring they can afford to live in our city. This problem has no quick or easy fix. In recent years San Francisco has made sizable strides to increase the supply of inclusionary and affordable housing. You can read about the full range of programs [here](http://sfmohcd.org/). Here we highlight two.
 
-The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-program) requires “developers of projects with 10 or more units to pay an Affordable Housing Fee, or to instead sell or rent a percentage of the units at a "below market rate" (BMR) price that is affordable to low or middle income households.” The first tab shows the number of projects and total below market rate units created since 1989. 
+The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-program) requires “developers of projects with 10 or more units to pay an Affordable Housing Fee, or to instead sell or rent a percentage of the units at a "below market rate" (BMR) price that is affordable to low or middle income households.” The first page shows the number of projects and total below market rate units created since 1989.
 
-Tabs two and three cover affordable housing. The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects.  The tab two shows the completed affordable housing projects as of 2015. While tab three shows all the affordable housing projects currently in progress for 2016. 
+Pages two and three cover affordable housing. The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. The tab two shows the completed affordable housing projects as of 2015. While tab three shows all the affordable housing projects currently in progress for 2016.
 
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNTMxMGY3MjEtMDA4Ny00NzFhLWI3MjYtNGVhYmZiNGZkMGU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNTMxMGY3MjEtMDA4Ny00NzFhLWI3MjYtNGVhYmZiNGZkMGU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
 
 These are just a few of the things we are thankful for. What about you?
