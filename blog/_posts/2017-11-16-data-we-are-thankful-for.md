@@ -31,19 +31,15 @@ Started in 1932 the [Civic Art Collection](http://www.sfartscommission.org/pubar
 
 ## We are Thankful for Green Spaces
 
-What would San Francisco be without its beautiful parks and the diverse types of trees that populate our city. Below find a listing of San Francisco public parks. You can sort by type of park and see the average public score for the currently selected parks.
+What would San Francisco be without its diverse species of trees and beautiful parks that populate our city. You may not realize it but the city cares for over 400 species of trees. Even more impressive than that is they track every single one. In the first chart below you can select your favorite species of tree and find its location around San Francisco. I’m personally fond of the Yoshino Cherry. On the second chart, you can find a listing of San Francisco public parks. You can sort by type of park and see the average public score for the currently selected parks.
 
-<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzUzNWUxYWQtMTU0Yy00Mjc5LTg3ZjQtYmMyZjEzNjQ1YTliIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
-
-You may not realize it but the city cares for over 400 species of trees. Even more impressive than that is they track every single one. In the below map you can select your favorite species of tree and find its location around San Francisco. I’m personally fond of the Yoshino Cherry. 
-
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYWFlOTAzYjAtY2YzOC00MzJjLTk3MjUtMWQxNjg4MTUzZTAxIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMGZjYTJiMmQtOTBiMC00OGIwLTg2MzMtMjAzZTgzMjgzNzE3IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
 ## We are Thankful for our Young Readers
 
-![](/uploads/versions/Library---x----795-627x---.png)
-
 No one reads like the youth of San Francisco. Below is a sneak peak at a soon to be released dataset on library circulation. Sorry, but it is just a static image at this time. [Follow us on twitter](https://twitter.com/DataSF) to be the first to know about its full release.
+
+![](/uploads/versions/Library---x----795-627x---.png)
 
 ## We are Thankful for those Protecting the Next Generation
 
@@ -59,20 +55,12 @@ San Francisco is a culinary delight. While you could spend all those hours makin
 
 ## We are Thankful that our City Builds Inclusive Housing
 
-San Francisco cares about people and ensuring they can afford to live in our city. This problem has no quick or easy fix. In recent years San Francisco has made sizable strides to increase the supply of inclusionary and affordable housing. You can read about the full range of programs [here](http://sfmohcd.org/). Below we highlight two.
+San Francisco cares about people and ensuring they can afford to live in our city. This problem has no quick or easy fix. In recent years San Francisco has made sizable strides to increase the supply of inclusionary and affordable housing. You can read about the full range of programs [here](http://sfmohcd.org/). Here we highlight two.
 
-The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-program) requires “developers of projects with 10 or more units to pay an Affordable Housing Fee, or to instead sell or rent a percentage of the units at a "below market rate" (BMR) price that is affordable to low or middle income households.” The below chart shows the number of projects and total below market rate units created since 1989. 
+The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-program) requires “developers of projects with 10 or more units to pay an Affordable Housing Fee, or to instead sell or rent a percentage of the units at a "below market rate" (BMR) price that is affordable to low or middle income households.” The first tab shows the number of projects and total below market rate units created since 1989. 
 
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMWRiNTRiZDEtMzNjOS00ZDA1LWI4NTQtMmJhMzMxNGExMTg0IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
+Tabs two and three cover affordable housing. The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects.  The tab two shows the completed affordable housing projects as of 2015. While tab three shows all the affordable housing projects currently in progress for 2016. 
 
-The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. Below are two charts. The first shows the completed affordable housing projects as of 2015. 
-
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNmI3MmViNzAtYjhmMS00ZTljLTg1MzAtYjE3MmM4ZGU5MDM2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
-
-The following chart shows all the affordable housing projects currently in progress for 2016. 
-
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNDdlNDUxYWQtYTUxYi00ZmQxLWJjZWQtZTc5YjBhMzA1MzVjIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNTMxMGY3MjEtMDA4Ny00NzFhLWI3MjYtNGVhYmZiNGZkMGU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
 These are just a few of the things we are thankful for. What about you?
-
-<div class="embed-responsive embed-responsive-square"><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiZTBjMzkzYWItNmE5NC00OWNmLWE2NjktNmMxZDhiMGY4NTU2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe></div>
