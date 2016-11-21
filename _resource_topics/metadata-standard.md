@@ -43,3 +43,4 @@ resources_list:
 ---
 
 
+Our metadata standard (documentation requirements) for data on DataSF.
