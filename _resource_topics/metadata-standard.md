@@ -1,5 +1,5 @@
 ---
-title: Metadata Standard
+title: 'Standard: Metadata'
 description: Our metadata standard (documentation requirements) for data on DataSF.
 tags:
 audiences:
