@@ -58,6 +58,5 @@ We have over 7000 fields. About one third of them are documented either within t
 4. **Deal with the rest as needed.** Even if we don't get to full coverage using the above 3 tactics, we're okay with rolling on the rest as needed. Priorities can be determined based on where we're seeing confusion through our support portal.
 
 To track our progress, we've created a simple dashboard. It's linked to the field definition dataset and will update automatically. Follow along with us toward a brighter documentation future!
-<div class="embed-responsive embed-responsive-square">
+
 <iframe src="https://app.powerbi.com/view?r=eyJrIjoiODk2ODgwZjctZWEzMC00YzJkLWJlOGYtNjg0OGUyNDQ4YmJmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
-</div>
