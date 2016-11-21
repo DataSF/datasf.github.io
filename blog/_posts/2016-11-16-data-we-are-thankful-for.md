@@ -29,21 +29,19 @@ Started in 1932, the [Civic Art Collection](http://www.sfartscommission.org/puba
 
 [![](/uploads/versions/Public Art---x----799-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNzJiNjZjZWYtOWQ4OC00NzMwLWEzMDgtYTIxMDVlOWVmOTg0IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
 
-
 ## We are Thankful for Green Spaces
 
 What would San Francisco be without its diverse species of trees and beautiful parks that populate our city. You may not realize it but the city cares for over 400 species of trees. Even more impressive than that, the city tracks every single one.
 
 In the first page below you can select your favorite species of tree and find its location around San Francisco. I’m personally fond of the Yoshino Cherry. On the second page, you can find a listing of San Francisco public parks. You can filter by type of park and see the average public score for the currently selected parks.
 
-
 [![](/uploads/versions/Trees and Parks---x----796-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMGZjYTJiMmQtOTBiMC00OGIwLTg2MzMtMjAzZTgzMjgzNzE3IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
-
 
 ## We are Thankful for our Young Readers
 
 No one reads like the youth of San Francisco. Below is a sneak peak at a soon to be released dataset on library circulation. Sorry, but it is just a static image at this time. [Follow us on twitter](https://twitter.com/DataSF) to be the first to know about its full release.
 
+![](/uploads/versions/Library---x----799-627x---.jpg)
 
 ## We are Thankful for those Protecting the Next Generation
 
