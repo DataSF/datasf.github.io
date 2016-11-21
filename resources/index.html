@@ -17,7 +17,7 @@ title: DataSF | Resources
     </div>
     <div class="row">
       <div class="col-sm-12">
-      {% for topic in site.resource_topics | sort:title %}
+      {% for topic in site.resource_topics %}
         <div class="">
           <h3><a href="{{topic.url}}">{{ topic.title }}</a></h3>
           <p>{{ topic.description }}</p>
