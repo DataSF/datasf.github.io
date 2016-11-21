@@ -53,17 +53,17 @@ Each day almost 200 [crossing guards](https://www.sfmta.com/services/streets-sid
 
 ## We are Thankful that we don’t *have* to Cook Thanksgiving Dinner!
 
-San Francisco is a culinary delight. While you could spend all those hours making dinner, why not just eat out! More time for data analysis! Below is a map of every food establishment in San Francisco.
+San Francisco is a culinary delight. While you could spend all those hours making dinner, why not just eat out? More time for data analysis! Below is a map of every food establishment in San Francisco.
 
 [![](/uploads/versions/Food---x----799-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMzZlZDQzNjgtYTUxNy00NTU4LWI1NmYtNGNkZDYwYzY0YzA2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
 
 ## We are Thankful that our City Builds Inclusive Housing
 
-San Francisco cares about people and ensuring they can afford to live in our city. This problem has no quick or easy fix. In recent years San Francisco has made sizable strides to increase the supply of inclusionary and affordable housing. You can read about the full range of programs [here](http://sfmohcd.org/). Here we highlight two.
+San Francisco cares about people and cares about ensuring they can afford to live in our city. This problem has no quick or easy fix. In recent years San Francisco has made sizable strides to increase the supply of inclusionary and affordable housing. You can read about the full range of programs [here](http://sfmohcd.org/). Here we highlight two.
 
 The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-program) requires “developers of projects with 10 or more units to pay an Affordable Housing Fee, or to instead sell or rent a percentage of the units at a "below market rate" (BMR) price that is affordable to low or middle income households.” The first page shows the number of projects and total below market rate units created since 1989.
 
-The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. Pages two and three cover affordable housing. Page two shows the completed affordable housing projects as of 2015. While page three shows all the affordable housing projects currently in progress for 2016.
+The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. Pages two and three cover these affordable housing projects. Page two shows the operational MOHCD and OCII affordable housing projects as of 2015. While page three shows all the MOHCD and OCII affordable housing projects currently in progress for 2016.
 
 [![](/uploads/versions/Housing---x----799-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNTMxMGY3MjEtMDA4Ny00NzFhLWI3MjYtNGVhYmZiNGZkMGU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
 
