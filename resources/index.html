@@ -20,7 +20,7 @@ title: DataSF | Resources
         {% assign sorted_topics = site.resource_topics | sort: 'title' %}
         {% for topic in sorted_topics %}
         <div class="">
-          <h3><a href="{{topic.url}}">{{ topic.title }}</a></h3>
+          <h3><a href="{{topic.url}}">{{ topic.title }}</a> <small>{{topic.resources_list.size}} resources</small></h3>
           <p>{{ topic.description }}</p>
         </div>
         {% endfor %}
@@ -29,6 +29,33 @@ title: DataSF | Resources
     <div class="row">
       <div class="col-sm-12">
         <h2>All Resources</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <table>
+          <thead>
+            <tr>
+              <td>Topic</td>
+              <td>Type</tr>
+              <tr>Resource Name</tr>
+              <tr>Description</tr>
+              <tr>Download/Open</tr>
+          </thead>
+          <tbody>
+        {% for topic in sorted_topics %}
+         {% for resource in topic.resources_list %}
+         <tr>
+         <td>{{ topic.title }}</td>
+         <td>{{ resource.type }}</td>
+         <td>{{ resource.name }}</td>
+         <td>{{ resource.description }}</td>
+         <td></td>
+         </tr>
+         {% endfor %}
+        {% endfor %}
+        </tbody>
+        </table>
       </div>
     </div>
   </div>
