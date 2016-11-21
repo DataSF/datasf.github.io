@@ -62,5 +62,6 @@ The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-progr
 The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. Pages two and three cover affordable housing. Page two shows the completed affordable housing projects as of 2015. While page three shows all the affordable housing projects currently in progress for 2016.
 
 <div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNTMxMGY3MjEtMDA4Ny00NzFhLWI3MjYtNGVhYmZiNGZkMGU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
-
+ 
+ 
 These are just a few of the things we are thankful for. What about you?
