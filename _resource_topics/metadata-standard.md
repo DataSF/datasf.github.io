@@ -17,8 +17,6 @@ resources_list:
     links:
       - link: 'https://docs.google.com/spreadsheets/d/1VoM6CPf21s7qNyg5fWRai4lSckn9e9PG18eiHniJ8W8/edit?usp=sharing'
         media_type: Google Spreadsheet
-      - link:
-        media_type:
   - name: Metadata Analysis and Inventories of Standards
     description: 'Inventory comparing fields from various metadata standards at the local, state and federal level. Used to inform our standard.'
     post_date: 2014-09-15 00:00:00
