@@ -37,20 +37,25 @@ title: DataSF | Resources
           <thead>
             <tr>
               <td>Topic</td>
-              <td>Type</tr>
-              <tr>Resource Name</tr>
-              <tr>Description</tr>
-              <tr>Download/Open</tr>
+              <td>Type</td>
+              <td>Resource Name</td>
+              <td>Description</td>
+              <td>Download/Open</td>
           </thead>
           <tbody>
         {% for topic in sorted_topics %}
          {% for resource in topic.resources_list %}
          <tr>
          <td>{{ topic.title }}</td>
-         <td>{{ resource.type }}</td>
+         <td>{{ resource.resource_type }}</td>
          <td>{{ resource.name }}</td>
          <td>{{ resource.description }}</td>
-         <td></td>
+         <td>
+           {% for link in resource.links %}
+             <a href="{{link.link}}">{{link.media_type}}</a>
+             {% unless forloop.last %}<br/>{% endunless %}
+          {% endfor %}
+          </td>
          </tr>
          {% endfor %}
         {% endfor %}

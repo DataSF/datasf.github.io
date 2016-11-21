@@ -150,19 +150,35 @@ article a {
 
 .resource-downloads .btn {
   background-color: #476481;
-  text-transform: none;
+  text-tdansform: none;
+}
+
+.color-document {
+  color: #FF5722;
 }
 
 .color-guide {
   color: #A952E0;
 }
 
+.color-spreadsheet {
+  color: #E91E63;
+}
+
 .color-template {
   color: #FFA519;
 }
 
+.color-toolkit {
+  color: #880E4F;
+}
+
 .color-one-pager {
   color: #CC071E;
+}
+
+.color-research {
+  color: #4CAF50;
 }
 
 .color-video {
@@ -176,6 +192,22 @@ article a {
 .resource-list-item {
   margin-bottom: 20px;
   border-bottom: thin dotted #333333;
+}
+
+.resource-icon-toolkit:before {
+  content: "\f0ad";
+}
+
+.resource-icon-research:before {
+  content: "\f19c";
+}
+
+.resource-icon-spreadsheet:before {
+  content: "\f0ce";
+}
+
+.resource-icon-document:before {
+  content: "\f0c5";
 }
 
 .resource-icon-guide:before {
@@ -198,6 +230,7 @@ h2.resource-title {
   margin-top: 0;
 }
 /*** End Resources **/
+
 
 #main {
   padding-top: 20px;
