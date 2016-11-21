@@ -59,7 +59,7 @@ San Francisco cares about people and ensuring they can afford to live in our cit
 
 The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-program) requires “developers of projects with 10 or more units to pay an Affordable Housing Fee, or to instead sell or rent a percentage of the units at a "below market rate" (BMR) price that is affordable to low or middle income households.” The first page shows the number of projects and total below market rate units created since 1989.
 
-Pages two and three cover affordable housing. The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. The tab two shows the completed affordable housing projects as of 2015. While tab three shows all the affordable housing projects currently in progress for 2016.
+The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. Pages two and three cover affordable housing. Page two shows the completed affordable housing projects as of 2015. While page three shows all the affordable housing projects currently in progress for 2016.
 
 <div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNTMxMGY3MjEtMDA4Ny00NzFhLWI3MjYtNGVhYmZiNGZkMGU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
 
