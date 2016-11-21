@@ -1,5 +1,5 @@
 ---
-title: Open Data Licensing Standard
+title: 'Standard: Open Data Licensing'
 description: Research and recommendations by our intern on data licensing for DataSF.
 tags:
 audiences:
