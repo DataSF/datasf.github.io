@@ -25,7 +25,7 @@ collections:
     output: true
   resource_topics:
     output: true
-    permalink: '/resources2/:title/'
+    permalink: '/resources/:title/'
 
 defaults:
   -
