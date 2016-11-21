@@ -39,7 +39,7 @@ What would San Francisco be without its diverse species of trees and beautiful p
 
 No one reads like the youth of San Francisco. Below is a sneak peak at a soon to be released dataset on library circulation. Sorry, but it is just a static image at this time. [Follow us on twitter](https://twitter.com/DataSF) to be the first to know about its full release.
 
-![](/uploads/versions/Library---x----795-627x---.png)
+<div class="img-responsive">![](/uploads/versions/Library---x----795-627x---.png)</div>
 
 ## We are Thankful for those Protecting the Next Generation
 
