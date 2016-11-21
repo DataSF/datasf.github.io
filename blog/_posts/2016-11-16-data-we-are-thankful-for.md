@@ -27,7 +27,7 @@ But above all else we are thankful to be living in a city like San Francisco. A 
 
 Started in 1932 the [Civic Art Collection](http://www.sfartscommission.org/pubartcollection/about-public-art-and-civic-art-collection/program-information/) now comprises over 4,000 objects. Below is a listing of public art works currently available for viewing. Select a location from the map to find out more.
 
-<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzJiNjZjZWYtOWQ4OC00NzMwLWEzMDgtYTIxMDVlOWVmOTg0IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe></div>
+<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzJiNjZjZWYtOWQ4OC00NzMwLWEzMDgtYTIxMDVlOWVmOTg0IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
 
 ## We are Thankful for Green Spaces
 
@@ -45,7 +45,7 @@ No one reads like the youth of San Francisco. Below is a sneak peak at a soon to
 
 Each day almost 200 [crossing guards](https://www.sfmta.com/services/streets-sidewalks/request-crossing-guard) ensure the children of San Francisco make it to school safely and on time.
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="568" frameborder="0"></iframe>
+<div class="embed-responsive embed-responsive-square"><iframe src="https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="680" height="510" frameborder="0"></iframe></div>
 
 ## We are Thankful that we don’t *have* to Cook Thanksgiving Dinner!
 
