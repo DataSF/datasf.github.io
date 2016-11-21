@@ -41,7 +41,7 @@ In the first page below you can select your favorite species of tree and find it
 
 No one reads like the youth of San Francisco. Below is a sneak peak at a soon to be released dataset on library circulation. Sorry, but it is just a static image at this time. [Follow us on twitter](https://twitter.com/DataSF) to be the first to know about its full release.
 
-<div class="img-responsive">&nbsp;</div>
+<div class="img-responsive"><img alt="" src="/uploads/versions/Library---x----799-627x---.jpg" width="799" height="627" /></div>
 
 <div class="img-responsive">&nbsp;</div>
 
@@ -49,9 +49,13 @@ No one reads like the youth of San Francisco. Below is a sneak peak at a soon to
 
 Each day almost 200 [crossing guards](https://www.sfmta.com/services/streets-sidewalks/request-crossing-guard) ensure the children of San Francisco make it to school safely and on time.
 
+[![](/uploads/versions/Crossing Guard---x----799-627x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
+
 ## We are Thankful that we don’t *have* to Cook Thanksgiving Dinner!
 
 San Francisco is a culinary delight. While you could spend all those hours making dinner, why not just eat out! More time for data analysis! Below is a map of every food establishment in San Francisco.
+
+[![](/uploads/versions/Food---x----799-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMzZlZDQzNjgtYTUxNy00NTU4LWI1NmYtNGNkZDYwYzY0YzA2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
 
 ## We are Thankful that our City Builds Inclusive Housing
 
@@ -60,5 +64,9 @@ San Francisco cares about people and ensuring they can afford to live in our cit
 The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-program) requires “developers of projects with 10 or more units to pay an Affordable Housing Fee, or to instead sell or rent a percentage of the units at a "below market rate" (BMR) price that is affordable to low or middle income households.” The first page shows the number of projects and total below market rate units created since 1989.
 
 The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. Pages two and three cover affordable housing. Page two shows the completed affordable housing projects as of 2015. While page three shows all the affordable housing projects currently in progress for 2016.
+
+[![](/uploads/versions/Housing---x----799-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNTMxMGY3MjEtMDA4Ny00NzFhLWI3MjYtNGVhYmZiNGZkMGU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
+
+&nbsp;
 
 These are just a few of the things we are thankful for. What about you?
