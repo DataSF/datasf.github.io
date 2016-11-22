@@ -13,6 +13,8 @@ main_nav:
   layout: course
 - text: Resources
   url: /resources/
+  layout: resource-topic
+  index: resources
 - text: Blog
   url: /blog/
   layout: blog-post
@@ -38,6 +40,10 @@ catalog:
     url: 'https://data.sfgov.org/analytics'
   - text: Developers
     url: /catalog/developers/
+
+resources:
+  - text: Browse Resources
+    url: /resources/
     
 utility:
 - text: SFGov

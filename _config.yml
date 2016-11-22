@@ -59,6 +59,8 @@ defaults:
       type: "resource_topics"
     values:
       layout: "resource-topic"
+      index: "resources"
+      subnav: true
     
       
 # Site settings

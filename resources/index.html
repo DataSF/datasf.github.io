@@ -2,15 +2,29 @@
 layout: default
 title: 'DataSF | Resource Library'
 background_image_path: /uploads/library.jpg
+index: resources
+subnav: true
+js: resources.js
+blurb: Browse resources produced by DataSF. You can browse by topic or search all resources.
 ---
-
-<section id="resources">
-  <div class="container">
+<div class="masthead" style="height: 200px; color: white; background: #333 url({{page.background_image_path}}) 50% 50% no-repeat; position:relative; background-position: right;">
+  <div class="darkener"></div>
+  <div class="left-cover"></div>
+  <div class="container" style="z-index: 4; position: relative;">
     <div class="row">
-      <div class="col-xs-12 section-heading-wrapper">
-        <h1 class="section-heading bg-line">Resource <i class="fa fa-book"></i> Library</h1>
+      <div class="col-xs-12">
+        <h1 style="color: white;"><i class="fa fa-book"></i> Resource Library</h1>
+        <div class="blurb" style="max-width: 450px; margin-top: 25px;">
+          <p>{{page.blurb}}</p>
+        </div>
       </div>
     </div>
+  </div>
+</div>
+  
+</div>
+<section id="resources">
+  <div class="container">
     <div class="row">
       <div class="col-sm-12">
         <h2>Topics</h2>
@@ -21,7 +35,7 @@ background_image_path: /uploads/library.jpg
         {% assign sorted_topics = site.resource_topics | sort: 'title' %}
         {% for topic in sorted_topics %}
         <div class="">
-          <h3><a href="{{topic.url}}">{{ topic.title }}</a> <small>{{topic.resources_list.size}} resources</small></h3>
+          <h3><a href="{{topic.url}}">{{ topic.title }}</a> <small>{{topic.resources_list.size}} resource{% if topic.resources_list.size > 1 %}s{%endif%}</small></h3>
           <p>{{ topic.description }}</p>
         </div>
         {% endfor %}
@@ -34,7 +48,7 @@ background_image_path: /uploads/library.jpg
     </div>
     <div class="row">
       <div class="col-sm-12">
-        <table>
+        <table id="resources-table">
           <thead>
             <tr>
               <td>Topic</td>
@@ -47,7 +61,7 @@ background_image_path: /uploads/library.jpg
         {% for topic in sorted_topics %}
          {% for resource in topic.resources_list %}
          <tr>
-         <td>{{ topic.title }}</td>
+         <td><a href="{{topic.url}}">{{ topic.title }}</a></td>
          <td>{{ resource.resource_type }}</td>
          <td>{{ resource.name }}</td>
          <td>{{ resource.description }}</td>
