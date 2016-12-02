@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Advanced Excel
-course_short_name: "Excel - Advanced"
+course_short_name: Excel - Advanced
 description: This classroom based workshop is the fourth in a series of workshops on Excel offered by the Data Academy. It provides the Data Academy’s most advanced level of Excel training.
 prerequisites: None
 length: 2
@@ -24,11 +24,9 @@ This classroom based workshop is the third in a series of workshops on Excel off
 
 We encourage experienced Excel users to register for this fast-paced course.
 
-
-
 ## What you’ll learn
 
-Please click the below links to access how-to guides from Lynda.com!  [Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+Please click the below links to access how-to guides from Lynda.com! &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 
 * Automation tools
   * [Recording and using macros](http://www.lynda.com/Excel-tutorials/Reviewing-recording-method/74463/79053-4.html)
@@ -41,3 +39,8 @@ Please click the below links to access how-to guides from Lynda.com!  [Click he
   * [Formula auditing](http://www.lynda.com/Excel-tutorials/Auditing/363001/460714-4.html)
   * [Precedents/dependents](http://www.lynda.com/Excel-tutorials/Auditing/363001/460714-4.html)
   * [Conditional formatting](http://www.lynda.com/Excel-tutorials/Applying-conditional-formatting-across-rows-data/363001/408645-4.html)
+
+## More resources
+
+* San Francisco Public Library
+  * [Advanced Excel from Gale Courses](http://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel)&nbsp;(6 weeks, 24hrs total works)
