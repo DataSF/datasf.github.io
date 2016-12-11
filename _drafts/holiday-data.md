@@ -1,19 +1,21 @@
 ---
 title: Holiday Data
-author:
+author: blake_valenta
 image:
   thumb:
   feature:
   caption:
   source:
-    title:
-    author:
-    source_link:
-    author_link:
-    license:
-    license_link:
+    title: Snowflake
+    author: Barbara Friedman
+    source_link: 'https://www.flickr.com/photos/btf5/16464560875/'
+    author_link: 'https://www.flickr.com/photos/btf5/'
+    license: Attribution-NonCommercial 2.0 Generic
+    license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description:
 date:
 categories:
   - blog
 ---
+
+
