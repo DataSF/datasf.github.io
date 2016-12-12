@@ -2,8 +2,8 @@
 title: Holiday Data
 author: blake_valenta
 image:
-  thumb: /themed-holiday-data /snowflake.jpg
-  feature: /themed-holiday-data /snowflake.jpg
+  thumb: /themed-holiday-data/snowflake.jpg
+  feature: /themed-holiday-data/snowflake.jpg
   caption: Datum
   source:
     title: Snowflake
