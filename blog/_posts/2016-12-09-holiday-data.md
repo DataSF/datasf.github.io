@@ -19,6 +19,8 @@ categories:
 ---
 
 
-With the a multitude of winter holidays around the corner
+With the a multitude of winter holidays around the corner.
 
-<iframe width="100%" height="720" frameborder="0" src="https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+To view full screen click [click here](https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed).
+
+<iframe src="https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" height="720" frameborder="0" width="100%"></iframe>
