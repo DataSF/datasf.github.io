@@ -19,21 +19,21 @@ categories:
 ---
 
 
-Instead of braving the airport and the stress of holiday travel why not stay here in SF!  There is a multitude of free holiday activities open to the public.  The below maps harnesses open data, APIs, and good ol fashioned google searching to identify some holiday activities for you and yours.
+Instead of braving the airport and the stress of holiday travel why not stay here in SF!&nbsp; There is a multitude of free holiday activities open to the public.&nbsp; The below maps harnesses brand new open data from the Street Tree Census, API data from Yelp, and good old fashioned web hunting to identify some holiday activities for you and yours.
 
 ## See one of San Francisco's publicly maintained Holiday Tree and Plants
 {: .present-before-paste}
 
-Sure you could buy a pre-cut Christmas tree or pre-plucked Holly but why not check out one of the publicly maintained Christmas Trees and Plants.  San Francisco has them all from Douglas Fir to English Holly.  Thanks to an astoundingly detailed [Open Tree Map](http://urbanforestmap.org/about/) you can now know exactly where they are. The data powering the map is collected via the [Street Tree Census](http://sf-planning.org/everytreesf-%E2%80%93-street-tree-census), a project of [SF Planning](http://sf-planning.org/everytreesf-%E2%80%93-street-tree-census), [SF Public Works](http://sfpublicworks.org/services/urban-forest-plan), [Friends of the Urban Forest](http://www.fuf.net/), [Arbor Pro](http://www.arborprousa.com/), and volunteer tree mappers who are blessed with a year round giving spirit.  Filter the below map for locations.  The census is currently underway so only certain neighborhoods have been surveyed at this point. You can receive updates about the project from [here](http://urbanforestmap.org/blog/).
+Sure you could buy a pre-cut Christmas tree or pre-plucked Holly but why not check out one of the publicly maintained Christmas Trees and Plants.&nbsp; San Francisco has them all from Douglas Fir to English Holly.&nbsp; Thanks to an astoundingly detailed [Open Tree Map](http://urbanforestmap.org/about/) you can now know exactly where they are. The data powering the map is collected via the [Street Tree Census](http://sf-planning.org/everytreesf-%E2%80%93-street-tree-census), a project of [SF Planning](http://sf-planning.org/everytreesf-%E2%80%93-street-tree-census), [SF Public Works](http://sfpublicworks.org/services/urban-forest-plan), [Friends of the Urban Forest](http://www.fuf.net/), [Arbor Pro](http://www.arborprousa.com/), and volunteer tree mappers who are blessed with a year round giving spirit.&nbsp; Filter the below map for locations.&nbsp; The census is currently underway so only certain neighborhoods have been surveyed at this point. You can receive updates about the project from [here](http://urbanforestmap.org/blog/).
 
 ## Attend one of the many public holiday events
 {: .present-before-paste}
 
-Why stop at trees when so many public Holiday events are occurring throughout the next few weeks.  The below map identifies Christmas, Kwanzaa, and Hanukkah events, as well as general holiday activities.  Information was collected via City of San Francisco department event calendars as well as [various](http://sanfrancisco.about.com/od/sfevents/tp/Free-Christmas-And-Holiday-Activities-And-Events-In-San-Francisco.htm) [online](http://redtri.com/san-francisco/kwanzaa-san-francisco/) [lists](http://sanfrancisco.cbslocal.com/top-lists/best-ways-to-celebrate-hanukkah-in-the-bay-area/) of public holiday events.  Grab your loved ones and go explore!
+Why stop at trees when so many public Holiday events are occurring throughout the next few weeks.&nbsp; The below map identifies Christmas, Kwanzaa, and Hanukkah events, as well as general holiday activities.&nbsp; Information was collected via City of San Francisco department event calendars as well as [various](http://sanfrancisco.about.com/od/sfevents/tp/Free-Christmas-And-Holiday-Activities-And-Events-In-San-Francisco.htm) [online](http://redtri.com/san-francisco/kwanzaa-san-francisco/) [lists](http://sanfrancisco.cbslocal.com/top-lists/best-ways-to-celebrate-hanukkah-in-the-bay-area/) of public holiday events.&nbsp; Grab your loved ones and go explore!
 
 ## Shop for Toys
 
-Last minute shopping to do for the kids?  Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.  San Francisco has plenty to offer, a selection is presented below.
+Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer, a selection is presented below.
 
 However you choose to celebrate this year DataSF wishes you a very Happy Holiday season.
 
