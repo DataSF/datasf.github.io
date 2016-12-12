@@ -4,7 +4,7 @@ author: blake_valenta
 image:
   thumb: /themed-holiday-data/snowflake.jpg
   feature: /themed-holiday-data/snowflake.jpg
-  caption: Datum
+  caption: Holiday Datum
   source:
     title: Snowflake
     author: Barbara Friedman
