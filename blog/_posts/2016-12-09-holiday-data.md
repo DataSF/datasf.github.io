@@ -41,8 +41,6 @@ However you choose to celebrate this year DataSF wishes you a very Happy Holiday
 
 <iframe src="https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" class="present-before-paste" width="100%" height="720" frameborder="0"></iframe>
 
-*Icons made by [Freepik](http://www.freepik.com "Freepik") from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")*
+*Icons made by [Freepik](http://www.freepik.com "Freepik"),&nbsp;*[Madebyoliver,](http://www.flaticon.com/authors/madebyoliver "Madebyoliver")* *[Darius Dan](http://www.flaticon.com/authors/darius-dan "Darius Dan")*from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")*
 
-*Icons made by [Madebyoliver](http://www.flaticon.com/authors/madebyoliver "Madebyoliver") from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")*
-
-*Icons made by [Darius Dan](http://www.flaticon.com/authors/darius-dan "Darius Dan") from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")*
+*Icon made by Nesnad from [www.wikimedia.com](https://commons.wikimedia.org/wiki/File:Kwanzaa_Candles-Kinara.svg)is Public Domain*
