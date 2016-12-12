@@ -35,7 +35,7 @@ Why stop at trees when so many public Holiday events are occurring throughout th
 
 Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer, a selection is presented below.
 
-However you choose to celebrate this year DataSF wishes you a very Happy Holiday season.
+However you choose to celebrate this year DataSF wishes you a very happy holiday season.
 
 ###### To view map full screen [click here](https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed).
 
