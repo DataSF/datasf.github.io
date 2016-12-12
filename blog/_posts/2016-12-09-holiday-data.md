@@ -31,10 +31,10 @@ Sure you could buy a pre-cut Christmas tree or pre-plucked Holly but why not che
 Attend one of the many public holiday events
 {: .present-before-paste}
 
-Why stop at trees when so many public Holiday events are occurring throughout the next few weeks.&nbsp; The below map identifies Christmas, Kwanzaa, and Hanukkah events, as well as general holiday activities.&nbsp; Information was collected via City of San Francisco department event calendars as well as various online lists of public holiday events.
+Why stop at trees when so many public Holiday events are occurring throughout the next few weeks.&nbsp; The below map identifies Christmas, Kwanzaa, and Hanukkah events, as well as general holiday activities.&nbsp; Information was collected via City of San Francisco department event calendars as well as [various](http://sanfrancisco.about.com/od/sfevents/tp/Free-Christmas-And-Holiday-Activities-And-Events-In-San-Francisco.htm) [online](http://redtri.com/san-francisco/kwanzaa-san-francisco/) [lists](http://sanfrancisco.cbslocal.com/top-lists/best-ways-to-celebrate-hanukkah-in-the-bay-area/) of public holiday events.
 {: .present-before-paste}
 
-Toy Stores are via Yelp
+Shop for Toys
 {: .present-before-paste}
 
 To view full screen click [click here](https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed).
