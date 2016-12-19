@@ -41,7 +41,7 @@ Why stop at trees when so many public Holiday events are occurring throughout th
 
 ## Shop for Toys
 
-Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer, a selection is presented below.&nbsp; Data was culled via a private source of open data, the Yelp API.&nbsp;
+Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer. A selection of 40 stores is presented below.&nbsp; Data was culled via a private source of open data, the Yelp API.&nbsp;
 
 ###### To view map full screen [click here](https://blakev.carto.com/builder/ab6db45a-c61a-11e6-976b-0e05a8b3e3d7/embed).
 
