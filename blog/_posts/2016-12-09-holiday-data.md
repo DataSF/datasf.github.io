@@ -33,14 +33,14 @@ Why stop at trees when so many public Holiday events are occurring throughout th
 
 ## Shop for Toys
 
-Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer, a selection is presented below.
-
-However you choose to celebrate this year DataSF wishes you a very happy holiday season.
+Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer, a selection is presented below.&nbsp; Data was culled via a private source of open data, the Yelp API.&nbsp;
 
 ###### To view map full screen [click here](https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed).
 
 <iframe src="https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" class="present-before-paste" width="100%" height="720" frameborder="0"></iframe>
 
-*Icons made by [Freepik](http://www.freepik.com "Freepik"),&nbsp;*[Madebyoliver,](http://www.flaticon.com/authors/madebyoliver "Madebyoliver")* *[Darius Dan](http://www.flaticon.com/authors/darius-dan "Darius Dan")*from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")*
+However you choose to celebrate this year DataSF wishes you a very happy holiday season!
+
+*Icons made by [Freepik](http://www.freepik.com "Freepik"),&nbsp;*[Madebyoliver,](http://www.flaticon.com/authors/madebyoliver "Madebyoliver")\* *[Darius Dan](http://www.flaticon.com/authors/darius-dan "Darius Dan")*from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")\*
 
 *Icon made by Nesnad from [www.wikimedia.com](https://commons.wikimedia.org/wiki/File:Kwanzaa_Candles-Kinara.svg)is Public Domain*
