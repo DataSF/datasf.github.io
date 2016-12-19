@@ -26,18 +26,26 @@ Instead of braving the airport and the stress of holiday travel why not stay her
 
 Sure you could buy a pre-cut Christmas tree or pre-plucked Holly but why not check out one of the publicly maintained Christmas Trees and Plants.&nbsp; San Francisco has them all from Douglas Fir to English Holly.&nbsp; Thanks to an astoundingly detailed [Open Tree Map](http://urbanforestmap.org/about/) you can now know exactly where they are. The data powering the map is collected via the [Street Tree Census](http://sf-planning.org/everytreesf-%E2%80%93-street-tree-census), a project of [SF Planning](http://sf-planning.org/everytreesf-%E2%80%93-street-tree-census), [SF Public Works](http://sfpublicworks.org/services/urban-forest-plan), [Friends of the Urban Forest](http://www.fuf.net/), [Arbor Pro](http://www.arborprousa.com/), and volunteer tree mappers who are blessed with a year round giving spirit.&nbsp; Filter the below map for locations.&nbsp; The census is currently underway so only certain neighborhoods have been surveyed at this point. You can receive updates about the project from [here](http://urbanforestmap.org/blog/).
 
+###### To view map full screen [click here](https://blakev.carto.com/builder/2489dbf8-c61a-11e6-8199-0e233c30368f/embed).
+
+<iframe width="100%" height="520" frameborder="0" src="https://blakev.carto.com/builder/2489dbf8-c61a-11e6-8199-0e233c30368f/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## Attend one of the many public holiday events
 {: .present-before-paste}
 
 Why stop at trees when so many public Holiday events are occurring throughout the next few weeks.&nbsp; The below map identifies Christmas, Kwanzaa, and Hanukkah events, as well as general holiday activities.&nbsp; Information was collected via City of San Francisco department event calendars as well as [various](http://sanfrancisco.about.com/od/sfevents/tp/Free-Christmas-And-Holiday-Activities-And-Events-In-San-Francisco.htm) [online](http://redtri.com/san-francisco/kwanzaa-san-francisco/) [lists](http://sanfrancisco.cbslocal.com/top-lists/best-ways-to-celebrate-hanukkah-in-the-bay-area/) of public holiday events.&nbsp; Grab your loved ones and go explore!
 
+###### To view map full screen [click here](https://blakev.carto.com/builder/98fd3750-c61a-11e6-a843-0e3ff518bd15/embed).
+
+<iframe width="100%" height="520" frameborder="0" src="https://blakev.carto.com/builder/98fd3750-c61a-11e6-a843-0e3ff518bd15/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## Shop for Toys
 
 Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer, a selection is presented below.&nbsp; Data was culled via a private source of open data, the Yelp API.&nbsp;
 
-###### To view map full screen [click here](https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed).
+###### To view map full screen [click here](https://blakev.carto.com/builder/ab6db45a-c61a-11e6-976b-0e05a8b3e3d7/embed).
 
-<iframe src="https://blakev.carto.com/builder/ce20b878-c005-11e6-9a09-0e3ff518bd15/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" class="present-before-paste" width="100%" height="720" frameborder="0"></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://blakev.carto.com/builder/ab6db45a-c61a-11e6-976b-0e05a8b3e3d7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 However you choose to celebrate this year DataSF wishes you a very happy holiday season!
 
