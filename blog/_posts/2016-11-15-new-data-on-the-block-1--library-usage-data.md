@@ -12,7 +12,7 @@ image:
     author_link: 'https://www.flickr.com/photos/jasonunbound/'
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
-description: 'This is the first in a series of posts in which we highlight recently published data to the open data portal. First up, library data!'
+description: 'New year, new feature! This is the first in a series of posts in which we highlight recently published data to the open data portal. First up, library data!'
 date: 2016-11-16 00:00:00
 categories:
   - blog
@@ -20,7 +20,7 @@ published: true
 ---
 
 
-New year, new feature! This is the first in a series of posts in which we highlight recently published data to the open data portal
+New year, new feature! This is the first in a series of posts in which we highlight recently published data to the open data portal.
 
 I don’t know about where you work, but around DataSF books rule. While we often geek out over city data or the newest visualization technique, nothing quite compares to a good book, a comfy chair, and a rainy day. That’s why we are so excited to reveal the latest addition to the open data portal: library usage data! The library usage dataset contains de-identified data about the total number of checkouts and renewals across a host of categories. Take an unprecedented peek into the voracious book, audiobook, and e-book consumption habits of San Franciscans. Follow along and prepare to have your assumptions challenged and learn about your fellow San Franciscans impressive love of books!
 
@@ -34,7 +34,7 @@ Think you’re hot stuff because you always have a book in hand? How does your c
 
 The below chart highlights library branches whose users check out the most books per year. Click on an age range or a Supervisor District to see how the rankings change.
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNjJhM2Y3YTUtN2RjOC00YjRiLWE1ZmEtNWFkNWU0Y2JmMTBmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe> 
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjJhM2Y3YTUtN2RjOC00YjRiLWE1ZmEtNWFkNWU0Y2JmMTBmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe>
 
 ## Now it’s your turn!
 
