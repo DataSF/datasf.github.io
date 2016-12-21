@@ -20,7 +20,7 @@ published: true
 ---
 
 
-This is the first in a series of posts in which we highlight recently published data to the open data portal
+New year, new feature! This is the first in a series of posts in which we highlight recently published data to the open data portal
 
 I don’t know about where you work, but around DataSF books rule. While we often geek out over city data or the newest visualization technique, nothing quite compares to a good book, a comfy chair, and a rainy day. That’s why we are so excited to reveal the latest addition to the open data portal: library usage data! The library usage dataset contains de-identified data about the total number of checkouts and renewals across a host of categories. Take an unprecedented peek into the voracious book, audiobook, and e-book consumption habits of San Franciscans. Follow along and prepare to have your assumptions challenged and learn about your fellow San Franciscans impressive love of books!
 
