@@ -1,6 +1,6 @@
 ---
 title: 'New Data on the Block #1- Library Usage Data'
-author: joy_bonaguro
+author: blake_valenta
 image:
   thumb: /new-data-block-1-library/library.jpg
   feature: /new-data-block-1-library/library.jpg
@@ -16,7 +16,7 @@ description: 'This is the first in a series of posts in which we highlight recen
 date: 2016-11-16 00:00:00
 categories:
   - blog
-published: false
+published: true
 ---
 
 
