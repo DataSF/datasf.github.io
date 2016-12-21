@@ -13,7 +13,7 @@ image:
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description: 'This is the first in a series of posts in which we highlight recently published data to the open data portal. First up, library data!'
-date: 2017-11-17 00:00:00
+date: 2017-11-16 00:00:00
 categories:
   - blog
 published: false
@@ -30,17 +30,15 @@ I don’t know about where you work, but around DataSF books rule. While we ofte
 
 Think you’re hot stuff because you always have a book in hand? How does your checkouts per year stack up against the under 9 crowd… That’s what I thought. [Locate your closest library](https://www.google.com/maps/d/viewer?ll=37.75684299999998%2C-122.444366&amp;spn=0.095003%2C0.145912&amp;hl=en&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;mid=1B8aE_aJusm_OGyajBH7pW_EfDdo) and catch up!
 {: .present-before-paste}
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTdiMTQyZjctMzMwYS00ODA4LWI5ODgtNjIxZDEzYWQ4YWE5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
-{: .present-before-paste}
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTdiMTQyZjctMzMwYS00ODA4LWI5ODgtNjIxZDEzYWQ4YWE5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowfullscreen="true"></iframe>
 
 ## What Supervisorial Districts are library fiends?
 
 Walking around your home do you find yourself surrounded by folks with their nose in a book? See how your Supervisorial District stacks up! Select an age range to see how the rankings change by age.
 {: .present-before-paste}
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOWIyMzViOTMtYTg2NC00ZjY2LWE0NjItODdjOGViNjU2NmFmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
-{: .present-before-paste}
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOWIyMzViOTMtYTg2NC00ZjY2LWE0NjItODdjOGViNjU2NmFmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowfullscreen="true" class="present-before-paste"></iframe>
 
 ## Now it’s your turn!
 
