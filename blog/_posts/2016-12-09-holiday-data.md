@@ -28,7 +28,7 @@ Sure you could buy a pre-cut Christmas tree or pre-plucked Holly but why not che
 
 ###### To view map full screen [click here](https://blakev.carto.com/builder/2489dbf8-c61a-11e6-8199-0e233c30368f/embed).
 
-<iframe width="100%" height="520" frameborder="0" src="https://blakev.carto.com/builder/2489dbf8-c61a-11e6-8199-0e233c30368f/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://blakev.carto.com/builder/2489dbf8-c61a-11e6-8199-0e233c30368f/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" width="100%" height="520" frameborder="0"></iframe>
 
 ## Attend one of the many public holiday events
 {: .present-before-paste}
@@ -37,15 +37,15 @@ Why stop at trees when so many public Holiday events are occurring throughout th
 
 ###### To view map full screen [click here](https://blakev.carto.com/builder/98fd3750-c61a-11e6-a843-0e3ff518bd15/embed).
 
-<iframe width="100%" height="520" frameborder="0" src="https://blakev.carto.com/builder/8fb8b248-c7c6-11e6-bfd3-0ecd1babdde5/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://blakev.carto.com/builder/8fb8b248-c7c6-11e6-bfd3-0ecd1babdde5/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" width="100%" height="520" frameborder="0"></iframe>
 
 ## Shop for Toys
 
-Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer. A selection of 40 stores is presented below.&nbsp; Data was culled via a private source of open data, the Yelp API.&nbsp;
+Last minute shopping to do for the kids?&nbsp; Maybe while you are out looking at holiday trees or attending a holiday event you should slip into a nearby toy store.&nbsp; San Francisco has plenty to offer. A selection of 40 stores is presented below.&nbsp; Data was culled via a private source of open data, the [Yelp API](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjWlNLloobRAhWIr1QKHaBrCsQQFggcMAA&amp;url=https%3A%2F%2Fwww.yelp.com%2Fdevelopers%2Fdocumentation%2Fv2%2Foverview&amp;usg=AFQjCNH6kkbhg88eZtjp5_d6p-78Hm8UKA&amp;sig2=2xmzJJLOvmQjH2LzSHeI3g).&nbsp;
 
 ###### To view map full screen [click here](https://blakev.carto.com/builder/ab6db45a-c61a-11e6-976b-0e05a8b3e3d7/embed).
 
-<iframe width="100%" height="520" frameborder="0" src="https://blakev.carto.com/builder/148b3ef0-c7c7-11e6-8552-0e05a8b3e3d7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://blakev.carto.com/builder/148b3ef0-c7c7-11e6-8552-0e05a8b3e3d7/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" width="100%" height="520" frameborder="0"></iframe>
 
 However you choose to celebrate this year DataSF wishes you a very happy holiday season!
 
