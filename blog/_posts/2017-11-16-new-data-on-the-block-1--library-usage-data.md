@@ -30,8 +30,8 @@ I don’t know about where you work, but around DataSF books rule. While we ofte
 
 Think you’re hot stuff because you always have a book in hand? How does your checkouts per year stack up against the under 9 crowd… That’s what I thought. [Locate your closest library](https://www.google.com/maps/d/viewer?ll=37.75684299999998%2C-122.444366&amp;spn=0.095003%2C0.145912&amp;hl=en&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;mid=1B8aE_aJusm_OGyajBH7pW_EfDdo) and catch up!
 {: .present-before-paste}
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTdiMTQyZjctMzMwYS00ODA4LWI5ODgtNjIxZDEzYWQ4YWE5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjVkNTU5YjMtZTVlMy00YTA5LWEyODQtMzk4OWRhMDVkOTI5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe>
 {: .present-before-paste}
 
 ## What Supervisorial Districts are library fiends?
@@ -39,7 +39,7 @@ Think you’re hot stuff because you always have a book in hand? How does your c
 Walking around your home do you find yourself surrounded by folks with their nose in a book? See how your Supervisorial District stacks up! Select an age range to see how the rankings change by age.
 {: .present-before-paste}
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNDIxNzM4MjEtNmQwMy00YmJlLWI0YjItNTNjYTQzNDE1NzUxIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe>
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOWIyMzViOTMtYTg2NC00ZjY2LWE0NjItODdjOGViNjU2NmFmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 {: .present-before-paste}
 
 ## Now it’s your turn!
