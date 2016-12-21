@@ -21,21 +21,28 @@ published: false
 
 
 This is the first in a series of posts in which we highlight recently published data to the open data portal
+{: .present-before-paste}
 
 I don’t know about where you work, but around DataSF books rule. While we often geek out over city data or the newest visualization technique, nothing quite compares to a good book, a comfy chair, and a rainy day. That’s why we are so excited to reveal the latest addition to the open data portal: library usage data! The library usage dataset contains de-identified data about the total number of checkouts and renewals across a host of categories. Take an unprecedented peek into the voracious book, audiobook, and e-book consumption habits of San Franciscans. Follow along and prepare to have your assumptions challenged and learn about your fellow San Franciscans impressive love of books!
+{: .present-before-paste}
 
 ## What age group uses the library the most?
 
 Think you’re hot stuff because you always have a book in hand? How does your checkouts per year stack up against the under 9 crowd… That’s what I thought. [Locate your closest library](https://www.google.com/maps/d/viewer?ll=37.75684299999998%2C-122.444366&amp;spn=0.095003%2C0.145912&amp;hl=en&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;mid=1B8aE_aJusm_OGyajBH7pW_EfDdo) and catch up!
+{: .present-before-paste}
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNjVkNTU5YjMtZTVlMy00YTA5LWEyODQtMzk4OWRhMDVkOTI5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjVkNTU5YjMtZTVlMy00YTA5LWEyODQtMzk4OWRhMDVkOTI5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe>
+{: .present-before-paste}
 
 ## What Supervisorial Districts are library fiends?
 
-Walking around your home do you find yourself surrounded by folks with their nose in a book?  See how your Supervisorial District stacks up! Select an age range to see how the rankings change by age.
+Walking around your home do you find yourself surrounded by folks with their nose in a book? See how your Supervisorial District stacks up! Select an age range to see how the rankings change by age.
+{: .present-before-paste}
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNDIxNzM4MjEtNmQwMy00YmJlLWI0YjItNTNjYTQzNDE1NzUxIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNDIxNzM4MjEtNmQwMy00YmJlLWI0YjItNTNjYTQzNDE1NzUxIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe>
+{: .present-before-paste}
 
 ## Now it’s your turn!
 
-Download the data from portal [LINK] and start digging. Grab R, Python, Tableau, PowerBI, Excel, or pen and paper and start visualizing! Be sure to tweet us [Twitter Link] anything you’re proud of. We will feature the best visualizations on our blog and twitter. Stay reading SF!
+Download the data from the [open data portal](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup) and start digging. Grab R, Python, Tableau, PowerBI, Excel, or pen and paper and start visualizing! Be sure to [tweet us](https://twitter.com/datasf) anything you’re proud of. We will feature the best visualizations on our blog and twitter. Stay reading SF!
+{: .present-before-paste}
