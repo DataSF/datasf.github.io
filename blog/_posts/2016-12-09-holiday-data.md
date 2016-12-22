@@ -2,9 +2,9 @@
 title: Holiday Data
 author: blake_valenta
 image:
-  thumb: /themed-holiday-data/snowflake.jpg
-  feature: /themed-holiday-data/snowflake.jpg
-  caption: Holiday Datum
+  thumb: /themed-holiday-data/tree.jpg
+  feature: /themed-holiday-data/tree.jpg
+  caption: 'Happy holidays!'
   source:
     title: City Hall Christmas Tree
     author: Joy Bonaguro
