@@ -13,7 +13,7 @@ blurb: Browse resources produced by DataSF. You can browse by topic or search al
   <div class="container" style="z-index: 4; position: relative;">
     <div class="row">
       <div class="col-xs-12">
-        <h1 style="color: white;"><i class="fa fa-book"></i> Resource Library</h1>
+        <h1 style="color: white; margin-top: 30px;"><i class="fa fa-book" aria-hidden="true"></i> Resource Library</h1>
         <div class="blurb" style="max-width: 450px; margin-top: 25px;">
           <p>{{page.blurb}}</p>
         </div>
@@ -26,12 +26,8 @@ blurb: Browse resources produced by DataSF. You can browse by topic or search al
 <section id="resources">
   <div class="container">
     <div class="row">
-      <div class="col-sm-12">
+      <div class="col-md-9">
         <h2>Topics</h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12">
         {% assign sorted_topics = site.resource_topics | sort: 'title' %}
         {% for topic in sorted_topics %}
         <div class="">
@@ -40,14 +36,15 @@ blurb: Browse resources produced by DataSF. You can browse by topic or search al
         </div>
         {% endfor %}
       </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>All Resources</h2>
+      <div class="col-md-3">
+        <h2 style="font-size: 20px;">Support</h2>
+        <p>Looking for help? Here are some featured support articles. You can also search the support portal for more.</p>
+        <p>To do: articles listed here.</p>
       </div>
     </div>
     <div class="row">
       <div class="col-sm-12">
+        <h2>All Resources</h2>
         <table id="resources-table">
           <thead>
             <tr>
