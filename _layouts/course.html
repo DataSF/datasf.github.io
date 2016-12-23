@@ -27,7 +27,9 @@ layout: default
             <li class="list-group-item" style="font-size: .7em;">* only open to CCSF employees with supervisor approval</li>
           </ul>
         </div>
+        {% if page.course_short_name %}
         <a class="btn btn-default btn-block" href="https://docs.google.com/forms/d/1KgDPIXlXAJJWz2BcVPMHF8DLgU3Z6cyra_JOiMnIKNA/viewform?entry.1562192740&entry.1369880909={{page.course_short_name}}">Join the waitlist for this course</a>
+        {% endif %}
       </div>
       <article class="wrap article" itemscope itemtype="http://schema.org/Article">
         <div class="col-md-8 col-md-pull-4">

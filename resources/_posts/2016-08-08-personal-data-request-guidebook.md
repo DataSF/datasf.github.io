@@ -7,7 +7,7 @@ type: PDF
 date: 2016-08-08 16:00:00
 downloads:
   - type: PDF
-    url: 'https://drive.google.com/open?id=0B0jc1tmJAlTcb3RDWUlhd1BnTUU'
+    url: 'https://drive.google.com/uc?export=download&id=0B0jc1tmJAlTcZTBlY0duZjVGdUk'
 fordc: true
 sitemap: false
 categories:
