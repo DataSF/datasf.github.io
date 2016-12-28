@@ -5,6 +5,7 @@ background_image_path: /uploads/library.jpg
 index: resources
 subnav: true
 js: resources.js
+lunr: true
 blurb: Browse resources produced by DataSF. You can browse by topic or search all resources.
 ---
 <div class="masthead" style="height: 200px; color: white; background: #333 url({{page.background_image_path}}) 50% 50% no-repeat; position:relative; background-position: right;">
@@ -27,22 +28,24 @@ blurb: Browse resources produced by DataSF. You can browse by topic or search al
   <div class="container">
     <div class="row">
       <div class="col-md-9">
-        <h2>Topics</h2>
-        {% assign sorted_topics = site.resource_topics | sort: 'title' %}
-        {% for topic in sorted_topics %}
-        <div class="">
-          <h3><a href="{{topic.url}}">{{ topic.title }}</a> <small>{{topic.resources_list.size}} resource{% if topic.resources_list.size > 1 %}s{%endif%}</small></h3>
-          <p>{{ topic.description }}</p>
+        <input id='search' />
+        <div id='results'></div>
+        <div id='topics'>
+          <h2>Topics</h2>
+          {% assign sorted_topics = site.resource_topics | sort: 'title' %}
+          {% for topic in sorted_topics %}
+          <div class="topic-card">
+            <h3><a href="{{topic.url}}">{{ topic.title }}</a> <small>{{topic.resources_list.size}} resource{% if topic.resources_list.size > 1 %}s{%endif%}</small></h3>
+            <p>{{ topic.description }}</p>
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
       </div>
       <div class="col-md-3">
-        <h2 style="font-size: 20px;">Support</h2>
-        <p>Looking for help? Here are some featured support articles. You can also search the support portal for more.</p>
-        <p>To do: articles listed here.</p>
+        
       </div>
     </div>
-    <div class="row">
+    <div class="row hidden">
       <div class="col-sm-12">
         <h2>All Resources</h2>
         <table id="resources-table">

@@ -1,6 +1,6 @@
 ---
 title: Data Inventory Guidance
-description: Resources to aid in the collection of dataset inventories for the open data program.
+description: Resources to aid in the collection and maintenance of dataset inventories for the open data program.
 tags:
 resources_list:
   - name: Data Coordinator Guidebook
