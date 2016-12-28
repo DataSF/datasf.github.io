@@ -26,6 +26,6 @@ resources_list:
 Managing with data can come in a variety of forms. DataSF has worked with partners to develop guidance on a couple of approaches:
 
 1. **Dashboarding.**There are many different tools to use and it can be tricky to parse all the options. The guide below includes an overview of various tools and methods for evaluating them.
-2. **Stat Programs.**These are processes that help you continuously improve services in your department. Working with the Controller's office, the stat starter kit was developed to orient departments and programs interested in starting their own program. By the way, dashboarding is a good complement to a robust stat program.
+2. **Stat Programs.**These are processes that help you continuously improve services in your department. Working with the [Controller's office](http://sfcontroller.org/), the stat starter kit was developed to orient departments and programs to stat. By the way, dashboarding is a good complement to a robust stat program.
 
 You can also check out additional related resources on the [Results Based Accountability](/resources/results-based-accountability-rba/) framework, which can help in determining what the right measures are.
