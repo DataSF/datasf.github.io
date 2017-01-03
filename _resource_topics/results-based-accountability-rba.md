@@ -6,6 +6,16 @@ audiences:
   - DataSF Staff
   - Data Coordinator
   - Data Publisher
+resources_list:
+  - name: Implementation Guide
+    description: An external guide offered by 
+    post_date: 2014-06-19 00:00:00
+    resource_type: Guide
+    links:
+      - link: 'https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/edit?usp=sharing'
+        media_type: Google Doc
+      - link: 'https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/export?format=pdf'
+        media_type: PDF
 ---
 
 
