@@ -7,13 +7,20 @@ audiences:
   - Data Coordinator
   - Data Publisher
 resources_list:
-  - name: Implementation Guide
-    description: An external guide offered by
+  - name: Longterm Implementation Guide
+    description: An external guide for those looking to implement RBA in their organization
     post_date: 2017-01-03 00:00:00
     resource_type: Guide
     links:
       - link: 'http://raguide.org/'
         media_type: Link
+  - name: The Results-Based Accountability Guide
+    description: An external guide offered by the Results Leadership Group
+    post_date: 2017-01-03 00:00:00
+    resource_type: Guide
+    links:
+      - link: 'http://www.dhs.state.il.us/onenetlibrary/27896/documents/by_division/dchp/rfp/rbaguide.pdf'
+        media_type: PDF
 ---
 
 
@@ -34,4 +41,4 @@ At DataSF, we use RBA, together with our logic model, to track performance of ea
 Learn more about RBA:
 
 * [Long Implementation guide](http://raguide.org/)
-* [The Results-Based Accountability Guide](http://www.dhs.state.il.us/onenetlibrary/27896/documents/by_division/dchp/rfp/rbaguide.pdf) (PDF)
+* [The Results-Based Accountability Guide](http://www.dhs.state.il.us/onenetlibrary/27896/documents/by_division/dchp/rfp/rbaguide.pdf)&nbsp;(PDF)
