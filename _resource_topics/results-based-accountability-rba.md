@@ -8,14 +8,12 @@ audiences:
   - Data Publisher
 resources_list:
   - name: Implementation Guide
-    description: An external guide offered by 
-    post_date: 2014-06-19 00:00:00
+    description: An external guide offered by
+    post_date: 2017-01-03 00:00:00
     resource_type: Guide
     links:
-      - link: 'https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/edit?usp=sharing'
-        media_type: Google Doc
-      - link: 'https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/export?format=pdf'
-        media_type: PDF
+      - link: 'http://raguide.org/'
+        media_type: Link
 ---
 
 
@@ -36,4 +34,4 @@ At DataSF, we use RBA, together with our logic model, to track performance of ea
 Learn more about RBA:
 
 * [Long Implementation guide](http://raguide.org/)
-* [The Results-Based Accountability Guide](http://www.dhs.state.il.us/onenetlibrary/27896/documents/by_division/dchp/rfp/rbaguide.pdf)&nbsp;(PDF)
+* [The Results-Based Accountability Guide](http://www.dhs.state.il.us/onenetlibrary/27896/documents/by_division/dchp/rfp/rbaguide.pdf) (PDF)
