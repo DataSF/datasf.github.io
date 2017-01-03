@@ -1,11 +1,11 @@
 ---
 ---
-
 // builds lunr
 var index = lunr(function () {
   this.field('title')
-  this.field('content', {boost: 10})
-  this.field('category')
+  this.field('description', {boost: 10})
+  this.field('topic')
+  this.field('topic_content')
   this.field('tags')
   this.ref('id')
 });
@@ -24,42 +24,130 @@ var index = lunr(function () {
   {% endfor %}
 {% endfor %}
 
-console.log( jQuery.type(index) );
 // builds reference data
 var store = [{% for topic in site.resource_topics %}{% for resource in topic.resources_list %}{
   "title": {{ resource.name | jsonify}},
+  "resouce_type": {{ resource.resource_type | jsonify }},
   "link": {{ topic.url | jsonify }},
   "description": {{ resource.description | jsonify }},
-  "topic": {{ topic.title | jsonify }}
+  "topic": {{ topic.title | jsonify }},
+  "links": [{% for link in resource.links %}{
+    "link": {{ link.link | jsonify }},
+    "text": "{{site.data.actions[link.media_type].action | append:' ' | append:link.media_type}}"
+  }{% unless forloop.last %},{% endunless %}{% endfor %}]
 }{% unless forloop.last %},{% endunless %}{% endfor %}{% unless forloop.last %},{% endunless %}{% endfor %}]
+
 // builds search
 
 $(document).ready(function() {
-    $('input#search').on('keyup', function () {
-      var resultdiv = $('#results')
-      var topicsdiv = $('#topics')
-      // Get query
-      var query = $(this).val();
-      console.log(query.length)
-      // Search for it
-      if (query.length === 0) {
-        topicsdiv.show()
-        resultdiv.empty()
-      } else {
-        var result = index.search(query);
-        // Show results
-        resultdiv.empty()
-        topicsdiv.hide()
-        // Add status
-        resultdiv.prepend('<p class="">Found '+result.length+' result(s)</p>');
-        // Loop through, match, and add results
-        for (var item in result) {
-          var ref = result[item].ref;
-          var searchitem = '<div class="result"><div class="result-body"><a href="'+store[ref].link+'" class="post-title">'+store[ref].title+'</a><p>'+store[ref].topic+'<p>'+store[ref].description+'</p></div>';
-          resultdiv.append(searchitem);
-        }
-      }
-    })
+  // define results, topics and resources containers
+  var resultdiv = $('#results')
+  var resourcesdiv = $('#resources')
+  var topicsdiv = $('#topics')
     
-    $('#resources-table').DataTable();
-} );
+  var clearInput = function (e) {
+    e.preventDefault()
+    
+    if(!e) return
+    if(!e.data.target) return
+    
+    $(e.data.target).val('')
+    showAllResources()
+  }
+  
+  // show collections
+  
+  var showCollections = function (collections, resources, results) {
+    activateTab('collections')
+    collections.show()
+    resources.hide()
+    
+  } 
+  
+  var activateTab = function (target) {
+    $('.data-' + target).tab('show')
+  }
+  
+  var showResources = function (collections, resources, results) {
+    activateTab('resources')
+    resources.show()
+    showAllResources()
+    collections.hide()
+  }
+  
+  var showAllResources = function () {
+    resultdiv.empty()
+    
+    var length = store.length
+    var searchitem
+    for (var i = 0; i < length; i++) {
+      searchitem = buildItem(store[i])
+      resultdiv.append(searchitem)
+    }
+    $('.clear-filter-button').hide()
+  }
+  
+  var buildItem = function(itemObj) {
+    var resourceTypeL = itemObj.resouce_type.toLowerCase().replace(/\s+/g, "-")
+    var numLinks = itemObj.links.length
+    var item = '<div class="resource-list-item"><small class="color-'+resourceTypeL+'" style="font-weight: bold">'+itemObj.resouce_type+'</small><h3 class="resource-title"><i class="fa resource-icon-'+resourceTypeL+' color-'+resourceTypeL+'" aria-hidden="true"></i> '+itemObj.title+'</h3><div class="resource-content">'
+    
+    item += '<div class="resource-downloads">'
+    for(var i=0; i < numLinks; i++) {
+      item += '<a href="'+itemObj.links[i].link+'" class="btn btn-xs btn-primary">'+itemObj.links[i].text+'</a> '
+    }
+    item += '</div><p>'+itemObj.description+'</p><p>Part of the collection: <strong><a href="'+itemObj.link+'">'+itemObj.topic+'</a></strong></p></div>'
+    
+    return item
+  }
+
+  $('.js-clear-input').on('click', { target: '#search' }, clearInput)
+  
+  $('.js-click-tab').on('click', function (e) {
+    if (!e) return
+    
+    if (e.currentTarget.className.indexOf('data-resources') !== -1) {
+      showResources(topicsdiv, resourcesdiv, resultdiv)
+    } else {
+      console.log(e)
+      showCollections(topicsdiv, resourcesdiv, resultdiv)
+    }
+  })
+  
+  $('input#search').on('keyup', function () {
+    // Get query
+    var query = $(this).val();
+    // Search for it
+    if (query.length === 0) {
+      showAllResources()
+    } else {
+      $('.clear-filter-button').show()
+      var result = index.search(query);
+      // Show results
+      resourcesdiv.show()
+      resultdiv.empty()
+      topicsdiv.hide()
+      // Add status
+      resultdiv.prepend('<p class="">Found '+result.length+' result(s)</p>');
+      // Loop through, match, and add results
+      for (var item in result) {
+        var ref = result[item].ref;
+        var resourceTypeL = store[ref].resouce_type.toLowerCase().replace(/\s+/g, "-")
+        var searchitem = '<div class="resource-list-item"><small class="color-'+resourceTypeL+'" style="font-weight: bold">'+store[ref].resouce_type+'</small><h3 class="resource-title"><i class="fa resource-icon-'+resourceTypeL+' color-'+resourceTypeL+'" aria-hidden="true"></i> '+store[ref].title+'</h3><div class="resource-content">'
+        var numLinks = store[ref].links.length
+        searchitem += '<div class="resource-downloads">'
+        for(var i=0; i < numLinks; i++) {
+          searchitem += '<a href="'+store[ref].links[i].link+'" class="btn btn-xs btn-primary">'+store[ref].links[i].text+'</a> '
+        }
+        searchitem += '</div><p>'+store[ref].description+'</p><p>Part of the collection: <strong><a href="'+store[ref].link+'">'+store[ref].topic+'</a></strong></p></div>'
+        resultdiv.append(searchitem);
+      }
+    }
+  })
+  
+  $('#resources-table').DataTable();
+    
+});
+
+// clear search terms
+

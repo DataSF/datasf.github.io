@@ -2,22 +2,25 @@
 layout: default
 ---
 
-<section id="article">
+<section class="thin-section">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12 section-heading-wrapper">
-        <h1 class="section-heading bg-line">{{page.title}}</h1>
+      <div class="col-xs-12">
+        <strong>Resource Collection</strong>
+        <h1 class="section-heading">{{page.title}}</h1>
       </div>
     </div>
     <div class="row">
-      <article class="wrap article" itemscope itemtype="http://schema.org/Article">
-        <div class="col-sm-12">
-            {{ content }}
-            {% for resource in page.resources_list %}
-            {% assign type_slug = resource.resource_type | slugify | downcase %}
-            <div class="resource-list-item">
-              <small class="color-{{type_slug}}" style="font-weight: bold">{{ resource.resource_type }}</small>
-              <h2 class="resource-title"><i class="fa resource-icon-{{type_slug}} color-{{type_slug}}" aria-hidden="true"></i> {{ resource.name }}</h2>
+      <div class="col-md-8">
+        <article class="wrap article" itemscope itemtype="http://schema.org/Article">
+          {{ content }}
+        </article>
+        {% for resource in page.resources_list %}
+          {% assign type_slug = resource.resource_type | slugify | downcase %}
+          <div class="resource-list-item">
+            <small class="color-{{type_slug}}" style="font-weight: bold">{{ resource.resource_type }}</small>
+            <h2 class="resource-title"><i class="fa resource-icon-{{type_slug}} color-{{type_slug}}" aria-hidden="true"></i> {{ resource.name }}</h2>
+            <div class='resource-content'>
               <div class="resource-downloads">
               {% for link in resource.links %}
                 {% assign action = site.data.actions[link.media_type].action %}
@@ -26,9 +29,9 @@ layout: default
               </div>
               <p>{{ resource.description }}</p>
             </div>
-            {% endfor %}
-        </div>
-      </article>
+          </div>
+          {% endfor %}
+      </div>
     </div>
   </div>
 </section>

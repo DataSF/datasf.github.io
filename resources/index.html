@@ -6,7 +6,7 @@ index: resources
 subnav: true
 js: resources.js
 lunr: true
-blurb: Browse resources produced by DataSF. You can browse by topic or search all resources.
+blurb: Browse resources produced by DataSF. You can browse by resource collection or search for a specific resource.
 ---
 <div class="masthead" style="height: 200px; color: white; background: #333 url({{page.background_image_path}}) 50% 50% no-repeat; position:relative; background-position: right;">
   <div class="darkener"></div>
@@ -24,17 +24,29 @@ blurb: Browse resources produced by DataSF. You can browse by topic or search al
 </div>
   
 </div>
-<section id="resources">
+<section id="resources-section">
   <div class="container">
     <div class="row">
       <div class="col-md-9">
-        <input id='search' />
-        <div id='results'></div>
+        <ul class="nav nav-tabs nav-resources">
+          <li role="presentation" class='active js-click-tab data-collections'><a href="#/collections">By Collection</a></li>
+          <li role="presentation" class='js-click-tab data-resources'><a href="#/all-resources">Search all Resources</a></li>
+        </ul>
+        <div id='resources' style='display:none;'>
+          <h2>Resources</h2>
+          <div class="form-group" style="position:relative;">
+            <label for="search">Search for specific resources</label>
+            <input type="text" class="form-control" id="search" placeholder="Enter search terms here, list will populate as you type">
+            <i class="fa fa-times-circle clear-filter-button js-clear-input" aria-hidden="true" style='display:none;'><span class="sr-only">clear filter</span></i>
+          </div>
+          <div id='results'></div>
+        </div>
         <div id='topics'>
-          <h2>Topics</h2>
+          <h2>Collections</h2>
+          <p>Collections are bundles of related resources. You can search for specific resources above or click into any of the collections below.</p>
           {% assign sorted_topics = site.resource_topics | sort: 'title' %}
           {% for topic in sorted_topics %}
-          <div class="topic-card">
+          <div class="resource-card well">
             <h3><a href="{{topic.url}}">{{ topic.title }}</a> <small>{{topic.resources_list.size}} resource{% if topic.resources_list.size > 1 %}s{%endif%}</small></h3>
             <p>{{ topic.description }}</p>
           </div>

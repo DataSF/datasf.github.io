@@ -160,6 +160,20 @@ article a {
 
 /*** Resources ***/
 
+#results {
+  min-height: 800px;
+}
+
+.clear-filter-button {
+  position: absolute;
+  top: 40px;
+  right: 10px;
+}
+
+.resource-content {
+  margin-left: 32px;
+}
+
 .resource-downloads {
   margin: 10px 0;
 }
@@ -169,10 +183,38 @@ article a {
 }
 
 .resource-downloads .btn {
-  background-color: #476481;
+  background-color: #7e7e7e;
   text-transform: none;
 }
 
+h2.resource-title {
+  font-size: 24px;
+}
+
+.resource-list-item small {
+  font-size: 80%;
+}
+
+.resource-card.well {
+  padding: 19px 19px 0 19px;
+}
+
+.resource-card h3 {
+  margin-top: 0;  
+}
+
+.resource-title .fa {
+  color: #d3d3d3;
+}
+
+h3.resource-title {
+  margin-top: 0;
+}
+
+.resource-list-item small {
+  color: #7e7e7e;
+}
+/*
 .color-document {
   color: #FF5722;
 }
@@ -204,14 +246,10 @@ article a {
 .color-video {
   color: #532E6B;
 }
+*/
 
 .resources-category {
   margin-bottom: 30px;
-}
-
-.resource-list-item {
-  margin-bottom: 20px;
-  border-bottom: thin dotted #333333;
 }
 
 .resource-icon-toolkit:before {
@@ -422,6 +460,7 @@ fieldset[disabled] .btn-xl.active {
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   margin-bottom: 0;
+  color: white;
 }
 a:hover,
 a:active {
@@ -473,11 +512,7 @@ a:active {
 .navbar-collapse.in li.active {
   background-color: #4d4d4d;
 }
-.nav>li>a {
-  margin: 0 15px;
-  padding: 15px 0;
-  color: #fff;
-}
+
 .navbar-default {
   border-color: transparent;
   background-color: #222;
@@ -529,6 +564,7 @@ a:active {
   padding: 0 10px;
   margin: 0;
   line-height: 40px;
+  color: white;
 }
 
 .navbar.navbar-subnav {

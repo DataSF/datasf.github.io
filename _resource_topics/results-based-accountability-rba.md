@@ -6,14 +6,6 @@ audiences:
   - DataSF Staff
   - Data Coordinator
   - Data Publisher
-resources_list:
-  - name:
-    description:
-    post_date:
-    resource_type:
-    links:
-      - link:
-        media_type:
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Managing Personal Data Requests
-description: Guide for City and County of San Francisco departments and agencies to implement a process to provide individuals with their own personal data upon request.
+description: Guide for departments on when and how to provide individuals with their own personal data upon request.
 tags:
 audiences:
   - Data Coordinator
@@ -17,7 +17,7 @@ resources_list:
     post_date: 2016-08-08 00:00:00
     resource_type: One Pager
     links:
-      - link: 'https://drive.google.com/open?id=0B0jc1tmJAlTcWk4xMXZUZEplQW8'
+      - link: 'https://drive.google.com/uc?export=download&id=0B0jc1tmJAlTcWk4xMXZUZEplQW8'
         media_type: PDF
 ---
 
