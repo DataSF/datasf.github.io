@@ -1,5 +1,5 @@
 ---
-title: Adopt a Drain and its surprising outcome
+title: Something special happened on the way to adopting drains
 author: jason_lally
 image:
   thumb:
