@@ -68,4 +68,6 @@ I’ll leave you with a little video inspiration from the PUC about some of the 
 
 &lt;Video embed: **https://www.youtube.com/watch?v=J3VvLshNE4Y&index=1&list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG**&gt;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J3VvLshNE4Y?list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG" frameborder="0" allowfullscreen></iframe>
+<div class='embed-responsive embed-responsive-16by9'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/J3VvLshNE4Y?list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG" frameborder="0" allowfullscreen></iframe>
+</div>
