@@ -2,6 +2,13 @@
 layout: default
 title: 'DataSF | Resource Library'
 background_image_path: /uploads/library.jpg
+image_source:
+  title: library books
+  link: https://www.flickr.com/photos/timetrax/376152628
+  author: timetrax23
+  author_link: https://www.flickr.com/photos/timetrax/
+  license: CC BY-SA 2.0
+  license_link: https://creativecommons.org/licenses/by-sa/2.0/
 index: resources
 subnav: true
 js: resources.js
@@ -11,7 +18,15 @@ blurb: Browse resources produced by DataSF. You can browse by resource collectio
 <div class="masthead" style="height: 200px; color: white; background: #333 url({{page.background_image_path}}) 50% 50% no-repeat; position:relative; background-position: right;">
   <div class="darkener"></div>
   <div class="left-cover"></div>
+  {% if page.image_source %}
+  <div class="masthead-attribution" style="z-index: 5; position: absolute; bottom:0; right: 30px;">
+    <figcaption style="color:white;">
+      <a href="{{page.image_source.link}}">{{ page.image_source.title }}</a> by <a href="{{page.image_source.author_link}}">{{page.image_source.author}}</a> licensed under <a href="{{page.image_source.license_link}}">{{page.image_source.license}}</a>
+    </figcaption>
+  </div>
+  {% endif %}
   <div class="container" style="z-index: 4; position: relative;">
+
     <div class="row">
       <div class="col-xs-12">
         <h1 style="color: white; margin-top: 30px;"><i class="fa fa-book" aria-hidden="true"></i> Resource Library</h1>

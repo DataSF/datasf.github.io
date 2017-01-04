@@ -38,7 +38,4 @@ For performance metrics for programs and services, you define three sets of metr
 
 At DataSF, we use RBA, together with our logic model, to track performance of each of our programs. [Read our blog post on how we do this](/blog/how-to-measure-open-data/).
 
-Learn more about RBA:
-
-* [Long Implementation guide](http://raguide.org/)
-* [The Results-Based Accountability Guide](http://www.dhs.state.il.us/onenetlibrary/27896/documents/by_division/dchp/rfp/rbaguide.pdf)&nbsp;(PDF)
+Learn more about RBA at the external resources below:

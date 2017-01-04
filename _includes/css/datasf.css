@@ -157,6 +157,10 @@ article a {
   text-decoration: underline;
 }
 
+.masthead-attribution a {
+  color: white;
+}
+
 
 /*** Resources ***/
 
