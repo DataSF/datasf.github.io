@@ -59,7 +59,7 @@ Of the close to 25,000 drains, around 1,000 have been adopted so far. Adopt a Dr
 Just read this note sent to the SFPUC:
 
 > *My family of four have typically cleaned the two drains in our neighborhood (which I signed up for tonight) at our corner for the past 25 years. I am glad you began this program as it involves people in our community and helps me teach my sons a sense of civic pride and duty. My father is a retired civil engineer and one of his tasks was to design road drains. My siblings and I grew up understanding the importance of cleaning drains. I have taught my sons this lesson.*
-
+>
 > *I hope this program takes off.*
 
 Also, at a recent volunteer event held at the [Southeast Treatment Plant](https://sfwater.org/index.aspx?page=616), one city employee took it all in and remarked “I didn’t realize people cared.”
