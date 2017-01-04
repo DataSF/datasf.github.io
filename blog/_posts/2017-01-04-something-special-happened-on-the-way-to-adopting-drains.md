@@ -12,7 +12,7 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: "Hundreds of other volunteers have taken up adopting and caring for City drains through the City’s Adopt a Drain program. The online platform is the result of collaboration among City agencies and civic technology volunteers at Code for San Francisco. It has made visible the roughly 25,000 storm drains and catch basins that the City maintains for an eager community of drain adopters. It's also done something surprising."
 date: 2017-01-04 09:15:00
 categories:
   - blog
