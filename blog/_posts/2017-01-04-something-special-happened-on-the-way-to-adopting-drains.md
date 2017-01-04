@@ -27,6 +27,8 @@ There’s been a [good](http://www.ktvu.com/news/101010004-story) deal of [local
 
 ## Technology in support of collaboration
 
+&lt;picture here of Code for San Francisco volunteers at work&gt;
+
 I believe technology is best applied in support of a need. The need served by Adopt A Drain in San Francisco is to *engage the community in the care and awareness of the City’s drains to help limit localized flooding*.
 
 Lucky for us, we had a starting place; an early [Code For America project](http://archive.codeforamerica.org/products/adopt-a-hydrant/) in Boston called [Adopt a Hydrant](http://www.adoptahydrant.org/). The code for the project, being [open source](https://opensource.org/osd-annotated), was available to copy and modify. In fact, other communities had already set up their own versions like [Adopt a Siren in Honolulu](http://sirens.honolulu.gov/) and [Adopt a Drain in Oakland](http://adoptadrainoakland.com/).
@@ -49,6 +51,8 @@ Adopting a drain is a niche application, admittedly, but let’s consider this i
 4. **Building and discovering a network of volunteers.** Ultimately, this work is inspired by engaging people in the collective care of the city. SFPUC is not relying solely on an “if you build it” mentality. Technology alone does not solve problems. So, they’ve been hosting volunteer events; providing tools to help adopters clear drains safely. In the process, they’ve also discovered that [some were already adopting drains](http://www.sfchronicle.com/bayarea/article/SF-letting-residents-adopt-name-storm-drains-to-10816481.php).
 
 ## Toward impact and connection
+
+&lt;if PUC has one, a picture of the volunteer event&gt;
 
 Of the close to 25,000 drains, around 1,000 have been adopted so far. Adopt a Drain is one tool in a toolkit SFPUC uses to limit and reduce localized flooding. I can’t make bold claims on Adopt A Drain’s specific impact on flooding yet, but it has done something surprising and special: inspire and connect.
 
