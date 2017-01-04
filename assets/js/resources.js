@@ -71,7 +71,9 @@ $(document).ready(function() {
   var showResources = function (collections, resources, results) {
     activateTab('resources')
     resources.show()
-    showAllResources()
+    if($('#search').val() === '') {
+      showAllResources()
+    }
     collections.hide()
   }
   
@@ -146,6 +148,22 @@ $(document).ready(function() {
   })
   
   $('#resources-table').DataTable();
+  
+  // Bind an event to window.onhashchange that, when the history state changes,
+  // gets the url from the hash and displays either our cached content or fetches
+  // new content to be displayed.
+  $(window).bind( 'hashchange', function(e) {
+    var hash = window.location.hash
+    if ( hash && hash === '#all') {
+      showResources(topicsdiv, resourcesdiv, resultdiv)
+    } else {
+      showCollections(topicsdiv, resourcesdiv, resultdiv)
+    }
+  })
+  
+  // Since the event is only triggered when the hash changes, we need to trigger
+  // the event now, to handle the hash the page may have loaded with.
+  $(window).trigger( 'hashchange' );
     
 });
 
