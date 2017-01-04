@@ -1,6 +1,6 @@
 ---
 title: Adopt a Drain
-author:
+author: jason_lally
 image:
   thumb:
   feature:
@@ -13,13 +13,13 @@ image:
     license:
     license_link:
 description:
-date: 2017-01-04 09:15:12
+date: 2017-01-04 09:15:00
 categories:
   - blog
 ---
 
 
-[It’s been a bit wet in San Francisco this Fall.]()[[1]](#_msocom_1)&nbsp;But I’m not going to complain. [We need it](http://www.mercurynews.com/2016/10/29/california-drought-is-october-rain-making-a-difference/). In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
+[It’s been a bit wet in San Francisco this Fall.](){: .cc-active}[[1]](#_msocom_1) But I’m not going to complain. [We need it](http://www.mercurynews.com/2016/10/29/california-drought-is-october-rain-making-a-difference/). In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
 
 Hundreds of other volunteers have also taken up this rainy day activity through the [City’s Adopt a Drain program](https://adoptadrain.sfwater.org). The online platform is the result of collaboration among City agencies and civic technology volunteers at [Code for San Francisco](https://codeforsanfrancisco.org). It has made [visible the roughly 25,000 storm drains and catch basins](http://www.sfwater.org/index.aspx?page=399) that the City maintains for an eager community of drain adopters.
 
@@ -62,7 +62,7 @@ Also, at a recent volunteer event held at the [Southeast Treatment Plant](https:
 
 Connection is vital. When we are connected, we are inspired, creative and hopeful. The unexpected outcome of this work has been connection: volunteers connected to the City, families connected through civic pride, City staff connected to each other, and so on.
 
-It’s my hope that projects of all scopes and scales seek to connect--to chip away at isolation--so that we care for and build the city we need together. If we can inspire folks with Adopt A Drain, imagine what else we can do!
+It’s my hope that projects of all scopes and scales seek to connect–to chip away at isolation–so that we care for and build the city we need together. If we can inspire folks with Adopt A Drain, imagine what else we can do!
 
 I’ll leave you with a little video inspiration from the PUC about some of the volunteers. And if you’re so inspired, adopt and name a drain today!
 
