@@ -1,5 +1,5 @@
 ---
-title: "Adopt a Drain and it's surprising outcome"
+title: Adopt a Drain and its surprising outcome
 author: jason_lally
 image:
   thumb:
