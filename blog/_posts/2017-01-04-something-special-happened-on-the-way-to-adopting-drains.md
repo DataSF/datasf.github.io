@@ -2,9 +2,9 @@
 title: Something special happened on the way to adopting drains
 author: jason_lally
 image:
-  thumb: /adopt-a-drain/adopt-a-drain-screen.png
-  feature: /adopt-a-drain/adopt-a-drain-screen.png
-  caption: Residents and business owners in San Francisco can adopt and care for drains thanks to a collaboration among the City and volunteers.
+  thumb: adopt-a-drain/adopt-a-drain-screen.png
+  feature: adopt-a-drain/adopt-a-drain-screen.png
+  caption: Residents and business owners in San Francisco can adopt and care for drains thanks to a collaboration among the City and volunteers. Pictured above is the Adopt a Drain website.
   source:
     title:
     author:
