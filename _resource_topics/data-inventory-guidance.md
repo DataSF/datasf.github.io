@@ -58,7 +58,7 @@ resources_list:
         media_type: Excel
 ---
 
+
 The resources here provide a mix of guidance, templates and examples to help data coordinators. You can read more about the process in the blog post, [5 Ways to Scale the Mountain of Data in Your Organization](/blog/5-ways-to-scale-mountain-of-data/).
 
-The dataset inventory provides a list of data maintained by departments that are candidates for open data publishing or have already been published and is collected in accordance with Chapter 22D of the Administrative Code. Data Coordinators, appointed by their departments, were responsible for collating and collecting the initial inventory and are responsible for ongoing maintenance of the inventory.
-
+The [dataset inventory provides a list of data maintained by departments](https://data.sfgov.org/City-Management-and-Ethics/Dataset-Inventory/y8fp-fbf5) that are candidates for open data publishing or have already been published and is collected in accordance with Chapter 22D of the Administrative Code. Data Coordinators, appointed by their departments, were responsible for collating and collecting the initial inventory and are responsible for ongoing maintenance of the inventory.
