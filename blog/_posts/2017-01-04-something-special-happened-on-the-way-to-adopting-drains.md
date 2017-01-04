@@ -66,8 +66,4 @@ It’s my hope that projects of all scopes and scales seek to connect–to chip 
 
 I’ll leave you with a little video inspiration from the SFPUC about some of the volunteers. And if you’re so inspired, adopt and name a drain today!
 
-&lt;Video embed: **https://www.youtube.com/watch?v=J3VvLshNE4Y&index=1&list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG**&gt;
-
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/J3VvLshNE4Y?list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG" frameborder="0" allowfullscreen=""></iframe>
-</div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/J3VvLshNE4Y?list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG" frameborder="0" allowfullscreen=""></iframe></div>
