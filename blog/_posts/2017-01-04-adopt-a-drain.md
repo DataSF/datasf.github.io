@@ -19,7 +19,7 @@ categories:
 ---
 
 
-[It’s been a bit wet in San Francisco this Fall.](){: .cc-active}[[1]](#_msocom_1) But I’m not going to complain. [We need it](http://www.mercurynews.com/2016/10/29/california-drought-is-october-rain-making-a-difference/). In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
+It’s been a bit wet in San Francisco this Fall. But I’m not going to complain. [We need it](http://www.mercurynews.com/2016/10/29/california-drought-is-october-rain-making-a-difference/). In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
 
 Hundreds of other volunteers have also taken up this rainy day activity through the [City’s Adopt a Drain program](https://adoptadrain.sfwater.org). The online platform is the result of collaboration among City agencies and civic technology volunteers at [Code for San Francisco](https://codeforsanfrancisco.org). It has made [visible the roughly 25,000 storm drains and catch basins](http://www.sfwater.org/index.aspx?page=399) that the City maintains for an eager community of drain adopters.
 
@@ -67,3 +67,5 @@ It’s my hope that projects of all scopes and scales seek to connect–to chip 
 I’ll leave you with a little video inspiration from the PUC about some of the volunteers. And if you’re so inspired, adopt and name a drain today!
 
 &lt;Video embed: **https://www.youtube.com/watch?v=J3VvLshNE4Y&index=1&list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG**&gt;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J3VvLshNE4Y?list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG" frameborder="0" allowfullscreen></iframe>
