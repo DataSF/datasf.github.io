@@ -64,7 +64,7 @@ Connection is vital. When we are connected, we are inspired, creative and hopefu
 
 It’s my hope that projects of all scopes and scales seek to connect–to chip away at isolation–so that we care for and build the city we need together. If we can inspire folks with Adopt A Drain, imagine what else we can do!
 
-I’ll leave you with a little video inspiration from the PUC about some of the volunteers. And if you’re so inspired, adopt and name a drain today!
+I’ll leave you with a little video inspiration from the SFPUC about some of the volunteers. And if you’re so inspired, adopt and name a drain today!
 
 &lt;Video embed: **https://www.youtube.com/watch?v=J3VvLshNE4Y&index=1&list=PLi3CgGqFmQsWOflGLenuFhG13Gc_SjgpG**&gt;
 
