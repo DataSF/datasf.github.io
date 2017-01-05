@@ -47,6 +47,7 @@ defaults:
     values:
       layout: "course"
       hidden: true
+      subnav: true
   -
     scope:
       path: "blog"

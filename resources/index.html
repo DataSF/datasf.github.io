@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 'DataSF | Resource Library'
+layout: masthead
+title: 'Resource Library'
 background_image_path: /uploads/library.jpg
 image_source:
   title: library books
@@ -13,32 +13,10 @@ index: resources
 subnav: true
 js: resources.js
 lunr: true
+icon: book
 blurb: Browse resources produced by DataSF. You can browse by resource collection or search for a specific resource.
 ---
-<div class="masthead" style="height: 200px; color: white; background: #333 url({{page.background_image_path}}) 50% 50% no-repeat; position:relative; background-position: right;">
-  <div class="darkener"></div>
-  <div class="left-cover"></div>
-  {% if page.image_source %}
-  <div class="masthead-attribution" style="z-index: 5; position: absolute; bottom:0; right: 30px;">
-    <figcaption style="color:white;">
-      <a href="{{page.image_source.link}}">{{ page.image_source.title }}</a> by <a href="{{page.image_source.author_link}}">{{page.image_source.author}}</a> licensed under <a href="{{page.image_source.license_link}}">{{page.image_source.license}}</a>
-    </figcaption>
-  </div>
-  {% endif %}
-  <div class="container" style="z-index: 4; position: relative;">
 
-    <div class="row">
-      <div class="col-xs-12">
-        <h1 style="color: white; margin-top: 30px;"><i class="fa fa-book" aria-hidden="true"></i> Resource Library</h1>
-        <div class="blurb" style="max-width: 450px; margin-top: 25px;">
-          <p>{{page.blurb}}</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-  
-</div>
 <section id="resources-section">
   <div class="container">
     <div class="row">

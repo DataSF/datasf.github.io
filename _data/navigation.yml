@@ -11,6 +11,7 @@ main_nav:
 - text: Academy
   url: /academy/
   layout: course
+  index: academy
 - text: Resources
   url: /resources/
   layout: resource-topic
@@ -44,6 +45,12 @@ catalog:
 resources:
   - text: Browse Resources
     url: /resources/
+    
+academy:
+  - text: Course Catalog
+    url: /academy/
+  - text: Course Calendar
+    url: /academy/calendar/
     
 utility:
 - text: SFGov
