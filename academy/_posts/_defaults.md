@@ -6,6 +6,7 @@ length:
 subjects:
 series:
 team_members:
+course_short_name:
 course_materials_link:
 order:
 category: academy
