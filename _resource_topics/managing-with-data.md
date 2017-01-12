@@ -1,6 +1,6 @@
 ---
-title: Managing with Data
-description: 'Managing with data can come in a variety of forms. DataSF has worked with partners to develop guidance on a couple of approaches: dashboarding and stat programs.'
+title: Getting Started with Stat and Dashboarding
+description: 'Resources and tools for Departments starting a Stat program or at a minimum, setting up basic dashboarding tools.'
 tags:
 audiences:
 resources_list:
