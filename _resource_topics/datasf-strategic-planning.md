@@ -5,13 +5,6 @@ tags:
 audiences:
   - DataSF Staff
 resources_list:
-  - name: Year 3 Strategic Plan
-    description: Our Year 3 strategic plan covers our 5 core goals and various subgoals and supporting strategies for next 3 years. Updated annually.
-    post_date: 2016-07-01 00:00:00
-    resource_type: Document
-    links:
-      - link: 'https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit#heading=h.cg536tgky2b'
-        media_type: Google Doc
   - name: Year 3 Timeline with Activities
     description: Track our progress against our plan. Updated quarterly and subject to changes based on need.
     post_date: 2016-07-01 00:00:00
@@ -19,6 +12,13 @@ resources_list:
     links:
       - link: 'https://docs.google.com/spreadsheets/d/1LKLhB5XGvbYBm00R2E1jRGWfqnx4xNDnOVDAItG9Cjs/edit#gid=0'
         media_type: Google Spreadsheet
+  - name: Year 3 Strategic Plan
+    description: Our Year 3 strategic plan covers our 5 core goals and various subgoals and supporting strategies for next 3 years. Updated annually.
+    post_date: 2016-07-01 00:00:00
+    resource_type: Document
+    links:
+      - link: 'https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit#heading=h.cg536tgky2b'
+        media_type: Google Doc
   - name: Year 2 Timeline with Activities
     description: Track our progress against our 3 year plan. Updated quarterly and subject to changes based on need.
     post_date: 2015-07-31 00:00:00
