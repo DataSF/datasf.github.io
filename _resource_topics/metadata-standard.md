@@ -30,7 +30,7 @@ resources_list:
     resource_type: Research
     links:
       - link: 'https://docs.google.com/document/d/1dz_-yWePLvfNPX8KZRn2SiP1SCpFcojZeO-8U8SPXgE/edit?usp=sharing'
-        media_type: Google Spreadsheet
+        media_type: Google Doc
   - name: Metadata Project Document and Major Steps
     description: Project charter for creating the City’s metadata standard.
     post_date: 2014-09-15 00:00:00
@@ -45,5 +45,5 @@ Our open data policy requires a metadata standard - that is what information sho
 
 In addition to the resources below, you can read more about our process and thinking at our two blog posts:
 
-* [Metadata & Dating - More in common than you think...](https://datasf.org/blog/dating-data-what-do-you-look-for/)
+* [Metadata & Dating - More in common than you think…](https://datasf.org/blog/dating-data-what-do-you-look-for/)
 * [U Heart Metadata](https://datasf.org/blog/u-heart-metadata/)
