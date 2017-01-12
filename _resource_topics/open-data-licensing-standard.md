@@ -34,4 +34,8 @@ resources_list:
 ---
 
 
-Research and recommendations by our intern on data licensing for DataSF.
+How you license open data impacts who can use it and for what. Surprisingly, open data programs may overlook this crucial policy choice.
+
+It can sometimes take a lot of effort to publish open data. A smart licensing strategy can help maximize your return by allowing the broadest set of users to leverage your data.
+
+Below is a set of resources that informed our thinking on how we chose to license all SF open data under the "[Public Domain and Dedication License](http://opendatacommons.org/licenses/pddl/summary/)". More on our final choice &nbsp;in our blog post "[Data License Liberation Day](https://datasf.org/blog/data-license-liberation-day/)".
