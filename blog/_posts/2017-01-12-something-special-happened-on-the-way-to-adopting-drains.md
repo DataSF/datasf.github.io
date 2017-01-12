@@ -19,7 +19,7 @@ categories:
 ---
 
 
-It’s been a bit wet in San Francisco this Fall. But I’m not going to complain. [We need it](http://www.mercurynews.com/2016/10/29/california-drought-is-october-rain-making-a-difference/). In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
+It’s been particularly wet this season, but I'm not going to complain (well, too much).&nbsp;[We need it](http://www.mercurynews.com/2017/01/10/bay-area-storm-more-rain-and-snow-leave-drought-farther-behind/). In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
 
 Hundreds of other volunteers have also taken up this rainy day activity through the [City’s Adopt a Drain program](https://adoptadrain.sfwater.org). The online platform is the result of collaboration among City agencies and civic technology volunteers at [Code for San Francisco](https://codeforsanfrancisco.org). It has made [visible the roughly 25,000 storm drains and catch basins](http://www.sfwater.org/index.aspx?page=399) that the City maintains for an eager community of drain adopters.
 
