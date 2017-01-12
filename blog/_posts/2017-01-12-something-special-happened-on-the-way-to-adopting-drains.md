@@ -50,8 +50,7 @@ Adopting a drain is a niche application, admittedly, but let’s consider this i
 
 ## Toward impact and connection
 
-![Image of volunteer event held at the Southeast Treatment Plant](/uploads/versions/20161029-36---x----900-567x---.jpg)
-<figcaption>The SFPUC held a fall volunteer event at the Southeast Treatment Plant. Volunteers received tools and vests and some training to keep them safe while tending to drains. Image source: SFPUC Communications</figcaption>
+![Image of volunteer event held at the Southeast Treatment Plant](/uploads/versions/20161029-36---x----900-567x---.jpg)<figcaption>The SFPUC held a fall volunteer event at the Southeast Treatment Plant. Volunteers received tools and vests and some training to keep them safe while tending to drains. Image source: SFPUC Communications</figcaption>
 
 Of the close to 25,000 drains, over 1,000 have been adopted so far by hundreds of volunteers. Adopt a Drain is one tool in a toolkit the City uses to limit and reduce localized flooding. I can’t make bold claims on Adopt A Drain’s specific impact on flooding yet, but it has done something surprising and special: inspire and connect.
 
