@@ -19,15 +19,13 @@ categories:
 ---
 
 
-It’s been particularly wet this season, but I'm not going to complain (well, too much).&nbsp;[We need it](http://www.mercurynews.com/2017/01/10/bay-area-storm-more-rain-and-snow-leave-drought-farther-behind/). In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
+It’s been particularly wet this season, but I'm not going to complain (well...too much).&nbsp;[We need it](http://www.mercurynews.com/2017/01/10/bay-area-storm-more-rain-and-snow-leave-drought-farther-behind/). In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
 
 Hundreds of other volunteers have also taken up this rainy day activity through the [City’s Adopt a Drain program](https://adoptadrain.sfwater.org). The online platform is the result of collaboration among City agencies and civic technology volunteers at [Code for San Francisco](https://codeforsanfrancisco.org). It has made [visible the roughly 25,000 storm drains and catch basins](http://www.sfwater.org/index.aspx?page=399) that the City maintains for an eager community of drain adopters.
 
 There’s been a [good](http://www.ktvu.com/news/101010004-story) deal of [local](http://hoodline.com/2016/11/the-great-leaf-catcher-puuurple-drainnnn-san-francisco-residents-adopt-drains-to-prevent-flooding) [coverage](http://www.sfchronicle.com/bayarea/article/SF-letting-residents-adopt-name-storm-drains-to-10816481.php) on this lately, so I wanted to share some additional reflections as one of the City partners on this project.
 
 ## Technology in support of collaboration
-
-&lt;picture here of Code for San Francisco volunteers at work&gt;
 
 I believe technology is best applied in support of a need. The need served by Adopt A Drain in San Francisco is to *engage the community in the care and awareness of the City’s drains to help limit localized flooding*.
 
