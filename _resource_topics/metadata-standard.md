@@ -41,4 +41,9 @@ resources_list:
 ---
 
 
-Our metadata standard (documentation requirements) for data on DataSF.
+Our open data policy requires a metadata standard - that is what information should we include with published data that helps our users understand the data. We went through an extensive process to research and develop the DataSF metadata standard. The documents below include both our final standard but also the resource and analysis we conducted. We also included our project charter for reference.
+
+In addition to the resources below, you can read more about our process and thinking at our two blog posts:
+
+* [Metadata & Dating - More in common than you think...](https://datasf.org/blog/dating-data-what-do-you-look-for/)
+* [U Heart Metadata](https://datasf.org/blog/u-heart-metadata/)
