@@ -14,11 +14,11 @@ resources_list:
         media_type: Google Doc
   - name: Year 3 Timeline with Activities
     description: Track our progress against our plan. Updated quarterly and subject to changes based on need.
-    post_date:
-    resource_type:
+    post_date: 2016-07-01 00:00:00
+    resource_type: Spreadsheet
     links:
-      - link:
-        media_type:
+      - link: 'https://docs.google.com/spreadsheets/d/1LKLhB5XGvbYBm00R2E1jRGWfqnx4xNDnOVDAItG9Cjs/edit#gid=0'
+        media_type: Google Spreadsheet
   - name: Year 2 Timeline with Activities
     description: Track our progress against our 3 year plan. Updated quarterly and subject to changes based on need.
     post_date: 2015-07-31 00:00:00
