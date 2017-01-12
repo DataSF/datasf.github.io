@@ -1690,6 +1690,10 @@ figure.third:after {
     }
 }
 
+p+figcaption {
+  margin-top: -20px;
+}
+
 figcaption {
     padding-left: 1.618em;
     padding-right: 1.618em;
