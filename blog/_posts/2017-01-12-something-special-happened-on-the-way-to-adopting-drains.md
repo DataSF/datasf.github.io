@@ -54,7 +54,7 @@ Adopting a drain is a niche application, admittedly, but let’s consider this i
 
 &lt;if PUC has one, a picture of the volunteer event&gt;
 
-Of the close to 25,000 drains, around 1,000 have been adopted so far. Adopt a Drain is one tool in a toolkit SFPUC uses to limit and reduce localized flooding. I can’t make bold claims on Adopt A Drain’s specific impact on flooding yet, but it has done something surprising and special: inspire and connect.
+Of the close to 25,000 drains, over 1,000 have been adopted so far by hundreds of volunteers. Adopt a Drain is one tool in a toolkit the City uses to limit and reduce localized flooding. I can’t make bold claims on Adopt A Drain’s specific impact on flooding yet, but it has done something surprising and special: inspire and connect.
 
 Just read this note sent to the SFPUC:
 
