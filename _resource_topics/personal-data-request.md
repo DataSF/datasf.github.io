@@ -13,7 +13,7 @@ resources_list:
       - link: 'https://drive.google.com/uc?export=download&id=0B0jc1tmJAlTcWk4xMXZUZEplQW8'
         media_type: PDF
   - name: Personal Data Request Guidebook
-    description: Guide on how government agencies can provide individuals with their own personal data upon request.
+    description: Guide on how government agencies can provide individuals with their own personal data upon their request.
     post_date: 2016-08-08 00:00:00
     resource_type: Guide
     links:
