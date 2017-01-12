@@ -13,7 +13,7 @@ image:
     license:
     license_link:
 description: "Hundreds of other volunteers have taken up adopting and caring for City drains through the City’s Adopt a Drain program. The online platform is the result of collaboration among City agencies and civic technology volunteers at Code for San Francisco. It has made visible the roughly 25,000 storm drains and catch basins that the City maintains. It's also done something surprising."
-date: 2017-01-04 09:15:00
+date: 2017-01-12 09:15:00
 categories:
   - blog
 ---
@@ -35,9 +35,9 @@ Lucky for us, we had a starting place; an early [Code For America project](http:
 
 Having leads to follow, the San Francisco edition took off as a project of Code For San Francisco. Working with the [SF Public Utilities Commission](http://www.sfwater.org) (SFPUC), [Public Works](http://sfpublicworks.org/) and [DataSF](https://datasf.org), they helped craft code into something that met the needs of San Francisco. It was and continues to be a collaborative effort that involves:
 
-1. **Open data.&nbsp;**Public Works and DataSF worked together to [produce a drains dataset](https://data.sfgov.org/City-Infrastructure/Stormwater-inlets-drains-and-catch-basins/jtgq-b7c5). That data was pulled by Code for San Francisco volunteers to load the drain locations. The data was recently automated so it will update as drains come and go.
-2. **Collaboration.&nbsp;**Collaboration was seeded at the Code For America summit among Jean Walsh, communications manager at SFPUC; Jesse Biroscak, then co-lead of Code for San Francisco; and myself. Jean took the lead of enlisting support to include partners at Public Works and within the SFPUC. Jesse Szwedko shortly became the lead volunteer engineer, implementing changes to the application. [Many other contributors have pitched in](https://github.com/sfbrigade/adopt-a-drain/graphs/contributors) as well.
-3. **Open source code.&nbsp;**All the coding and [project management happens on GitHub](https://github.com/sfbrigade/adopt-a-drain), a tool designed for open source collaboration. Oz Haven, a Code for San Francisco volunteer, even taught Jean how to use GitHub and all the [work has been tracked there since](https://github.com/sfbrigade/adopt-a-drain/issues).
+1. **Open data.**Public Works and DataSF worked together to [produce a drains dataset](https://data.sfgov.org/City-Infrastructure/Stormwater-inlets-drains-and-catch-basins/jtgq-b7c5). That data was pulled by Code for San Francisco volunteers to load the drain locations. The data was recently automated so it will update as drains come and go.
+2. **Collaboration.**Collaboration was seeded at the Code For America summit among Jean Walsh, communications manager at SFPUC; Jesse Biroscak, then co-lead of Code for San Francisco; and myself. Jean took the lead of enlisting support to include partners at Public Works and within the SFPUC. Jesse Szwedko shortly became the lead volunteer engineer, implementing changes to the application. [Many other contributors have pitched in](https://github.com/sfbrigade/adopt-a-drain/graphs/contributors) as well.
+3. **Open source code.**All the coding and [project management happens on GitHub](https://github.com/sfbrigade/adopt-a-drain), a tool designed for open source collaboration. Oz Haven, a Code for San Francisco volunteer, even taught Jean how to use GitHub and all the [work has been tracked there since](https://github.com/sfbrigade/adopt-a-drain/issues).
 
 ## Bigger than an app
 
@@ -59,6 +59,7 @@ Of the close to 25,000 drains, around 1,000 have been adopted so far. Adopt a Dr
 Just read this note sent to the SFPUC:
 
 > *My family of four have typically cleaned the two drains in our neighborhood (which I signed up for tonight) at our corner for the past 25 years. I am glad you began this program as it involves people in our community and helps me teach my sons a sense of civic pride and duty. My father is a retired civil engineer and one of his tasks was to design road drains. My siblings and I grew up understanding the importance of cleaning drains. I have taught my sons this lesson.*
+>
 >
 > *I hope this program takes off.*
 
