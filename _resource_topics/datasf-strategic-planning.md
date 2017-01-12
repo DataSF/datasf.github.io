@@ -44,3 +44,4 @@ resources_list:
 ---
 
 
+Every year, we write a strategic plan that is the basis of our work for the fiscal year. In addition, we provide quarterly updates to a more detailed project worksheet. All years are available below for reference.
