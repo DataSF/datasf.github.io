@@ -10,8 +10,8 @@ image:
     author: Joy Bonaguro
     source_link:
     author_link:
-    license:
-    license_link:
+    license: CC BY 4.0
+    license_link: 'https://creativecommons.org/licenses/by/4.0/'
 description: Warm up this holiday season with some piping hot data.
 date: 2016-12-23 00:00:00
 categories:

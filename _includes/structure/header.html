@@ -56,6 +56,22 @@
             <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>
           {% endfor %}
+          {% if index == "catalog" %}
+          <li class="divider">
+            <div style="border-left: thin solid #333333; height: 100%; width: 10px; height: 35px; margin: 2px"></div>
+          </li>
+          <li>
+            <div style="margin-top: 5px; margin-right: 5px;">
+              <i class="fa fa-2x fa-search" aria-hidden="true" style="color:#333333;"></i>
+            </div>
+          </li>
+           <li class="divider">
+            <div style="border-left: thin solid #333333; height: 100%; width: 10px; height: 35px; margin: 2px"></div>
+          </li>
+          <li class="sign-in">
+            <a href="https://data.sfgov.org/sign_in" class='btn btn-sign-in'>Sign In</a>
+          </li>
+          {% endif %}
         </ul>
       </div>
     </div>

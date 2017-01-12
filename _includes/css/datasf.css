@@ -305,6 +305,9 @@ fieldset[disabled] .btn-xl.active {
   color: #{{site.color.primary}};
   background-color: #fff;
 }
+
+/*Top nav bar*/
+
 .navbar {
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
@@ -530,6 +533,29 @@ a:active {
     margin-top: 122px;
   }
 }
+
+li.sign-in {
+  padding-top: 5px;
+}
+
+.navbar-subnav .nav li.sign-in a {
+  line-height: 30px;
+}
+
+.btn-sign-in {
+    color: #2c2c2c;
+    background: transparent;
+    padding: 8px 12px;
+    border: 1px solid #2c2c2c;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 0.2s, background-color 0.2s;
+    height: 30px;
+    line-height: 30px;
+}
+
+/* Header */
+
 header {
   background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url({{site.baseurl}}/assets/img/sf-bg.jpg);
   background-position: center center;
@@ -541,6 +567,7 @@ header {
   /*
     -webkit-filter: brightness(50%) blur(5px);*/
 }
+
 header .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
@@ -1517,7 +1544,7 @@ p.task-item {
   content: "\f0c3";
 }
 
-.icon-business-process:before {
+.icon-process-improvement:before {
   content: "\f021";
 }
 
@@ -2031,3 +2058,4 @@ footer .catalog-powered {
 .embed-responsive iframe {
   z-index: 1;
 }
+
