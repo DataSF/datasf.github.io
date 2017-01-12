@@ -19,7 +19,7 @@ categories:
 ---
 
 
-It’s been particularly wet this season.&nbsp;[But we need it](http://www.mercurynews.com/2017/01/10/bay-area-storm-more-rain-and-snow-leave-drought-farther-behind/). (Although I do wish the storms were a little gentler!) 
+It’s been quite wet in the Bay Area recently. I won't complain (too much) though, [we need it](http://www.mercurynews.com/2017/01/10/bay-area-storm-more-rain-and-snow-leave-drought-farther-behind/). (Just stay safe out there!) 
 
 In addition to normal rainy day activities, I’ve recently started checking in on a handful of adopted drains (technically, mine are [catch basins](http://www.sfwater.org/index.aspx?page=399)). You see, sometimes these drains get clogged by debris and a little sweep can help rain flow where it should.
 
