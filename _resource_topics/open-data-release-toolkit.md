@@ -1,6 +1,6 @@
 ---
 title: Open Data Release Toolkit
-description: Toolkit to assess the release of sensitive or protected datasets on the open data portal. Including a guide and supporting form.
+description: Toolkit to assess the release of de-identified sensitive or protected datasets on the open data portal. Including a step-by-step guide and supporting form.
 tags:
 audiences:
   - Data Publisher
@@ -34,4 +34,4 @@ We seek to publish data responsibly. This requires a balancing of competing fact
 * repercussions to an individual or the organization from re-identification, and
 * the likelihood of re-identification.
 
-The Toolkit covers the process in detail. It is used in conjunction with the [Open Data Release Form](https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA)&nbsp;when going through the [open data publishing process](https://datasf-github-io-jasonlally.c9users.io/publishing/submission-guidelines/#toc3).
+The Toolkit covers the process in detail. It is used in conjunction with the [Open Data Release Form](https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA) when going through the [open data publishing process](https://datasf-github-io-jasonlally.c9users.io/publishing/submission-guidelines/#toc3).
