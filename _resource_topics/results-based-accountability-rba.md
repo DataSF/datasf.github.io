@@ -30,7 +30,7 @@ Results Based Accountability (RBA) is a methodology you can use to help manage t
 2. What are the indicators or benchmarks that quantify that result or outcome?
 3. For the programs or services that support the result or outcome, how do you measure performance?
 
-For performance metrics for programs and services, you define three sets of metrics:
+For performance metrics for programs and services, RBA helps you define three sets of metrics:
 
 1. How much did we do? (activity metrics)
 2. How well did we do it? (quality metrics)
