@@ -33,14 +33,23 @@ defaults:
       path: ""
       type: "team_members"
     values:
+      sitemap: false
       layout: "team-member"
   -
     scope:
-      path: "resources"
-      layout: null
+      type: "resource_topics"
     values:
-      sitemap: false
-      hidden: true
+      _comments:
+        title: Give the collection of resources a handy name
+        description: A short description used in html metadata and on lists where a summary is provided.
+        tags: (optional) Keywords used by the resources search
+        resources_list: List of the related resources and their relevant links
+        name: Name of the resource
+        post_date: The date the resource was first made available
+        resource_type: A fixed list of generalized resource types
+        links: One or more links to the resource
+        link: The url of the resource
+        media_type: The type of link provided as context to the user when downloading or opening a link from the website
   -
     scope:
       path: "academy"
