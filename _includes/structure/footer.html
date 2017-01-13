@@ -6,7 +6,7 @@
       </div>
       <div class="col-md-4">
         {% if page.index != 'catalog' %}
-        <ul class="list-inline social-buttons">
+        <ul class="list-inline social-buttons hidden-print">
           {% for network in site.social %}
           <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
           </li>
@@ -27,7 +27,7 @@
     </div>
   </div>
   <div class="footer-content-wrapper">
-    <div class="container">
+    <div class="container hidden-print">
       <div class="row">
         <div class="col-sm-3 col-md-4 left-border-dotted">
           <ul class="list-unstyled quick-links">

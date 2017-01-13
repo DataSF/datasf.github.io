@@ -1,0 +1,12 @@
+"Google Doc":
+  action: "Open"
+"Google Spreadsheet":
+  action: "Open"
+"Link":
+  action: "Open"
+"Excel":
+  action: "Download"
+"Word":
+  action: "Download"
+"PDF":
+  action: "Download"

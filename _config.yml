@@ -23,6 +23,9 @@ paginate_path: "/blog/:num/"
 collections:
   team_members:
     output: true
+  resource_topics:
+    output: true
+    permalink: '/resources/:title/'
 
 defaults:
   -
@@ -44,12 +47,21 @@ defaults:
     values:
       layout: "course"
       hidden: true
+      subnav: true
   -
     scope:
       path: "blog"
       type: "posts"
     values:
       layout: "blog-post"
+  -
+    scope:
+      path: ""
+      type: "resource_topics"
+    values:
+      layout: "resource-topic"
+      index: "resources"
+      subnav: true
     
       
 # Site settings
@@ -100,6 +112,29 @@ subjects:
 series:
   - Excel
   - Tableau
+  
+resource_types:
+  - Document
+  - Guide
+  - Toolkit
+  - Template
+  - Video
+  - Spreadsheet
+  - Research
+  - One Pager
+  
+media_types:
+  - Excel
+  - Word
+  - Google Doc
+  - Google Spreadsheet
+  - PDF
+  - Link
+  
+audiences:
+  - Data Coordinator
+  - Data Publisher
+  - DataSF Staff
 
 prose:
   siteurl: 'http://datasf.org'

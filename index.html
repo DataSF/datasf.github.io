@@ -10,7 +10,7 @@ js: home.js
 			<div class="row">
 				<div class="col-md-12">
 					<form action="https://data.sfgov.org/browse" role="form" class="form-inline">
-						<input id="search-catalog-input" class="search-input form-control" type="text" name="q" placeholder="Search for things like Crime, 311 cases, lobbyists, etc." autocomplete="off" />
+						<input id="search-catalog-input" class="search-input form-control" type="text" name="q" placeholder="Search for things like Crime, 311 cases, lobbyists, etc." autocomplete="off" style="width:100%" />
 						<button type="submit" class="fa fa-search" id="search-submit" value="Search"><span class="sr-only">Search</span></button>
 					</form>
 				</div>
@@ -86,7 +86,7 @@ js: home.js
 		<div class="row">
 			<div class="col-md-12">
 				<h1>DataSF Speaks</h1>
-				<p>Latest blog posts and stories from the City and County's open data program. <a href="/blog">Read more of our stories on our blog</a>.</p>
+				<p>Latest blog posts and stories from DataSF. <a href="/blog">Read more of our stories on our blog</a>.</p>
 				<div class="row">
 					{% include stories-iterator-horizontal.html posts=site.categories.blog limit=3%}
 				</div>

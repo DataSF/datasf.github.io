@@ -1,11 +1,14 @@
 ---
 layout: default
+subnav: true
 ---
-<section id="article">
+
+<section id="article" class="thin-section">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12 section-heading-wrapper">
-        <h1 class="section-heading bg-line">{{page.title}}</h1> {%if page.subtitle %}
+      <div class="col-xs-12">
+        <strong>Data Academy Course</strong>
+        <h1 class="section-heading">{{page.title}}</h1> {%if page.subtitle %}
         <p class="section-subheading">{{page.subtitle}}</p>{% endif %}
       </div>
     </div>
@@ -38,5 +41,4 @@ layout: default
       </article>
     </div>
   </div>
-  
 </section>

@@ -1,15 +1,14 @@
 ---
-layout: default
-title: DataSF | Blog
+layout: masthead
+title: DataSF Speaks
+background_image_path: /uploads/blog.jpg
+icon: bullhorn
+blurb: Our blog and musings on all things data.
 ---
 <!-- Stories List Section -->
 <section id="stories" class="bg-light-gray">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 section-heading-wrapper">
-        <h1 class="section-heading bg-line">DataSF <i class="fa fa-bullhorn"></i> Speaks</h1>
-        <p class="section-subheading text-muted">Our blog and stories</p>
-      </div>
       <div class="col-md-8">
         {%include stories-iterator.html posts=paginator.posts%}
         <!-- Pagination links -->
@@ -37,6 +36,5 @@ title: DataSF | Blog
         {% include mailchimp-newsletter.html %}
       </div>
     </div>
-  </div>
   </div>
 </section>

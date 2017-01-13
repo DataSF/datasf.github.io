@@ -1,22 +1,24 @@
 ---
-layout: default
-title: DataSF | Data Academy
+layout: masthead
+title: Data Academy
 js: academy.js
+icon: graduation-cap
+background_image_path: /uploads/academy.jpg
+index: academy 
+subnav: true
+blurb: A training program for City and County of San Francisco staff. Explore, refine and enhance skills in data use, data management and process improvement.
 ---
-<section id="academy">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12 section-heading-wrapper">
-        <h1 class="section-heading bg-line">Data <i class="fa fa-graduation-cap"></i> Academy</h1>
-        <p class="section-subheading">A training program for City and County of San Francisco staff</p>
-      </div>
-      <div class="col-md-10 col-md-offset-1">
-        Welcome to the City and County of San Francisco’s Data Academy! Our goal is to help analysts citywide explore, refine, and enhance their skills in data analysis and visualization. We also offer classes for those hoping to increase their comfort working with data. We offer a series of classroom based courses detailed below and have also curated a list of courses offered by other institutions for free or at cost.
-      </div>
-    </div>
-  </div>
-</section>
+
 <div class="content-sections">
+  <section id="data-love" class="thinnest-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+			The Data Academy is produced in partnership with the <a style="color: white; text-decoration: underline;" href="http://sfcontroller.org/">Office of the Controller</a>.
+			</div>
+		</div>
+	</div>
+</section>
     <!--
   <section id="upcoming-courses" class"bg-light-gray">
   </section>-->
@@ -24,7 +26,7 @@ js: academy.js
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1>Course Catalog</h1>
+          <h2>Course Catalog</h2>
         </div>
         <div class="col-md-3">
           <div id="categories">
@@ -36,15 +38,12 @@ js: academy.js
               {% endfor %}
             </ul>
           </div>
-          <div class="well" style="background: #fff;">
-            The Data Academy is produced in partnership with the Controller's Office.
-          </div>
           <!-- Begin MailChimp Signup Form -->
           <div id="mc_embed_signup">
             <form action="//datasf.us10.list-manage.com/subscribe/post-json?u=c16d18091b821e3289a7546f9&amp;id=d21cd29252&c=?" method="get" id="mc-embedded-subscribe-form-academy" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
               <div id="mc_embed_signup_scroll">
-                <h2 style="font-size: 1.2em;">Sign up to learn more</h2>
-                <p>You must sign up with an email from an official SFGov email domain.</p>
+                <h2 style="font-size: 1.2em;">Sign up to receive course announcements</h2>
+                <p>You must sign up with your CCSF work email.</p>
                 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                 <div class="mc-field-group form-group">
                   <label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
@@ -76,12 +75,9 @@ js: academy.js
           </div>
           <!--<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>-->
           <!--End mc_embed_signup-->
-          <h2 style="font-size: 1.2em;">Additional Resources</h2>
+          <h2 style="font-size: 1.2em; padding-top: 20px;">Additional Resources</h2>
           <a href="https://drive.google.com/file/d/0B3XTBxBQSd0hTFhXX3hwVnNVSW8/view?usp=sharing">
             <button type="button" class="btn btn-default btn-block btn-academy-resources">View the Full Course Catalog</button>
-          </a>
-          <a href="https://www.google.com/calendar/embed?src=6o082o4eh3hvfvn2sdgp9h8ebk%40group.calendar.google.com&ctz=America/Los_Angeles">
-            <button type="button" class="btn btn-default btn-block btn-academy-resources">Course Calendar</button>
           </a>
           <a href="https://drive.google.com/file/d/0B3XTBxBQSd0hakEwLU9jRzhsbzQ/view?usp=sharing">
             <button type="button" class="btn btn-default btn-block btn-academy-resources">Frequently Asked Questions</button>

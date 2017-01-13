@@ -50,7 +50,7 @@
   <div class="navbar navbar-subnav navbar-static-top visible-sm visible-md visible-lg" role="region" aria-label="external links">
     <div class="container">
       <div class="collapse navbar-collapse" id="navbar-collapse-3">
-        <ul class="nav navbar-nav navbar-right">
+        <ul class="nav navbar-nav navbar-left">
           {% for link in site.data.navigation[index] %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout %} {% assign current = 'active' %} {% endif %}
           <li class="{{current}}">
             <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
