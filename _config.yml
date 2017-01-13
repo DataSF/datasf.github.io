@@ -43,7 +43,7 @@ defaults:
         title: Give the collection of resources a handy name
         description: A short description used in the list of collections and html metadata
         tags: (optional) Keywords used by the resources search
-        resources_lists: List of the related resources and their relevant links
+        resources_list: List of the related resources and their relevant links
         name: Name of the resource
   -
     scope:
