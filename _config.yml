@@ -33,6 +33,7 @@ defaults:
       path: ""
       type: "team_members"
     values:
+      sitemap: false
       layout: "team-member"
   -
     scope:
