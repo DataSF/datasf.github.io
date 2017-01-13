@@ -38,9 +38,13 @@ defaults:
     scope:
       path: "resources"
       layout: null
+      type: "resource_topics"
     values:
       sitemap: false
       hidden: true
+      _comments:
+        title: Give the collection of resources a handy name
+        description: A short description used in the list of collections and html metadata
   -
     scope:
       path: "academy"
