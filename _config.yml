@@ -45,6 +45,11 @@ defaults:
         tags: (optional) Keywords used by the resources search
         resources_list: List of the related resources and their relevant links
         name: Name of the resource
+        post_date: The date the resource was first made available (YYYY-MM-DD)
+        resource_type: A fixed list of generalized resource types
+        links: One or more links to the resource
+        link: The url of the resource
+        media_type: The type of link provided as context to the user when downloading or opening a link from resources
   -
     scope:
       path: "academy"
