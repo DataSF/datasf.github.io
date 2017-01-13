@@ -41,7 +41,7 @@ defaults:
     values:
       _comments:
         title: Give the collection of resources a handy name
-        description: A short description used in the list of collections and html metadata
+        description: A short description used in html metadata and on lists where a summary is provided.
         tags: (optional) Keywords used by the resources search
         resources_list: List of the related resources and their relevant links
         name: Name of the resource
