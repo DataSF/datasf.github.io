@@ -40,6 +40,8 @@ The chart below highlights library branches whose users check out the most books
 
 The chart(s) below highlights that among active patrons -- those that have checked out at least 1 book -- most active patrons on average check out less than 10 books a year.&nbsp; However it is the long tail of the distribution that is responsible for the most of the checkouts.
 
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNjg0ZDBhNTItZGM4Ny00ZDg5LWJlNTMtZTVkNjgwMGYyMWIwIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+
 Now it’s your turn!
 
 Download the data from the [open data portal](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup) and start digging. Grab R, Python, Tableau, PowerBI, Excel, or pen and paper and start visualizing! Be sure to [tweet us](https://twitter.com/datasf) anything you’re proud of. We will feature the best visualizations on our blog and twitter. Stay reading SF!
