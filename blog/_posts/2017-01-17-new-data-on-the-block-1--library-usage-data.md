@@ -26,7 +26,7 @@ I don’t know about where you work, but around DataSF books rule. While we ofte
 
 ## What age group uses the library the most?
 
-Think you’re a big reader?  How do your checkouts per year stack up against the under 10 crowd… [Locate your closest library](https://www.google.com/maps/d/viewer?ll=37.75684299999998%2C-122.444366&amp;spn=0.095003%2C0.145912&amp;hl=en&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;mid=1B8aE_aJusm_OGyajBH7pW_EfDdo) and catch up!
+Think you’re a big reader? &nbsp;How do your checkouts per year stack up against the under 10 crowd… [Locate your closest library](https://www.google.com/maps/d/viewer?ll=37.75684299999998%2C-122.444366&amp;spn=0.095003%2C0.145912&amp;hl=en&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;mid=1B8aE_aJusm_OGyajBH7pW_EfDdo) and catch up!
 
 <iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTdiMTQyZjctMzMwYS00ODA4LWI5ODgtNjIxZDEzYWQ4YWE5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe>
 
@@ -38,7 +38,7 @@ The chart below highlights library branches whose users check out the most books
 
 ## What is the distribution of patron activity?
 
-The chart(s) below highlights that among active patrons – those that have checked out at least 1 book – most active patrons on average check out less than 10 books a year.  However it is the long tail of the distribution that is responsible for the most of the checkouts.
+The charts below highlight that among active patrons – those that have checked out at least 1 book – the majority check out less than 10 items a year.&nbsp; However, it is the patrons occupying the long tail of the distribution - those checking out more than ten items a year - that are responsible for the over 90% of the checkouts.
 
 <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjg0ZDBhNTItZGM4Ny00ZDg5LWJlNTMtZTVkNjgwMGYyMWIwIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="850" frameborder="0"></iframe>
 
