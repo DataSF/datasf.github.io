@@ -40,7 +40,7 @@ The chart below highlights library branches whose users check out the most books
 
 The chart(s) below highlights that among active patrons -- those that have checked out at least 1 book -- most active patrons on average check out less than 10 books a year.&nbsp; However it is the long tail of the distribution that is responsible for the most of the checkouts.
 
-<iframe width="800" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiNjg0ZDBhNTItZGM4Ny00ZDg5LWJlNTMtZTVkNjgwMGYyMWIwIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="850" src="https://app.powerbi.com/view?r=eyJrIjoiNjg0ZDBhNTItZGM4Ny00ZDg5LWJlNTMtZTVkNjgwMGYyMWIwIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Now it’s your turn!
 
