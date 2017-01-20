@@ -4,12 +4,12 @@ author: blake_valenta
 image:
   thumb: /new-data-block-1-library/library.jpg
   feature: /new-data-block-1-library/library.jpg
-  caption: One of many daily patrons to the public library
+  caption: Rows and rows and rows of data!
   source:
-    title: "Children's section berkeley public library"
-    author: jasonunbound
-    source_link: 'https://www.flickr.com/photos/jasonunbound/5114165299'
-    author_link: 'https://www.flickr.com/photos/jasonunbound/'
+    title: "And I was your silver lining"
+    author: thomashawk
+    source_link: 'https://www.flickr.com/photos/thomashawk/6264836947/'
+    author_link: 'https://www.flickr.com/photos/thomashawk/'
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description: 'New year, new feature! This is the first in a series of posts in which we highlight recently published data to the open data portal. First up, library data!'
