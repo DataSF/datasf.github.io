@@ -28,13 +28,13 @@ I don’t know about where you work, but around DataSF books rule. While we ofte
 
 Think you’re a big reader? &nbsp;How do your checkouts per year stack up against the under 10 crowd… [Locate your closest library](https://www.google.com/maps/d/viewer?ll=37.75684299999998%2C-122.444366&amp;spn=0.095003%2C0.145912&amp;hl=en&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;mid=1B8aE_aJusm_OGyajBH7pW_EfDdo) and catch up!
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTdiMTQyZjctMzMwYS00ODA4LWI5ODgtNjIxZDEzYWQ4YWE5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTdiMTQyZjctMzMwYS00ODA4LWI5ODgtNjIxZDEzYWQ4YWE5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="700" height="550" frameborder="0"></iframe>
 
 ## Which library branches have the most active patrons?
 
 The chart below highlights library branches whose users check out the most books per year. Click on an age range or a Supervisor District to see how the rankings change.
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjJhM2Y3YTUtN2RjOC00YjRiLWE1ZmEtNWFkNWU0Y2JmMTBmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjJhM2Y3YTUtN2RjOC00YjRiLWE1ZmEtNWFkNWU0Y2JmMTBmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="700" height="550" frameborder="0"></iframe>
 
 ## What is the distribution of patron activity?
 
