@@ -5,6 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
+headshot_image_path:
 ---
 
 
