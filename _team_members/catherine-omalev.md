@@ -1,11 +1,11 @@
 ---
 name: Catherine Omalev
-work_title: null
-email: null
-bio: null
-gravatar: null
-twitter: null
-headshot_image_path:
+work_title: "Performance Analyst, Controller's Office"
+email:
+bio:
+gravatar:
+twitter:
+headshot_image_path: /uploads/catherine-omalev.jpg
 ---
 
 
