@@ -1,11 +1,11 @@
 ---
 name: Ashley Groffenberger
-work_title: null
-email: null
-bio: null
-gravatar: null
-twitter: null
-headshot_image_path:
+work_title:
+email:
+bio:
+gravatar:
+twitter:
+headshot_image_path: /uploads/ashley-groffenberger.jpg
 ---
 
 
