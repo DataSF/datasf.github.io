@@ -1,6 +1,6 @@
 ---
 name: Ashley Groffenberger
-work_title:
+work_title: "Fiscal & Policy Analyst, Mayor's Office"
 email:
 bio:
 gravatar:
