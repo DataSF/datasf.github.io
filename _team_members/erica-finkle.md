@@ -5,6 +5,7 @@ email: erica.finkle@sfgov.org
 bio: 'ShareSF Coordinator, City and County of San Francisco'
 gravatar: b0c421b0165eb300d6eba034029479f6
 twitter: erilynnf
+headshot_image_path:
 ---
 
 
