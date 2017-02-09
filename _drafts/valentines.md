@@ -1,7 +1,7 @@
 ---
 title: Valentines with the Stars
 author: Blake Valenta
-image: valentines-with-the-stars/heart.jpg
+image: 
   thumb: valentines-with-the-stars/heart.jpg
   feature:
   caption:
