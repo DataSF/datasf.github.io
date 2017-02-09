@@ -1,8 +1,8 @@
 ---
 title: Valentines with the Stars
 author: Blake Valenta
-image:
-  thumb:
+image: https://app.cloudcannon.com/editor#/site/28852/browser/assets/blog/valentines-with-the-stars/heart.jpg
+  thumb: https://app.cloudcannon.com/editor#/site/28852/browser/assets/blog/valentines-with-the-stars/heart.jpg
   feature:
   caption:
   source:
