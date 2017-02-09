@@ -3,8 +3,8 @@ title: Valentines with the Stars
 author: Blake Valenta
 image:
   thumb: valentines-with-the-stars/heart.jpg
-  feature:
-  caption:
+  feature: valentines-with-the-stars/heart.jpg
+  caption: "Come discover a data fueled way to celebrate Valentine's day and explore the city you love"
   source:
     title: Heart
     author: Leslie
