@@ -1,6 +1,6 @@
 ---
-title: Valentines
-author:
+title: Valentines with the Stars
+author: Blake Valenta
 image:
   thumb:
   feature:
@@ -17,3 +17,5 @@ date:
 categories:
   - blog
 ---
+
+
