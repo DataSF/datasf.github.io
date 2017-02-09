@@ -19,4 +19,3 @@ categories:
 ---
 
 
-![](/uploads/versions/heart---x----1024-444x---.jpg)
