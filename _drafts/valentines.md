@@ -1,7 +1,7 @@
 ---
 title: Valentines with the Stars
 author: Blake Valenta
-image: 
+image:
   thumb: valentines-with-the-stars/heart.jpg
   feature:
   caption:
@@ -13,9 +13,16 @@ image:
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description:
-date:
+date: 2017-02-09 00:00:00
 categories:
   - blog
 ---
 
 
+Valentine’s day is just around the corner. &nbsp; A brief search online will reveal many valentine themed lists of San Francisco specific [events](http://www.sftravel.com/article/leave-your-heart-san-francisco-valentines-day), [restaurants](https://www.zagat.com/b/san-francisco/the-most-romantic-restaurants-in-10-san-francisco-neighborhoods), or [gift ideas](https://www.timeout.com/san-francisco/valentines-day). &nbsp;Any combination of which should provide plenty of romantic fun and are bound to bring you closer. &nbsp;However, for the lucky couple with a zest for open data and a bit more adventurous spirit, we would like to suggest something a little different this valentine’s day. &nbsp;
+
+Why not try an open data themed valentine’s day trek powered by the [SF Film Commission’s Film Locations](http://filmsf.org/) dataset. &nbsp;This dataset collects every location in our fair city used to shoot movies, tv shows, or documentaries (over 1,500 locations!). &nbsp;Combining the data with the wonderful [Open Movie Database API](http://www.omdbapi.com/) and [Google Maps API](https://developers.google.com/maps/) we are able to have a curated list of SF locations featured in romantic movies and shows.
+
+Use the below map to stroll through the sites of your favorite romance movies. &nbsp;Only want the best? &nbsp;Filter to see only award winners. &nbsp;Want a little comedy or maybe some action with your romance? Filter by other genres. Click on each location for a plot summary and the occasional fun fact provided by the film commission. &nbsp;
+
+Whether you want to trace the SF steps of The Princess Bride, bike to all 10 locations of Nine Months, &nbsp;or explore the interesting genre classifying habits of IMDB (So I Married an Axe Murder is romance? Really IMDB?), we have got you covered. &nbsp;Grab your partner, pick your favorite romantic movies, netflix/hulu/amazon it, and then explore (and dare I suggest) re-enact your favorite scenes this Valentine’s Day (except the one with the axe :-).
