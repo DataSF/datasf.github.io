@@ -23,8 +23,8 @@ Valentine’s day is just around the corner.   A brief search online will revea
 
 Why not try an open data themed valentine’s day trek powered by the [SF Film Commission’s Film Locations](http://filmsf.org/) dataset.  This dataset collects every location in our fair city used to shoot movies, tv shows, or documentaries (over 1,500 locations!).  Combining the data with the wonderful [Open Movie Database API](http://www.omdbapi.com/) and [Google Maps API](https://developers.google.com/maps/) we are able to have a curated list of SF locations featured in romantic movies and shows.
 
-Use the below map to stroll through the sites of your favorite romance movies.  Only want the best?  Filter to see only award winners.  Want a little comedy or maybe some action with your romance? Filter by other genres. Click on each location for a plot summary and the occasional fun fact provided by the film commission.
+Use the below map to stroll through the sites of your favorite romance movies.  Only want the best?  Filter to see only the top rated.  Want a little comedy or maybe some action with your romance? Filter by other genres. Click on each location for a plot summary.
 
 Whether you want to trace the SF steps of The Princess Bride, bike to all 10 locations of Nine Months,  or explore the interesting genre classifying habits of IMDB (So I Married an Axe Murder is romance? Really IMDB?), we have got you covered.  Grab your partner, pick your favorite romantic movies, netflix/hulu/amazon it, and then explore (and dare I suggest) re-enact your favorite scenes this Valentine’s Day (except the one with the axe :-).
 
-<iframe width="700" height="520" frameborder="0" src="https://blakev.carto.com/builder/a5cd9480-efb8-11e6-8b3c-0e05a8b3e3d7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="700" height="800" frameborder="0" src="https://blakev.carto.com/builder/a5cd9480-efb8-11e6-8b3c-0e05a8b3e3d7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
