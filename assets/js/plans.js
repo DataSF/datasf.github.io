@@ -1,6 +1,7 @@
 // each planning period, add the start date of the ***next*** period at the top of the array below
 
 var planPeriods = [
+  '01/01/2018',
   '01/01/2017',
   '07/01/2016',
   '01/01/2016',
@@ -18,7 +19,7 @@ var fetchStats = function(baseURL, deptFilter, index) {
     var index = 0
   }
   
-  var before = moment(planPeriods[index + 1],'MM/DD/YYYY').add(6,'months').format("YYYY-MM-DD")
+  var before = moment(planPeriods[index],'MM/DD/YYYY').format("YYYY-MM-DD")
   var after = moment(planPeriods[index + 1],'MM/DD/YYYY').format("YYYY-MM-DD")
   
    var dataQueryString2 = [
