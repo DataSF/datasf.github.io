@@ -12,7 +12,7 @@ image:
     author_link: 'https://www.flickr.com/photos/20705353@N00/'
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
-description: "Come discover a data fueled way to celebrate Valentine's day and explore the city you love"
+description: "Come discover a data fueled way to celebrate Valentine's day and explore the city you love."
 date: 2017-02-10 00:00:00
 categories:
   - blog
