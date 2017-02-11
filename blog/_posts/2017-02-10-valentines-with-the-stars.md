@@ -1,6 +1,6 @@
 ---
 title: Valentines with the Stars
-author: Blake Valenta
+author: blake_valenta
 image:
   thumb: valentines-with-the-stars/heart.jpg
   feature: valentines-with-the-stars/heart.jpg
@@ -27,4 +27,4 @@ Use the below map to stroll through the sites of your favorite romance movies. �
 
 Whether you want to trace the SF steps of The Princess Bride, bike to all 10 locations of Nine Months,  or explore the interesting genre classifying habits of IMDB (So I Married an Axe Murder is romance? Really IMDB?), we have got you covered.  Grab your partner, pick your favorite romantic movies, netflix/hulu/amazon it, and then explore (and dare I suggest) re-enact your favorite scenes this Valentine’s Day (except the one with the axe :-).
 
-<iframe width="700" height="800" frameborder="0" src="https://blakev.carto.com/builder/a5cd9480-efb8-11e6-8b3c-0e05a8b3e3d7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="700" height="800" frameborder="0" src="https://blakev.carto.com/builder/a5cd9480-efb8-11e6-8b3c-0e05a8b3e3d7/embed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
