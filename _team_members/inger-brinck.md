@@ -1,10 +1,11 @@
 ---
 name: Inger Brinck
-work_title:
+work_title: "Performance Analyst, Controller's Office"
 email:
 bio:
 gravatar:
 twitter:
+headshot_image_path: /uploads/inger-brinck.jpg
 ---
 
 
