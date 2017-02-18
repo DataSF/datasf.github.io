@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/marc-hebert.jpg
+headshot_image_path: /uploads/marc-hebert---final.jpg
 ---
 
 
