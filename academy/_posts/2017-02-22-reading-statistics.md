@@ -23,8 +23,6 @@ City agencies hold administrative records for hundred of thousands of individual
 
 ## What you’ll learn in this course
 
-Common errors in presenting data
-
-Basic principles of longitudinal data
-
-Emphasis on child welfare examples
+* Common errors in presenting data
+* Basic principles of longitudinal data
+* Emphasis on child welfare examples
