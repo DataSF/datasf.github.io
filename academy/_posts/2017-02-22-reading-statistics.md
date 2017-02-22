@@ -2,7 +2,7 @@
 title: Reading Statistics
 description: 'City agencies hold administrative records for hundred of thousands of individuals, but the abundance of data carries inherent risks for misunderstanding or misreading statistics. This course demonstrates common errors in presenting basic statistics and discusses the basic principles of longitudinal data.'
 prerequisites:
-length: 2.5 hours
+length: '2.5'
 subjects:
   - Analysis
   - Data Management
