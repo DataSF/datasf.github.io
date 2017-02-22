@@ -2,7 +2,7 @@
 layout: course
 title: Advanced Excel
 course_short_name: Excel - Advanced
-description:
+description: This video-guided workshop is the third in a series of Excel workshops offered by Data Academy.
 prerequisites: None
 length: 2
 series:
@@ -20,13 +20,13 @@ order: 3
 
 ## About this course
 
-This video-guided workshop is the third in a series of Excel workshops offered by Data Academy. In this course, the instructor guides attendees through the course material by showing high-quality training videos from [Lynda.com](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing). &nbsp;This course provides Data Academy’s most advanced level of Excel training.&nbsp;
+This video-guided workshop is the third in a series of Excel workshops offered by Data Academy. In this course, the instructor guides attendees through the course material by showing high-quality training videos from [Lynda.com](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing).  This course provides Data Academy’s most advanced level of Excel training.
 
 We encourage experienced Excel users to register for this fast-paced course.
 
 ## What you’ll learn
 
-Please click the below links to access how-to guides from Lynda.com! &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+Please click the below links to access how-to guides from Lynda.com!  [Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 
 * [IF formulas](https://www.lynda.com/Excel-tutorials/logical-tests/431188/463312-4.html)
 * [Nested formulas](https://www.lynda.com/Excel-tutorials/Expanding-nested-statements/431188/463313-4.html)
@@ -40,4 +40,4 @@ Please click the below links to access how-to guides from Lynda.com! &nbsp;[Clic
 ## More resources
 
 * San Francisco Public Library
-  * [Advanced Excel from Gale Courses](http://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel)&nbsp;(6 weeks, 24hrs total works)
+  * [Advanced Excel from Gale Courses](http://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel) (6 weeks, 24hrs total works)
