@@ -19,6 +19,8 @@ categories:
 
 ## About this course
 
+City agencies hold administrative records for hundred of thousands of individuals, but the abundance of data carries inherent risks for misunderstanding or misreading statistics. This course demonstrates common errors in presenting basic statistics and discusses the basic principles of longitudinal data.
+
 ## What you'll learn in this course
 
 Common errors in presenting data
