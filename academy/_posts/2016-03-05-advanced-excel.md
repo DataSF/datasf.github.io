@@ -20,7 +20,7 @@ order: 3
 
 ## About this course
 
-This video-guided workshop is the third in a series of Excel workshops offered by the Data Academy. In this course, the instructor guides attendees through the course material by showing high-quality training videos from Lynda.com.&nbsp; It provides the Data Academy’s most advanced level of Excel training.&nbsp;
+This video-guided workshop is the third in a series of Excel workshops offered by Data Academy. In this course, the instructor guides attendees through the course material by showing high-quality training videos from [Lynda.com](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing). &nbsp;This course provides Data Academy’s most advanced level of Excel training.&nbsp;
 
 We encourage experienced Excel users to register for this fast-paced course.
 
