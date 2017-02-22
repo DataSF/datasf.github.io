@@ -2,7 +2,7 @@
 layout: course
 title: Advanced Excel
 course_short_name: Excel - Advanced
-description: This classroom based workshop is the fourth in a series of workshops on Excel offered by the Data Academy. It provides the Data Academy’s most advanced level of Excel training.
+description:
 prerequisites: None
 length: 2
 series:
@@ -32,10 +32,10 @@ Please click the below links to access how-to guides from Lynda.com! &nbsp;[Clic
 * [Nested formulas](https://www.lynda.com/Excel-tutorials/Expanding-nested-statements/431188/463313-4.html)
 * [MATCH function](https://www.lynda.com/Excel-tutorials/Locating-data-MATCH-function/431188/463322-4.html)
 * [INDEX and MATCH functions](https://www.lynda.com/Excel-tutorials/Using-MATCH-INDEX-functions-together/431188/463324-4.html)
-* OFFSET function
-* Conditional Formatting with a Pick List
-* INDIRECT function
-* Checking formulas for errors
+* [OFFSET function](https://www.lynda.com/Excel-tutorials/Use-OFFSET-function-tabulating-moving-data/363001/511305-4.html)
+* [Conditional Formatting with a Pick List](https://www.lynda.com/Excel-tutorials/Creating-Variable-Conditional-Formatting-Rules/363001/447337-4.html)
+* [INDIRECT function](https://www.lynda.com/Excel-tutorials/Returning-references-INDIRECT-function/431188/463362-4.html)
+* [Checking formulas for errors](https://www.lynda.com/Excel-tutorials/Debugging-formulas-F9-key/431188/463300-4.html)
 
 ## More resources
 
