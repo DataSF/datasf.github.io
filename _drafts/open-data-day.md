@@ -2,18 +2,18 @@
 title: Open Data Day
 author: Blake Valenta
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: 
+  feature: 
+  caption: Come join us March 4th for a celebration of Open Data
   source:
     title:
     author:
-    source_link:
-    author_link:
-    license:
-    license_link:
-description:
-date:
+    source_link: 
+    author_link: 
+    license: CC BY-NC 2.0
+    license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
+description: Come join us March 4th for a celebration of Open Data
+date: 2017-02-24 00:00:00
 categories:
   - blog
 ---
@@ -25,7 +25,7 @@ March is a special month for many reasons: St. Patrick’s Day, start of spring,
 
 <iframe src="//giphy.com/embed/ytwDCq9aT3cgEyyYVO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/birthday-dancing-beer-birthday-bot-ytwDCq9aT3cgEyyYVO">via GIPHY</a></p>
 
-As is tradition, DataSF is celebrating big time and YOU are invited. &nbsp;We are participating in SF’s [Open Data Day](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/) Celebration brought to you by the brilliant folks from Code for San Francisco. &nbsp;It will be held at the Microsoft Reactor and you can register for this free all day event [here](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/). &nbsp;There will be activities for all levels of engagement:
+As is tradition, DataSF is celebrating big time and YOU are invited. &nbsp;We are participating in SF’s [Open Data Day](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/) Celebration brought to you by the brilliant folks from Code for San Francisco. &nbsp;It will be held at the Microsoft Reactor Saturday, March 4th, and you can register for this free all day event [here](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/). &nbsp;There will be activities for all levels of engagement:
 
 * Have an amazing idea for a project involving open data? Great! There will be opportunities to pitch it.
 * Want to help pitch in and join a project? Plenty of opportunity for that.
