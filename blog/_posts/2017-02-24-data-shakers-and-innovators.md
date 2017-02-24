@@ -80,6 +80,8 @@ Mission Impossible
 
 Went to the Human Services Agency for their work on GetCalFresh.&nbsp; In partnership with Code from America, HSA streamlined the benefits process for residence via GetCalFresh.org.
 
+Team:
+
 * Tiana Wertheim
 * Leo O'Farrell
 
@@ -89,6 +91,8 @@ Went to the Human Services Agency for their work on GetCalFresh.&nbsp; In partne
 <br>This project made use of Human Centered Design
 
 Went to SF Environment for their multi-lingual website redesign.&nbsp; They employed a User Centered Process to redesign and develop their website, making it more inclusive, inviting, and accessible to residents that live in San Francisco.
+
+Team:
 
 * Zoey Kroll
 * Donnie Oliveira
@@ -101,6 +105,8 @@ Bridge Builder Award
 <br>This project involved successful collaboration with different departments or external groups
 
 Went to Planning Department, Office of Economic and Workforce Development, and Public Health for their work on the Central Market/Tenderloin Data Portal.&nbsp; By creating the Central Market/Tenderloin Data Portal, these departments brought about collective impact and better collaboration and coordination of efforts in the Central Market/Tenderloin neighborhood.
+
+Team:
 
 * Megan Wall Shui
 * Paolo Ikezoe
