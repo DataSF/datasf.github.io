@@ -27,7 +27,7 @@ We are proud to announce (and share!) the winners as well as allow you to see th
 
 ### If you love your data set it free!
 
-*This project made innovative use of open data*
+###### *This project made innovative use of open data*
 
 Went to Ethics Commission for their work around Campaign Finance Dashboard.&nbsp; The Ethics Commission took traditionally difficult to access campaign finance data and made it accessible via a stylish, creative, and engaging dashboard.
 
@@ -58,6 +58,8 @@ Team:
 * Chris Buck
 * Ken Wysocki
 
+![](/uploads/versions/EveryTree---x----1280-960x---.jpg)
+
 ### Data Cruncher
 
 *This project involved data analysis and number crunching*
@@ -65,43 +67,47 @@ Team:
 Went to the Controller’s Office for their work around the Pit Stop Program.&nbsp; They created a rigorous and replicable analytic process for identifying locations that would are most in need of a Pit Stop station, ensuring city resources go to areas most in need.
 
 Team:
-<br>Joe Lapka
-<br>Claire Phillips
-<br>Peg Stevenson
 
-[Group Pic]
+* Joe Lapka
+* Claire Phillips
+* Peg Stevenson
+
+![](/uploads/versions/PitStop---x----1280-960x---.jpg)
 <br>[Video]
 
 Mission Impossible
 <br>This project got creative and innovative with a difficult problem
 
 Went to the Human Services Agency for their work on GetCalFresh.&nbsp; In partnership with Code from America, HSA streamlined the benefits process for residence via GetCalFresh.org.
-<br>Tiana Wertheim
-<br>Leo O'Farrell
 
-[Group Pic]
+* Tiana Wertheim
+* Leo O'Farrell
+
+![](/uploads/versions/CalFresh---x----1280-960x---.jpg)
 <br>[Video]
 <br>User’s First
 <br>This project made use of Human Centered Design
 
 Went to SF Environment for their multi-lingual website redesign.&nbsp; They employed a User Centered Process to redesign and develop their website, making it more inclusive, inviting, and accessible to residents that live in San Francisco.
-<br>Zoey Kroll
-<br>Donnie Oliveira
-<br>Mark Nicholas
 
-[Group Pic]
+* Zoey Kroll
+* Donnie Oliveira
+* Mark Nicholas
+
+![](/uploads/versions/ENV---x----1280-960x---.jpg)
 <br>[Video]
 
 Bridge Builder Award
 <br>This project involved successful collaboration with different departments or external groups
 
 Went to Planning Department, Office of Economic and Workforce Development, and Public Health for their work on the Central Market/Tenderloin Data Portal.&nbsp; By creating the Central Market/Tenderloin Data Portal, these departments brought about collective impact and better collaboration and coordination of efforts in the Central Market/Tenderloin neighborhood.
-<br>Megan Wall Shui
-<br>&nbsp;Paolo Ikezoe
-<br>Andrea Nelson
-<br>Juan Carlos Cancino
-<br>Mimi Tam
-<br>Max Gara
 
-[Group Pic]
+* Megan Wall Shui
+* Paolo Ikezoe
+* Andrea Nelson
+* Juan Carlos Cancino
+* Mimi Tam
+* Max Gara
+
+![](/uploads/versions/DataPortal---x----1280-960x---.jpg)
 <br>[Video]
