@@ -27,7 +27,7 @@ We are proud to announce (and share!) the winners as well as allow you to see th
 
 ### If you love your data set it free!
 
-###### *This project made innovative use of open data*
+*Made innovative use of open data*
 
 Went to Ethics Commission for their work around Campaign Finance Dashboard.&nbsp; The Ethics Commission took traditionally difficult to access campaign finance data and made it accessible via a stylish, creative, and engaging dashboard.
 
@@ -42,9 +42,9 @@ Went to Ethics Commission for their work around Campaign Finance Dashboard.&nbsp
 
 ![](/uploads/versions/Election---x----1280-960x---.jpg)
 
-## A Picture is Worth a Thousand Words!
+### A Picture is Worth a Thousand Words!
 
-*This project produced a beautiful and effective data design or visualization*
+*Produced a beautiful and effective data design or visualization*
 
 Went to Planning Department and Public Works for their work around EveryTreeSF. These two departments collaborated to create EveryTreeSF, a census of street trees in San Francisco. This census provides the building blocks for developing a long-term plan for maintaining San Francisco’s trees.
 
@@ -62,7 +62,7 @@ Team:
 
 ### Data Cruncher
 
-*This project involved data analysis and number crunching*
+*Involved data analysis and number crunching*
 
 Went to the Controller’s Office for their work around the Pit Stop Program.&nbsp; They created a rigorous and replicable analytic process for identifying locations that would are most in need of a Pit Stop station, ensuring city resources go to areas most in need.
 
@@ -75,8 +75,9 @@ Team:
 ![](/uploads/versions/PitStop---x----1280-960x---.jpg)
 <br>[Video]
 
-Mission Impossible
-<br>This project got creative and innovative with a difficult problem
+### Mission Impossible
+
+*Got creative and innovative with a difficult problem*
 
 Went to the Human Services Agency for their work on GetCalFresh.&nbsp; In partnership with Code from America, HSA streamlined the benefits process for residence via GetCalFresh.org.
 
@@ -86,9 +87,13 @@ Team:
 * Leo O'Farrell
 
 ![](/uploads/versions/CalFresh---x----1280-960x---.jpg)
+
 <br>[Video]
+
+###
 <br>User’s First
-<br>This project made use of Human Centered Design
+
+*This project made use of Human Centered Design*
 
 Went to SF Environment for their multi-lingual website redesign.&nbsp; They employed a User Centered Process to redesign and develop their website, making it more inclusive, inviting, and accessible to residents that live in San Francisco.
 
@@ -101,8 +106,9 @@ Team:
 ![](/uploads/versions/ENV---x----1280-960x---.jpg)
 <br>[Video]
 
-Bridge Builder Award
-<br>This project involved successful collaboration with different departments or external groups
+### Bridge Builder Award
+
+*Involved successful collaboration with different departments or external groups*
 
 Went to Planning Department, Office of Economic and Workforce Development, and Public Health for their work on the Central Market/Tenderloin Data Portal.&nbsp; By creating the Central Market/Tenderloin Data Portal, these departments brought about collective impact and better collaboration and coordination of efforts in the Central Market/Tenderloin neighborhood.
 
