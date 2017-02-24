@@ -1,6 +1,6 @@
 ---
 title: Open Data Day
-author:
+author: Blake Valenta
 image:
   thumb:
   feature:
