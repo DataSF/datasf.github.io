@@ -97,10 +97,9 @@ Team:
 * Leo O'Farrell
 
 ![](/uploads/versions/CalFresh---x----1280-960x---.jpg)
-
 <br>
 
-###User’s First
+### User’s First
 
 *This project made use of Human Centered Design*
 
