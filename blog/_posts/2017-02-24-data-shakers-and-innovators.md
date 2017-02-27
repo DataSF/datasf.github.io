@@ -100,8 +100,7 @@ Team:
 
 <br>
 
-###
-<br>User’s First
+###User’s First
 
 *This project made use of Human Centered Design*
 
