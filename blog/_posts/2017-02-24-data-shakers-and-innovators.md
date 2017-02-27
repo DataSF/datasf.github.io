@@ -29,7 +29,7 @@ We are proud to announce (and share!) the winners as well as allow you to see th
 
 *Made innovative use of open data*
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/TgkJ1gDJ96E" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/TgkJ1gDJ96E" frameborder="0" allowfullscreen></iframe>
 
 The award went to Ethics Commission for their work around Campaign Finance Dashboard.&nbsp; The Ethics Commission took traditionally difficult to access campaign finance data and made it accessible via a stylish, creative, and engaging dashboard.
 
