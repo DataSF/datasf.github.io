@@ -42,6 +42,8 @@ The award went to Ethics Commission for their work around Campaign Finance Dashb
 
 ![](/uploads/versions/Election---x----1280-960x---.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TgkJ1gDJ96E" frameborder="0" allowfullscreen></iframe>
+
 ### A Picture is Worth a Thousand Words!
 
 *Produced a beautiful and effective data design or visualization*
@@ -60,6 +62,8 @@ Team:
 
 ![](/uploads/versions/EveryTree---x----1280-960x---.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j9yoF1qquWo" frameborder="0" allowfullscreen></iframe>
+
 ### Data Cruncher
 
 *Involved data analysis and number crunching*
@@ -73,7 +77,8 @@ Team:
 * Peg Stevenson
 
 ![](/uploads/versions/PitStop---x----1280-960x---.jpg)
-<br>[Video]
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hKyVNqfxbLg" frameborder="0" allowfullscreen></iframe>
 
 ### Mission Impossible
 
@@ -88,7 +93,8 @@ Team:
 
 ![](/uploads/versions/CalFresh---x----1280-960x---.jpg)
 
-<br>[Video]
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dCTydfkfoLM" frameborder="0" allowfullscreen></iframe>
 
 ###
 <br>User’s First
@@ -104,7 +110,8 @@ Team:
 * Mark Nicholas
 
 ![](/uploads/versions/ENV---x----1280-960x---.jpg)
-<br>[Video]
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6Vi8cOjnj0" frameborder="0" allowfullscreen></iframe>
 
 ### Bridge Builder Award
 
@@ -122,4 +129,5 @@ Team:
 * Max Gara
 
 ![](/uploads/versions/DataPortal---x----1280-960x---.jpg)
-<br>[Video]
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veZqEprGBBo" frameborder="0" allowfullscreen></iframe>
