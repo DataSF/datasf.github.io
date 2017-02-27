@@ -49,7 +49,7 @@ The award went to Ethics Commission for their work around Campaign Finance Dashb
 
 *Produced a beautiful and effective data design or visualization*
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/j9yoF1qquWo" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/j9yoF1qquWo" frameborder="0" allowfullscreen></iframe>
 
 The award went to Planning Department and Public Works for their work around EveryTreeSF. These two departments collaborated to create EveryTreeSF, a census of street trees in San Francisco. This census provides the building blocks for developing a long-term plan for maintaining San Francisco’s trees.
 
@@ -70,7 +70,7 @@ Team:
 
 *Involved data analysis and number crunching*
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/hKyVNqfxbLg" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/hKyVNqfxbLg" frameborder="0" allowfullscreen></iframe>
 
 The award went to the Controller’s Office for their work around the Pit Stop Program.&nbsp; They created a rigorous and replicable analytic process for identifying locations that would are most in need of a Pit Stop station, ensuring city resources go to areas most in need.
 
@@ -87,7 +87,7 @@ Team:
 
 *Got creative and innovative with a difficult problem*
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/dCTydfkfoLM" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/dCTydfkfoLM" frameborder="0" allowfullscreen></iframe>
 
 The award went to the Human Services Agency for their work on GetCalFresh.&nbsp; In partnership with Code from America, HSA streamlined the benefits process for residence via GetCalFresh.org.
 
@@ -103,7 +103,7 @@ Team:
 
 *This project made use of Human Centered Design*
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/d6Vi8cOjnj0" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/d6Vi8cOjnj0" frameborder="0" allowfullscreen></iframe>
 
 The award went to SF Environment for their multi-lingual website redesign.&nbsp; They employed a User Centered Process to redesign and develop their website, making it more inclusive, inviting, and accessible to residents that live in San Francisco.
 
@@ -120,7 +120,7 @@ Team:
 
 *Involved successful collaboration with different departments or external groups*
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/veZqEprGBBo" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/veZqEprGBBo" frameborder="0" allowfullscreen></iframe>
 
 The award went to Planning Department, Office of Economic and Workforce Development, and Public Health for their work on the Central Market/Tenderloin Data Portal.&nbsp; By creating the Central Market/Tenderloin Data Portal, these departments brought about collective impact and better collaboration and coordination of efforts in the Central Market/Tenderloin neighborhood.
 
