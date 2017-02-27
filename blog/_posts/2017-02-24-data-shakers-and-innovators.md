@@ -19,19 +19,18 @@ categories:
 ---
 
 
-On February 16th nearly 100 city analyst packed into a room in City Hall to for the Mayor’s inaugural Data and Innovation Awards. &nbsp;In November, Mayor Ed Lee sent out a call for the most innovative and data driven projects City and County employees had completed in the last year. &nbsp;And City Departments answered that call! Over 60 submissions were received for the 6 award categories.
+On February 16th nearly 100 city analysts packed into a room in City Hall for the Mayor’s inaugural Data and Innovation Awards. &nbsp;In November, Mayor Ed Lee sent out a call for the most innovative and data driven projects City and County employees had completed in the last year. &nbsp;And City Departments answered that call! Over 60 submissions were received for the 6 award categories.
 
-We are proud to announce (and share!) the winners as well as allow you to see their presentations in full. &nbsp;Be prepared, the presentation skills on display are something else.
+We are proud to announce (and share!) the winners as well as allow you to see their presentations in full. &nbsp;Get ready, the presentation skills on display are something else.
 
 ## Award Categories
 
 ### If you love your data set it free!
 
 *Made innovative use of open data*
+![](/uploads/versions/Election---x----1280-960x---.jpg)
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/TgkJ1gDJ96E" frameborder="0" allowfullscreen></iframe>
-
-The award went to Ethics Commission for their work around Campaign Finance Dashboard.&nbsp; The Ethics Commission took traditionally difficult to access campaign finance data and made it accessible via a stylish, creative, and engaging dashboard.
+For the category 'If you love your data set it free!' the award went to Ethics Commission for their work on the Campaign Finance Dashboard.&nbsp; The Ethics Commission took traditionally difficult to access campaign finance data and made it accessible via a stylish, creative, and engaging dashboard.
 
 <br>Team:
 
@@ -42,16 +41,15 @@ The award went to Ethics Commission for their work around Campaign Finance Dashb
 * Frances McEvoy
 * Jack Cannice
 
-![](/uploads/versions/Election---x----1280-960x---.jpg)
+<iframe width="750" height="422" src="https://www.youtube.com/embed/TgkJ1gDJ96E" frameborder="0" allowfullscreen></iframe>
 
 
 ### A Picture is Worth a Thousand Words!
 
 *Produced a beautiful and effective data design or visualization*
+![](/uploads/versions/EveryTree---x----1280-960x---.jpg)
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/j9yoF1qquWo" frameborder="0" allowfullscreen></iframe>
-
-The award went to Planning Department and Public Works for their work around EveryTreeSF. These two departments collaborated to create EveryTreeSF, a census of street trees in San Francisco. This census provides the building blocks for developing a long-term plan for maintaining San Francisco’s trees.
+For the category 'A Picture is Worth a Thousand Words!' the award went to Planning Department and Public Works for their work around EveryTreeSF. These two departments collaborated to create EveryTreeSF, a census of street trees in San Francisco. This census provides the building blocks for developing a long-term plan for maintaining San Francisco’s trees.
 
 Team:
 
@@ -63,16 +61,16 @@ Team:
 * Chris Buck
 * Ken Wysocki
 
-![](/uploads/versions/EveryTree---x----1280-960x---.jpg)
+
+<iframe width="750" height="422" src="https://www.youtube.com/embed/j9yoF1qquWo" frameborder="0" allowfullscreen></iframe>
 
 
 ### Data Cruncher
 
 *Involved data analysis and number crunching*
+![](/uploads/versions/PitStop---x----1280-960x---.jpg)
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/hKyVNqfxbLg" frameborder="0" allowfullscreen></iframe>
-
-The award went to the Controller’s Office for their work around the Pit Stop Program.&nbsp; They created a rigorous and replicable analytic process for identifying locations that would are most in need of a Pit Stop station, ensuring city resources go to areas most in need.
+For the category 'Data Cruncher' the award went to the Controller’s Office for their work around the Pit Stop Program.&nbsp; They created a rigorous and replicable analytic process for identifying locations that would are most in need of a Pit Stop station, ensuring city resources go to areas most in need.
 
 Team:
 
@@ -80,32 +78,33 @@ Team:
 * Claire Phillips
 * Peg Stevenson
 
-![](/uploads/versions/PitStop---x----1280-960x---.jpg)
+<iframe width="750" height="422" src="https://www.youtube.com/embed/hKyVNqfxbLg" frameborder="0" allowfullscreen></iframe>
+
+
 <br>
 
 ### Mission Impossible
 
 *Got creative and innovative with a difficult problem*
+![](/uploads/versions/CalFresh---x----1280-960x---.jpg)
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/dCTydfkfoLM" frameborder="0" allowfullscreen></iframe>
-
-The award went to the Human Services Agency for their work on GetCalFresh.&nbsp; In partnership with Code from America, HSA streamlined the benefits process for residence via GetCalFresh.org.
+For the category 'Mission Impossible' the award went to the Human Services Agency for their work on GetCalFresh.&nbsp; In partnership with Code from America, HSA streamlined the benefits process for residence via GetCalFresh.org.
 
 Team:
 
 * Tiana Wertheim
 * Leo O'Farrell
 
-![](/uploads/versions/CalFresh---x----1280-960x---.jpg)
+<iframe width="750" height="422" src="https://www.youtube.com/embed/dCTydfkfoLM" frameborder="0" allowfullscreen></iframe>
+
 <br>
 
 ### User’s First
 
 *This project made use of Human Centered Design*
+![](/uploads/versions/ENV---x----1280-960x---.jpg)
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/d6Vi8cOjnj0" frameborder="0" allowfullscreen></iframe>
-
-The award went to SF Environment for their multi-lingual website redesign.&nbsp; They employed a User Centered Process to redesign and develop their website, making it more inclusive, inviting, and accessible to residents that live in San Francisco.
+For the category 'User’s First' the award went to SF Environment for their multi-lingual website redesign.&nbsp; They employed a User Centered Process to redesign and develop their website, making it more inclusive, inviting, and accessible to residents that live in San Francisco.
 
 Team:
 
@@ -113,16 +112,16 @@ Team:
 * Donnie Oliveira
 * Mark Nicholas
 
-![](/uploads/versions/ENV---x----1280-960x---.jpg)
+<iframe width="750" height="422" src="https://www.youtube.com/embed/d6Vi8cOjnj0" frameborder="0" allowfullscreen></iframe>
+
 <br>
 
-### Bridge Builder Award
+### Bridge Builder
 
 *Involved successful collaboration with different departments or external groups*
+![](/uploads/versions/DataPortal---x----1280-960x---.jpg)
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/veZqEprGBBo" frameborder="0" allowfullscreen></iframe>
-
-The award went to Planning Department, Office of Economic and Workforce Development, and Public Health for their work on the Central Market/Tenderloin Data Portal.&nbsp; By creating the Central Market/Tenderloin Data Portal, these departments brought about collective impact and better collaboration and coordination of efforts in the Central Market/Tenderloin neighborhood.
+For the category 'Bridge Builder' the award went to Planning Department, Office of Economic and Workforce Development, and Public Health for their work on the Central Market/Tenderloin Data Portal.&nbsp; By creating the Central Market/Tenderloin Data Portal, these departments brought about collective impact and better collaboration and coordination of efforts in the Central Market/Tenderloin neighborhood.
 
 Team:
 
@@ -133,5 +132,6 @@ Team:
 * Mimi Tam
 * Max Gara
 
-![](/uploads/versions/DataPortal---x----1280-960x---.jpg)
+<iframe width="750" height="422" src="https://www.youtube.com/embed/veZqEprGBBo" frameborder="0" allowfullscreen></iframe>
+
 <br>
