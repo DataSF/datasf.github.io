@@ -19,9 +19,9 @@ categories:
 ---
 
 
-On February 16th nearly 100 city analysts packed into a room in City Hall for the Mayor’s inaugural Data and Innovation Awards. &nbsp;In November, Mayor Ed Lee sent out a call for the most innovative and data driven projects City and County employees had completed in the last year. &nbsp;And City Departments answered that call! Over 60 submissions were received for the 6 award categories.
+On February 16th nearly 100 city analysts packed a room in City Hall for Mayor Edwin Lee’s inaugural Data and Innovation Awards. &nbsp;In November, Mayor Lee sent out a call for the most innovative and data-driven projects City and County employees had completed in the last year. &nbsp;More than 60 submissions were received for the six award categories.
 
-We are proud to announce (and share!) the winners as well as allow you to see their presentations in full. &nbsp;Get ready, the presentation skills on display are something else.
+We are proud to announce the winners and show off their presentations in full. &nbsp;The presentation skills on display are something else.
 
 ## Award Categories
 
@@ -49,7 +49,7 @@ For the category 'If you love your data set it free!' the award went to Ethics C
 *Produced a beautiful and effective data design or visualization*
 ![](/uploads/versions/EveryTree---x----1280-960x---.jpg)
 
-For the category 'A Picture is Worth a Thousand Words!' the award went to Planning Department and Public Works for their work around EveryTreeSF. These two departments collaborated to create EveryTreeSF, a census of street trees in San Francisco. This census provides the building blocks for developing a long-term plan for maintaining San Francisco’s trees.
+For the category 'A Picture is Worth a Thousand Words!' the award went to the Planning Department and Department of Public Works for their work around EveryTreeSF. These two departments collaborated to create EveryTreeSF, a census of street trees in San Francisco. This census will provide the building blocks for developing a long-term plan for maintaining San Francisco’s trees.
 
 Team:
 
@@ -70,7 +70,7 @@ Team:
 *Involved data analysis and number crunching*
 ![](/uploads/versions/PitStop---x----1280-960x---.jpg)
 
-For the category 'Data Cruncher' the award went to the Controller’s Office for their work around the Pit Stop Program.&nbsp; They created a rigorous and replicable analytic process for identifying locations that would are most in need of a Pit Stop station, ensuring city resources go to areas most in need.
+For the category 'Data Cruncher' the award went to the Controller’s Office for their work around the Pit Stop Program.&nbsp; They created a rigorous and replicable analytic process for identifying locations that are most in need of a Pit Stop station, ensuring that City resources are used efficiently and effectively.
 
 Team:
 
@@ -104,7 +104,7 @@ Team:
 *This project made use of Human Centered Design*
 ![](/uploads/versions/ENV---x----1280-960x---.jpg)
 
-For the category 'User’s First' the award went to SF Environment for their multi-lingual website redesign.&nbsp; They employed a User Centered Process to redesign and develop their website, making it more inclusive, inviting, and accessible to residents that live in San Francisco.
+For the category 'User’s First' the award went to SF Environment for their multi-lingual website redesign.&nbsp; They employed a User Centered Process to redesign and develop their website, making it more inclusive, inviting, and accessible to residents who live in San Francisco.
 
 Team:
 
@@ -121,7 +121,7 @@ Team:
 *Involved successful collaboration with different departments or external groups*
 ![](/uploads/versions/DataPortal---x----1280-960x---.jpg)
 
-For the category 'Bridge Builder' the award went to Planning Department, Office of Economic and Workforce Development, and Public Health for their work on the Central Market/Tenderloin Data Portal.&nbsp; By creating the Central Market/Tenderloin Data Portal, these departments brought about collective impact and better collaboration and coordination of efforts in the Central Market/Tenderloin neighborhood.
+For the category 'Bridge Builder' the award went to the Planning Department, the Office of Economic and Workforce Development, and the Public Health for their work on the Central Market/Tenderloin Data Portal.&nbsp; By creating the Central Market/Tenderloin Data Portal, these departments brought about collective impact and better collaboration and coordination in the Central Market/Tenderloin neighborhood.
 
 Team:
 
