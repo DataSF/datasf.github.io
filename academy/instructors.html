@@ -1,0 +1,46 @@
+---
+layout: default
+permalink: /academy/instructors/
+subnav: true
+index: academy
+js: instructors.js
+title: Data Academy Instructors
+---
+
+<div class="container" style="padding-top: 20px;">
+  <div class='row'>
+    <div class='col-sm-12 col-md-8'>
+      <div class="page-title">
+        <h1 style="margin-top:0">{{ page.title }}</h1>
+        <p class='lead'>
+          Meet the crew that brings you Data Academy training throughout the year. Interested in becoming an instructor? Let us know.
+        </p>
+      </div>
+    </div>
+  </div>
+    {% for instructor in site.team_members %}
+    {% assign rowfinder = forloop.index | modulo: 3 %}
+    {% if rowfinder == 1 %}
+    <div class='row'>
+    {% endif %}
+    <div class="col-sm-4">
+      <div style='margin-top: 20px; position: relative;'>
+        <div style='height: 300px; overflow: hidden;'>
+          <img src='{{instructor.headshot_image_path}}' alt='Headshot of instructor' class='img-responsive' />
+        </div>
+        <h2>{{ instructor.name }}</h2>
+        <p>{{ instructor.work_title }} </p>
+        <div class='instructor-bio'>
+          {{ instructor.content }}
+        </div>
+        <div class='read-more-button' aria-hidden='true' style='text-decoration: underline; cursor: pointer; position: absolute; bottom: 0; right: 0; left: 0; text-align: center; background: rgba(256,256,256,.8)'>
+          Show More
+        </div>
+      </div>
+    </div>
+    {% if rowfinder == 0 or forloop.last %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>

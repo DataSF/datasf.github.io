@@ -51,6 +51,8 @@ academy:
     url: /academy/
   - text: Course Calendar
     url: /academy/calendar/
+  - text: Instructors
+    url: /academy/instructors/
     
 utility:
 - text: SFGov
