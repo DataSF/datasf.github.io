@@ -18,6 +18,7 @@ categories:
   - blog
 ---
 
+Take me to [viz](#viz)
 
 On February 16th nearly 100 city analysts packed a room in City Hall for Mayor Edwin Lee’s inaugural Data and Innovation Awards. &nbsp;In November, Mayor Lee sent out a call for the most innovative and data-driven projects City and County employees had completed in the last year. &nbsp;More than 60 submissions were received for the six award categories.
 {: .present-before-paste}
