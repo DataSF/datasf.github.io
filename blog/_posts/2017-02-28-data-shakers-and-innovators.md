@@ -77,7 +77,7 @@ Team:
 * Chris Buck
 * Ken Wysocki
 
-<iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+<a name="data"></a><iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
 
 []()
 
@@ -96,7 +96,7 @@ Team:
 * Claire Phillips
 * Peg Stevenson
 
-<iframe src="https://www.youtube.com/embed/hKyVNqfxbLg" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/hKyVNqfxbLg" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe><a name="mi"></a>
 
 &nbsp;
 {: .present-before-paste}
@@ -117,7 +117,7 @@ Team:
 * Tiana Wertheim
 * Leo O'Farrell
 
-<iframe src="https://www.youtube.com/embed/dCTydfkfoLM" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/dCTydfkfoLM" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe><a name="users"></a>
 
 &nbsp;
 {: .present-before-paste}
@@ -139,7 +139,7 @@ Team:
 * Donnie Oliveira
 * Mark Nicholas
 
-<iframe src="https://www.youtube.com/embed/d6Vi8cOjnj0" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/d6Vi8cOjnj0" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe><a name="bridge"></a>
 
 &nbsp;
 {: .present-before-paste}
