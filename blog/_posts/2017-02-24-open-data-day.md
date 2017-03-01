@@ -41,7 +41,7 @@ This year Open Data Day is focusing on 4 key areas:
 * Open Data for the Environment
 * Open Data for Human Rights
 
-In anticipation of the festivities, DataSF would like to shine a spotlight on a selection of San our datasets that speak to some of these topics.
+In anticipation of the festivities, DataSF would like to shine a spotlight on a selection of our datasets that speak to some of these topics.
 
 #### Tracking Public Money Flows
 
