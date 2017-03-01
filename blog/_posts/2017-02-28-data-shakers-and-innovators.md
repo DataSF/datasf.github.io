@@ -32,9 +32,9 @@ We are proud to announce the winners and show off their presentations in full. &
 * [Data Cruncher](#data)
 * [Mission Impossible](#mi)
 * [User's First](#users)
-* [Bridge Builder](#bridge)
+* [Bridge Builder](#bridge)<a name="opendata"></a>
 
-<a name="opendata"></a>
+
 
 ### If you love your data set it free!
 
@@ -54,7 +54,7 @@ For the category 'If you love your data set it free!' the award went to [Ethics 
 * Frances McEvoy
 * Jack Cannice
 
-<iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe><a name="viz"></a>
+</iframe><a name="viz"></a><iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0">
 
 []()
 
