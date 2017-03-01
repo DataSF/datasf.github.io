@@ -1,8 +1,8 @@
 ---
 title: Open Data Day
 author: Blake Valenta
-image: open-data-day\opendata.jpg
-  thumb: open-data-day\opendata.jpg
+image: \open-data-day\opendata.jpg
+  thumb: \open-data-day\opendata.jpg
   feature:
   caption: Come join us March 4th for a celebration of Open Data
   source:
