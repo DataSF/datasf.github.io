@@ -18,7 +18,6 @@ categories:
   - blog
 ---
 
-Take me to [viz](#viz)
 
 On February 16th nearly 100 city analysts packed a room in City Hall for Mayor Edwin Lee’s inaugural Data and Innovation Awards. &nbsp;In November, Mayor Lee sent out a call for the most innovative and data-driven projects City and County employees had completed in the last year. &nbsp;More than 60 submissions were received for the six award categories.
 {: .present-before-paste}
@@ -28,7 +27,8 @@ We are proud to announce the winners and show off their presentations in full. &
 
 ## Award Categories
 
-### <a name="opendata"></a>If you love your data set it free!
+<a name="opendata"></a>
+### If you love your data set it free!
 
 *Made innovative use of open data* ![](/uploads/versions/Election---x----1280-960x---.jpg)
 {: .present-before-paste}
@@ -48,8 +48,8 @@ For the category 'If you love your data set it free!' the award went to [Ethics 
 
 <iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" width="750" height="422" frameborder="0"></iframe>
 {: .present-before-paste}
-
-### <a name="viz"></a>A Picture is Worth a Thousand Words!
+<a name="viz"></a>
+### A Picture is Worth a Thousand Words!
 
 *Produced a beautiful and effective data design or visualization* ![](/uploads/versions/EveryTree---x----1280-960x---.jpg)
 {: .present-before-paste}
@@ -70,7 +70,7 @@ Team:
 
 <iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" width="750" height="422" frameborder="0"></iframe>
 {: .present-before-paste}
-
+<a name="data"></a>
 ### Data Cruncher
 
 *Involved data analysis and number crunching* ![](/uploads/versions/PitStop---x----1280-960x---.jpg)
@@ -91,7 +91,7 @@ Team:
 
 &nbsp;
 {: .present-before-paste}
-
+<a name="mi"></a>
 ### Mission Impossible
 
 *Got creative and innovative with a difficult problem* ![](/uploads/versions/CalFresh---x----1280-960x---.jpg)
@@ -111,7 +111,7 @@ Team:
 
 &nbsp;
 {: .present-before-paste}
-
+<a name="users"></a>
 ### User’s First
 
 *This project made use of Human Centered Design* ![](/uploads/versions/ENV---x----1280-960x---.jpg)
@@ -132,7 +132,7 @@ Team:
 
 &nbsp;
 {: .present-before-paste}
-
+<a name="bridge"></a>
 ### Bridge Builder
 
 *Involved successful collaboration with different departments or external groups* ![](/uploads/versions/DataPortal---x----1280-960x---.jpg)
