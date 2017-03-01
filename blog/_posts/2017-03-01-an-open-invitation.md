@@ -1,5 +1,5 @@
 ---
-title: Open Data Day
+title: "An 'Open' Invitation"
 author: Blake Valenta
 image:
   thumb: open-data-day/opendata.jpg
