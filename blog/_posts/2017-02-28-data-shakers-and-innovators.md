@@ -1,6 +1,6 @@
 ---
 title: Data Shakers and Innovators
-author: Blake Valenta
+author: blake_valenta
 image:
   thumb: data-awards/banner2.jpg
   feature: data-awards/banner2.jpg
@@ -32,9 +32,7 @@ We are proud to announce the winners and show off their presentations in full. &
 * [Data Cruncher](#data)
 * [Mission Impossible](#mi)
 * [User's First](#users)
-* [Bridge Builder](#bridge)<a name="opendata"></a>
-
-
+* [Bridge Builder](#bridge)[]()
 
 ### If you love your data set it free!
 
@@ -54,7 +52,7 @@ For the category 'If you love your data set it free!' the award went to [Ethics 
 * Frances McEvoy
 * Jack Cannice
 
-</iframe><a name="viz"></a><iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0">
+&lt;/iframe&gt;[]()&lt;iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"&gt;
 
 []()
 
@@ -77,7 +75,7 @@ Team:
 * Chris Buck
 * Ken Wysocki
 
-<a name="data"></a><iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+[]()&lt;iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"&gt;&lt;/iframe&gt;
 
 []()
 
@@ -96,7 +94,9 @@ Team:
 * Claire Phillips
 * Peg Stevenson
 
-<iframe src="https://www.youtube.com/embed/hKyVNqfxbLg" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe><a name="mi"></a>
+<iframe src="https://www.youtube.com/embed/hKyVNqfxbLg" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+
+[]()
 
 &nbsp;
 {: .present-before-paste}
@@ -117,7 +117,9 @@ Team:
 * Tiana Wertheim
 * Leo O'Farrell
 
-<iframe src="https://www.youtube.com/embed/dCTydfkfoLM" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe><a name="users"></a>
+<iframe src="https://www.youtube.com/embed/dCTydfkfoLM" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+
+[]()
 
 &nbsp;
 {: .present-before-paste}
@@ -139,7 +141,9 @@ Team:
 * Donnie Oliveira
 * Mark Nicholas
 
-<iframe src="https://www.youtube.com/embed/d6Vi8cOjnj0" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe><a name="bridge"></a>
+<iframe src="https://www.youtube.com/embed/d6Vi8cOjnj0" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+
+[]()
 
 &nbsp;
 {: .present-before-paste}
