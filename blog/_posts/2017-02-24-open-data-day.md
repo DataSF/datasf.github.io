@@ -73,7 +73,3 @@ The Department of the Environment also maintains a couple datasets around emissi
 [Existing Commercial Buildings Energy Performance Ordinance Report](https://data.sfgov.org/Energy-and-Environment/Existing-Commercial-Buildings-Energy-Performance-O/j2j3-acqj): All commercial buildings with at least 10k sq ft of conditioned space must track how much energy their building uses each year.  You can read more about the enacting ordinance [here](https://sfenvironment.org/energy/energy-efficiency/commercial-and-multifamily-properties/existing-commercial-buildings-energy-performance-ordinance).
 
 [San Francisco Municipal Greenhouse Gas Inventory](https://data.sfgov.org/Energy-and-Environment/San-Francisco-Municipal-Greenhouse-Gas-Inventory/pxac-sadh): this dataset tracks each city and county departments greenhouse gas emissions.
-
-# Call for Action
-
-DataSF is part of nation-wide network of Data Officers known as the Civics Analytic Network.  This year for International Open Data day the network identified key areas Open Data Platform providers need to address to fulfill the promise of open, meaningful, and impactful data. [add more once letter finalized [Open Data Portal Letter].
