@@ -13,7 +13,7 @@ image:
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description: See how City and County employees are creating a data driven SF
-date: 2017-02-24 00:00:00
+date: 2017-02-28 00:00:00
 categories:
   - blog
 ---
