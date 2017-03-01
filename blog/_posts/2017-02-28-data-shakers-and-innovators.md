@@ -27,14 +27,14 @@ We are proud to announce the winners and show off their presentations in full. &
 
 ## Award Categories
 
-[If you love your data set it free!](#opendata)
-[A Picture is Worth a Thousand Words!](#viz)
-[Data Cruncher](#data)
-[Mission Impossible](#mi)
-[User's First](#users)
-[Bridge Builder](#bridge)
+* [If you love your data set it free!](#opendata)
+* [A Picture is Worth a Thousand Words!](#viz)
+* [Data Cruncher](#data)
+* [Mission Impossible](#mi)
+* [User's First](#users)
+* [Bridge Builder](#bridge)
 
-<a name="opendata"></a>
+[]()
 
 ### If you love your data set it free!
 
@@ -54,9 +54,9 @@ For the category 'If you love your data set it free!' the award went to [Ethics 
 * Frances McEvoy
 * Jack Cannice
 
-<iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" width="750" height="422" frameborder="0"></iframe>
-{: .present-before-paste}
-<a name="viz"></a>
+<iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+
+[]()
 
 ### A Picture is Worth a Thousand Words!
 
@@ -77,9 +77,9 @@ Team:
 * Chris Buck
 * Ken Wysocki
 
-<iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" width="750" height="422" frameborder="0"></iframe>
-{: .present-before-paste}
-<a name="data"></a>
+<iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
+
+[]()
 
 ### Data Cruncher
 
@@ -96,12 +96,12 @@ Team:
 * Claire Phillips
 * Peg Stevenson
 
-<iframe src="https://www.youtube.com/embed/hKyVNqfxbLg" allowfullscreen="" width="750" height="422" frameborder="0"></iframe>
-{: .present-before-paste}
+<iframe src="https://www.youtube.com/embed/hKyVNqfxbLg" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
 
 &nbsp;
 {: .present-before-paste}
-<a name="mi"></a>
+
+[]()
 
 ### Mission Impossible
 
@@ -117,12 +117,12 @@ Team:
 * Tiana Wertheim
 * Leo O'Farrell
 
-<iframe src="https://www.youtube.com/embed/dCTydfkfoLM" allowfullscreen="" width="750" height="422" frameborder="0"></iframe>
-{: .present-before-paste}
+<iframe src="https://www.youtube.com/embed/dCTydfkfoLM" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
 
 &nbsp;
 {: .present-before-paste}
-<a name="users"></a>
+
+[]()
 
 ### User’s First
 
@@ -139,12 +139,12 @@ Team:
 * Donnie Oliveira
 * Mark Nicholas
 
-<iframe src="https://www.youtube.com/embed/d6Vi8cOjnj0" allowfullscreen="" width="750" height="422" frameborder="0"></iframe>
-{: .present-before-paste}
+<iframe src="https://www.youtube.com/embed/d6Vi8cOjnj0" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
 
 &nbsp;
 {: .present-before-paste}
-<a name="bridge"></a>
+
+[]()
 
 ### Bridge Builder
 
@@ -164,8 +164,7 @@ Team:
 * Mimi Tam
 * Max Gara
 
-<iframe src="https://www.youtube.com/embed/veZqEprGBBo" allowfullscreen="" width="750" height="422" frameborder="0"></iframe>
-{: .present-before-paste}
+<iframe src="https://www.youtube.com/embed/veZqEprGBBo" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
 
 &nbsp;
 {: .present-before-paste}
