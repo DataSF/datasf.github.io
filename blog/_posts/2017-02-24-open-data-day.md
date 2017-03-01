@@ -13,10 +13,10 @@ image:
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description: Come join us March 4th for a celebration of Open Data
-date: 2017-05-24 00:00:00
+date: 2017-03-01 00:00:00
 categories:
   - blog
-published: false
+published: true
 ---
 
 
