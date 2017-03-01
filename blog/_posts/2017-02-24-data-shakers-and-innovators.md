@@ -27,6 +27,13 @@ We are proud to announce the winners and show off their presentations in full. &
 
 ## Award Categories
 
+[If you love your data set it free!](#opendata)
+[A Picture is Worth a Thousand Words!](#viz)
+[Data Cruncher](#data)
+[Mission Impossible](#mi)
+[User's First](#users)
+[Bridge Builder](#bridge)
+
 <a name="opendata"></a>
 
 ### If you love your data set it free!
