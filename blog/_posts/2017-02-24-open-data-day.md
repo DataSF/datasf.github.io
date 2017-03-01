@@ -6,10 +6,10 @@ image:
   feature: open-data-day/opendata.jpg
   caption: Come join us March 4th for a celebration of Open Data
   source:
-    title:
-    author:
-    source_link:
-    author_link:
+    title: open data (scrabble)
+    author: justgrimes
+    source_link: 'https://www.flickr.com/photos/notbrucelee/8016190856/in/photolist-ddn5gb-fxK1x9-9rnTdL-ddmYSc-9S6SwT-9S9HdY-9S3XTT-9S6RaW-9S5Z5P-9S3XEp-9S68qZ-9S9GEh-9S64VV-9S8S1u-ddn5s6-ddn7sf-9S92xC-9S6S6b-9S9G1b-9S6RJ5-9S7mwJ-9S9JJ7-9S4pPi-9S5XTZ-9S9DYw-9S61fP-9S7m53-9S62ok-8Z9pht-9Ei5gW-9S9RmQ-9S6KD2-ddn4Pj-9S6VGe-9S6W3T-9S9Qqf-9S6QAT-9S5W5i-7FfmwS-9S8ZRh-9S5UWz-9S9L4A-hn2Jdr-9S6RUc-ddn5KK-9S6TdK-9S66J2-9RiG14-bVSEZQ-vyDTGZ'
+    author_link: 'https://www.flickr.com/photos/notbrucelee/'
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description: Come join us March 4th for a celebration of Open Data
