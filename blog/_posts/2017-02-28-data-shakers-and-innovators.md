@@ -52,7 +52,7 @@ For the category 'If you love your data set it free!' the award went to [Ethics 
 * Frances McEvoy
 * Jack Cannice
 
-&lt;/iframe&gt;[]()&lt;iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"&gt;
+<iframe src="https://www.youtube.com/embed/TgkJ1gDJ96E" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
 
 []()
 
@@ -75,7 +75,7 @@ Team:
 * Chris Buck
 * Ken Wysocki
 
-[]()&lt;iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"&gt;&lt;/iframe&gt;
+<iframe src="https://www.youtube.com/embed/j9yoF1qquWo" allowfullscreen="" class="present-before-paste" width="750" height="422" frameborder="0"></iframe>
 
 []()
 
