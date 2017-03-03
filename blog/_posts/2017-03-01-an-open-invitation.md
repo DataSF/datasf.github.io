@@ -20,17 +20,17 @@ published: true
 ---
 
 
-March is a special month for many reasons: St. Patrick’s Day, start of spring, and daylight savings time. But here at DataSF there is one extra special day we prize above all the others…
+March is a special month for many reasons: St. Patrick’s Day, Women’s History, the start of spring, and daylight savings time. But here at DataSF there is one extra special day we celebrate…
 
 ## International Open Data Day!!!
 
 <iframe src="//giphy.com/embed/9rMvwuIpMBKU0" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/disneypixar-pixar-disney-monsters-university-9rMvwuIpMBKU0">via GIPHY</a></p>
 
-As is tradition, DataSF is celebrating big time and YOU are invited. &nbsp;We are participating in SF’s [Open Data Day](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/) Celebration brought to you by the brilliant folks from Code for San Francisco. &nbsp;It will be held at the Microsoft Reactor this Saturday, March 4th, and you can register for this free all day event [here](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/). &nbsp;There will be activities for all levels of engagement:
+As is tradition, DataSF is celebrating big time and YOU are invited. &nbsp;We are participating in SF’s [Open Data Day](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/) Celebration brought to you by the brilliant folks from Code for San Francisco. &nbsp;It will be held at the Microsoft Reactor and you can register for this free all day event [here](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/). &nbsp;There will be activities for all levels of engagement:
 
-* Have an amazing idea for a project involving open data? Great! There will be opportunities to pitch it.
-* Want to help pitch in and join a project? Plenty of opportunity for that.
-* Just want to take it all in or learn something new? &nbsp;DataSF will be running a learning track on using the SF Open Data portal.
+* Have an amazing idea for a project involving open data? Great! There will be opportunities to present.
+* Want to help pitch in and join a project? Plenty of opportunity opportunities for that.
+* Just want to take it all in or learn something new? &nbsp;DataSF will be running a workshop on using the SF Open Data portal.
 
 This year Open Data Day is focusing on 4 key areas:
 
@@ -43,7 +43,13 @@ In anticipation of the festivities, DataSF would like to shine a spotlight on a 
 
 #### Tracking Public Money Flows
 
-Where does the money go? Nobody does this better in SF than the Ethics Commission and Budget Office.
+Where does the money go? Nobody does this better in SF than the Controller’s Office and the Ethics Commission. 
+
+The Controller’s Office manages the City and County budget datasets. Below are some resources published by the Controller’s Office:
+
+[Budget](https://data.sfgov.org/City-Management-and-Ethics/Budget/xdgd-c79v): This covers the budgets of the various departments
+
+[Budget - FTE](https://data.sfgov.org/City-Management-and-Ethics/Budget-FTE/4zfx-f2ts): This dataset provides salary information for each department and associated department programs.
 
 One of the key mandates of the Ethics Commission is in educating the public of campaign and lobbyist spending. While the scale and amount of [datasets the Ethics Commission publishes](https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Ethics+Commission&amp;category=City+Management+and+Ethics&amp;limitTo=datasets) can be overwhelming, here are some choice selections:
 
@@ -52,11 +58,7 @@ One of the key mandates of the Ethics Commission is in educating the public of c
 * [Lobbyist Activity - Political Contributions](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Political-Contributions/sa8r-purn): All political contributions of $100 of more by Lobbyist.
 * [Campaign Consultants - Client Payment](https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Client-Payments/tc9q-72uj): Record of payments to campaign consultants
 
-To zoom out we turn to the Mayor’s Budget Office which keeps tabs on the City and County budget. &nbsp;The two relevant datasets are:
 
-[Budget](https://data.sfgov.org/City-Management-and-Ethics/Budget/xdgd-c79v): This covers the budgets of the various departments
-
-[Budget - FTE](https://data.sfgov.org/City-Management-and-Ethics/Budget-FTE/4zfx-f2ts): This dataset provides salary information for each department and associated department programs.
 
 #### Open Data for the Environment
 
