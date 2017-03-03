@@ -13,7 +13,7 @@ image:
     license: CC BY-NC 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
 description: Come join us March 4th for a celebration of Open Data
-date: 2017-03-01 00:00:00
+date: 2017-03-03 00:00:00
 categories:
   - blog
 published: true
@@ -28,7 +28,7 @@ March is a special month for many reasons: St. Patrick’s Day, Women’s Histor
 
 [via GIPHY](http://giphy.com/gifs/disneypixar-pixar-disney-monsters-university-9rMvwuIpMBKU0)
 
-As is tradition, DataSF is celebrating big time and YOU are invited. &nbsp;We are participating in SF’s [Open Data Day](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/) Celebration brought to you by the brilliant folks from Code for San Francisco. &nbsp;It will be held at the Microsoft Reactor and you can register for this free all day event [here](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/). &nbsp;There will be activities for all levels of engagement:
+As is tradition, DataSF is celebrating big time and YOU are invited. &nbsp;We are participating in SF’s [Open Data Day](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/) Celebration brought to you by the brilliant folks from Code for San Francisco. &nbsp;It will be held tomorrow (4th) at the Microsoft Reactor and you can register for this free all day event [here](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/237515330/). &nbsp;There will be activities for all levels of engagement:
 
 * Have an amazing idea for a project involving open data? Great! There will be opportunities to present.
 * Want to help pitch in and join a project? Plenty of opportunities for that.
