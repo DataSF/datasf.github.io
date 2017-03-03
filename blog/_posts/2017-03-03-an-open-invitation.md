@@ -68,7 +68,7 @@ The Planning Department and Department of Public Works has just launched a fanta
 
 ![](/uploads/versions/everytreeweb---x----624-251x---.png)
 
-The Department of the Environment also maintains a couple datasets around emissions and energy performance:
+The Department of the Environment also maintains a couple of datasets around emissions and energy performance:
 
 [Existing Commercial Buildings Energy Performance Ordinance Report](https://data.sfgov.org/Energy-and-Environment/Existing-Commercial-Buildings-Energy-Performance-O/j2j3-acqj): All commercial buildings with at least 10k sq ft of conditioned space must track how much energy their building uses each year. &nbsp;You can read more about the enacting ordinance [here](https://sfenvironment.org/energy/energy-efficiency/commercial-and-multifamily-properties/existing-commercial-buildings-energy-performance-ordinance).
 
