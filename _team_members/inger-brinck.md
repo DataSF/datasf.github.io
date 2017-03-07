@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/inger-brinck.jpg
+headshot_image_path: /uploads/inger-brinck.png
 ---
 
 
