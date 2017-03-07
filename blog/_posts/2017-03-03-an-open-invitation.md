@@ -1,6 +1,6 @@
 ---
 title: "An 'Open' Invitation"
-author: blake_valenta
+author: jason_lally
 image:
   thumb: open-data-day/opendata.jpg
   feature: open-data-day/opendata.jpg
