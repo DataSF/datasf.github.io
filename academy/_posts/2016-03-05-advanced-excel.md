@@ -2,7 +2,7 @@
 layout: course
 title: Advanced Excel
 course_short_name: Excel - Advanced
-description: This classroom based workshop is the fourth in a series of workshops on Excel offered by the Data Academy. It provides the Data Academy’s most advanced level of Excel training.
+description: This video-guided workshop is the third in a series of Excel workshops offered by Data Academy.
 prerequisites: None
 length: 2
 series:
@@ -20,27 +20,24 @@ order: 3
 
 ## About this course
 
-This classroom based workshop is the third in a series of workshops on Excel offered by the Data Academy. It provides the Data Academy's most advanced level of Excel training.
+This video-guided workshop is the third in a series of Excel workshops offered by Data Academy. In this course, the instructor guides attendees through the course material by showing high-quality training videos from [Lynda.com](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing).  This course provides Data Academy’s most advanced level of Excel training.
 
 We encourage experienced Excel users to register for this fast-paced course.
 
 ## What you’ll learn
 
-Please click the below links to access how-to guides from Lynda.com! &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+Please click the below links to access how-to guides from Lynda.com!  [Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 
-* Automation tools
-  * [Recording and using macros](http://www.lynda.com/Excel-tutorials/Reviewing-recording-method/74463/79053-4.html)
-* Analysis tools
-  * [Statistical tests using the analysis toolpak](http://www.lynda.com/Excel-tutorials/Excel-Analysis-ToolPak/422098/459827-4.html)
-  * [What-if analysis](http://www.lynda.com/Excel-tutorials/Finding-target-value-using-Goal-Seek/150165/159913-4.html)
-  * PowerPivot
-  * [Data Tables](http://www.lynda.com/Excel-tutorials/Using-data-tables/376986/431781-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3adennis+taylor%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
-* Auditing tools
-  * [Formula auditing](http://www.lynda.com/Excel-tutorials/Auditing/363001/460714-4.html)
-  * [Precedents/dependents](http://www.lynda.com/Excel-tutorials/Auditing/363001/460714-4.html)
-  * [Conditional formatting](http://www.lynda.com/Excel-tutorials/Applying-conditional-formatting-across-rows-data/363001/408645-4.html)
+* [IF formulas](https://www.lynda.com/Excel-tutorials/logical-tests/431188/463312-4.html)
+* [Nested formulas](https://www.lynda.com/Excel-tutorials/Expanding-nested-statements/431188/463313-4.html)
+* [MATCH function](https://www.lynda.com/Excel-tutorials/Locating-data-MATCH-function/431188/463322-4.html)
+* [INDEX and MATCH functions](https://www.lynda.com/Excel-tutorials/Using-MATCH-INDEX-functions-together/431188/463324-4.html)
+* [OFFSET function](https://www.lynda.com/Excel-tutorials/Use-OFFSET-function-tabulating-moving-data/363001/511305-4.html)
+* [Conditional Formatting with a Pick List](https://www.lynda.com/Excel-tutorials/Creating-Variable-Conditional-Formatting-Rules/363001/447337-4.html)
+* [INDIRECT function](https://www.lynda.com/Excel-tutorials/Returning-references-INDIRECT-function/431188/463362-4.html)
+* [Checking formulas for errors](https://www.lynda.com/Excel-tutorials/Debugging-formulas-F9-key/431188/463300-4.html)
 
 ## More resources
 
 * San Francisco Public Library
-  * [Advanced Excel from Gale Courses](http://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel)&nbsp;(6 weeks, 24hrs total works)
+  * [Advanced Excel from Gale Courses](http://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel) (6 weeks, 24hrs total works)
