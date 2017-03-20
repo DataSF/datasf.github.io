@@ -6,6 +6,7 @@ bio:
 gravatar:
 twitter:
 headshot_image_path: /uploads/joe-lapka.jpg
+instructor: true
 ---
 
 

@@ -13,19 +13,20 @@ title: Data Academy Instructors
       <div class="page-title">
         <h1 style="margin-top:0">{{ page.title }}</h1>
         <p class='lead'>
-          Meet the crew that brings you Data Academy training throughout the year. Interested in becoming an instructor? Let us know.
+          Meet the crew that brings you Data Academy training throughout the year. <a href='https://docs.google.com/forms/d/e/1FAIpQLSeuTxCVktX2_2nd1SGOq3uv4JvTuzf1PJtKlwCJi0ua9BEVaw/viewform?mc_cid=cd798083d0&mc_eid=8f097953d9'>Interested in becoming an instructor? Let us know.</a>
         </p>
       </div>
     </div>
   </div>
-    {% for instructor in site.team_members %}
+    {% assign instructors = site.team_members | where:"instructor",true %}
+    {% for instructor in instructors %}
     {% assign rowfinder = forloop.index | modulo: 3 %}
     {% if rowfinder == 1 %}
     <div class='row'>
     {% endif %}
     <div class="col-sm-4">
       <div style='margin-top: 20px; position: relative;'>
-        <div style='height: 300px; overflow: hidden;'>
+        <div style='max-height: 360px; overflow: hidden;'>
           <img src='{{instructor.headshot_image_path}}' alt='Headshot of instructor' class='img-responsive' />
         </div>
         <h2>{{ instructor.name }}</h2>
