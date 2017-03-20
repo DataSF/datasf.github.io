@@ -6,6 +6,7 @@ bio: 'Open Data Services Engineer, City and County of San Francisco'
 gravatar: a15af49cb9ec97776196f650feefc26
 twitter: J9Heiser
 headshot_image_path: /uploads/janine-heiser.jpg
+instructor: false
 ---
 
 

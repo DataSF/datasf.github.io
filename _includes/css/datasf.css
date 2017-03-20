@@ -1663,7 +1663,7 @@ p.task-item {
   text-align: center;
   background-color: transparent;
 }
-/*Academy*/
+/* BEGIN Academy*/
 
 .filter-topic.active {
   background-color: #CCC;
@@ -1747,6 +1747,18 @@ figure {
     }
 }
 
+.instructor-bio {
+  max-height: 250px;
+  overflow: hidden;
+}
+
+.instructor-bio.read-less {
+  max-height: none;
+  overflow: visible;
+  padding-bottom: 15px;
+}
+
+/* END Academy */
 
 /* blog figures */
 
