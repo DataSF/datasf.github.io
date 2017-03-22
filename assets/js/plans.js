@@ -239,12 +239,15 @@ $(function() {
     }, {
       "data": "dataset_description"
     }, {
+      "data": "data_classification"
+    },
+    {
       "data": "publishing_status"
     }],
     "columnDefs": [{
       "data": null,
       "defaultContent": "",
-      "targets": -2
+      "targets": [-3,-2]
     },
     {
       "targets": -1,
