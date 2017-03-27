@@ -1,7 +1,19 @@
 ---
 title: Introduction to Lean Process Mapping and Visio
 course_short_name: Lean Process Mapping
-description: 'In this classroom based workshop, you will learn the basics of undertaking a Business Process Improvement (BPI) project. The focus will be on the basics of developing a high-level process map in PowerPoint and conducting process analysis.'
+description: >-
+  This classroom-based workshop introduces the Lean process improvement method,
+  focusing specifically on process mapping. The course also provides basic
+  training on how to document your process map using Microsoft Visio.
+
+
+
+
+
+  This training is recommended for anyone who is new to process mapping. It is
+  ideal for people who have a process improvement project in mind or are just
+  getting started. No prior training or experience in process mapping is
+  required.
 prerequisites: None
 length: 2
 subjects:
@@ -18,6 +30,8 @@ categories:
   - academy
 ---
 
+
+## &nbsp;
 
 ## About this course
 
