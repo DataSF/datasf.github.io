@@ -10,6 +10,10 @@ description: >-
 
 
 
+
+
+
+
   This training is recommended for anyone who is new to process mapping. It is
   ideal for people who have a process improvement project in mind or are just
   getting started. No prior training or experience in process mapping is
@@ -30,8 +34,6 @@ categories:
   - academy
 ---
 
-
-## &nbsp;
 
 ## About this course
 
