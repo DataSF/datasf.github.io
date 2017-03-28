@@ -33,7 +33,7 @@ publishing:
     url: /publishing/plans/
   
 catalog:
-  - text: Home
+  - text: Explore
     url: /opendata/
   - text: Browse Data
     url: 'https://data.sfgov.org/browse'

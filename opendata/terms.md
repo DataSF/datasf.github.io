@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /catalog/terms-of-use/
+permalink: /opendata/terms-of-use/
 index: catalog
 title: Open Data Catalog Terms of Use
 subnav: true
