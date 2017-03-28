@@ -31,11 +31,19 @@
           {% for link in site.data.navigation.main_nav %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout or (page.index == link.index and page.index != null) %} {% assign current = 'active' %} {% assign index = link.index %} {% endif %}
           <li class="{{current}}">
             <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
+            {% if current and site.data.navigation[index] %}
+            <ul class="visible-xs list-unstyled mobile-subnav">
+            {% for sublink in site.data.navigation[index] %}
+            {% assign subcurrent = nil %} {% if page.url == sublink.url or page.layout == sublink.layout %} {% assign subcurrent = 'active' %} {% endif %}
+            <li class="{{subcurrent}}">
+              <a class="{{subcurrent}}" href="{{site.baseurl}}{{ sublink.url }}">{{ sublink.text }}</a>
+            </li>
+            {% endfor %}
+            </ul>
+            {% endif %}
           </li>
           {% endfor %}
           {% for link in site.data.navigation.utility %} {% assign current = nil %} {% if page.url == link.url or page.layout == link.layout %} {% assign current = 'active' %} {% endif %}
-          <script>
-          </script>
           <li class="{{current}} visible-xs utility-nav">
             <a class="{{ current }} {% if link.class %} {{link.class}} {% endif %}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
           </li>

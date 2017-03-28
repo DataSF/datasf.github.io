@@ -54,14 +54,32 @@ body {
     background: rgba(0,0,0,0.3);
 }
 
+
+.masthead {
+  min-height: 200px; 
+  color: white;
+  position:relative; 
+  background-position: right;
+  -webkit-background-size: cover; 
+  -mo-background-size: cover; 
+  -o-background-size: cover; 
+  background-size: cover;
+}
+
 .left-cover {
-  height: 100%;
-  width: 45%;
-  z-index: 3;
   position: absolute;
+  background-color: #333;
+  z-index: 3;
+  height: 100%;
+  width: 100%;
   top: 0;
   left: 0;
-  background-color: #333;
+}
+
+@media (min-width: 768px) {
+  .left-cover {
+    width: 45%;
+  }
 }
 
 body img {
@@ -471,6 +489,8 @@ a:active {
   outline: 0;
 }
 
+
+
 @media (min-width: 768px) {
   
   .navbar-default li.active {
@@ -521,13 +541,34 @@ a:active {
   background-color: #4d4d4d;
 }
 
+.navbar-collapse.in ul.mobile-subnav li.active {
+  background-color: #3d3c3c;
+}
+
+.mobile-subnav li {
+  padding: 5px 20px;
+}
+
+.mobile-subnav {
+  border-top: black thin solid;
+}
+
+
+
+.navbar-collapse li.utility-nav a {
+  font-size: 80%;
+  padding: 5px 0;
+  margin: 0 15px;
+}
+
 .navbar-default {
   border-color: transparent;
   background-color: #222;
 }
 
 .navbar-fixed-top .navbar-collapse {
-  max-height: none;
+  max-height: 510px;
+  overflow-y: scroll;
 }
 
 .navbar-subnav {
