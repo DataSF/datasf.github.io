@@ -8,6 +8,7 @@
       {{ post.date | date: "%B %d, %Y" }}
     </time>
     <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
+    <p>By {{site.data.authors[post.author].name}}</p>
     <p class="text-muted">{{ post.description }}</p>
   </div>
 </div>

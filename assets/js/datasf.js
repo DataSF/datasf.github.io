@@ -167,7 +167,7 @@ var transform = function(data, label) {
   if (label === undefined) {
     for (var key in data[0]) {
       if (data[0].hasOwnProperty(key)) {
-        output.push([key.replace(/_/g, " ").toTitleCase(), data[0][key]])
+        output.push([toTitleCase(key.replace(/_/g, " ")), data[0][key]])
       }
     }
     return output
@@ -178,7 +178,7 @@ var transform = function(data, label) {
         output.push([rec[label] ? 'Yes' : 'No', rec.count]);
       }
       else {
-        output.push([rec[label].toTitleCase(), rec.count]);
+        output.push([toTitleCase(rec[label]), rec.count]);
       }
       total += +rec.count;
     });

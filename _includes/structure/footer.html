@@ -5,24 +5,18 @@
 
       </div>
       <div class="col-md-4">
-        {% if page.index != 'catalog' %}
         <ul class="list-inline social-buttons hidden-print">
           {% for network in site.social %}
           <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
           </li>
           {% endfor %}
         </ul>
-        {% else %}
+        <!--
         <div class="catalog-powered">
           Data catalog powered by <span class="sr-only">Socrata</span><br/>
-          <a href="https://socrata.com" target="_blank"><img src="/assets/img/socrata.jpg" alt="Socrata logo" width="100px"></a>
+          <a href="https://socrata.com" target="_blank"><img src="/assets/img/socrata.jpg" alt="Socrata logo" width="75px"></a>
         </div>
-        {% endif %}
-      </div>
-      <div class="col-md-4">
-        <ul class="list-inline quicklinks">
-
-        </ul>
+        -->
       </div>
     </div>
   </div>

@@ -8,12 +8,9 @@
 <script src="{{ "/assets/js/vendor/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/vendor/DataTables-1.10.7/media/js/jquery.dataTables.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/vendor/DataTables-1.10.7/Plugins-1.10.7/integration/bootstrap/3/dataTables.bootstrap.min.js" | prepend: site.baseurl }}"></script>
+
 {% if page.toc %}
 <script src="{{ "/assets/js/vendor/toc.js" | prepend: site.baseurl }}"></script>
-{% endif %}
-
-{% if page.is_front %}
-<script src="{{ "/assets/js/vendor/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
 {% endif %}
 
 {% if page.lunr %}
@@ -25,6 +22,7 @@
 <script src="{{ "/assets/js/vendor/selectize.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Custom site JavaScript -->
+<script src="{{ "/assets/js/vendor/toTitleCase.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/datasf.js" | prepend: site.baseurl }}"></script>
 
 {% if page.js %}

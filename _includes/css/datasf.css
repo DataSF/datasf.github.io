@@ -6,6 +6,10 @@ body {
   margin-top: 50px;
 }
 
+.btn {
+  border-radius: 0;
+}
+
 .pubexpsurvey {
   background-color: #333;
   margin: 0;
@@ -571,8 +575,8 @@ a:active {
   overflow-y: scroll;
 }
 
-.navbar-nav {
-  margin: 0 -15px;
+.navbar-right {
+  margin-right: 0;
 }
 
 .navbar-subnav {
@@ -654,8 +658,8 @@ a:active {
 }
 .navbar-mini .container {
   background: url('/assets/img/city_seal_white.png') no-repeat;
-  background-position: left 0 top -50px;
-  background-position-x: 0;
+  background-position: left 12px top -50px;
+  background-position-x: 12px;
   background-position-y: -50px;
 }
 .navbar.navbar-mini li {
@@ -2279,3 +2283,24 @@ footer .catalog-powered {
   z-index: 1;
 }
 
+/* BEGIN Open Data /opendata */
+
+ul.three-columns {
+  margin-bottom: 3em;
+  list-style-type: disc;
+  -moz-column-count: 3;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 20px;
+  column-count: 3;
+  column-gap: 20px;
+}
+
+ul.three-columns li {
+  margin-bottom: .25em;
+    margin-left: 2em;
+    padding-right: 1em;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    column-break-inside: avoid;
+}
