@@ -15,6 +15,7 @@ var median = function(values) {
 }
 
 $(function() {
+  
   if (typeof $.fn.toc == 'function') {
     $('#article-toc').toc({
       'container': 'article',

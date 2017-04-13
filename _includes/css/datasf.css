@@ -493,10 +493,23 @@ a:active {
   outline: 0;
 }
 
-
+.navbar-nav {
+  margin: 0 -15px;
+}
 
 @media (min-width: 768px) {
+  .navbar-nav {
+    margin: 0;
+  }
   
+  .navbar-right {
+    margin: 0;
+  }
+  
+  .navbar-left {
+    margin: 0;
+  }
+    
   .navbar-default li.active {
     background-color: #{{site.color.tertiary}};
   }
@@ -536,28 +549,26 @@ a:active {
   }
 }
 
+
+
 .navbar-default .nav>li>a {
   margin: 0 15px;
   padding: 15px 0;
 }
 
 .navbar-collapse.in li.active {
-  background-color: #4d4d4d;
-}
-
-.navbar-collapse.in ul.mobile-subnav li.active {
-  background-color: #3d3c3c;
+  background-color: #408bae;
 }
 
 .mobile-subnav li {
-  padding: 5px 20px;
+  padding: 15px 25px;
+  font-size: 12px;
 }
 
 .mobile-subnav {
   border-top: black thin solid;
+  background-color: #222;
 }
-
-
 
 .navbar-collapse li.utility-nav a {
   font-size: 80%;
@@ -573,10 +584,6 @@ a:active {
 .navbar-fixed-top .navbar-collapse {
   max-height: 510px;
   overflow-y: scroll;
-}
-
-.navbar-right {
-  margin-right: 0;
 }
 
 .navbar-subnav {
@@ -1680,8 +1687,8 @@ p.task-item {
   position: relative;
   background-repeat: no-repeat;
   background-position-x: 50%;
-  background-position-y: 50%;
-  background-position: center center;
+  background-position-y: 35%;
+  background-size: 100px;
   background-color: #D5ECF7;
   color: #fff;
   margin-bottom: 20px;
