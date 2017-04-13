@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
-version: 3.0.3
+version: 3.4.3
 
 kramdown:
   input: GFM
