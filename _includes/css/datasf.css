@@ -553,6 +553,11 @@ a:active {
     position: relative;
 }
 
+.nav-group .navbar-subnav .nav .search a:hover {
+    background-color: transparent;
+}
+
+
 .nav-group .navbar-subnav .nav .sign-in {
     padding: 5px 5px 0 5px;
 }
