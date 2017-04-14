@@ -549,7 +549,76 @@ a:active {
   }
 }
 
+.nav-group .navbar-subnav .nav .search {
+    position: relative;
+}
 
+.nav-group .navbar-subnav .nav .sign-in {
+    padding: 5px 5px 0 5px;
+}
+
+.nav-group .navbar-subnav .nav .search a i {
+    font-size: 1.5em;
+}
+
+.expandable-search .fa {
+    position: absolute;
+    left: -18px;
+    top: 0;
+    font-size: 14px;
+    line-height: 28px;
+    pointer-events: none;
+    color: #999;
+    z-index: 4;
+}
+
+
+
+.expandable-search {
+  visibility: hidden;
+  position: absolute;
+  top: 5px;
+  right: 4px;
+  width: 0%;
+  -webkit-transition: visibility 0s linear 0.3s, width 0.3s linear;
+  -moz-transition: visibility 0s linear 0.3s, width 0.3s linear;
+  -ms-transition: visibility 0s linear 0.3s, width 0.3s linear;
+  -o-transition: visibility 0s linear 0.3s, width 0.3s linear;
+  transition: visibility 0s linear 0.3s, width 0.3s linear;
+}
+
+.expandable-search input {
+  position: relative;
+    border: solid 1px #c8c8c8;
+    border-radius: 3px;
+    box-shadow: inset 1px 1px 3px rgba(0,0,17,0.1);
+    font-size: 16px;
+    padding: 8px 0 8px 25px;
+    z-index: 3;
+    vertical-align: top;
+    height: 12px;
+    box-sizing: content-box;
+    font-family: "Open Sans","Open Sans",Helvetica,Arial,"sans-serif";
+    width: 100%;
+    margin-left: -25px;
+    color: #333;
+}
+
+.expandable-search.searchbox-open {
+  visibility: visible;
+  width: 291px;
+}
+
+.expandable-search.searchbox-open input, .expandable-search.searchbox-open .fa {
+  visibility: visible;
+}
+
+.nav-group .navbar-subnav .nav .search a {
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  margin: 5px;
+  line-height: 30px;
+}
 
 .navbar-default .nav>li>a {
   margin: 0 15px;
@@ -2292,22 +2361,23 @@ footer .catalog-powered {
 
 /* BEGIN Open Data /opendata */
 
-ul.three-columns {
-  margin-bottom: 3em;
-  list-style-type: disc;
-  -moz-column-count: 3;
-  -moz-column-gap: 20px;
-  -webkit-column-count: 3;
-  -webkit-column-gap: 20px;
-  column-count: 3;
-  column-gap: 20px;
-}
-
-ul.three-columns li {
-  margin-bottom: .25em;
+@media (min-width: 768px) {
+  ul.three-columns {
+    margin-bottom: 3em;
+    list-style-type: disc;
+    -moz-column-count: 3;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    column-count: 3;
+    column-gap: 20px;
+  }
+  ul.three-columns li {
+    margin-bottom: .25em;
     margin-left: 2em;
     padding-right: 1em;
     -webkit-column-break-inside: avoid;
     -moz-column-break-inside: avoid;
     column-break-inside: avoid;
+  }
 }

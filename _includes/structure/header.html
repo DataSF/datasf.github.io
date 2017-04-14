@@ -39,6 +39,11 @@
               <a class="{{subcurrent}}" href="{{site.baseurl}}{{ sublink.url }}">{{ sublink.text }}</a>
             </li>
             {% endfor %}
+            {% if page.index == "catalog" %}
+            <li>
+              <a href="https://data.sfgov.org/login">Sign In</a>
+            </li>
+            {% endif %}
             </ul>
             {% endif %}
           </li>
@@ -65,16 +70,14 @@
           </li>
           {% endfor %}
           {% if index == "catalog" %}
-          <li class="divider">
-            <div style="border-left: thin solid #333333; height: 100%; width: 10px; height: 35px; margin: 2px"></div>
-          </li>
-          <li>
-            <div style="margin-top: 5px; margin-right: 5px;">
-              <i class="fa fa-2x fa-search" aria-hidden="true" style="color:#333333;"></i>
-            </div>
-          </li>
-           <li class="divider">
-            <div style="border-left: thin solid #333333; height: 100%; width: 10px; height: 35px; margin: 2px"></div>
+          <li class="search">
+            <a href="#"><i class="fa fa-search" aria-hidden="true" style="color:#333333;"></i></a>
+            <form action="https://data.sfgov.org/browse" method="get" class="expandable-search">
+              <i class="fa fa-search" aria-hidden="true" style="color:#999;"></i>
+              <label class="control-label sr-only" for="q">Search</label>
+                <input type="text" name="q" placeholder="Search">
+              </label>
+            </form>
           </li>
           <li class="sign-in">
             <a href="https://data.sfgov.org/login" class='btn btn-sign-in'>Sign In</a>

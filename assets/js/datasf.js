@@ -54,8 +54,7 @@ $(function() {
   $('a.download').on('click', function(ev) {
     ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).parent().data('download-name'), 1)
   });
-
-
+  
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
     return this.optional(element) || /[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@(sfgov.org|sfusd.edu|ucsf.edu|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org|sfcta.org)/.test(value);
