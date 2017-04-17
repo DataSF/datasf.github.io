@@ -5,6 +5,7 @@ permalink: /opendata/terms-of-use/
 index: catalog
 title: Open Data Catalog Terms of Use
 subnav: true
+js: opendata.js
 ---
 
 For data.sfgov.org (DataSF)
