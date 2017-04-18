@@ -3,7 +3,7 @@ layout: fixed
 toc: true
 permalink: /opendata/terms-of-use/
 index: catalog
-title: Open Data Catalog Terms of Use
+title: Terms of Use
 subnav: true
 js: opendata.js
 ---
