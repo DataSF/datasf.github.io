@@ -24,6 +24,6 @@ We’re happy to announce a new feature on San Francisco’s open data portal! S
 
 Along with an improved search experience launched last year, the portal continues to improve to better serve our users. Plus, we’ve worked closely with Socrata to restitch two of our web properties together through consistent navigation across the portal and DataSF’s other initiatives.
 
-[Screenshot of before and after]
+![Screenshots showing open data portal before and after](/uploads/versions/before-after---x0-18-884-279-883-279x---.png)
 
 We’ll continue to monitor the implementation of these changes and advocate for and advance our user’s needs wherever we can. One initiative currently underway is t[he collection and improvement of field level metadata](/blog/show-me-the-data-dictionary/). Keep an eye out on the blog for more in the future.
