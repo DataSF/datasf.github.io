@@ -13,7 +13,7 @@ image:
     license:
     license_link:
 description:
-published: fals
+published: false
 date:
 categories:
   - blog
