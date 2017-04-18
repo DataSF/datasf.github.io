@@ -2,9 +2,9 @@
 title: A new place to land. Improving the open data experience.
 author: jason_lally
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: primers/primer-screen.png
+  feature: primers/primer-screen.png
+  caption: '"Primer" pages are essentially landing pages for datasets with clearer presentation of metadata and related content.'
   source:
     title:
     author:
