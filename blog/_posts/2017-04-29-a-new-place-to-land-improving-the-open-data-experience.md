@@ -26,4 +26,4 @@ Along with an improved search experience launched last year, the portal continue
 
 ![Screenshots showing open data portal before and after](/uploads/versions/before-after---x0-18-884-279-883-279x---.png)
 
-We’ll continue to monitor the implementation of these changes and advocate for and advance our user’s needs wherever we can. One initiative currently underway is t[he collection and improvement of field level metadata](/blog/show-me-the-data-dictionary/). Keep an eye out on the blog for more in the future.
+We’ll continue to monitor the implementation of these changes and advocate for and advance our user’s needs wherever we can. One initiative currently underway is [the collection and improvement of field level metadata](/blog/show-me-the-data-dictionary/). Keep an eye out on the blog for more in the future.
