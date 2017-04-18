@@ -1,5 +1,5 @@
 ---
-title: A new place to land. Improving the open data experience.
+title: A new place to land; improving the open data experience
 author: jason_lally
 image:
   thumb: primers/primer-screen.png
