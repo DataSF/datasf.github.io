@@ -1,6 +1,6 @@
 ---
 title: Open Data Metrics
-description:
+description: Learn how DataSF measures open data.
 tags:
 audiences:
 resources_list:
