@@ -12,3 +12,10 @@ resources_list:
       - link:
         media_type:
 ---
+
+
+&lt;insert blurb on open data metrics&gt;
+
+&nbsp;
+
+&nbsp;
