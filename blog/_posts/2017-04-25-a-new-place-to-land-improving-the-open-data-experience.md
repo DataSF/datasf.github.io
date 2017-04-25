@@ -12,9 +12,9 @@ image:
     author_link:
     license:
     license_link:
-description:
-published: false
-date: 2017-04-18 11:56:00
+description: 'We’re happy to announce a new feature on San Francisco’s open data portal! Socrata has improved the user experience around datasets through dataset “Primers.” This feature serves as a landing page for datasets, allowing San Francisco department publishers to better highlight important metadata and related content.'
+published: true
+date: 2017-04-25 09:00:00
 categories:
   - blog
 ---
