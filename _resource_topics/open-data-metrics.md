@@ -4,13 +4,13 @@ description:
 tags:
 audiences:
 resources_list:
-  - name:
+  - name: 'DataSF: Evaluation and Performance Plan for Open Data'
     description:
     post_date:
     resource_type:
     links:
-      - link:
-        media_type:
+      - link: 'https://docs.google.com/document/d/1wvrSviKN8mYtxVVYCw7WohoujJjSFvSkY_Tj3ku8UMU/edit?usp=sharing'
+        media_type: Google Doc
 ---
 
 
