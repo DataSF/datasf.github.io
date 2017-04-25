@@ -18,8 +18,6 @@ resources_list:
     links:
       - link: 'https://drive.google.com/file/d/0B-65Qm9J0m0Wa1VIenczS3ZHRjA/view?usp=sharing'
         media_type: PDF
-      - link:
-        media_type:
   - name: 'Research Review: Open Data Evaluation Framework'
     description: 'Before creating our evaluation and performance plan, we surveyed the sector for guidance and frameworks to leverage. This is a summary of that research.'
     post_date: 2017-04-25 00:00:00
