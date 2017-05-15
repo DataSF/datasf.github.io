@@ -1,9 +1,9 @@
 ---
 title: 'Serve Your City: Be our Neighborhood Services Engineer'
-author: Joy Bonaguro
+author: joy_bonaguro
 image:
-  thumb: '/assets/blog/serve-your-city/1932_Candrain_Map_of_San_Francisco,_California_-_Geographicus_-_SanFrancisco-candrian-1932.jpg'
-  feature: '/assets/blog/serve-your-city/1932_Candrain_Map_of_San_Francisco,_California_-_Geographicus_-_SanFrancisco-candrian-1932.jpg'
+  thumb: '/serve-your-city/1932_Candrain_Map_of_San_Francisco,_California_-_Geographicus_-_SanFrancisco-candrian-1932.jpg'
+  feature: '/serve-your-city/1932_Candrain_Map_of_San_Francisco,_California_-_Geographicus_-_SanFrancisco-candrian-1932.jpg'
   caption: Historic Map of San Francisco
   source:
     title:
