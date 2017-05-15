@@ -1,6 +1,6 @@
 ---
 title: 'Serve Your City: Be our Neighborhood Services Engineer'
-author:
+author: Joy Bonaguro
 image:
   thumb:
   feature:
@@ -12,8 +12,8 @@ image:
     author_link:
     license:
     license_link:
-description:
-date:
+description: 'Want to improve the experience in San Francisco neighborhoods? Well, we’ve got a job for you...'
+date: 2017-05-15 00:00:00
 categories:
   - blog
 ---
