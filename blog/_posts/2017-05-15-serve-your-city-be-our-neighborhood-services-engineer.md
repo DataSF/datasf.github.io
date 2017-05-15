@@ -32,7 +32,7 @@ If you are a user-centered technologist, join us to validate and develop our use
 
 # Your responsibilities
 
-This is a temporary (approximately 1 year) appointment to research and develop a neighborhood noticing system. You will report to the Chief Digital Services Officer and work closely with the Chief Data Officer and DataSF team ([datasf.org](datasf.org)). The City currently contributes data feeds from the open data portal to CityGram.org, which allows users to subscribe to event updates via text or email for a given dataset near a given location at a given frequency. You will:
+This is a temporary (approximately 1 year) appointment to research and develop a neighborhood noticing system. You will report to the Chief Digital Services Officer and work closely with the Chief Data Officer and [DataSF team](http://datasf.org). The City currently contributes data feeds from the open data portal to CityGram.org, which allows users to subscribe to event updates via text or email for a given dataset near a given location at a given frequency. You will:
 
 1. Conduct user research and assess the current state of noticing in San Francisco
 2. Develop a process and technical approach to improve noticing, including but not limited to:
