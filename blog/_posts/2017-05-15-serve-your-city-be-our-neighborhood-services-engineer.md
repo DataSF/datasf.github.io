@@ -25,15 +25,14 @@ Want to improve the experience in San Francisco neighborhoods? Well, we’ve got
 
 More than 20 departments send out notices to city residents and businesses about activities and permitting nearby. The sheer volume and variety of this noticing activity can overwhelm residents and perversely, leave them wondering what’s happening in their neighborhood. You will help us improve access to city information and services by deploying a neighborhood notification system and other systems as needed. To address this, you will build:
 
-A website to find City projects and permitting decisions by supervisor district
-
-A system that allows users to electronically subscribe to information from the website
+1. A website to find City projects and permitting decisions by supervisor district
+2. A system that allows users to electronically subscribe to information from the website
 
 If you are a user-centered technologist, join us to validate and develop our use cases and figure out the best way to help residents navigate this dizzying array of information!
 
 # Your responsibilities
 
-This is a temporary (approximately 1 year) appointment to research and develop a neighborhood noticing system. You will report to the Chief Digital Services Officer and work closely with the Chief Data Officer and DataSF team (datasf.org). The City currently contributes data feeds from the open data portal to CityGram.org, which allows users to subscribe to event updates via text or email for a given dataset near a given location at a given frequency. You will:
+This is a temporary (approximately 1 year) appointment to research and develop a neighborhood noticing system. You will report to the Chief Digital Services Officer and work closely with the Chief Data Officer and DataSF team ([datasf.org](datasf.org)). The City currently contributes data feeds from the open data portal to CityGram.org, which allows users to subscribe to event updates via text or email for a given dataset near a given location at a given frequency. You will:
 
 1. Conduct user research and assess the current state of noticing in San Francisco
 2. Develop a process and technical approach to improve noticing, including but not limited to:
