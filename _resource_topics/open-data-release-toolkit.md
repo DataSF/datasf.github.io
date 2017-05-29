@@ -1,6 +1,6 @@
 ---
 title: Open Data Release Toolkit
-description: 'Toolkit to manage risks when publishing data. The Privacy Edition assess the release of de-identified sensitive or protected datasets on the open data portal. Includes a step-by-step guide and supporting form. The Security Edition is a 4 step process for managing other types of risks (life / safety, property, etc). Includes a worksheet in the appendix.'
+description: 'Toolkit to manage risks when publishing data. The Privacy Edition assesses the release of de-identified sensitive or protected datasets on the open data portal. Includes a step-by-step guide and supporting form. The Security Edition is a 4 step process for managing other types of risks (life / safety, property, etc). Includes a worksheet in the appendix.'
 tags:
 audiences:
   - Data Publisher
