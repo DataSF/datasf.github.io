@@ -4,7 +4,7 @@ description:
 tags:
 audiences:
 resources_list:
-  - name: 'Guidebook: How to Ensure Quality DAta'
+  - name: 'Guidebook: How to Ensure Quality Data'
     description: We designed this DataSF guide to help you ensure quality data for services and programs in the City and County of San Francisco. It covers the 3 key steps to better data quality.
     post_date: 2017-05-29 00:00:00
     resource_type: Guide
