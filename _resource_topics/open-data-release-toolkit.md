@@ -1,12 +1,12 @@
 ---
 title: Open Data Release Toolkit
-description: Toolkit to assess the release of de-identified sensitive or protected datasets on the open data portal. Including a step-by-step guide and supporting form.
+description: 'Toolkit to manage risks when publishing data. The Privacy Edition assess the release of de-identified sensitive or protected datasets on the open data portal. Including a step-by-step guide and supporting form. The Security Edition is a 4 step process for managing other types of risks (life / safety, property, etc).'
 tags:
 audiences:
   - Data Publisher
   - Data Coordinator
 resources_list:
-  - name: Open Data Release Toolkit
+  - name: 'Open Data Release Toolkit: Privacy Edition'
     description: Toolkit to assess the release of de-identified sensitive or protected datasets on the open data portal.
     post_date: 2015-08-08 00:00:00
     resource_type: Toolkit
@@ -15,12 +15,19 @@ resources_list:
         media_type: PDF
       - link: 'https://drive.google.com/open?id=1MhvEuGKFuGY2vLcNqiXBsPjCzxYebe4dJicRWe6gf_s'
         media_type: Google Doc
-  - name: Open Data Release Form
-    description: Form that accompanies the Open Data Release Toolkit.
+  - name: 'Open Data Release Form: Privacy Edition'
+    description: 'Form that accompanies the Open Data Release Toolkit: Privacy Edition'
     post_date: 2016-08-08 00:00:00
     resource_type: Template
     links:
       - link: 'https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA'
+        media_type: Google Doc
+  - name: 'Open Data Release Toolkit: Security Edition'
+    description: Toolkit provides a consistent and repeatable 4 step process to assess security risks and select controls. Appendix includes a worksheet.
+    post_date: 2017-05-29 00:00:00
+    resource_type: Toolkit
+    links:
+      - link: 'https://docs.google.com/document/d/1amNOiI4l0_jGLjRqpizZ3v6Jryrj9e1TjjlirkdWb1E/edit?usp=sharing'
         media_type: Google Doc
 ---
 
