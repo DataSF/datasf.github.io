@@ -1,6 +1,6 @@
 ---
 title: Data Quality
-description:
+description: Use this guidebook and companion worksheet to support quality data collection in City and County of San Francisco.
 tags:
 audiences:
 resources_list:
