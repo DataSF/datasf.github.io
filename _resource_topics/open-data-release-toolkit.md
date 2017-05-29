@@ -25,7 +25,11 @@ resources_list:
 ---
 
 
-This Toolkit contains a step-by-step process to assess the release of de-identified sensitive or protected datasets on the SF Open Data portal. Sensitive or protected data is generally data that is protected by privacy law or regulation, identifies individuals, could be misused to target individuals and/or poses other concerns.
+This Toolkit contains two methods to manage risk in publishing open data.
+
+## Method 1: Privacy Edition
+
+This is a step-by-step process to assess the release of de-identified sensitive or protected datasets on the SF Open Data portal. Sensitive or protected data is generally data that is protected by privacy law or regulation, identifies individuals, could be misused to target individuals and/or poses other concerns.
 
 We seek to publish data responsibly. This requires a balancing of competing factors, such as:
 
@@ -34,4 +38,17 @@ We seek to publish data responsibly. This requires a balancing of competing fact
 * repercussions to an individual or the organization from re-identification, and
 * the likelihood of re-identification.
 
-The Toolkit is used in conjunction with the [Open Data Release Form](https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA)&nbsp;when going through the [open data publishing process](https://datasf-github-io-jasonlally.c9users.io/publishing/submission-guidelines/#toc3).
+The Toolkit is used in conjunction with the [Open Data Release Form](https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA)&nbsp;for the Privacy Edition when going through the [open data publishing process](https://datasf-github-io-jasonlally.c9users.io/publishing/submission-guidelines/#toc3).
+
+## Method 2: Security Edition
+
+The security edition is for datasets that pose security (versus privacy) risks. Your data may not contain any data about individuals, but it may contain data with the following kinds of risks:
+
+* Life / safety
+* Operational
+* Property
+* Rights / Intellectual Property
+* Reputation
+* Financial
+
+The Security Edition follows a 4 step process to manage security risks.
