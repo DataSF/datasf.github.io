@@ -27,7 +27,7 @@ resources_list:
     post_date: 2017-05-29 00:00:00
     resource_type: Toolkit
     links:
-      - link: 'https://docs.google.com/document/d/1amNOiI4l0_jGLjRqpizZ3v6Jryrj9e1TjjlirkdWb1E/edit?usp=sharing'
+      - link: 'https://docs.google.com/document/d/1hb85N5G4RXF2_p6HOGIzhji2S4X7Ak8zdIdIM_8k5EA/edit?usp=sharing'
         media_type: Google Doc
 ---
 
