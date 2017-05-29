@@ -58,4 +58,4 @@ The security edition is for datasets that pose security (versus privacy) risks. 
 * Reputation
 * Financial
 
-The Security Edition follows a 4 step process to manage security risks.
+The Security Edition follows a 4 step process to manage security risks. Includes an appendix with a worksheet.
