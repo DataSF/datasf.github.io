@@ -1,6 +1,8 @@
 ---
 title: New SF Building Footprints released with 3D characteristics
 author:
+  - brian_quinn
+  - jason_lally
 image:
   thumb:
   feature:
