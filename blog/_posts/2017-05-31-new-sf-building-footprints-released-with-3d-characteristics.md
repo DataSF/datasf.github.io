@@ -4,9 +4,9 @@ author:
   - brian_quinn
   - jason_lally
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: /buildings/building-screen.png
+  feature: /buildings/building-screen.png
+  caption: "With new building footprints, we can link administrative data and explore in ways we haven't been able to before"
   source:
     title:
     author:
