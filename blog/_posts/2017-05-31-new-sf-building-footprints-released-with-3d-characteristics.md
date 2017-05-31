@@ -21,7 +21,7 @@ categories:
 ---
 
 
-We are excited to announce the release of new building footprints to the open data portal! Wait, weren’t there already buildings on the open data portal? Yes, but take a close look at the new data and you’ll see not just masses for entire blocks of buildings, but beautiful footprints for each individual structure.
+We are excited to announce the release of new building footprints to the open data portal! Wait, weren’t there already buildings on the open data portal? Yes, but take a [close look at the new data](https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege) and you’ll see not just masses for entire blocks of buildings, but beautiful footprints for each individual structure.
 
 And with those structures, unique identifiers and all [sorts of derived data from LIDAR](http://oceanservice.noaa.gov/facts/lidar.html). But rather than tell you, let’s show you.
 
