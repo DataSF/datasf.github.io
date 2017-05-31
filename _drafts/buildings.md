@@ -1,5 +1,5 @@
 ---
-title: Buildings
+title: New SF Building Footprints released with 3D characteristics
 author:
 image:
   thumb:
@@ -17,3 +17,5 @@ date:
 categories:
   - blog
 ---
+
+
