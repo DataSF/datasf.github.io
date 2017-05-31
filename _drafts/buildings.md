@@ -12,8 +12,8 @@ image:
     author_link:
     license:
     license_link:
-description:
-date:
+description: 'We are excited to announce the release of new building footprints to the open data portal! Wait, weren’t there already buildings on the open data portal? Yes, but take a close look at the new data and you’ll see not just masses for entire blocks of buildings, but beautiful footprints for each individual structure.'
+date: 2017-05-31 00:00:00
 categories:
   - blog
 ---
