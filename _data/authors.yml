@@ -53,6 +53,7 @@ sam_valdez:
 brian_quinn:
   name: Brian Quinn
   title: "Architect/Analyst SFGIS Program"
+  bio: "Architect/Analyst SFGIS Program"
   long_bio: "Brian Quinn is the Architect/Analyst for SFGIS, helping to modernize GIS infrastructure from systems to enterprise datasets.  He likes to help users find the most GIS enjoyment from the least effort, and loves 3D virtual worlds.  A geophysicist who gave up oil to stay in San Francisco, Brian's perspective is informed by more than a decade of experience in each of academic research, private sector GIS, and public sector GIS, with international field sites, plus East- and North Bay agencies.  Brian holds a Rock Physics Ph.D. from Stanford and is a Certified GIS Professional."
   gravatar: d09ebdcf3025301227ee4c47b4dd8c62
   
@@ -66,7 +67,7 @@ blake_valenta:
 kimberly_hicks:
   name: Kimberly Hicks
   title: Data Scientist
-  bio: "Data Scientist, DataSF"
+  bio: "Data Scientist, City and County of San Francisco"
   long_bio: 'Kimberly Hicks is the Data Scientist specializing in data mining, predictive analytics, machine learning and data visualization.  Her focus is putting the City’s data to work to increase the quality of life for San Franciscans. Kimberly comes to the City from the private sector having worked for several years building innovative, statistical tools and ultimately improving efficiency through advanced analytics. Kimberly holds a Bachelor’s degree in Mathematics and a Master’s degree in Applied Statistics from the University of Michigan, Ann Arbor.'
   gravatar: e60f96bec9c1d177713240e49bb71bf6
   
