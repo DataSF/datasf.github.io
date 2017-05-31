@@ -29,7 +29,7 @@ And with those structures, unique identifiers and all [sorts of derived data fro
 
 We were so excited about the dataset, we put together [a little web app](https://datasf.org/sf-building-explorer) that allows you to explore the buildings and related data. Check it out, click around…we’ll wait…
 
-![](/uploads/versions/screen-shot-2017-05-31-at-9-57-10-am-2---x----1440-900x---.png)
+[![](/uploads/versions/screen-shot-2017-05-31-at-9-57-10-am-2---x----1440-900x---.png)](https://datasf.org/sf-building-explorer)
 
 Welcome back, hopefully you had a little fun exploring the City. What you may have missed while clicking around is that we’re linking different datasets on the open data portal through the lens of buildings (permits, planning entitlements, inspections, etc.). P.S. [source code available](https://github.com/DataSF/sf-building-explorer) for those of you that are curious :-)
 
