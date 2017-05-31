@@ -21,13 +21,13 @@ categories:
 
 We are excited to announce the release of new building footprints to the open data portal! Wait, weren’t there already buildings on the open data portal? Yes, but take a close look at the new data and you’ll see not just masses for entire blocks of buildings, but beautiful footprints for each individual structure.
 
-And with those structures, unique identifiers and all sorts of derived data from LIDAR. But rather than tell you, let’s show you.
+And with those structures, unique identifiers and all [sorts of derived data from LIDAR](http://oceanservice.noaa.gov/facts/lidar.html). But rather than tell you, let’s show you.
 
 ## New ability to link and see data by building
 
-We were so excited about the dataset, we put together a little web app that allows you to explore the buildings and related data. Check it out, click around...we’ll wait…
+We were so excited about the dataset, we put together [a little web app](https://datasf.org/sf-building-explorer) that allows you to explore the buildings and related data. Check it out, click around...we’ll wait…
 
-&nbsp;
+![](/uploads/versions/screen-shot-2017-05-31-at-9-57-10-am-2---x----1440-900x---.png)
 
 Welcome back, hopefully you had a little fun exploring the City. What you may have missed while clicking around is that we’re linking different datasets on the open data portal through the lens of buildings (permits, planning entitlements, inspections, etc.)
 
@@ -43,7 +43,7 @@ The buildings are a lynchpin in a built environment data model that will provide
 
 This new data would not have been possible without the efforts of the Department of Technology’s SFGIS division, the SF Department of Environment and the City Planning Department.
 
-We didn’t start entirely from scratch. The basic building masses had been developed from 2010 LIDAR data using photogrammetry from aerial photos for extra detail. The resulting 3D model was optimized for visualization. That model was flattened to produce the city building footprint layer that has been available for five years. Last year, those footprints were split using a manual process informed by parcel lines and orthoimagery. Those discrete building footprints were placed in 3D using LIDAR-derived ground surface and structure roof models. Each structure was assigned an ID and 3D statistics summarized.
+We didn’t start entirely from scratch. The basic building masses had been developed from 2010 LIDAR data using photogrammetry from aerial photos for extra detail. The resulting 3D model was optimized for visualization. That model was flattened to produce the city building footprint layer that has been available for five years. Last year, those footprints were split using a manual process informed by parcel lines and orthoimagery. Those discrete building footprints were placed in 3D using LIDAR-derived ground surface and structure roof models. Each structure was assigned an ID and 3D statistics summarized. You can [read more about the methodology in the documentation attached to the dataset](https://data.sfgov.org/d/72ai-zege/about).
 
 ## Where we’re going: data model for the built environment
 
