@@ -44,4 +44,4 @@ In our guidebook, we lay out the following steps to better data quality:
 2. **Define the Dataset**. Once you have your requirements, you can define the data tables and fields you need.
 3. **Define Policies and Processes**. You will need to define a set of policies and processes to manage your data through its lifecycle
 
-[Check out the guidebook and our companion worksheet](https://datasf.org/resources/data-quality/). Send any feedback via our help desk, support.datasf.org.
+[Check out the guidebook and our companion worksheet](https://datasf.org/resources/data-quality/). Send any feedback via our help desk, [support.datasf.org](http://support.datasf.org).
