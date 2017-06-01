@@ -1,10 +1,10 @@
 ---
-title: 'How to Ensure Quality Data'
+title: How to Ensure Quality Data
 author: blake_valenta
 image:
   thumb: /quality/quality.jpg
   feature: /quality/quality.jpg
-  caption: ''
+  caption:
   source:
     title: Quality Workmanship
     author: saeru
@@ -12,12 +12,13 @@ image:
     author_link: 'https://www.flickr.com/photos/saeru/'
     license: CC BY-SA 2.0
     license_link: 'https://creativecommons.org/licenses/by-sa/2.0/'
-description: 'Are you happy with the quality of your data?'
+description: Are you happy with the quality of your data?
 date: 2017-05-31 00:00:00
 categories:
   - blog
 published: false
 ---
+
 
 ## What is data quality?
 
@@ -43,4 +44,4 @@ In our guidebook, we lay out the following steps to better data quality:
 2. **Define the Dataset**. Once you have your requirements, you can define the data tables and fields you need.
 3. **Define Policies and Processes**. You will need to define a set of policies and processes to manage your data through its lifecycle
 
-Check out the guidebook and our companion worksheet. Send any feedback via our help desk, support.datasf.org.
+[Check out the guidebook and our companion worksheet](https://datasf.org/resources/data-quality/). Send any feedback via our help desk, support.datasf.org.
