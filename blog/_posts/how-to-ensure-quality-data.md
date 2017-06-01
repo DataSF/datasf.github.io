@@ -1,47 +1,46 @@
 ---
-title: 'New Data on the Block #1- Library Usage Data'
+title: 'How to Ensure Quality Data'
 author: blake_valenta
 image:
-  thumb: /new-data-block-1-library/library.jpg
-  feature: /new-data-block-1-library/library.jpg
-  caption: 'Rows and rows and rows of data!'
+  thumb: /quality/quality.jpg
+  feature: /quality/quality.jpg
+  caption: ''
   source:
-    title: And I was your silver lining
-    author: thomashawk
-    source_link: 'https://www.flickr.com/photos/thomashawk/6264836947/'
-    author_link: 'https://www.flickr.com/photos/thomashawk/'
-    license: CC BY-NC 2.0
-    license_link: 'https://creativecommons.org/licenses/by-nc/2.0/'
-description: 'New year, new feature! This is the first in a series of posts in which we highlight recently published data to the open data portal. First up, library data!'
-date: 2018-05-01 00:00:00
+    title: Quality Workmanship
+    author: saeru
+    source_link: 'https://www.flickr.com/photos/saeru/2334554340/'
+    author_link: 'https://www.flickr.com/photos/saeru/'
+    license: CC BY-SA 2.0
+    license_link: 'https://creativecommons.org/licenses/by-sa/2.0/'
+description: 'Are you happy with the quality of your data?'
+date: 2017-06-02 00:00:00
 categories:
   - blog
 published: false
 ---
 
+## What is data quality?
 
-New year, new feature! This is the first in a series of posts in which we highlight recently published data to the open data portal.
+There are lots of ways of measuring data quality. But all measurements answer this one question: to what  degree can you trust the data you are using for the purpose at hand.
 
-I don’t know about where you work, but around DataSF books rule. While we often geek out over city data or the newest visualization technique, nothing quite compares to a good book, a comfy chair, and a rainy day. That’s why we are so excited to reveal the latest addition to the open data portal: library usage data! The library usage dataset contains de-identified data about the total number of checkouts and renewals across a host of categories. Take an unprecedented peek into the voracious book, audiobook, and e-book consumption habits of San Franciscans. Follow along and prepare to have your assumptions challenged and learn about your fellow San Franciscans impressive love of books!
+## Why does data quality matter?
 
-## What age group uses the library the most?
+Because problems with data quality can:
 
-Think you’re a big reader?  How do your checkouts per year stack up against the under 10 crowd… [Locate your closest library](https://www.google.com/maps/d/viewer?ll=37.75684299999998%2C-122.444366&amp;spn=0.095003%2C0.145912&amp;hl=en&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;mid=1B8aE_aJusm_OGyajBH7pW_EfDdo) and catch up!
+* Lead to inaccurate decisions or conclusions
+* Increase costs (staff time, confusion, repetitive questions and issues)
+* Create compliance or legal risk
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTdiMTQyZjctMzMwYS00ODA4LWI5ODgtNjIxZDEzYWQ4YWE5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="700" height="550" frameborder="0"></iframe>
+In San Francisco, we have mixed feelings about our data quality. Every year we ask City analysts how they feel about data quality in the City on a scale of 1-5 and we get an average response of 3. At the same time, data quality is often listed as a barrier to increased use.
 
-## Which library branches have the most active patrons?
+When we’ve asked why, anecdotally, people list that they aren’t sure what data quality is and when is enough quality enough. So we designed a new guidebook, “How to Ensure Quality Data”, to start pinning down this amorphous thing we call “Data Quality”.
 
-The chart below highlights library branches whose users check out the most books per year. Click on an age range or a Supervisor District to see how the rankings change.
+## Three steps to better data quality
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjJhM2Y3YTUtN2RjOC00YjRiLWE1ZmEtNWFkNWU0Y2JmMTBmIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="700" height="550" frameborder="0"></iframe>
+In our guidebook, we lay out the following steps to better data quality:
 
-## What is the distribution of patron activity?
+1. **Collect Needs and Requirements**. Before you define your data, you need to know why you are collecting it and for what purposes. You also need to identify your user needs and what requirements the data faces.
+2. **Define the Dataset**. Once you have your requirements, you can define the data tables and fields you need.
+3. **Define Policies and Processes**. You will need to define a set of policies and processes to manage your data through its lifecycle
 
-The charts below highlight that among active patrons – those that have checked out at least 1 book – the majority check out less than 10 items a year.  However, it is the patrons occupying the long tail of the distribution - those checking out more than ten items a year - that are responsible for the over 90% of the checkouts.
-
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjg0ZDBhNTItZGM4Ny00ZDg5LWJlNTMtZTVkNjgwMGYyMWIwIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9" allowfullscreen="true" width="800" height="850" frameborder="0"></iframe>
-
-## Now it’s your turn!
-
-Download the data from the [open data portal](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup) and start digging. Grab R, Python, Tableau, PowerBI, Excel, or pen and paper and start visualizing! Be sure to [tweet us](https://twitter.com/datasf) anything you’re proud of. We will feature the best visualizations on our blog and twitter. Stay reading SF!
+Check out the guidebook and our companion worksheet. Send any feedback via our help desk, support.datasf.org.
