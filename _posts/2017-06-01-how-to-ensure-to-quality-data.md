@@ -13,7 +13,7 @@ image:
     license:
     license_link:
 description:
-date:
+date: 2017-06-01 00:00:00
 categories:
   - blog
 ---
