@@ -13,7 +13,7 @@ image:
     license: CC BY-SA 2.0
     license_link: 'https://creativecommons.org/licenses/by-sa/2.0/'
 description: 'Are you happy with the quality of your data?'
-date: 2017-06-01 00:00:00
+date: 2017-05-31 00:00:00
 categories:
   - blog
 published: false
@@ -21,7 +21,7 @@ published: false
 
 ## What is data quality?
 
-There are lots of ways of measuring data quality. But all measurements answer this one question: to what  degree can you trust the data you are using for the purpose at hand.
+There are lots of ways of measuring data quality. But all measurements answer this one question: to what degree can you trust the data you are using for the purpose at hand.
 
 ## Why does data quality matter?
 
