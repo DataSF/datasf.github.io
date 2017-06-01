@@ -1,18 +1,18 @@
 ---
-title: How to Ensure Quality Data
+title: 4 Steps to Manage Security Risks with Open Data
 author: joy_bonaguro
 image:
-  thumb: /quality/quality.jpg
-  feature: /quality/quality.jpg
+  thumb: /security/security.jpg
+  feature: /security/security.jpg
   caption:
   source:
-    title: Quality Workmanship
-    author: saeru
-    source_link: 'https://www.flickr.com/photos/saeru/2334554340/'
-    author_link: 'https://www.flickr.com/photos/saeru/'
-    license: CC BY-SA 2.0
-    license_link: 'https://creativecommons.org/licenses/by-sa/2.0/'
-description: Are you happy with the quality of your data?
+    title: Security
+    author: Jake Rustenhoven
+    source_link: 'https://www.flickr.com/photos/gotcredit/33627531571/'
+    author_link: 'https://www.flickr.com/photos/gotcredit/'
+    license: Attribution 2.0 Generic (CC BY 2.0)
+    license_link: 'https://creativecommons.org/licenses/by/2.0/'
+description: Manage your security risks with a new toolkit from DataSF?
 date: 2017-05-31 00:00:00
 categories:
   - blog
