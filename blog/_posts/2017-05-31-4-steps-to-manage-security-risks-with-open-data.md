@@ -35,7 +35,7 @@ The City and County of San Francisco manages everything from an airport to a zoo
 
 We already have a toolkit for privacy risks but we recognized a gap for managing the risks mentioned above. Privacy risks are specific to data about individuals. Security risks are about organizational risks related to property, business processes, etc.
 
-Plus, we have heard from our data stewards that security risks need to be managed. Since the [Privacy Edition](https://drive.google.com/open?id=1MhvEuGKFuGY2vLcNqiXBsPjCzxYebe4dJicRWe6gf_s) was successful, we decided to develop the Security Edition.
+Plus, we have heard from our data stewards that security risks need to be managed. Since the [Privacy Edition](https://datasf.org/blog/4-steps-to-manage-privacy-and-de-identification-for-your-open-data-program/) was successful, we decided to develop the Security Edition.
 
 ## 4 steps to manage security risks with open data
 
