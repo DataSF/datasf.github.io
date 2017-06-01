@@ -33,7 +33,9 @@ The City and County of San Francisco manages everything from an airport to a zoo
 
 ## Security risks are different from privacy risks
 
-We already have a toolkit for privacy risks but we recognized a gap for managing the risks mentioned above. Privacy risks are specific to data about individuals. Security risks are about organizational risks related to property, business processes, etc. Plus, we have heard from our data stewards that security risks need to be managed. Since the Privacy Edition was successful, we decided to develop the Security Edition.
+We already have a toolkit for privacy risks but we recognized a gap for managing the risks mentioned above. Privacy risks are specific to data about individuals. Security risks are about organizational risks related to property, business processes, etc.
+
+Plus, we have heard from our data stewards that security risks need to be managed. Since the [Privacy Edition](https://drive.google.com/open?id=1MhvEuGKFuGY2vLcNqiXBsPjCzxYebe4dJicRWe6gf_s) was successful, we decided to develop the Security Edition.
 
 ## 4 steps to manage security risks with open data
 
@@ -52,4 +54,6 @@ A toolkit provides a consistent and repeatable process to assess security risks 
 
 If you’re familiar with our Privacy Edition of the toolkit, these steps probably look familiar. However, overall, the Security Edition is shorter and easier to follow as there is less complexity.
 
-[Check it out](https://docs.google.com/document/d/1hb85N5G4RXF2_p6HOGIzhji2S4X7Ak8zdIdIM_8k5EA/edit) and send us any feedback via [support.datasf.org](support.datasf.org)!
+[Visit the Security Edition](https://docs.google.com/document/d/1hb85N5G4RXF2_p6HOGIzhji2S4X7Ak8zdIdIM_8k5EA/edit)&nbsp;(or check out both editions at [datasf.org/resources/open-data-release-toolkit/](datasf.org/resources/open-data-release-toolkit/)).
+
+Send us any feedback via [support.datasf.org](support.datasf.org)!
