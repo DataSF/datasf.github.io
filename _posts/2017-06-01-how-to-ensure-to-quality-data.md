@@ -4,7 +4,7 @@
 
 ## What is data quality?
 
-There are lots of ways of measuring data quality. But all measurements answer this one question: to what &nbsp;degree can you trust the data you are using for the purpose at hand.
+There are lots of ways of measuring data quality. But all measurements answer this one question: to what  degree can you trust the data you are using for the purpose at hand.
 
 ## Why does data quality matter?
 
