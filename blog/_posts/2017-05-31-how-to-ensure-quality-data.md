@@ -13,7 +13,7 @@ image:
     license: CC BY-SA 2.0
     license_link: 'https://creativecommons.org/licenses/by-sa/2.0/'
 description: Are you happy with the quality of your data?
-date: 2017-06-06 00:00:00
+date: 2017-05-31 00:00:00
 categories:
   - blog
 published: true
