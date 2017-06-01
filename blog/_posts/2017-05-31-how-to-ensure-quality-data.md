@@ -1,6 +1,6 @@
 ---
 title: How to Ensure Quality Data
-author: blake_valenta
+author: joy_bonaguro
 image:
   thumb: /quality/quality.jpg
   feature: /quality/quality.jpg
