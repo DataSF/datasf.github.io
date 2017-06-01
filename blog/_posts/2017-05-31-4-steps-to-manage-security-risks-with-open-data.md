@@ -12,7 +12,7 @@ image:
     author_link: 'https://www.flickr.com/photos/gotcredit/'
     license: Attribution 2.0 Generic (CC BY 2.0)
     license_link: 'https://creativecommons.org/licenses/by/2.0/'
-description: Manage your security risks with a new toolkit from DataSF?
+description: Manage your security risks with a new toolkit from DataSF
 date: 2017-05-31 00:00:00
 categories:
   - blog
