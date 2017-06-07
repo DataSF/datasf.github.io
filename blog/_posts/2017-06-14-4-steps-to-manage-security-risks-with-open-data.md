@@ -13,7 +13,7 @@ image:
     license: Attribution 2.0 Generic (CC BY 2.0)
     license_link: 'https://creativecommons.org/licenses/by/2.0/'
 description: Manage your security risks with a new toolkit from DataSF
-date: 2017-06-13 00:00:00
+date: 2017-06-14 00:00:00
 categories:
   - blog
 published: true
@@ -54,6 +54,6 @@ A toolkit provides a consistent and repeatable process to assess security risks 
 
 If you’re familiar with our Privacy Edition of the toolkit, these steps probably look familiar. However, overall, the Security Edition is shorter and easier to follow as there is less complexity.
 
-[Visit the Security Edition](https://docs.google.com/document/d/1hb85N5G4RXF2_p6HOGIzhji2S4X7Ak8zdIdIM_8k5EA/edit)&nbsp;(or check out both editions at [datasf.org/resources/open-data-release-toolkit/](datasf.org/resources/open-data-release-toolkit/)).
+[Visit the Security Edition](https://docs.google.com/document/d/1hb85N5G4RXF2_p6HOGIzhji2S4X7Ak8zdIdIM_8k5EA/edit) (or check out both editions at [datasf.org/resources/open-data-release-toolkit/](datasf.org/resources/open-data-release-toolkit/)).
 
 Send us any feedback via [support.datasf.org](support.datasf.org)!
