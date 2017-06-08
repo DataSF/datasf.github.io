@@ -3,7 +3,7 @@ title: 'The Results are in: Data Academy Makes a Big Impact!'
 author: sam_abbott
 image:
   thumb: /The-results-are-in/tape.jpg
-  feature:
+  feature: /The-results-are-in/tape.jpg
   caption:
   source:
     title: Tape Measure
