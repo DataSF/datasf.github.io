@@ -22,3 +22,17 @@ categories:
 ## About this course
 
 ## What you'll learn in this course
+
+1) &nbsp; &nbsp; Data Table Fundamentals
+
+2) &nbsp; &nbsp; Basic syntax of SQL – Your First SQL Query
+
+3) &nbsp; &nbsp; Create a Custom View to Your Data Using the SELECT Statement
+
+4) &nbsp; &nbsp; Filter Data with the WHERE Clause
+
+5) &nbsp; &nbsp; Merge Data Elements from Different Tables Using JOINS
+
+6) &nbsp; &nbsp; Combine Subsets of Records from Different Tables Using UNION
+
+7) &nbsp; &nbsp; Aggregate data with SUM, AVG, MIN, MAX and the GROUP BY clause
