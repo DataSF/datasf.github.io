@@ -35,7 +35,7 @@ The Controller’s Office closed our impact measurement gap by instituting at th
 
 Check out the infographic below to dig into how we are measuring impact.
 
-[embed] https://infogr.am/data_academy_infographic
+<div class="infogram-embed" data-id="data_academy_infographic" data-type="interactive" data-title="Data Academy Infographic"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script"),d=o[0],r=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=r+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var a=e.createElement("script");a.async=1,a.id=s,a.src=i,d.parentNode.insertBefore(a,d)}}(document,0,"infogram-async","//e.infogr.am/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogr.am/data_academy_infographic" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Data Academy Infographic</a><br><a href="https://infogr.am/create/line-chart?utm_source=embed_bottom&utm_medium=seo&utm_campaign=line_chart" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Create line charts</a></div>
 
 ## Join the fun
 
