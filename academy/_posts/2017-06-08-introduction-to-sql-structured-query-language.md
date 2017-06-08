@@ -21,11 +21,13 @@ categories:
 
 ## About this course
 
-## What you'll learn in this course
+Much of the initial and simple data analysis and manipulation is done in Excel spreadsheets. &nbsp;However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is usually a more popular choice.&nbsp;
 
-1) &nbsp; &nbsp; Data Table Fundamentals
+## What you’ll learn in this course
 
-2) &nbsp; &nbsp; Basic syntax of SQL – Your First SQL Query
+1) &nbsp; &nbsp; Data Table Fundamental
+
+2) &nbsp; &nbsp;Basic syntax of SQL – Your First SQL Query
 
 3) &nbsp; &nbsp; Create a Custom View to Your Data Using the SELECT Statement
 
