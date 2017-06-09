@@ -27,7 +27,7 @@ But above all else we are thankful to be living in a city like San Francisco. A 
 
 Started in 1932, the [Civic Art Collection](http://www.sfartscommission.org/pubartcollection/about-public-art-and-civic-art-collection/program-information/) now comprises over 4,000 objects. Below is a listing of public art works currently available for viewing. Select a location from the map to find out more.
 
-[![](/uploads/versions/Public Art---x----799-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNzJiNjZjZWYtOWQ4OC00NzMwLWEzMDgtYTIxMDVlOWVmOTg0IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
+[![](/uploads/versions/Public Art---x----799-616x---.jpg)](https://app.powerbigov.us/view?r=eyJrIjoiY2MxZDNlYmUtY2ZlMS00YmIzLTg0NjUtM2JlYTU4YWU3MzMxIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9)
 
 ## We are Thankful for Green Spaces
 
@@ -35,7 +35,7 @@ What would San Francisco be without its diverse species of trees and beautiful p
 
 In the first page below you can select your favorite species of tree and find its location around San Francisco. I’m personally fond of the Yoshino Cherry. On the second page, you can find a listing of San Francisco public parks. You can filter by type of park and see the average public score for the currently selected parks.
 
-[![](/uploads/versions/Trees and Parks---x----796-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMGZjYTJiMmQtOTBiMC00OGIwLTg2MzMtMjAzZTgzMjgzNzE3IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
+[![](/uploads/versions/Trees and Parks---x----796-616x---.jpg)](https://app.powerbigov.us/view?r=eyJrIjoiYzBiMmFlYmQtYzEyMy00Mzc2LWJlNTktM2I3NWJmNTkyNjRiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9)
 
 ## We are Thankful for our Young Readers
 
@@ -47,13 +47,13 @@ No one reads like the youth of San Francisco. Below is a sneak peak at a soon to
 
 Each day almost 200 [crossing guards](https://www.sfmta.com/services/streets-sidewalks/request-crossing-guard) ensure the children of San Francisco make it to school safely and on time.
 
-[![](/uploads/versions/Crossing Guard---x----799-627x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNDM3NTYzZGMtYjRlNS00M2Y1LWEwOTgtNmZlMDJiMDFmYWFiIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
+[![](/uploads/versions/Crossing Guard---x----799-627x---.jpg)](https://app.powerbigov.us/view?r=eyJrIjoiYmMxY2I4MTctNTg2Ni00YzVjLWJkOTYtNDA0ZmU0MDZhYWE3IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9)
 
 ## We are Thankful that we don’t *have* to Cook Thanksgiving Dinner!
 
 San Francisco is a culinary delight. While you could spend all those hours making dinner, why not just eat out? More time for data analysis! Below is a map of every food establishment in San Francisco.
 
-[![](/uploads/versions/Food---x----799-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMzZlZDQzNjgtYTUxNy00NTU4LWI1NmYtNGNkZDYwYzY0YzA2IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
+[![](/uploads/versions/Food---x----799-616x---.jpg)](https://app.powerbigov.us/view?r=eyJrIjoiMzdjYmQ1YjAtYTY1ZC00MDczLWE1NDItOTdjNmEwMjllYmZjIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9)
 
 ## We are Thankful that our City Builds Inclusive Housing
 
@@ -63,7 +63,7 @@ The [Inclusionary Housing Program](http://sfmohcd.org/inclusionary-housing-progr
 
 The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD) and the [Office of Community Investment and Infrastructure](http://sfocii.org/) (OCII) in partnership with non-profit and private developers construct affordable housing projects. Pages two and three cover these affordable housing projects. Page two shows the operational MOHCD and OCII affordable housing projects as of 2015. While page three shows all the MOHCD and OCII affordable housing projects currently in progress for 2016.
 
-[![](/uploads/versions/Housing---x----799-616x---.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNTMxMGY3MjEtMDA4Ny00NzFhLWI3MjYtNGVhYmZiNGZkMGU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiIsImMiOjZ9)
+[![](/uploads/versions/Housing---x----799-616x---.jpg)](https://app.powerbigov.us/view?r=eyJrIjoiMzc4NWNlMzEtN2FiYS00NWY3LTk0NWEtMDkzNWY3ZWMyZDg5IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9)
 
 &nbsp;
 
