@@ -1,10 +1,10 @@
 ---
 title: 'The Results are in: Data Academy Makes a Big Impact!'
-author: 
-    - samuel_abbott
-    - omar_corona
-    - sherman_luk
-    - joy_bonaguro
+author:
+  - samuel_abbott
+  - omar_corona
+  - sherman_luk
+  - joy_bonaguro
 image:
   thumb: /The-results-are-in/tape.jpg
   feature: /The-results-are-in/tape.jpg
@@ -17,7 +17,7 @@ image:
     license: CC BY-NC-SA 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc-sa/2.0/'
 description: See the results of the Data Academy impact survey
-date: 2017-06-07 00:00:00
+date: 2017-06-28 00:00:00
 categories:
   - blog
 ---
