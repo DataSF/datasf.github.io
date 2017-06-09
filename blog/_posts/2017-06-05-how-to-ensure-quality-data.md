@@ -22,7 +22,7 @@ published: true
 
 ## What is data quality?
 
-There are lots of ways of measuring data quality. But all measurements answer this one question: to what degree can you trust the data you are using for the purpose at hand.
+There are many ways of measuring data quality. But all measurements answer this one question: to what degree can you trust the data you are using for the purpose at hand?
 
 ## Why does data quality matter?
 
@@ -32,9 +32,9 @@ Because problems with data quality can:
 * Increase costs (staff time, confusion, repetitive questions and issues)
 * Create compliance or legal risk
 
-In San Francisco, we have mixed feelings about our data quality. Every year we ask City analysts how they feel about data quality in the City on a scale of 1-5 and we get an average response of 3. At the same time, data quality is often listed as a barrier to increased use.
+In San Francisco, we have mixed feelings about our data quality. Every year we ask City analysts how they feel about data quality on a scale of 1-5 and we get an average response of 3. At the same time, data quality is often listed as a barrier to increased use.
 
-When we’ve asked why, anecdotally, people list that they aren’t sure what data quality is and when is enough quality enough. So we designed a new guidebook, “How to Ensure Quality Data”, to start pinning down this amorphous thing we call “Data Quality”.
+When we have asked why, anecdotally, people list that they aren’t sure what data quality is and when is enough quality enough. So we designed a new guidebook, “How to Ensure Quality Data”, to start pinning down this amorphous thing called “Data Quality”.
 
 ## Three steps to better data quality
 
