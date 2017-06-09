@@ -14,9 +14,9 @@ image:
     license_link: 'https://creativecommons.org/licenses/by/2.0/'
 description: Manage your security risks with a new toolkit from DataSF
 date: 2017-06-14 00:00:00
+published: false
 categories:
   - blog
-published: false
 ---
 
 
