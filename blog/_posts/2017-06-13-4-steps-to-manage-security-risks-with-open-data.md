@@ -22,7 +22,7 @@ published: false
 
 ## What are security risks with open data?
 
-The City and County of San Francisco manages everything from the airport to the zoo and some of that data poses security risks. For example, data on water storage tanks, building plans, or non-disclosure agreements can trigger any number of the following types of risks:
+The City and County of San Francisco manages everything from the airport to the zoo and some of that data poses security risks. For example, data on water storage tanks, building plans, or non-disclosure agreements can trigger any number of the following types of risks:&nbsp;
 
 * Life / safety
 * Operational
