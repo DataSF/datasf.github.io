@@ -18,7 +18,7 @@ subjects:
 series:
 team_members:
   - sherman-luk
-course_short_name:
+course_short_name: Which Charts to Use
 course_materials_link:
 order:
 category: academy
