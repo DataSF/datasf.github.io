@@ -10,7 +10,7 @@ series:
 team_members:
   - celeste-berg
   - sherman-luk
-course_short_name: SQL
+course_short_name: SQL - Intro
 course_materials_link:
 order:
 category: academy
