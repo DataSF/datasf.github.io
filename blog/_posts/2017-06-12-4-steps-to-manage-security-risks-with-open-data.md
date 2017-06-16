@@ -4,7 +4,6 @@ author: joy_bonaguro
 image:
   thumb: /security/security.jpg
   feature: /security/security.jpg
-  caption:
   source:
     title: Security
     author: Jake Rustenhoven
