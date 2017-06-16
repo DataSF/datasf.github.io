@@ -1,6 +1,6 @@
 main_nav:
 - text: Open Data
-  url: https://data.sfgov.org
+  url: /opendata/
   class: ext-sf-opendata
   index: catalog
 - text: Showcase

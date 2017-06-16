@@ -20,6 +20,7 @@ description: See the results of the Data Academy impact survey
 date: 2017-06-28 00:00:00
 categories:
   - blog
+published: false
 ---
 
 

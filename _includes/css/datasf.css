@@ -767,7 +767,7 @@ a:active {
 }
 .navbar-brand {
   padding: 0 0 0 15px;
-  line-height: 50px;
+  line-height: 47px;
 }
 
 .navbar-static-top {
@@ -780,7 +780,7 @@ a:active {
   }
   .navbar>.container .navbar-brand,
   .navbar>.container-fluid .navbar-brand {
-    margin-left: -18px;
+    margin-left: -15px;
   }
   .navbar-default {
     padding: 25px 0;
@@ -1767,6 +1767,19 @@ p.task-item {
   color: #fff;
   margin-bottom: 20px;
 }
+
+.featured-tile-description {
+  position: absolute;
+    top: 10px;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    background-color: rgba(19, 49, 64, .8);
+    z-index: 3;
+    padding: 10px;
+    display: none;
+}
+
 .feature a {
   display: block;
   position: absolute;
@@ -1774,10 +1787,18 @@ p.task-item {
   left: 0;
   right: 0;
   bottom: 0;
+  z-index: 4;
+  color: #FFFFFF;
 }
+
 .feature a:hover {
   background-color: rgba(255, 255, 255, .1);
 }
+
+.feature a:hover .featured-tile-description {
+  display: block;
+}
+
 .feature-title {
   display: block;
   position: absolute;
