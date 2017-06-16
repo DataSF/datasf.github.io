@@ -4,6 +4,7 @@ author: joy_bonaguro
 image:
   thumb: /security/security.jpg
   feature: /security/security.jpg
+  caption: Security risks differ from privacy risks, which is why we've released another edition of the open data release toolkit
   source:
     title: Security
     author: Jake Rustenhoven
