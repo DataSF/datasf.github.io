@@ -2,8 +2,8 @@
 name: Sam Abbott
 work_title: "Performance Analyst, Controller's Office"
 email:
-bio:
-gravatar:
+bio: 'https://datasf.org/academy/instructors/'
+gravatar: 84d3934d65fd0d0ead82de7a4ed5a35e
 twitter:
 headshot_image_path: /uploads/samuel-abbott.jpg
 instructor: true
