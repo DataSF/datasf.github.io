@@ -1,7 +1,7 @@
 ---
 title: 'The Results are in: Data Academy Makes a Big Impact!'
 author:
-  - sam_abbott
+  - samuel_abbott
   - omar_corona
   - sherman_luk
   - joy_bonaguro
