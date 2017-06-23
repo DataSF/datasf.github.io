@@ -1,7 +1,7 @@
 ---
 title: 'The Results are in: Data Academy Makes a Big Impact!'
 author:
-  - samuel_abbott
+  - sam_abbott
   - omar_corona
   - sherman_luk
   - joy_bonaguro
@@ -24,11 +24,11 @@ published: true
 ---
 
 
-Data Academy started in 2014 with a handful of workshops on data visualization and has grown to more than 15 courses (for more history see [this article](http://datasmart.ash.harvard.edu/news/article/san-franciscos-data-academy-develops-a-data-savvy-workforce-973)). During that time, we gained anecdotal evidence of Data Academy’s effect on the City and how its employees work, but we wanted to more precisely gauge Data Academy’s impact. &nbsp;So we gathered some data!
+Data Academy started in 2014 with a handful of workshops on data visualization and has grown to more than 15 courses (for more history see [this article](http://datasmart.ash.harvard.edu/news/article/san-franciscos-data-academy-develops-a-data-savvy-workforce-973)). During that time, we gained anecdotal evidence of Data Academy’s effect on the City and how its employees work, but we wanted to more precisely gauge Data Academy’s impact.  So we gathered some data!
 
 ## A data driven approach
 
-Since Data Academy is about increasing smart use of data via training, we try to exemplify a data driven approach to how we manage it. &nbsp;We have been using data to drive course creation and course improvement, so we are happy to introduce the Data Academy Impact Report.
+Since Data Academy is about increasing smart use of data via training, we try to exemplify a data driven approach to how we manage it.  We have been using data to drive course creation and course improvement, so we are happy to introduce the Data Academy Impact Report.
 
 Until now we lacked a systematic way of tracking the return on investment of classes. How has it impacted analysts’ day-to-day work? How much time (if any) are they saving?
 
