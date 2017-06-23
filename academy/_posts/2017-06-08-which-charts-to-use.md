@@ -31,8 +31,7 @@ categories:
 
 Hundreds of chart types are available these days within sophisticated data visualization
 <br>tools. However, which ones of these charts would help you tell your data stories better?
-<br>This back-to-basic workshop aims to help you easily and systematically select the triedand-
-<br>true chart types based on the data stories you want to tell.
+<br>This back-to-basic workshop aims to help you easily and systematically select the most appropriate chart types based on the data stories you want to tell.
 
 ## What you’ll learn in this course
 
