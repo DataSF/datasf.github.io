@@ -18,7 +18,7 @@ image:
     license: CC BY-NC-SA 2.0
     license_link: 'https://creativecommons.org/licenses/by-nc-sa/2.0/'
 description: See the results of the Data Academy impact survey
-date: 2017-06-27 00:00:00
+date: 2017-06-26 00:00:00
 categories:
   - blog
 published: true
