@@ -45,7 +45,7 @@ We seek to publish data responsibly. This requires a balancing of competing fact
 * repercussions to an individual or the organization from re-identification, and
 * the likelihood of re-identification.
 
-The Toolkit is used in conjunction with the [Open Data Release Form](https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA) for the Privacy Edition when going through the [open data publishing process](https://datasf-github-io-jasonlally.c9users.io/publishing/submission-guidelines/#toc3).
+The Toolkit is used in conjunction with the [Open Data Release Form](https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA) for the Privacy Edition when going through the [open data publishing process](https://datasf.org/publishing/submission-guidelines/#toc3).
 
 ## Method 2: Security Edition
 
