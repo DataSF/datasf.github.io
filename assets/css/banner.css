@@ -1,0 +1,88 @@
+/* The Modal (background) */
+
+div#myModal a:link, div#myModal a:visited, div#myModal a:hover, div#myModal a:active  {
+    text-decoration: none;
+}
+
+div#myModal.modal {
+    position:relative;
+    overflow: visible;
+    z-index: 0;
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #000;
+    color:#fff;
+    border: 0;
+    padding: 20px 0 15px;
+    width: 100%;
+    text-align:center;
+    border-radius: 0;
+}
+
+.modal-content p {
+    margin: 0;
+    padding: 0;
+    font-size:.9em;
+}
+.modal-content a {
+    color: #fa973f;
+}
+.modal-content a:hover {
+    text-decoration: none;
+}
+#bannerCopy {
+    margin: 0 5%;
+}
+#timer {
+    line-height: 2;
+}
+#timer a {
+    font-weight: bold;
+}
+
+/* The Close Button */
+
+.close {
+    position: relative;
+    z-index: 100;
+    color: #ffffff;
+    float: right;
+    background: url(/assets/img/X-white.png) no-repeat;
+    width: 22px;
+    height: 22px;
+    background-size: 22px;
+    margin: 25px 35px 25px -35px;
+    text-indent: -9999px;
+}
+
+.close:hover,
+.close:focus {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+/**** Mobile Styles ****/
+@media screen and (max-width: 991px){
+#timer {
+    margin: 10px 5% 15px;
+    line-height: 1.2;
+}
+
+#bannerCopy {
+    margin: 25px 5% 0;
+}
+#bannerCopy p {
+    font-size: 1em;
+    margin: 8px 0;
+}
+.close {
+    width: 16px;
+    height: 16px;
+    background-size: 16px;
+    margin: 15px 15px 5px 0;
+}
+}
