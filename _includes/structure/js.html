@@ -3,6 +3,10 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/assets/js/vendor/bootstrap.min.js" | prepend: site.baseurl }}"></script>
 
+{% if page.url == '/' or page.url == '/opendata/' %}
+<script src="{{ "/assets/js/banner.js" | prepend: site.baseurl }}"></script>
+{% endif %}
+
 <!-- Plugin JavaScript -->
 <script src="{{ "/assets/js/vendor/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/vendor/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
