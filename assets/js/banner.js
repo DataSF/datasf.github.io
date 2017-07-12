@@ -13,7 +13,7 @@
       }
 
 	  //bannerCopy
-	  $.get( "https://datasf.org/bannercopy", function( data ) {
+	  $.get('https://datasf.org/bannercopy', function( data ) {
 		  //var c = $(data).find('#md1 > .field-item').html(); 
 		  var c = data
 			if(c){ 
