@@ -11,7 +11,7 @@ team_members:
   - celeste-berg
   - sherman-luk
 course_short_name: SQL - Intro
-course_materials_link:
+course_materials_link: 'https://drive.google.com/drive/folders/0BwRgeGq-b8f9YVFKM0dWQzJKTG8'
 order:
 category: academy
 categories:
