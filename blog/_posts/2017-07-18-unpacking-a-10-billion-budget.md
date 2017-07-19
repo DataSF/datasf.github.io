@@ -19,7 +19,7 @@ categories:
 ---
 
 
-Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, many people wonder why we can’t address every need and concern across the City. Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed, has done a great job unpacking it with these [two](http://www.sfexaminer.com/where-did-all-our-money-go/) [articles](http://www.sfexaminer.com/san-franciscos-9-billion-question/). This blog post provides a visual walk through of those articles.
+Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, many people wonder why we can’t address every need and concern across the City. Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed, has done a great job unpacking it with these [two](http://www.sfexaminer.com/where-did-all-our-money-go/) [articles](http://www.sfexaminer.com/san-franciscos-9-billion-question/). This blog post provides a visual walk through of those articles.&nbsp;
 
 ## Compare apples to apples
 
