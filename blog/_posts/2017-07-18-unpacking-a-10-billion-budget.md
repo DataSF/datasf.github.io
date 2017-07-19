@@ -26,7 +26,7 @@ Today the City and County of San Francisco released its 2017-18 budget of $10.11
 San Francisco’s budget appears to have nearly doubled since 2006-2007. But, when you adjust for inflation and population, it actually grew 12.5% from $8.23 to $9.59 billion between 2006-2007 and 2016-2017.
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTBbqmVbh-BhYw7KJBhX0byaZalQF4bE60n6vLk4Fo3f9lgBXWVmtu4cPQ8XyNidwmQlWVuIp2MFRrD/pubchart?oid=925764915&amp;format=interactive"  width=650 height=400></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTBbqmVbh-BhYw7KJBhX0byaZalQF4bE60n6vLk4Fo3f9lgBXWVmtu4cPQ8XyNidwmQlWVuIp2MFRrD/pubchart?oid=925764915&amp;format=interactive"  width=650 height=400 /></iframe>
 
 
 Looking at the budget from the perspective of dollars per person, the City spent roughly $9,600 per person in 2006-2007 versus $11,000 in 2016-2017.
