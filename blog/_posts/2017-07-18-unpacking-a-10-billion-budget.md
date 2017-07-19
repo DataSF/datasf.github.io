@@ -30,7 +30,7 @@ San Francisco’s budget appears to have nearly doubled since 2006-2007. But, wh
 
 Looking at the budget from the perspective of dollars per person, the City spent roughly $9,600 per person in 2006-2007 versus $11,000 in 2016-2017.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTBbqmVbh-BhYw7KJBhX0byaZalQF4bE60n6vLk4Fo3f9lgBXWVmtu4cPQ8XyNidwmQlWVuIp2MFRrD/pubchart?oid=793722034&amp;format=interactive" width=650 height=400></iframe>
+<iframe width="609" height="377" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTBbqmVbh-BhYw7KJBhX0byaZalQF4bE60n6vLk4Fo3f9lgBXWVmtu4cPQ8XyNidwmQlWVuIp2MFRrD/pubchart?oid=793722034&amp;format=interactive"></iframe>
 
 ## How did we spend the increase in the general fund budget
 
