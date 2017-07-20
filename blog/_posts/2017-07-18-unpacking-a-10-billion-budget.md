@@ -2,16 +2,16 @@
 title: Unpacking a $10 billion budget
 author: charlie_moffett
 image:
-  thumb:
-  feature:
+  thumb: /budget-viz/clicker.jpg
+  feature: /budget-viz/clicker.jpg
   caption:
   source:
     title:
-    author:
-    source_link:
-    author_link:
-    license:
-    license_link:
+    author: Jason Graham
+    source_link: 'https://www.flickr.com/photos/jasongraham99/35499374460/'
+    author_link: 'https://www.flickr.com/photos/jasongraham99/'
+    license: Attribution 2.0 Generic (CC BY 2.0)
+    license_link: 'https://creativecommons.org/licenses/by/2.0/'
 description: "Walking through the San Francisco's 2017-2018 budget."
 date: 2017-07-18 00:00:00
 categories:
@@ -19,7 +19,7 @@ categories:
 ---
 
 
-Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, many people wonder why we can’t address every need and concern across the City. Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed, has done a great job unpacking it with these [two](http://www.sfexaminer.com/where-did-all-our-money-go/) [articles](http://www.sfexaminer.com/san-franciscos-9-billion-question/). This blog post provides a visual walk through of those articles.&nbsp;
+Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, many people wonder why we can’t address every need and concern across the City. Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed, has done a great job unpacking it with these [two](http://www.sfexaminer.com/where-did-all-our-money-go/) [articles](http://www.sfexaminer.com/san-franciscos-9-billion-question/). This blog post provides a visual walk through of those articles.
 
 ## Compare apples to apples
 
