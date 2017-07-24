@@ -1,6 +1,8 @@
 ---
 title: Unpacking a $10 billion budget
-author: charlie_moffett
+author: 
+  - charlie_moffett 
+  - anna_dunning
 image:
   thumb: /budget-viz/clicker.jpg
   feature: /budget-viz/clicker.jpg
