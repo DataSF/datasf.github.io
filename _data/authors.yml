@@ -99,9 +99,9 @@ charlie_moffett:
   long_bio: '.'
   gravatar: 02a2ea613df50585a71419b319d13477
   
-  anna_dunning:
-    name: Anna Dunning
-    title: Budget Office Summer Intern
-    bio: "Budget Office Summer Intern, City and County of San Francisco"
-    long_bio: '.'
-    gravatar: 47c1534b6e375f002a4af275d813f8ee
+anna_dunning:
+  name: Anna Dunning
+  title: Budget Office Summer Intern
+  bio: "Budget Office Summer Intern, City and County of San Francisco"
+  long_bio: '.'
+  gravatar: 47c1534b6e375f002a4af275d813f8ee
