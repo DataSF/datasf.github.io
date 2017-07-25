@@ -55,6 +55,3 @@ Over the years, City residents have voted for certain mandatory spending - what 
 
 <iframe width="750" height="550" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTBbqmVbh-BhYw7KJBhX0byaZalQF4bE60n6vLk4Fo3f9lgBXWVmtu4cPQ8XyNidwmQlWVuIp2MFRrD/pubchart?oid=900396086&amp;format=interactive"></iframe>
 
-<iframe width="800" height="600" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTBbqmVbh-BhYw7KJBhX0byaZalQF4bE60n6vLk4Fo3f9lgBXWVmtu4cPQ8XyNidwmQlWVuIp2MFRrD/pubchart?oid=900396086&amp;format=interactive"></iframe>
-
-<iframe width="700" height="550" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTBbqmVbh-BhYw7KJBhX0byaZalQF4bE60n6vLk4Fo3f9lgBXWVmtu4cPQ8XyNidwmQlWVuIp2MFRrD/pubchart?oid=900396086&amp;format=interactive"></iframe>
