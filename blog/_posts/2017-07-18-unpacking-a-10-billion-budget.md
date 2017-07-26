@@ -21,7 +21,7 @@ categories:
 ---
 
 
-Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, many people wonder why we can’t address every need and concern across the City. Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed, has done a great job unpacking it with these [two](http://www.sfexaminer.com/where-did-all-our-money-go/) [articles](http://www.sfexaminer.com/san-franciscos-9-billion-question/). This blog post provides a visual walk through of those articles.
+Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, some people wonder why we can’t address every need and concern across the City. Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed, has done a great job unpacking it with these [two](http://www.sfexaminer.com/where-did-all-our-money-go/) [articles](http://www.sfexaminer.com/san-franciscos-9-billion-question/). This blog post provides a visual walk through of those articles.
 
 ## Compare apples to apples
 
@@ -35,7 +35,7 @@ Looking at the budget from the perspective of dollars per person, the City spent
 
 ## How did we spend the increase in the general fund budget
 
-The $1.05 billion increase in our general fund budget between 2006-2007 and 2016-2017 was spent on health care, more police officers, improved streets, care for our kids, affordable housing and overall increased services.
+The $1.05 billion increase in our general fund budget between 2006-2007 and 2016-2017 was spent on health care, more police officers, improved streets, care for our children, affordable housing and overall increased services.
 
 <iframe width="751" height="464" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=1811377583&amp;format=interactive"></iframe>
 
@@ -45,13 +45,13 @@ Another way we can look at this is by comparing the growth of Health & Human Ser
 
 ## Enterprise vs General Fund
 
-Self-supporting “enterprise” departments make up nearly half of the budget. These departments include the San Francisco International Airport, the Port, the Municipal Transportation Authority, and the Public Utilities Commission. Enterprise dollars are restricted in how they may be spent. The remaining departments make up the General Fund, which is $5.1 billion for the 2017-18 fiscal year. When budget discussions happen, most of the time, everyone is discussing the general fund, which is where most discretionary dollars exist.
+Self-supporting “enterprise” departments make up nearly half of the budget. These departments include the San Francisco International Airport, the Port, the Municipal Transportation Agency, and the Public Utilities Commission. Enterprise dollars are restricted in how they may be spent. The remaining departments make up the General Fund, which is $5.1 billion for the 2017-18 fiscal year. When budget discussions happen, most of the time they are focused on  the General Fund, which is where most discretionary dollars exist.
 
 <iframe width="751" height="464" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=55739628&amp;format=interactive"></iframe>
 
 ## How the annual general fund budget is spent
 
-Over the years, City residents have voted for certain mandatory spending - what are called set asides. These include baseline spending and service levels for public safety, transportation and children’s services. This reduces the general fund from $5.1 to $3.9 billion. Police and Fire, including voter-mandated force size requirements, make up nearly another $900 million. This brings the general fund from $3.9 billion to $3 billion. The big players in health, namely the Human Services Agency and Department of Public Health, book a combined $1.7 billion budget and leave us with a $1.3 billion General Fund. Other department dollars fund existing services and staff. When it’s all said and done, do you know how much the Mayor directly allocates this year? About $36 million. That’s less than 1% of a ten billion dollar budget.
+Over the years, San Francisco residents have voted for certain mandatory spending measures, which are commonly referred to as set-asides. These include baseline spending and service levels for public safety, transportation and children’s services. This reduces the general fund from $5.1 to $3.9 billion. The police and fire department, which include voter-mandated force size requirements, make up nearly another $900 million. This brings the general fund from $3.9 billion to $3 billion. The big players in health, namely the Human Services Agency and Department of Public Health, book a combined $1.7 billion budget and leave us with a $1.3 billion General Fund. Other department dollars fund existing services and staff. When all is said and done, the Mayor will directly allocate about $36 million this year. That’s less than 1 percent of a $10 billion budget.
 
 <iframe width="751" height="464" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=682186251&amp;format=interactive"></iframe>
 
