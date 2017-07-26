@@ -55,6 +55,22 @@ resources_list:
         media_type: Google Doc
       - link: 'https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/export?format=pdf'
         media_type: PDF
+  - name: Year 4 Strategic Plan
+    description: Our Year 4 strategic plan covers our 3 program areas and supporting goals and strategies.
+    post_date: 2017-07-26 00:00:00
+    resource_type: Document
+    links:
+      - link: 'https://docs.google.com/document/d/1LAiq6xGs9aJ7y4syP5l0opH7v8EbSqcRPuwaSvGK9Uo/edit?usp=sharing'
+        media_type: Google Doc
+  - name: Year 3 in Review
+    description: Provides an overview of our major accomplishments and highlights from FY 2016-17.
+    post_date: 2017-07-26 00:00:00
+    resource_type: Document
+    links:
+      - link: 'https://docs.google.com/document/d/1FTQ6oDWFEVVASlRDoCZ34HTGQZEvZdxRgDHFQFJfejA/edit?usp=sharing'
+        media_type: Google Doc
+      - link:
+        media_type:
 ---
 
 
