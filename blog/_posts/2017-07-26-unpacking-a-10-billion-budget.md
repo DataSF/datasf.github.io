@@ -25,7 +25,7 @@ Today the City and County of San Francisco released its 2017-18 budget of $10.11
 
 ## Compare apples to apples
 
-San Francisco’s budget appears to have nearly doubled since 2007-2008. But, when you adjust for inflation and population, it actually grew 19.6% from $8.45 to $10.11 billion between 2007-2008 and 2017-2018.
+San Francisco’s budget appears to have nearly doubled since 2007-2008. But, when you adjust for inflation, it actually grew 32% from $7.64 to $10.11 billion between 2007-2008 and 2017-2018.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=2074649802&amp;format=interactive"></iframe>
 
