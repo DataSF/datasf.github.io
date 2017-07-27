@@ -22,7 +22,7 @@ published: true
 ---
 
 
-Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, some people wonder why we can’t address every need and concern across the City. Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed, has done a great job unpacking it with these [two](http://www.sfexaminer.com/where-did-all-our-money-go/) [articles](http://www.sfexaminer.com/san-franciscos-9-billion-question/). This blog post provides a visual walk through of those articles.
+Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, some people wonder why we can’t address every need and concern across the City. This blog post is an attempt to distill the budget spending through a series of visuals. (Note: the narrative in this blog post was inspired by articles written by Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed.)
 
 ## Compare apples to apples
 
@@ -30,7 +30,7 @@ San Francisco’s budget appears to have nearly doubled since 2007-2008. But, wh
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=2074649802&amp;format=interactive"></iframe>
 
-Looking at the budget from the perspective of dollars per person, the City spent roughly $9,600 per person in 2007-2008 versus $11,500 in 2017-2018.
+Looking at the budget from the perspective of dollars per person, the City spent roughly $9,600 per person in 2007-2008 versus $11,500 in 2017-2018. When you adjust the budget for both inflation and population, the budget increased by 20%.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=2030210888&amp;format=interactive"></iframe>
 
