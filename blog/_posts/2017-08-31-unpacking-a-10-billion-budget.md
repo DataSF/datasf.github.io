@@ -15,7 +15,7 @@ image:
     license: Attribution 2.0 Generic (CC BY 2.0)
     license_link: 'https://creativecommons.org/licenses/by/2.0/'
 description: "Walking through the San Francisco's 2017-2018 budget."
-date: 2017-07-26 00:00:00
+date: 2017-08-31 00:00:00
 categories:
   - blog
 ---
