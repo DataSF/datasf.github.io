@@ -15,14 +15,14 @@ image:
     license: Attribution 2.0 Generic (CC BY 2.0)
     license_link: 'https://creativecommons.org/licenses/by/2.0/'
 description: "Walking through the San Francisco's 2017-2018 budget."
-date: 2017-08-31 00:00:00
+date: 2017-07-26 00:00:00
 categories:
   - blog
-published: false
+published: true
 ---
 
 
-Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, some people wonder why we can’t address every need and concern across the City. Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed, has done a great job unpacking it with these [two](http://www.sfexaminer.com/where-did-all-our-money-go/) [articles](http://www.sfexaminer.com/san-franciscos-9-billion-question/). This blog post provides a visual walk through of those articles.
+Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, some people wonder why we can’t address every need and concern across the City. This blog post is an attempt to distill the budget spending through a series of visuals. (Note: the narrative in this blog post was inspired by articles written by Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed.)
 
 ## Compare apples to apples
 
@@ -30,25 +30,29 @@ San Francisco’s budget appears to have nearly doubled since 2007-2008. But, wh
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=2074649802&amp;format=interactive"></iframe>
 
-Looking at the budget from the perspective of dollars per person, the City spent roughly $9,600 per person in 2007-2008 versus $11,500 in 2017-2018.
+Looking at the budget from the perspective of dollars per person, the City spent roughly $9,600 per person in 2007-2008 versus $11,500 in 2017-2018. When you adjust the budget for both inflation and population, the budget increased by 20%.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=2030210888&amp;format=interactive"></iframe>
 
+## Enterprise vs General Fund
+
+Next, it’s important to understand the difference between enterprise and general funds.
+
+Self-supporting “enterprise” departments make up nearly half of the budget. These departments include the San Francisco International Airport, the Port, the Municipal Transportation Agency, and the Public Utilities Commission. Enterprise dollars are restricted in how they may be spent.
+
+The remaining departments make up the General Fund, which is $5.1 billion for the 2017-18 fiscal year. When budget discussions happen, most of the time they are focused on the General Fund, which is where most discretionary dollars exist.
+
+<iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=55739628&amp;format=interactive"></iframe>
+
 ## How did we spend the increase in the general fund budget
 
-The $1.17 billion increase in our general fund budget between 2007-2008 and 2017-2018 was spent on health care, more police officers, improved streets, care for our children, affordable housing and overall increased services.
+There was a $1.17 billion increase in our general fund budget between 2007-2008 and 2017-2018. It was spent on health care, more police officers, improved streets, care for our children, affordable housing and overall increased services.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=1811377583&amp;format=interactive"></iframe>
 
 Another way we can look at this is by comparing the growth of Health & Human Services (driven largely by the Affordable Care Act, which covers more than 133,000 previously uninsured San Francisco residents) to increases from all other departments. Half of the increase in general funds has gone to health care.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=688287018&amp;format=interactive"></iframe>
-
-## Enterprise vs General Fund
-
-Self-supporting “enterprise” departments make up nearly half of the budget. These departments include the San Francisco International Airport, the Port, the Municipal Transportation Agency, and the Public Utilities Commission. Enterprise dollars are restricted in how they may be spent. The remaining departments make up the General Fund, which is $5.1 billion for the 2017-18 fiscal year. When budget discussions happen, most of the time they are focused on the General Fund, which is where most discretionary dollars exist.
-
-<iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=55739628&amp;format=interactive"></iframe>
 
 ## How the annual general fund budget is spent
 
