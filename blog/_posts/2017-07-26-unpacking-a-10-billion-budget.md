@@ -34,6 +34,12 @@ Looking at the budget from the perspective of dollars per person, the City spent
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=2030210888&amp;format=interactive"></iframe>
 
+## Enterprise vs General Fund
+
+Self-supporting “enterprise” departments make up nearly half of the budget. These departments include the San Francisco International Airport, the Port, the Municipal Transportation Agency, and the Public Utilities Commission. Enterprise dollars are restricted in how they may be spent. The remaining departments make up the General Fund, which is $5.1 billion for the 2017-18 fiscal year. When budget discussions happen, most of the time they are focused on the General Fund, which is where most discretionary dollars exist.
+
+<iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=55739628&amp;format=interactive"></iframe>
+
 ## How did we spend the increase in the general fund budget
 
 The $1.17 billion increase in our general fund budget between 2007-2008 and 2017-2018 was spent on health care, more police officers, improved streets, care for our children, affordable housing and overall increased services.
@@ -43,12 +49,6 @@ The $1.17 billion increase in our general fund budget between 2007-2008 and 2017
 Another way we can look at this is by comparing the growth of Health & Human Services (driven largely by the Affordable Care Act, which covers more than 133,000 previously uninsured San Francisco residents) to increases from all other departments. Half of the increase in general funds has gone to health care.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=688287018&amp;format=interactive"></iframe>
-
-## Enterprise vs General Fund
-
-Self-supporting “enterprise” departments make up nearly half of the budget. These departments include the San Francisco International Airport, the Port, the Municipal Transportation Agency, and the Public Utilities Commission. Enterprise dollars are restricted in how they may be spent. The remaining departments make up the General Fund, which is $5.1 billion for the 2017-18 fiscal year. When budget discussions happen, most of the time they are focused on the General Fund, which is where most discretionary dollars exist.
-
-<iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=55739628&amp;format=interactive"></iframe>
 
 ## How the annual general fund budget is spent
 
