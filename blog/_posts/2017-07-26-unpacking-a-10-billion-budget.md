@@ -36,13 +36,17 @@ Looking at the budget from the perspective of dollars per person, the City spent
 
 ## Enterprise vs General Fund
 
-Self-supporting “enterprise” departments make up nearly half of the budget. These departments include the San Francisco International Airport, the Port, the Municipal Transportation Agency, and the Public Utilities Commission. Enterprise dollars are restricted in how they may be spent. The remaining departments make up the General Fund, which is $5.1 billion for the 2017-18 fiscal year. When budget discussions happen, most of the time they are focused on the General Fund, which is where most discretionary dollars exist.
+Next, it’s important to understand the difference between enterprise and general funds.
+
+Self-supporting “enterprise” departments make up nearly half of the budget. These departments include the San Francisco International Airport, the Port, the Municipal Transportation Agency, and the Public Utilities Commission. Enterprise dollars are restricted in how they may be spent.
+
+The remaining departments make up the General Fund, which is $5.1 billion for the 2017-18 fiscal year. When budget discussions happen, most of the time they are focused on the General Fund, which is where most discretionary dollars exist.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=55739628&amp;format=interactive"></iframe>
 
 ## How did we spend the increase in the general fund budget
 
-The $1.17 billion increase in our general fund budget between 2007-2008 and 2017-2018 was spent on health care, more police officers, improved streets, care for our children, affordable housing and overall increased services.
+There was a $1.17 billion increase in our general fund budget between 2007-2008 and 2017-2018. It was spent on health care, more police officers, improved streets, care for our children, affordable housing and overall increased services.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=1811377583&amp;format=interactive"></iframe>
 
