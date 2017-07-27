@@ -19,8 +19,6 @@ resources_list:
     links:
       - link: 'https://docs.google.com/document/d/1FTQ6oDWFEVVASlRDoCZ34HTGQZEvZdxRgDHFQFJfejA/edit?usp=sharing'
         media_type: Google Doc
-      - link:
-        media_type:
   - name: Year 3 Strategic Plan
     description: Our Year 3 strategic plan covers our 5 core goals and various subgoals and supporting strategies for next 3 years. Updated annually.
     post_date: 2016-07-01 00:00:00
