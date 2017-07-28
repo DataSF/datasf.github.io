@@ -14,7 +14,7 @@ image:
     license:
     license_link:
 description: Read about our plans for Year 4 and learn about the highlights from Year 3
-date: 2017-07-31 00:00:00
+date: 2017-07-28 00:00:00
 categories:
   - blog
 published: false
@@ -24,11 +24,11 @@ published: false
 Our work continues to evolve and now falls into three main program areas. We’ve restructured our goals and workplan to reflect a core goal for each program. In Year 4, we will increase our effort in Data Use to bring it up to par with our other programs. Our updated program areas and supporting goals are:
 {: .present-before-paste}
 
-| Program | Goal |
+| Program       | Goal |
 | --- | --- |
-| Data Services and Infrastructure | Make timely data easily available |
-| Data Governance | Establish efficient and effective data governance |
-| Data Use | Increase use of data in decision-making |
+| Data Services and Infrastructure       | Make timely data easily available |
+| Data Governance       | Establish efficient and effective data governance |
+| Data Use       | Increase use of data in decision-making |
 
 ## Year 3 Accomplishments
 
