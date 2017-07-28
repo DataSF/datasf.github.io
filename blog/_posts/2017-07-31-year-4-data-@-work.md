@@ -19,3 +19,9 @@ categories:
   - blog
 published: false
 ---
+
+| Program        | Goal           |
+| ------------- |-------------|
+| Data Services and Infrastructure | Make timely data easily available |
+| Data Governance | Establish efficient and effective data governance |
+| Data Use | Increase use of data in decision-making |
