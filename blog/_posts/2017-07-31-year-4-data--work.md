@@ -22,6 +22,7 @@ published: false
 
 
 Our work continues to evolve and now falls into three main program areas. We’ve restructured our goals and workplan to reflect a core goal for each program. In Year 4, we will increase our effort in Data Use to bring it up to par with our other programs. Our updated program areas and supporting goals are:
+{: .present-before-paste}
 
 | Program | Goal |
 | --- | --- |
@@ -32,27 +33,29 @@ Our work continues to evolve and now falls into three main program areas. We’v
 ## Year 3 Accomplishments
 
 The last year was a big year for DataSF. We put together a Year in Review document, and below are the highlights.
+{: .present-before-paste}
 
 ### Data Services and Infrastructure
 
-* Launched a New Publishing Portal
+* Launched a New [Publishing Portal](https://datasf.org/publishing/)
 * Reconciled our web properties to appear as a single site
-* Republished data to be easier to access and use bumping our % natively hosted to nearly 90%
-* First open data program to launch a comprehensive data dictionary as an API
+* Republished data to be easier to access and use, bumping our % natively hosted to nearly 90%
+* First open data program to launch a [comprehensive data dictionary as an API](https://datasf.org/blog/show-me-the-data-dictionary/)
 * More than 50% of inventoried datasets are now published
-* Demonstrated power of open integrated building data with SF Building Explorer
+* Demonstrated power of open integrated building data with [SF Building Explorer](https://datasf.org/blog/new-sf-building-footprints-released-with-3d-characteristics/)
 
-## Data Governance
+### Data Governance
 
-* Released the Open Data Release Toolkit
+* Released the [Open Data Release Toolkit](https://datasf.org/resources/open-data-release-toolkit/) (read about the [privacy](https://datasf.org/blog/4-steps-to-manage-privacy-and-de-identification-for-your-open-data-program/) or the [security](https://datasf.org/blog/4-steps-to-manage-security-risks-with-open-data/) edition)
 * Significant progress on ShareSF Deliverables
-* Released a data quality guidebook
+* Released a [data quality guidebook](https://datasf.org/blog/how-to-ensure-quality-data/)
 * Released guidebook to managing personal data requests
 
-## Data Use
+### Data Use
 
-* Made a Big Impact with Data Academy: $1.7 million annual estimated savings
+* [Made a Big Impact with Data Academy](https://datasf.org/blog/the-results-are-in-data-academy-makes-a-big-impact/): $1.7 million annual estimated savings
 * Piloted Dashboarding Services
-* Launched DataScienceSF
+* Launched [DataScienceSF](https://datasf.org/science/)
 
 Read the this year's plan and the year in review. Many thanks to our partners, colleagues and a fantastic team!
+{: .present-before-paste}
