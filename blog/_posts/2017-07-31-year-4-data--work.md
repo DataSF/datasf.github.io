@@ -57,5 +57,14 @@ The last year was a big year for DataSF. We put together a Year in Review docume
 * Piloted Dashboarding Services
 * Launched [DataScienceSF](https://datasf.org/science/)
 
-Read the this year's plan and the year in review. Many thanks to our partners, colleagues and a fantastic team!
+### Communications and Engagement
+
+* Had fun with data themed blog posts like
+  * [Valentines with the Stars](https://datasf.org/blog/valentines-with-the-stars/)
+  * [Holiday Data](https://datasf.org/blog/holiday-data/)
+  * [Data We are Thankful For](https://datasf.org/blog/data-we-are-thankful-for/)
+* Had [something special happen](https://datasf.org/blog/something-special-happened-on-the-way-to-adopting-drains/) on the way to adopting a drain
+* And celebrated some seriously data savvy City employees with our inaugural [Data & Innovation Awards](https://datasf.org/blog/data-shakers-and-innovators/), held in partnership with the [Mayor's Office of Civic Innovation](http://www.innovation.sfgov.org/)
+
+Read the [this year's plan](https://docs.google.com/document/d/1LAiq6xGs9aJ7y4syP5l0opH7v8EbSqcRPuwaSvGK9Uo/edit?usp=sharing) and the [year in review](https://docs.google.com/document/d/1FTQ6oDWFEVVASlRDoCZ34HTGQZEvZdxRgDHFQFJfejA/edit?usp=sharing). You can read all of our [previous strategic plans](https://datasf.org/resources/datasf-strategic-planning/) as well. Many thanks to our partners, colleagues and a fantastic team!
 {: .present-before-paste}
