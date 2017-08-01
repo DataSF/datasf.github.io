@@ -15,10 +15,10 @@ image:
     license: Attribution 2.0 Generic (CC BY 2.0)
     license_link: 'https://creativecommons.org/licenses/by/2.0/'
 description: "Walking through the San Francisco's 2017-2018 budget."
-date: 2017-07-26 00:00:00
+date: 2017-08-01 00:00:00
 categories:
   - blog
-published: false
+published: true
 ---
 
 
@@ -64,4 +64,4 @@ Over the years, San Francisco residents have voted for certain mandatory spendin
 
 In this year’s budget, the Mayor focused discretionary funding on behavioral health and harm reduction on our streets, homelessness and neighborhood improvements. For instance, the budget includes resources to increase our Navigation Center capacity by nearly 150%, add new family shelter beds and rehousing subsidies, as well as new permanent supportive housing to address the homelessness crisis. Furthermore, the budget includes funding for a new 24/7 dedicated Resource Center, harm reduction and street outreach to help those struggling with addiction, behavioral health and homelessness on our streets. The budget also includes additional funds for the newly created Fix-It teams that help coordinate City departments to more quickly respond to livability issues in our neighborhoods, as well as funding for new criminal justice diversion programming.
 
-<iframe width="751" height="464" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=718950941&amp;format=interactive"></iframe>
+<iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=718950941&amp;format=interactive"></iframe>
