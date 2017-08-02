@@ -22,7 +22,7 @@ published: true
 ---
 
 
-Today the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, some people wonder why we can’t address every need and concern across the City. This blog post is an attempt to distill the budget spending through a series of visuals. (Note: the narrative in this blog post was inspired by articles written by Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed.)
+Last Week the City and County of San Francisco released its 2017-18 budget of $10.11 billion. With a budget that size, some people wonder why we can’t address every need and concern across the City. This blog post is an attempt to distill the budget spending through a series of visuals. (Note: the narrative in this blog post was inspired by articles written by Conor Johnston, former Chief of Staff to Board of Supervisors President London Breed.)
 
 ## Compare apples to apples
 
