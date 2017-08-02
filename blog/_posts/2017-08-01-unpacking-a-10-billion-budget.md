@@ -15,10 +15,10 @@ image:
     license: Attribution 2.0 Generic (CC BY 2.0)
     license_link: 'https://creativecommons.org/licenses/by/2.0/'
 description: "Walking through the San Francisco's 2017-2018 budget."
-date: 2017-07-26 00:00:00
+date: 2017-08-01 00:00:00
 categories:
   - blog
-published: false
+published: true
 ---
 
 
@@ -59,3 +59,9 @@ Another way we can look at this is by comparing the growth of Health & Human Ser
 Over the years, San Francisco residents have voted for certain mandatory spending measures, which are commonly referred to as set-asides. These include baseline spending and service levels for public safety, transportation and children’s services. This reduces the general fund from $5.1 to $3.9 billion. The police and fire department, which include voter-mandated force size requirements, make up nearly another $900 million. This brings the general fund from $3.9 billion to $3 billion. The big players in health, namely the Human Services Agency and Department of Public Health, book a combined $1.7 billion budget and leave us with a $1.3 billion General Fund. Other department dollars fund existing services and staff. When all is said and done, the Mayor will directly allocate about $36 million this year. That’s less than 1 percent of a $10 billion budget.
 
 <iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=682186251&amp;format=interactive"></iframe>
+
+## Mayor's Budget Priorities
+
+In this year’s budget, Mayor Lee focused discretionary funding on behavioral health and harm reduction programs, homelessness initiatives and neighborhood improvements. The budget includes additional investments in San Francisco’s Navigation Centers, which have a proven record of transitioning individuals out of encampments and into safe, stable living situations. In addition, Mayor Lee is increasing funding for family shelters and rehousing subsidies, as well as adding new permanent supportive housing units. The budget will support increased services for individuals struggling with addiction and behavioral health challenges, along with expanding street outreach teams aimed at addressing homelessness. While it address the major challenges of the day, the Mayor’s discretionary funding also bolsters quality-of-life initiatives, such as the City’s Fix-It teams, which respond quickly to fix neighborhood problems like graffiti, litter and broken streetlights.
+
+<iframe width="751" height="464" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1SzQb8IYIEKBKLIfat1JnxX6zIlpOoOVI6VY5Nq5xvag/pubchart?oid=718950941&amp;format=interactive"></iframe>
