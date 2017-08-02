@@ -14,7 +14,7 @@ image:
     author_link: 'https://www.flickr.com/photos/jasongraham99/'
     license: Attribution 2.0 Generic (CC BY 2.0)
     license_link: 'https://creativecommons.org/licenses/by/2.0/'
-description: "Walking through the San Francisco's 2017-2018 budget."
+description: "Walking through San Francisco's 2017-2018 budget."
 date: 2017-08-01 00:00:00
 categories:
   - blog
