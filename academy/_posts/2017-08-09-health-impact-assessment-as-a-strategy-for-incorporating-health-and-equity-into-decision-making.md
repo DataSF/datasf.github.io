@@ -10,7 +10,7 @@ subjects:
   - Analysis
 series:
 team_members:
-course_short_name:
+course_short_name: Health Impact Assessment
 course_materials_link:
 order:
 category: academy
@@ -21,7 +21,7 @@ categories:
 
 ## About this course
 
-Because much of what influences health happens outside of the doctor’s office, local health departments analyze a multitude of decisions that have the greatest potential to improve or harm health. &nbsp;The San Francisco Department of Public Health plays a central role in factoring health into many local policies, plans, and programs, such as our transportation network, economic development projects, labor standards and climate change initiatives. This activity-based training will discuss different types of strategies and evidence-based tools used by health impact assessments that all analysts and managers can use to conduct a data analysis project from start to finish and determine whether a policy or plan will promote, enhance, or discourage health and equity.
+Because much of what influences health happens outside of the doctor’s office, local health departments analyze a multitude of decisions that have the greatest potential to improve or harm health.  The San Francisco Department of Public Health plays a central role in factoring health into many local policies, plans, and programs, such as our transportation network, economic development projects, labor standards and climate change initiatives. This activity-based training will discuss different types of strategies and evidence-based tools used by health impact assessments that all analysts and managers can use to conduct a data analysis project from start to finish and determine whether a policy or plan will promote, enhance, or discourage health and equity.
 {: .present-before-paste}
 
 ## What you'll learn in this course
