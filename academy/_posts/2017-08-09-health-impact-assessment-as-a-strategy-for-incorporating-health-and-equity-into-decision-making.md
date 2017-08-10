@@ -12,8 +12,7 @@ series:
 team_members:
 course_short_name: Health Impact Assessment
 course_materials_link:
-order: >-
-  https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform?entry.1562192740&entry.1369880909=Making+Better+Decisions
+order:
 category: academy
 categories:
   - academy
