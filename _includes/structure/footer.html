@@ -5,24 +5,18 @@
 
       </div>
       <div class="col-md-4">
-        {% if page.index != 'catalog' %}
         <ul class="list-inline social-buttons hidden-print">
           {% for network in site.social %}
           <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
           </li>
           {% endfor %}
         </ul>
-        {% else %}
+        <!--
         <div class="catalog-powered">
           Data catalog powered by <span class="sr-only">Socrata</span><br/>
-          <a href="https://socrata.com" target="_blank"><img src="/assets/img/socrata.jpg" alt="Socrata logo" width="100px"></a>
+          <a href="https://socrata.com" target="_blank"><img src="/assets/img/socrata.jpg" alt="Socrata logo" width="75px"></a>
         </div>
-        {% endif %}
-      </div>
-      <div class="col-md-4">
-        <ul class="list-inline quicklinks">
-
-        </ul>
+        -->
       </div>
     </div>
   </div>
@@ -37,8 +31,7 @@
               </li>
             {% endfor %}
             {% if page.index == 'catalog' %}
-              <li>---------------------</li>
-              <li><a href="/catalog/terms-of-use">Terms of Use</a></li>
+              <li style="margin-top: 15px;"><a href="/opendata/terms-of-use">Terms of Use</a></li>
               <li><a href="https://socrata.com/privacy/">Socrata Privacy Policy</a></li>
             {% else %}
               <li style="margin-top: 15px;"><a href="/privacy/">Privacy Policy</a></li>
@@ -51,9 +44,7 @@
       </div>
     </div>
   </div>
-  {% if page.index != 'catalog' %}
   <div class="text-center made-in">
     Made with <i class="fa fa-heart"><span class="sr-only">heart</span></i> in San Francisco
   </div>
-  {% endif %}
 </footer>

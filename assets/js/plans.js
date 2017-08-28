@@ -1,6 +1,7 @@
 // each planning period, add the start date of the ***next*** period at the top of the array below
 
 var planPeriods = [
+  '01/01/2018',
   '01/01/2017',
   '07/01/2016',
   '01/01/2016',
@@ -9,7 +10,7 @@ var planPeriods = [
   
 //putting this in a variable until we have some time to automate sums, the system of record for plans (Knack) doesn't let us do aggregations yet through the API, so looking at doing a simple js sum on the records
 
-var cityWideTargets = [43, 64, 121]
+var cityWideTargets = [57, 43, 64, 121]
 
 //Functions
 var fetchStats = function(baseURL, deptFilter, index) {
@@ -18,7 +19,7 @@ var fetchStats = function(baseURL, deptFilter, index) {
     var index = 0
   }
   
-  var before = moment(planPeriods[index + 1],'MM/DD/YYYY').add(6,'months').format("YYYY-MM-DD")
+  var before = moment(planPeriods[index],'MM/DD/YYYY').format("YYYY-MM-DD")
   var after = moment(planPeriods[index + 1],'MM/DD/YYYY').format("YYYY-MM-DD")
   
    var dataQueryString2 = [
@@ -238,12 +239,15 @@ $(function() {
     }, {
       "data": "dataset_description"
     }, {
+      "data": "data_classification"
+    },
+    {
       "data": "publishing_status"
     }],
     "columnDefs": [{
       "data": null,
       "defaultContent": "",
-      "targets": -2
+      "targets": [-3,-2]
     },
     {
       "targets": -1,

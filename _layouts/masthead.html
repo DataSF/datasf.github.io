@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<div class="masthead" style="height: 200px; color: white; background: #333 url({{page.background_image_path}}) no-repeat center center; position:relative; background-position: right; -webkit-background-size: cover; -mo-background-size: cover; -o-background-size: cover; background-size: cover;">
+<div class="masthead" style="background: #333 url({{page.background_image_path}}) no-repeat center center;">
   <div class="left-cover"></div>
   {% if page.image_source %}
-  <div class="masthead-attribution" style="z-index: 5; position: absolute; bottom:0; right: 30px;">
+  <div class="masthead-attribution hidden-xs" style="z-index: 5; position: absolute; bottom:0; right: 30px;">
     <figcaption style="color:white;">
       <a href="{{page.image_source.link}}">{{ page.image_source.title }}</a> by <a href="{{page.image_source.author_link}}">{{page.image_source.author}}</a> licensed under <a href="{{page.image_source.license_link}}">{{page.image_source.license}}</a>
     </figcaption>

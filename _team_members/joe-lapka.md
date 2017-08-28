@@ -1,6 +1,6 @@
 ---
 name: Joe Lapka
-work_title: "Performance Analyst, Controller's Office"
+work_title: "Project Manager, Controller's Office"
 email:
 bio:
 gravatar:
