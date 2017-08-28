@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/samuelthomas-21.jpg
+headshot_image_path: /uploads/samuelthomas-21-1.jpg
 instructor: true
 ---
 
