@@ -1,6 +1,6 @@
 ---
 name: Sam Abbott
-work_title: "Performance Analyst, Controller's Office"
+work_title: Data Academy Alumnus
 email:
 bio: Performance Analyst
 gravatar: 84d3934d65fd0d0ead82de7a4ed5a35e
