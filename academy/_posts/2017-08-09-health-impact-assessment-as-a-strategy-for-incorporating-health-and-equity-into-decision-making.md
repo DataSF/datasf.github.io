@@ -11,7 +11,7 @@ subjects:
 series:
 team_members:
 course_short_name: Health Impact Assessment
-course_materials_link:
+course_materials_link: 'https://drive.google.com/open?id=0BwRgeGq-b8f9NmVvdDhoM2dDaVE'
 order:
 category: academy
 categories:
