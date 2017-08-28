@@ -1,10 +1,12 @@
 ---
 name: Sherman Luk
-work_title:
+work_title: "Project Manager, Controller's Office"
 email:
 bio:
 gravatar:
 twitter:
+headshot_image_path: /uploads/sherman-luk.jpg
+instructor: true
 ---
 
 

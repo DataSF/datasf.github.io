@@ -4,7 +4,6 @@ permalink: /publishing/submission-guidelines/
 title: Submission Guidelines
 section: submission-guidelines
 toc: true
-js: publishing.js
 index: publishing
 subnav: true
 ---
@@ -104,4 +103,35 @@ When choosing a category for the dataset, pick the one that best captures the da
 | Public Safety                       | Data on crime, fire, accidents, and enforcement                                                           |
 | Transportation                      | Data about public transit, biking, driving, parking, and flying                                           |
 
+### Defining fields
+
+Field definitions are important pieces of information to anyone using data. They should be written with an external, naive user in mind. They are also helpful to DataSF staff, especially for defining business rules or transforms for open data.
+
+State definitions as a descriptive phrase or sentence. Be precise, unambiguous and concise. Make it unique and state it in the singular. State what it is, not what it is not. Can the definition stand alone? Define units of measure (e.g. miles or meters or feet).
+
+Depending on the field consider also including:
+
+  - **Standard Definition References.** Does the field use any industry or organizational standards? If so, include a brief reference to the standard in use.
+  - **Allowable Values or Ranges.** If the field is a category, what’s the list of allowable values. If a date or number, what is the allowable or expected range?
+  - **Guidance on Use.** Provide non-obvious guidance for use of the field. These include any known limitations of the data collected. For example, if a field wasn’t collected for a certain period of time, state that clearly.
+
+### Field definition examples
+
+The following are example definitions for different fields (not from the same dataset)
+
+**Field:** NAICS Code
+
+**Definition:** The North American Industry Classification System (NAICS) is a standard used by Federal statistical agencies for the purpose of collecting, analyzing and publishing statistical data related to the U.S. business economy. A registrant indicates the business activity on the City and County's tax registration forms. These business activities map onto a subset of NAICS codes. Refer to http://sftreasurer.org/NAICS for these mappings.
+
+------
+
+**Field:** Class Code
+
+**Definition:** The Class Code is used for differentiating between classes of street segments: 1, Freeways; 2, Highways; 3, Major Streets; 4, Secondary Streets; 5, Local Streets; 6, Freeway Ramps; 0, Private Streets.
+
+------
+
+**Field:** Fiscal Year
+
+**Definition:** An accounting period of 12 months. The City and County of San Francisco operates on a fiscal year that begins on July 1 and ends on June 30 the following year. For example, the Fiscal Year ending June 30, 2012 is represented as FY2011-2012.
 

@@ -35,9 +35,9 @@ Lucky for us, we had a starting place; an early [Code For America project](http:
 
 Having leads to follow, the San Francisco edition took off as a project of Code For San Francisco. Working with the [SF Public Utilities Commission](http://www.sfwater.org) (SFPUC), [Public Works](http://sfpublicworks.org/) and [DataSF](https://datasf.org), they helped craft code into something that met the needs of San Francisco. It was and continues to be a collaborative effort that involves:
 
-1. **Open data.**Public Works and DataSF worked together to [produce a drains dataset](https://data.sfgov.org/City-Infrastructure/Stormwater-inlets-drains-and-catch-basins/jtgq-b7c5). That data was pulled by Code for San Francisco volunteers to load the drain locations. The data was recently automated so it will update as drains come and go.
-2. **Collaboration.**Collaboration was seeded at the Code For America summit among Jean Walsh, communications manager at SFPUC; Jesse Biroscak, then co-lead of Code for San Francisco; and myself. Jean took the lead of enlisting support to include partners at Public Works and within the SFPUC. Jesse Szwedko shortly became the lead volunteer engineer, implementing changes to the application. [Many other contributors have pitched in](https://github.com/sfbrigade/adopt-a-drain/graphs/contributors) as well.
-3. **Open source code.**All the coding and [project management happens on GitHub](https://github.com/sfbrigade/adopt-a-drain), a tool designed for open source collaboration. Oz Haven, a Code for San Francisco volunteer, even taught Jean how to use GitHub and all the [work has been tracked there since](https://github.com/sfbrigade/adopt-a-drain/issues).
+1. **Open data.&nbsp;**Public Works and DataSF worked together to [produce a drains dataset](https://data.sfgov.org/City-Infrastructure/Stormwater-inlets-drains-and-catch-basins/jtgq-b7c5)&nbsp;(big thanks to John Seagrave and Greg Braswell for their help on this!). That data was pulled by Code for San Francisco volunteers to load the drain locations. The data was recently automated so it will update as drains come and go.
+2. **Collaboration.&nbsp;**Collaboration was seeded at the Code For America summit among Jean Walsh, communications manager at SFPUC; Jesse Biroscak, then co-lead of Code for San Francisco; and myself. Jean took the lead of enlisting support to include partners at Public Works and within the SFPUC. Jesse Szwedko shortly became the lead volunteer engineer, implementing changes to the application. [Many other contributors have pitched in](https://github.com/sfbrigade/adopt-a-drain/graphs/contributors) as well.
+3. **Open source code.&nbsp;**All the coding and [project management happens on GitHub](https://github.com/sfbrigade/adopt-a-drain), a tool designed for open source collaboration. Oz Haven, a Code for San Francisco volunteer, even taught Jean how to use GitHub and all the [work has been tracked there since](https://github.com/sfbrigade/adopt-a-drain/issues).
 
 ## Bigger than an app
 
@@ -53,6 +53,7 @@ Adopting a drain is a niche application, admittedly, but let’s consider this i
 ## Toward impact and connection
 
 ![Image of volunteer event held at the Southeast Treatment Plant](/uploads/versions/20161029-36---x----900-567x---.jpg)
+
 <figcaption>The SFPUC held a fall volunteer event at the Southeast Treatment Plant. Volunteers received tools and vests and some training to keep them safe while tending to drains. Image source: SFPUC Communications</figcaption>
 
 Of the close to 25,000 drains, over 1,000 have been adopted so far by hundreds of volunteers. Adopt a Drain is one tool in a toolkit the City uses to limit and reduce localized flooding. I can’t make bold claims on Adopt A Drain’s specific impact on flooding yet, but it has done something surprising and special: inspire and connect.

@@ -1,0 +1,200 @@
+---
+layout: default
+title: San Francisco Open Data
+index: catalog
+subnav: true
+js: opendata.js
+---
+<section id="jumbo-search" class="jumbotron jumbotron-default">
+  <div class="container">
+    <h1>Find the data you need</h1>
+    <p>Search hundreds of datasets from the City and County of San Francisco. Or browse on the <a href="https://data.sfgov.org" class="ext-sf-opendata">data catalog</a>
+      <div class="row">
+        <div class="col-md-12">
+          <form action="https://data.sfgov.org/browse" role="form" class="form-inline">
+            <input id="search-catalog-input" class="search-input form-control" type="text" name="q" placeholder="Search for things like Crime, 311 cases, lobbyists, etc." autocomplete="off" style="width:100%" />
+            <button type="submit" class="fa fa-search" id="search-submit" value="Search"><span class="sr-only">Search</span></button>
+          </form>
+        </div>
+      </div>
+    </p>
+  </div>
+</section>
+<section>
+  <div class="container-fluid">
+    <div class="row" id="featured-tiles">
+      <div class="featured-tile col-sm-6 col-md-2 col-md-offset-1">
+        <div class="feature" style="background-image:url(/assets/img/mug.png);">
+          <a href="http://data.sfgov.org/browse?category=Economy+and+Community">
+            <div class="feature-title">
+            Economy &amp; Community
+          </div>
+          <div class="featured-tile-description">
+            <p>Data on businesses, community and economic development</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2">
+        <div class="feature" style="background-image:url(/assets/img/city-hall.png);">
+          <a href="https://data.sfgov.org/browse?category=City+Management+and+Ethics">
+            <div class="feature-title">
+            City Management &amp; Ethics
+          </div>
+          <div class="featured-tile-description">
+            <p>Data on finance, budgets, taxes, employees, elections, campaigns, ethics reporting, etc</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2">
+        <div class="feature" style="background-image:url(/assets/img/map.png);">
+          <a href="https://data.sfgov.org/browse?category=Transportation">
+          <div class="feature-title">
+            Transportation
+          </div>
+          <div class="featured-tile-description">
+            <p>Data about public transit, biking, driving, parking, and flying</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2">
+        <div class="feature" style="background-image:url(/assets/img/shield.png);">
+          <a href="https://data.sfgov.org/browse?category=Public+Safety">
+          <div class="feature-title">
+            Public Safety
+          </div>
+          <div class="featured-tile-description">
+            <p>Data on crime, fire, accidents, and enforcement</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2">
+        <div class="feature" style="background-image:url(/assets/img/health.png);">
+          <a href="https://data.sfgov.org/browse?category=Health+and+Social+Services">
+          <div class="feature-title">
+            Health &amp; Social Services
+          </div>
+          <div class="featured-tile-description">
+            <p>Data about health, public health, and services provided to individuals, children and families</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2 col-md-offset-1">
+        <div class="feature" style="background-image:url(/assets/img/layers.png);">
+          <a href="https://data.sfgov.org/browse?category=Geographic+Locations+and+Boundaries">
+          <div class="feature-title">
+            Geographic Locations &amp; Boundaries
+          </div>
+          <div class="featured-tile-description">
+            <p>Geographic data on city locations and boundaries; Available as shapefiles, geojson, kml</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2">
+        <div class="feature" style="background-image:url(/assets/img/leaf.png);">
+          <a href="https://data.sfgov.org/browse?category=Energy+and+Environment">
+          <div class="feature-title">
+            Energy &amp; Environment
+          </div>
+          <div class="featured-tile-description">
+            <p>Data on sustainability, energy and resource use, and environmental conditions</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2">
+        <div class="feature" style="background-image:url(/assets/img/house.png);">
+          <a href="https://data.sfgov.org/browse?category=Housing+and+Buildings">
+          <div class="feature-title">
+            Housing &amp; Buildings
+          </div>
+          <div class="featured-tile-description">
+            <p>Data on permitting, construction, housing units, building inspections, rent control, etc</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2">
+        <div class="feature" style="background-image:url(/assets/img/wrench.png);">
+          <a href="https://data.sfgov.org/browse?category=City+Infrastructure">
+          <div class="feature-title">
+            City Infrastructure
+          </div>
+          <div class="featured-tile-description">
+            <p>Data on maintenance and management of public buildings and facilities, spaces, streets and right of way</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="featured-tile col-sm-6 col-md-2">
+        <div class="feature" style="background-image:url(/assets/img/picture.png);">
+          <a href="https://data.sfgov.org/browse?category=Culture+and+Recreation">
+          <div class="feature-title">
+            Culture and Recreation
+          </div>
+          <div class="featured-tile-description">
+            <p>Data on arts, museums, public spaces and events</p>
+          </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 text-center">
+      <a href="#departments" class="btn btn-default btn-lg page-scroll" style="margin-top: 15px;">View data by department</a>
+    </div>
+  </div>
+</section>
+<section id="departments" class="thin-section bg-light-gray">
+  <div class="container">
+  <div class="row">
+    <div class="col-sm-12 text-center">
+      <h2 style="margin-bottom: 25px;">Publishing Departments</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="three-columns">
+        <li><a href="https://data.sfgov.orghttps://data.sfgov.org/browse?Department-Metrics_Publishing-Department=311">311</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Airport%20(SFO)">Airport (SFO)</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Arts%20Commission">Arts Commission</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Assessor-Recorder">Assessor-Recorder</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Board%20of%20Supervisors">Board of Supervisors</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Building%20Inspection">Building Inspection</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Citizen%20Complaints">Citizen Complaints</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=City%20College">City College</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Community%20Investment%20and%20Infrastructure">Community Investment and Infrastructure</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Controller">Controller</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Economic%20%26%20Workforce%20Development">Economic &amp; Workforce Development</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Elections">Elections</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Environment">Environment</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Ethics%20Commission">Ethics Commission</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Film%20Commission">Film Commission</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Fire%20Department">Fire Department</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=GSA%20-%20City%20Administrator's%20Office">GSA - City Administrator's Office</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Health%20Service%20System">Health Service System</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Human%20Resources">Human Resources</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Human%20Rights%20Commission">Human Rights Commission</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Human%20Services%20Agency">Human Services Agency</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Mayor">Mayor</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Municipal%20Transportation%20Agency%20">Municipal Transportation Agency </a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Planning">Planning</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Police%20Department">Police Department</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Port">Port</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Public%20Health">Public Health</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Public%20Utilities%20Commission">Public Utilities Commission</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Public%20Works">Public Works</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Recreation%20and%20Parks">Recreation and Parks</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Rent%20Arbitration%20Board">Rent Arbitration Board</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Technology">Technology</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Treasurer-Tax%20Collector">Treasurer-Tax Collector</a></li>
+        <li><a href="https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Other">Other</a></li>
+      </ul>
+    </div>
+  </div>
+  </div>
+</section>

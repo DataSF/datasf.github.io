@@ -15,6 +15,7 @@ var median = function(values) {
 }
 
 $(function() {
+  
   if (typeof $.fn.toc == 'function') {
     $('#article-toc').toc({
       'container': 'article',
@@ -53,8 +54,7 @@ $(function() {
   $('a.download').on('click', function(ev) {
     ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).parent().data('download-name'), 1)
   });
-
-
+  
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
     return this.optional(element) || /[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@(sfgov.org|sfusd.edu|ucsf.edu|sfmta.com|sfwater.org|sfmta.org|sfdph.org|sfport.com|flysfo.com|sfdpw.org|sfenvironment.org|sfpl.org|dcyf.org|first5sf.org|sfcta.org)/.test(value);
@@ -167,7 +167,7 @@ var transform = function(data, label) {
   if (label === undefined) {
     for (var key in data[0]) {
       if (data[0].hasOwnProperty(key)) {
-        output.push([key.replace(/_/g, " ").toTitleCase(), data[0][key]])
+        output.push([toTitleCase(key.replace(/_/g, " ")), data[0][key]])
       }
     }
     return output
@@ -178,7 +178,7 @@ var transform = function(data, label) {
         output.push([rec[label] ? 'Yes' : 'No', rec.count]);
       }
       else {
-        output.push([rec[label].toTitleCase(), rec.count]);
+        output.push([toTitleCase(rec[label]), rec.count]);
       }
       total += +rec.count;
     });
