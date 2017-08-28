@@ -1,12 +1,12 @@
 ---
 name: Blake Valenta
-work_title: Data Fellow
+work_title: 'Data Fellow, DataSF'
 email:
 bio:
 gravatar:
 twitter:
 headshot_image_path:
-instructor: true
+instructor: false
 ---
 
 
