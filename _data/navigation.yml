@@ -1,5 +1,5 @@
 main_nav:
-- text: Data Catalog
+- text: Open Data
   url: https://data.sfgov.org
   class: ext-sf-opendata
   index: catalog
@@ -33,14 +33,14 @@ publishing:
     url: /publishing/plans/
   
 catalog:
-  - text: Catalog Home
-    url: /catalog/
-  - text: Search Data
+  - text: Explore
+    url: /opendata/
+  - text: Browse Data
     url: 'https://data.sfgov.org/browse'
-  - text: Site Analytics
+  - text: Open Data Stats
     url: 'https://data.sfgov.org/analytics'
   - text: Developers
-    url: /catalog/developers/
+    url: /opendata/developers/
 
 resources:
   - text: Browse Resources
@@ -51,6 +51,8 @@ academy:
     url: /academy/
   - text: Course Calendar
     url: /academy/calendar/
+  - text: Instructors
+    url: /academy/instructors/
     
 utility:
 - text: SFGov

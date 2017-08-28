@@ -1,4 +1,14 @@
 {% for post in include.posts limit:include.limit%}
+{% if post.author[0] %}
+{% assign authors = '' %}
+{% for author in post.author %}
+ {% capture authors %}
+   {%if forloop.index > 1 %}{{authors}}{% endif %}{{site.data.authors[author].name | strip}}{%unless forloop.last %}, {%endunless%}
+ {% endcapture %}
+{% endfor %}
+{% else %}
+  {% assign authors = site.data.authors[post.author].name %}
+{% endif %}
 <div class="story-item">
   <div class="story-caption clearfix">
     {% if post.image.thumb %}
@@ -8,6 +18,7 @@
       {{ post.date | date: "%B %d, %Y" }}
     </time>
     <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
+    <p class="text-muted" style="font-size: 85%;">By {{authors | strip | strip_newlines }}</p>
     <p class="text-muted">{{ post.description }}</p>
   </div>
 </div>

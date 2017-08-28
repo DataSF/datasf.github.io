@@ -1,10 +1,12 @@
 ---
 name: Ryan Hunter
-work_title: null
-email: null
-bio: null
-gravatar: null
-twitter: null
+work_title: "Performance Analyst, Controller's Office"
+email:
+bio:
+gravatar:
+twitter:
+headshot_image_path: /uploads/ryan-hunter.jpg
+instructor: true
 ---
 
 
