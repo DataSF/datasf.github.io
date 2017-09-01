@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/jackie-tsou.jpg
+headshot_image_path: /uploads/jtsou-photo.jpg
 instructor: true
 ---
 
