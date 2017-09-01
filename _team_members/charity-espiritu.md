@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/ce-headshot-1.jpg
+headshot_image_path: /uploads/ce-headshot-2.jpg
 instructor: true
 ---
 
