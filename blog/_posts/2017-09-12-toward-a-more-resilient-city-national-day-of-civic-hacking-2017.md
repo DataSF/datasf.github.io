@@ -2,8 +2,8 @@
 title: 'Toward a More Resilient City: National Day of Civic Hacking 2017'
 author: jason_lally
 image:
-  thumb: /assets/blog/ndoch-2017/sf.jpg
-  feature: /assets/blog/ndoch-2017/sf.jpg
+  thumb: ndoch-2017/sf.jpg
+  feature: ndoch-2017/sf.jpg
   caption: Join us for a day of building a more resilient city
   source:
     title: Golden Gate Bridge from Twin Peaks
