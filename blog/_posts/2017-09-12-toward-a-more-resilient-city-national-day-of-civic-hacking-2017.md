@@ -2,16 +2,16 @@
 title: 'Toward a More Resilient City: National Day of Civic Hacking 2017'
 author: jason_lally
 image:
-  thumb:
-  feature:
+  thumb: /assets/blog/ndoch-2017/sf.jpg
+  feature: /assets/blog/ndoch-2017/sf.jpg
   caption:
   source:
-    title:
-    author:
-    source_link:
-    author_link:
-    license:
-    license_link:
+    title: Golden Gate Bridge from Twin Peaks
+    author: Sam Gao
+    source_link: 'https://www.flickr.com/photos/sarmu/12234101636'
+    author_link: 'https://www.flickr.com/photos/sarmu/'
+    license: CC BY-NC-SA 2.0
+    license_link: 'https://creativecommons.org/licenses/by-nc-sa/2.0/'
 description: >-
   The annual National Day of Civic Hacking is upon us. On Saturday, September
   23rd, Code for San Francisco will bring together up to 100 folks to consider
@@ -33,7 +33,7 @@ During this year’s event participants will:
 * learn ways to contribute volunteer skills to resiliency efforts, and
 * contribute to projects that are aiding in resiliency and recovery here and in other communities
 
-Code for San Francisco has partnered with the [Neighborhood Empowerment Network](http://empowersf.org) (NEN), the [San Francisco Department of Emergency Management](http://sfdem.org)&nbsp;(DEM), [DataSF](https://datasf.org)&nbsp;and community members to develop the program.
+Code for San Francisco has partnered with the [Neighborhood Empowerment Network](http://empowersf.org) (NEN), the [San Francisco Department of Emergency Management](http://sfdem.org) (DEM), [DataSF](https://datasf.org) and community members to develop the program.
 
 DataSF will be on hand to provide help with available data and insights on ways we can share data to prepare our neighborhoods. NEN and DEM will provide subject matter expertise and take participants through the exercise.
 
