@@ -4,7 +4,7 @@ author: jason_lally
 image:
   thumb: /assets/blog/ndoch-2017/sf.jpg
   feature: /assets/blog/ndoch-2017/sf.jpg
-  caption:
+  caption: Join us for a day of building a more resilient city
   source:
     title: Golden Gate Bridge from Twin Peaks
     author: Sam Gao
