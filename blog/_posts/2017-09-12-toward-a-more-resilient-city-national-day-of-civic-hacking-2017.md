@@ -33,7 +33,7 @@ During this year’s event participants will:
 * Learn ways to contribute volunteer skills to resiliency efforts.
 * Contribute to projects that are aiding in resiliency and recovery here and in other communities.
 
-Code for San Francisco has partnered with the [Neighborhood Empowerment Network](http://empowersf.org) (NEN), the [San Francisco Department of Emergency Management](http://sfdem.org)&nbsp;(DEM), [DataSF](https://datasf.org)&nbsp;and community members to develop the program.
+[Code for San Francisco](http://codeforsanfrancisco.org) has partnered with the [Neighborhood Empowerment Network](http://empowersf.org) (NEN), the [San Francisco Department of Emergency Management](http://sfdem.org)&nbsp;(DEM), [DataSF](https://datasf.org)&nbsp;and community members to develop the program.
 
 DataSF will be on hand to provide help with available data and insights on ways we can share data to prepare our neighborhoods. NEN and DEM will provide subject matter expertise and take participants through the exercise.
 
