@@ -14,7 +14,7 @@ image:
     license_link: 'https://creativecommons.org/licenses/by-nc-sa/2.0/'
 description: >-
   The annual National Day of Civic Hacking is upon us. On Saturday, September
-  23rd, Code for San Francisco will bring together up to 100 folks to consider
+  23rd, Code for San Francisco will bring together up to 100 people to consider
   how we can make our City more resilient in the face of disaster.
 date: 2017-09-12 00:00:00
 categories:
