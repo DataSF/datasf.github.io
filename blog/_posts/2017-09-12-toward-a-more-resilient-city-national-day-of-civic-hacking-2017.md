@@ -33,9 +33,9 @@ During this year’s event participants will:
 * Learn ways to contribute volunteer skills to resiliency efforts.
 * Contribute to projects that are aiding in resiliency and recovery here and in other communities.
 
-[Code for San Francisco](http://codeforsanfrancisco.org) has partnered with the [Neighborhood Empowerment Network](http://empowersf.org) (NEN), the [San Francisco Department of Emergency Management](http://sfdem.org)&nbsp;(DEM), [DataSF](https://datasf.org)&nbsp;and community members to develop the program.
+Code for San Francisco has partnered with the [Neighborhood Empowerment Network](http://empowersf.org) (NEN), the [San Francisco Department of Emergency Management](http://sfdem.org)&nbsp;(DEM), [DataSF](https://datasf.org)&nbsp;and community members to develop the program.
 
-DataSF will be on hand to provide help with available data and insights on ways we can share data to prepare our neighborhoods. NEN and DEM will provide subject matter expertise and take participants through the exercise.
+DataSF will be on hand to provide help with available data and insights on how we can share data to prepare our neighborhoods. NEN and DEM will provide subject matter expertise and take participants through the exercise.
 
 This is a timely and important conversation for us to be having and [we encourage you to participate if you can](https://www.eventbrite.com/e/national-day-of-civic-hacking-tickets-36960808774). Ticket proceeds will be donated by Code for San Francisco to ongoing recovery efforts. Code for San Francisco wants this to be an inclusive event, so if the cost is a barrier, please reach out to [hello@codeforsanfrancisco.org](javascript:void(location.href='mailto:'+String.fromCharCode(104,101,108,108,111,64,99,111,100,101,102,111,114,115,97,110,102,114,97,110,99,105,115,99,111,46,111,114,103))) and they can waive the fee for you.
 
