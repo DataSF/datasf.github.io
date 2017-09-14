@@ -4,7 +4,7 @@ author: joy_bonaguro
 image:
   thumb: /security/security.jpg
   feature: /security/security.jpg
-  caption:
+  caption: "Security risks differ from privacy risks, which is why we've released another edition of the open data release toolkit"
   source:
     title: Security
     author: Jake Rustenhoven
@@ -54,6 +54,6 @@ A toolkit provides a consistent and repeatable process to assess security risks 
 
 If you’re familiar with our Privacy Edition of the toolkit, these steps probably look familiar. However, the Security Edition overall is shorter and easier to follow as there is less complexity.
 
-[Visit the Security Edition](https://docs.google.com/document/d/1hb85N5G4RXF2_p6HOGIzhji2S4X7Ak8zdIdIM_8k5EA/edit)&nbsp;(or check out both editions at [datasf.org/resources/open-data-release-toolkit/](datasf.org/resources/open-data-release-toolkit/)).
+[Visit the Security Edition](https://docs.google.com/document/d/1hb85N5G4RXF2_p6HOGIzhji2S4X7Ak8zdIdIM_8k5EA/edit)&nbsp;(or check out both editions at [/resources/open-data-release-toolkit/](/resources/open-data-release-toolkit/)).
 
 Send us any feedback via [support.datasf.org](support.datasf.org)!

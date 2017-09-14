@@ -1636,6 +1636,11 @@ body {
   margin-top: 0;
 }
 
+.featured-showcase h2 {
+  margin-top: 10px;
+  border: none;
+}
+
 .section-heading-wrapper {
   text-align: center;
 }
