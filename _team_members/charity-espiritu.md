@@ -6,7 +6,7 @@ bio:
 gravatar:
 twitter:
 headshot_image_path: /uploads/ce-headshot-2.jpg
-instructor: true
+instructor: false
 ---
 
 
