@@ -13,12 +13,11 @@ image:
     license:
     license_link:
 description:
-date:
+date: 2017-10-17 00:00:00
 categories:
   - blog
 ---
 
-<embed
-src="http://datasf.org/SF-Halloween-Movie-Map/"
-style="width:800px;
- height: 800px;">
+
+<embed style="width:800px;
+ height: 800px;" src="http://datasf.org/SF-Halloween-Movie-Map/" />
