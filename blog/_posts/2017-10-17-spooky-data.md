@@ -19,5 +19,5 @@ categories:
 ---
 
 
-<embed style="width:800px;
+<embed style="width:700px;
  height: 800px;" src="http://datasf.org/SF-Halloween-Movie-Map/" />
