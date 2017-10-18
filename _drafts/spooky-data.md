@@ -17,3 +17,8 @@ date:
 categories:
   - blog
 ---
+
+<embed
+src="http://datasf.org/SF-Halloween-Movie-Map/"
+style="width:800px;
+ height: 800px;">
