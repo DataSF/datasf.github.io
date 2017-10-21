@@ -1,6 +1,8 @@
 ---
 title: Spooky Data
 author:
+  - janine_heiser
+  - blake_valenta
 image:
   thumb: /spooky-data/pumpkins.jpg
   feature: /spooky-data/pumpkins.jpg
