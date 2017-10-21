@@ -14,7 +14,7 @@ image:
     author_link: 'https://pixabay.com/p-1249139/'
     license: CC0 Creative Commons
     license_link:
-description:
+description: Your favorite scary movies mapped!
 date: 2017-10-17 00:00:00
 categories:
   - blog
