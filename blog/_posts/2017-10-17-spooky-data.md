@@ -2,15 +2,15 @@
 title: Spooky Data
 author:
 image:
-  thumb:
-  feature:
+  thumb: /spooky-data/pumpkins.jpg
+  feature: /spooky-data/pumpkins.jpg
   caption:
   source:
     title:
-    author:
-    source_link:
-    author_link:
-    license:
+    author: kevin351
+    source_link: 'https://pixabay.com/p-1249139/'
+    author_link: 'https://pixabay.com/p-1249139/'
+    license: CC0 Creative Commons
     license_link:
 description:
 date: 2017-10-17 00:00:00
