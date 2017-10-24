@@ -15,7 +15,7 @@ image:
     license: CC0 Creative Commons
     license_link:
 description: Your favorite scary movies mapped!
-date: 2017-10-17 00:00:00
+date: 2017-10-30 00:00:00
 categories:
   - blog
 ---
