@@ -18,7 +18,7 @@ description: Your favorite scary movies mapped!
 date: 2017-10-25 00:00:00
 categories:
   - blog
-published: false
+published: true
 ---
 
 
