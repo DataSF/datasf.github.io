@@ -32,5 +32,8 @@ Want to be extra scary? Snap a pic at a horror movie location from each of the h
 
 Whatever you decide, make sure to have fun and be safe!
 
-<embed style="width:900px;
- height: 800px;" src="http://datasf.org/SF-Halloween-Movie-Map/" />
+
+ <embed
+src="http://datasf.org/SF-Halloween-Movie-Map/"
+style="width:900px;
+height: 800px;">
