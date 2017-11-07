@@ -4,6 +4,16 @@ description:
 tags:
 audiences:
 resources_list:
+  - name: 'Template: DataScienceSF Project Charter'
+    description: >-
+      Our default project charter used for all of our data science projects.
+      Establishes scope, success measure, roles and responsibilities and more.
+      Includes signature page.
+    post_date: 2017-11-07 00:00:00
+    resource_type: Document
+    links:
+      - link: 'https://drive.google.com/open?id=0B6av1JsL3xAnN2EyNUtOc2JQcEE'
+        media_type: Word
   - name: 'Handbook: User and Context Research'
     description: >-
       A handbook we use to develop a research plan for each project. The plan is
@@ -31,15 +41,12 @@ resources_list:
     links:
       - link: 'https://drive.google.com/open?id=0B6av1JsL3xAnenFlakhVTFRVa2s'
         media_type: Word
-  - name: 'Template: DataScienceSF Project Charter'
-    description: >-
-      Our default project charter used for all of our data science projects.
-      Establishes scope, success measure, roles and responsibilities and more.
-      Includes signature page.
+  - name: DataScienceSF BrownBag and Pitch Deck
+    description: Template powerpoint deck we use to pitch our service in multiple forums.
     post_date: 2017-11-07 00:00:00
     resource_type: Document
     links:
-      - link: 'https://drive.google.com/open?id=0B6av1JsL3xAnN2EyNUtOc2JQcEE'
+      - link: 'https://drive.google.com/open?id=1JyKqhYBXMltjBzxB3DcZNf3HnWWEWMDA'
         media_type: Word
 ---
 
