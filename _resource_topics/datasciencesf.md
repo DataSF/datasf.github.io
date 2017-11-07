@@ -1,6 +1,6 @@
 ---
 title: DataScienceSF
-description:
+description: Selection of resources used for managing DataScienceSF service and projects
 tags:
 audiences:
 resources_list:
@@ -51,3 +51,8 @@ resources_list:
 ---
 
 
+As part of our [DataScienceSF service](https://datasf.org/science/), we use a variety of resources and tools during project solicitation, selection, scoping and execution.
+
+Our DataScienceSF service is run in 2 cohorts annually. Departments apply during the solicitation process. This is when we pitch the service via brownbags, invited presentations and other forums.
+
+Other resource below support project execution. In particular, the project charter helps us scope and manage our projects.
