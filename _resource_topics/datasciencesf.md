@@ -4,6 +4,13 @@ description: Selection of resources used for managing DataScienceSF service and 
 tags:
 audiences:
 resources_list:
+  - name: DataScienceSF BrownBag and Pitch Deck
+    description: Template powerpoint deck we use to pitch our service in multiple forums.
+    post_date: 2017-11-07 00:00:00
+    resource_type: Document
+    links:
+      - link: 'https://drive.google.com/open?id=1JyKqhYBXMltjBzxB3DcZNf3HnWWEWMDA'
+        media_type: Word
   - name: 'Template: DataScienceSF Project Charter'
     description: >-
       Our default project charter used for all of our data science projects.
@@ -40,13 +47,6 @@ resources_list:
     resource_type: Document
     links:
       - link: 'https://drive.google.com/open?id=0B6av1JsL3xAnenFlakhVTFRVa2s'
-        media_type: Word
-  - name: DataScienceSF BrownBag and Pitch Deck
-    description: Template powerpoint deck we use to pitch our service in multiple forums.
-    post_date: 2017-11-07 00:00:00
-    resource_type: Document
-    links:
-      - link: 'https://drive.google.com/open?id=1JyKqhYBXMltjBzxB3DcZNf3HnWWEWMDA'
         media_type: Word
 ---
 
