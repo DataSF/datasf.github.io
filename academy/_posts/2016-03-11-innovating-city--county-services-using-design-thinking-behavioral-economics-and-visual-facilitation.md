@@ -1,8 +1,13 @@
 ---
 category: academy
-title: How To Make Better Decisions Using Design Thinking and Behavioral Economics
+title: >-
+  Innovating City & County Services Using Design Thinking, Behavioral Economics
+  and Visual Facilitation
 course_short_name: Making Better Decisions
-description: Ever wanted to use design thinking to create more effective project outcomes? Plan to have fun practicing these techniques and then commit to trying to apply what youíve learned to one or more of your projects in 24 hours.
+description: >-
+  Ever wanted to use design thinking to create more effective project outcomes?
+  Plan to have fun practicing these techniques and then commit to trying to
+  apply what youíve learned to one or more of your projects in 24 hours.
 prerequisites: None
 length: 2.5
 series:
@@ -11,7 +16,8 @@ subjects:
 team_members:
   - marc-hebert
 order: 0
-course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9bUx5MFpOT0hsV3c&usp=sharing'
+course_materials_link: >-
+  https://drive.google.com/folderview?id=0BwRgeGq-b8f9bUx5MFpOT0hsV3c&usp=sharing
 ---
 
 
