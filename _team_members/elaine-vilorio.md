@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/elaine-cropped.jpg
+headshot_image_path: /uploads/elaine-cropped-1.jpg
 instructor: true
 ---
 
