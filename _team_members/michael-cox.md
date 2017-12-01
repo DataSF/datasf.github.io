@@ -1,6 +1,6 @@
 ---
 name: Michael Cox
-work_title: San Francisco Fellow
+work_title: 'San Francisco Fellow, MTA'
 email:
 bio:
 gravatar:
