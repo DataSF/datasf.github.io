@@ -1,6 +1,6 @@
 ---
 title: >-
-  Introducing DataSF's Open Data Publishing Toolkit: an "Operating Manual" for
+  Introducing DataSF's Open Data Publishing Toolkit: an "operating manual" for
   open data
 author: jason_lally
 image:
@@ -14,8 +14,12 @@ image:
     author_link:
     license:
     license_link:
-description:
-date:
+description: >-
+  The Open Data Publishing Toolkit is our approach to sharing and documenting
+  our operations. We've learned a lot along the way, and will learn more. We
+  wrote this for us, but hope it's helpful for future generations of open data
+  programs.
+date: 2017-12-06 00:00:00
 categories:
   - blog
 ---
@@ -43,7 +47,7 @@ We opted for an integration approach rather than waiting for one magical system 
 
 We work with 52 data coordinators across highly variable IT environments. It is impossible to design the "perfect" system. But what you can do is listen to the users of your systems and iterate.
 
-For example, our initial publishing intake was in an Excel workbook. It was our best effort to design something useful without a lot of investment. It had macros and automated "all the things." And it worked...kind of. We learned a lot and lifted what we learned into an online form that now serves as our intake for publishing.
+For example, our initial publishing intake was in an Excel workbook. It was our best effort to design something useful without a lot of investment. It had macros and automated "all the things." And it worked…kind of. We learned a lot and lifted what we learned into an online form that now serves as our intake for publishing.
 
 ## Reduce duplication of effort.
 
