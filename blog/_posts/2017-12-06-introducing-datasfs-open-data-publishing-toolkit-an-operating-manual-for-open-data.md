@@ -59,4 +59,4 @@ You can think about scale in many different ways. In this context, we attempt to
 
 ## Continuously evaluate and improve.
 
-Operating across all of this is a process of continuous improvement. In practical terms that means collecting data that helps you make decisions and trade-offs. As we've built up our processes, we've tried to capture data in ways that will allow us to make smarter decisions about where to optimize. And even that is a continuous process.
+Operating across everything is a process of continuous improvement. In practical terms that means collecting data that helps you make decisions and trade-offs. As we've built up our processes, we've tried to capture data in ways that will allow us to make smarter decisions about where to optimize. And even that is a continuous process.
