@@ -4,9 +4,12 @@ title: >-
   open data
 author: jason_lally
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: /publishing-toolkit/trello.png
+  feature: /publishing-toolkit/trello.png
+  caption: >-
+    We use loosely coupled tools to help us manage the publishing process.
+    Trello is used to move datasets through process for example and data is
+    captured automatically as cards switch.
   source:
     title:
     author:
