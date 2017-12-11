@@ -6,7 +6,7 @@ bio:
 gravatar:
 twitter:
 headshot_image_path: /uploads/anne-jenkins.jpg
-instructor: true
+instructor: "Yes"
 ---
 
 

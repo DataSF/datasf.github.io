@@ -6,7 +6,7 @@ bio:
 gravatar:
 twitter:
 headshot_image_path: /uploads/samuelthomas-11.jpg
-instructor: true
+instructor: "Yes"
 ---
 
 

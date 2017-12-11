@@ -6,7 +6,7 @@ bio: 'Chief Data Officer, City and County of San Francisco'
 gravatar: 8614bd4a1d6f6c24c0f6b08a2b9c0335
 twitter: datasf
 headshot_image_path: /uploads/joy-bonaguro.jpg
-instructor: true
+instructor: "Yes"
 ---
 
 

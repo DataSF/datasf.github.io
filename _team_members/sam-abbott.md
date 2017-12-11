@@ -2,11 +2,11 @@
 name: Sam Abbott
 work_title: Data Academy Alumnus
 email:
-bio:
-gravatar:
+bio: Performance Analyst
+gravatar: 84d3934d65fd0d0ead82de7a4ed5a35e
 twitter:
 headshot_image_path: /uploads/samuel-abbott.jpg
-instructor: true
+instructor: "Alum"
 ---
 
 

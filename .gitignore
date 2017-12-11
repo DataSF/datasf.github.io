@@ -2,3 +2,14 @@ _site/
 .sass-cache/
 .c9/
 _stash/
+.jekyll-metadata
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

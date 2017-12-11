@@ -18,7 +18,7 @@ categories:
 ---
 
 
-Today we are excited to launch the [Open Data Release Toolkit](https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA) to help you manage the release of sensitive or protected datasets on the open data portal.
+Today we are excited to launch the [Open Data Release Toolkit](https://datasf.org/resources/open-data-release-toolkit/) to help you manage the release of sensitive or protected datasets on the open data portal.
 
 ## Challenge: following the letter of the law is not enough
 
@@ -40,9 +40,9 @@ Like a vigilant tourist who purchases the best money-belt on the market before a
 * the likelihood of re-identification. &nbsp;
 
 
-Sound tricky? It is. Especially when you pile on top ever-evolving data analysis and re-identification techniques. That is why we created this handy [Toolkit](https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA)! To provide practical, clear guidance for government employees considering publication of sensitive or protected raw data.
+Sound tricky? It is. Especially when you pile on top ever-evolving data analysis and re-identification techniques. That is why we created this handy [Toolkit](https://datasf.org/resources/open-data-release-toolkit/)! To provide practical, clear guidance for government employees considering publication of sensitive or protected raw data.
 
-The [Open Data Release Toolkit](https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA) will guide you through a step-by-step process to:
+The [Open Data Release Toolkit](https://datasf.org/resources/open-data-release-toolkit/) will guide you through a step-by-step process to:
 
 1. Identify sensitive or protected raw data,
 2. Perform a risk assessment regarding the identifiability of the data,
@@ -50,12 +50,12 @@ The [Open Data Release Toolkit](https://drive.google.com/open?id=0B0jc1tmJAlTcR0
 4. Perform a risk assessment regarding the accessibility of the de-identified data.
 
 
-The [Open Data Release Form](https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA) included in the [Toolkit](https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA) is also meant to serve as a way to facilitate and document the decision-making process.
+The [Open Data Release Form](https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA) included in the [Toolkit](https://datasf.org/resources/open-data-release-toolkit/) is also meant to serve as a way to facilitate and document the decision-making process.
 
 ## Remember - risk can be managed, but it will not be zero
 
-We can never have absolute certainty (i.e. zero risk) that successful re-identification will not occur. Techniques for re-identification continually evolve, often faster than security measures intended to protect data. While re-identification risk will never be 0%, it can be reduced and managed. Acknowledging the supposed failures of “perfect anonymization”, the [Open Data Release Toolkit](https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA) moves forward by setting out a decision-making process to publish valuable information while managing risk of re-identification and sensitive attribute disclosure in a thoughtful way.
+We can never have absolute certainty (i.e. zero risk) that successful re-identification will not occur. Techniques for re-identification continually evolve, often faster than security measures intended to protect data. While re-identification risk will never be 0%, it can be reduced and managed. Acknowledging the supposed failures of “perfect anonymization”, the [Open Data Release Toolkit](https://datasf.org/resources/open-data-release-toolkit/) moves forward by setting out a decision-making process to publish valuable information while managing risk of re-identification and sensitive attribute disclosure in a thoughtful way.
 
-A huge thanks to the authors and partners mentioned in the Acknowledgements and Resources section of the [Toolkit](https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA), from whom we learned a great deal. Even with this learning, we know the field is evolving and we do not have all the answers. We are keeping our eyes on the recent draft from NIST on&nbsp;[De-Identifying Government Datasets](http://csrc.nist.gov/publications/drafts/800-188/sp800_188_draft.pdf), and we welcome any feedback!
+A huge thanks to the authors and partners mentioned in the Acknowledgements and Resources section of the [detailed guide](https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA), from whom we learned a great deal. Even with this learning, we know the field is evolving and we do not have all the answers. We are keeping our eyes on the recent draft from NIST on&nbsp;[De-Identifying Government Datasets](http://csrc.nist.gov/publications/drafts/800-188/sp800_188_draft.pdf), and we welcome any feedback!
 
-Check out the&nbsp;[Open Data Release Toolkit](https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA)!
+Check out the&nbsp;[Open Data Release Toolkit](https://datasf.org/resources/open-data-release-toolkit/)!

@@ -38,22 +38,6 @@ $(function() {
   }
 
   $('[data-toggle="tooltip"]').tooltip();
-
-  $('button.ext-sf-opendata').on('click', function(ev) {
-    ga('send', 'event', 'Catalog', 'Search', $('#search-catalog .search-input').val(), 1);
-  });
-
-  $('a.ext-sf-opendata').on('click', function(ev) {
-    ga('send', 'event', 'Catalog', 'Click Link', 'From ' + window.location.pathname, 1)
-  });
-
-  $('a.take-survey').on('click', function(ev) {
-    ga('send', 'event', 'Take Survey', 'Click', 'Link', 1)
-  });
-
-  $('a.download').on('click', function(ev) {
-    ga('send', 'event', 'Download', $(ev.target).data('download-type'), $(ev.target).parent().data('download-name'), 1)
-  });
   
   // Set up custom validators to check for gov domains
   jQuery.validator.addMethod("matchGov", function(value, element) {
