@@ -36,6 +36,8 @@ defaults:
     values:
       sitemap: false
       layout: "team-member"
+      _comments:
+        instructor: To indicate whether a Data Academy instructor, select either Yes, No or Alum (if former instructor)
   -
     scope:
       type: "resource_topics"
@@ -118,6 +120,11 @@ subjects:
   - Excel
   - Tableau
   - Process Improvement
+
+instructor:
+  - Yes
+  - No
+  - Alum
  
 series:
   - Excel

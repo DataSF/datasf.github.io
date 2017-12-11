@@ -6,7 +6,7 @@ bio:
 gravatar:
 twitter:
 headshot_image_path: /uploads/debra-bio-pic.png
-instructor: true
+instructor: "Yes"
 ---
 
 

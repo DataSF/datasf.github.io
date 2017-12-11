@@ -6,7 +6,7 @@ bio:
 gravatar:
 twitter:
 headshot_image_path:
-instructor: false
+instructor: No
 ---
 
 
