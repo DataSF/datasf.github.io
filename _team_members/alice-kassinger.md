@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/alice-headshot-omf-1.JPG
+headshot_image_path: /uploads/alice-data-academy-headshot-1.jpg
 instructor: 'Yes'
 ---
 
