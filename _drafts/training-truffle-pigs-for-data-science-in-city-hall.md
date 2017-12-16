@@ -2,9 +2,9 @@
 title: Training Truffle Pigs for Data Science in City Hall
 author: joy-bonaguro
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: /truffle-pig/pig.png
+  feature: /truffle-pig/pig.png
+  caption: oink!
   source:
     title:
     author:
