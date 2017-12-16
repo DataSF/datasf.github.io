@@ -13,7 +13,7 @@ image:
     license:
     license_link:
 description: Rooting out good data science projects
-date:
+date: 2017-12-14 00:00:00
 categories:
   - blog
 ---
