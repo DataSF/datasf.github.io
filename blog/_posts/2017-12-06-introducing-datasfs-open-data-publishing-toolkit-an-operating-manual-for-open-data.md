@@ -20,7 +20,7 @@ image:
 description: >-
   The Open Data Publishing Toolkit is our approach to sharing and documenting
   our operations. We've learned a lot along the way, and will learn more. We
-  wrote this for us, but hope it's helpful for future generations of open data
+  wrote this for us, but hope it's helpful for other open data
   programs.
 date: 2017-12-06 00:00:00
 categories:
