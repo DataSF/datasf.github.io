@@ -83,4 +83,4 @@ We'll also try to capture additional impact via:
  - Focus groups or workshops
  - Counts of apps or websites "Made with Open Data" as part of our new showcase. This may include some basic impact questions like "how important was open data to creating your service".
 
-Read our entire [Evaluation and Performance Plan for Open Data](https://docs.google.com/document/d/1wvrSviKN8mYtxVVYCw7WohoujJjSFvSkY_Tj3ku8UMU/edit?usp=sharing), which provides details on our approach, including desired trends, etc. Drop us a note if you think we are missing something key!
+Read our entire [Evaluation and Performance Plan for Open Data](https://datasf.org/resources/open-data-metrics/), which provides details on our approach, including desired trends, etc. Drop us a note if you think we are missing something key!
