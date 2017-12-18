@@ -11,7 +11,7 @@ One of the most frequent questions I get about open data is - why? Most folks un
 
 And to be perfectly fair - very few folks have measured the impact of open data. Since we love being data-driven, we decided to attempt measuring open data. This blog post summarizes what we’re doing and we want to hear your thoughts and feedback so we can learn together.
 
-Learn more below or dive into [DataSF in Progress](http://datasf.org/progress/) - where you can track our metrics in real time! Or read our evaluation and performance plan here: https://docs.google.com/document/d/1wvrSviKN8mYtxVVYCw7WohoujJjSFvSkY_Tj3ku8UMU/edit?usp=sharing.
+Learn more below or dive into [DataSF in Progress](http://datasf.org/progress/) - where you can track our metrics in real time! Or read our [evaluation and performance plan here](https://datasf.org/resources/open-data-metrics/).
 
 ## Number of datasets is a bad success measure
 
