@@ -19,8 +19,7 @@ resources_list:
     post_date: 2017-04-25 00:00:00
     resource_type: One Pager
     links:
-      - link: >-
-          https://drive.google.com/file/d/0B-65Qm9J0m0Wa1VIenczS3ZHRjA/view?usp=sharing
+      - link: 'https://drive.google.com/open?id=0B6av1JsL3xAncE5NUFZZMjVvRnc'
         media_type: PDF
   - name: 'Research Review: Open Data Evaluation Framework'
     description: >-
