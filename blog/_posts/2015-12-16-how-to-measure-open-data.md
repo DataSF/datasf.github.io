@@ -11,7 +11,7 @@ One of the most frequent questions I get about open data is - why? Most folks un
 
 And to be perfectly fair - very few folks have measured the impact of open data. Since we love being data-driven, we decided to attempt measuring open data. This blog post summarizes what we’re doing and we want to hear your thoughts and feedback so we can learn together.
 
-Learn more below or dive into [DataSF in Progress](http://datasf.org/progress/) - where you can track our metrics in real time! Or read our [evaluation and performance plan here](https://datasf.org/resources/open-data-metrics/).
+Learn more below or dive into [DataSF in Progress](http://datasf.org/progress/) - where you can track our metrics in real time! Or read our [evaluation and performance plan available here](https://datasf.org/resources/open-data-metrics/).
 
 ## Number of datasets is a bad success measure
 
@@ -21,7 +21,7 @@ Early on, it became clear - we cannot measure open data by counting the number o
  - **It diverts focus from quality.** Publishing to increase your N distracts from ensuring high quality publishing - data that is documented, updated regularly and of value.
 
 ## Limited guidance and a focus on case studies
-Our [research review](https://docs.google.com/document/d/1pEKAkSVPgr2-HMUoYcQe-jFD3wViEk_DzalCQp4bxUA/edit?usp=sharing) revealed that there was not a bunch of guidance on how to measure open data and many of the benefits to open data relied on example case studies. Case studies are important but hard to quantify. 
+Our [research review](https://drive.google.com/open?id=1HH-zjZep36L-hBf39RQm5D5KNGOjt7opM-9_bum4AAo) revealed that there was not a bunch of guidance on how to measure open data and many of the benefits to open data relied on example case studies. Case studies are important but hard to quantify. 
 
 One of the most frequently cited estimates of the impact of open data is a [2013 McKinsey report](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information) that estimates open data will create $3-5 trillion in value. Unfortunately, the report doesn’t offer a methodology that can be replicated.
 
@@ -38,7 +38,7 @@ Our logic model provides a framework for linking our activities to the ultimate 
 
 These are lofty outcomes - how do we relate the Open Data program to them? Our logic model provides the theoretical linkages (though we haven’t figured out a good way to measure them).
 
-[View the full logic model](https://drive.google.com/file/d/0B-65Qm9J0m0Wa1VIenczS3ZHRjA/view?usp=sharing).
+[View the full logic model](https://drive.google.com/open?id=0B6av1JsL3xAncE5NUFZZMjVvRnc).
 
 ### Measures for Activity, Quality and Impact
 Since our ultimate outcomes are hard to track, we rely on a variety of indirect measures - starting from how much we publish to what’s being done with it. Our metrics fall into 3 groups:
@@ -83,4 +83,4 @@ We'll also try to capture additional impact via:
  - Focus groups or workshops
  - Counts of apps or websites "Made with Open Data" as part of our new showcase. This may include some basic impact questions like "how important was open data to creating your service".
 
-Read our entire [Evaluation and Performance Plan for Open Data](https://datasf.org/resources/open-data-metrics/), which provides details on our approach, including desired trends, etc. Drop us a note if you think we are missing something key!
+Read our entire [Evaluation and Performance Plan for Open Data](https://drive.google.com/open?id=1O_M0m35ydqLyYb4YLr35YiJPPcCUnm68g-gu6-hQJvc), which provides details on our approach, including desired trends, etc. Drop us a note if you think we are missing something key!
