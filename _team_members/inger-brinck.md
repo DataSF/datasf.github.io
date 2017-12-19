@@ -6,7 +6,7 @@ bio:
 gravatar:
 twitter:
 headshot_image_path: /uploads/inger-brinck-resized.jpg
-instructor: true
+instructor: Alum
 ---
 
 

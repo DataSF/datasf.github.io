@@ -6,7 +6,7 @@ bio:
 gravatar:
 twitter:
 headshot_image_path: /uploads/bridgette-lery.jpg
-instructor: true
+instructor: "Yes"
 ---
 
 
