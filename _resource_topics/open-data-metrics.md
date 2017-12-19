@@ -30,7 +30,7 @@ resources_list:
     resource_type: Document
     links:
       - link: >-
-          https://docs.google.com/document/d/1wvrSviKN8mYtxVVYCw7WohoujJjSFvSkY_Tj3ku8UMU/edit?usp=sharing
+          https://drive.google.com/open?id=1HH-zjZep36L-hBf39RQm5D5KNGOjt7opM-9_bum4AAo
         media_type: Google Doc
 ---
 
