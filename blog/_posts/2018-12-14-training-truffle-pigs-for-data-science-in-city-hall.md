@@ -13,7 +13,7 @@ image:
     license:
     license_link:
 description: Rooting out good data science projects
-date: 2017-12-14 00:00:00
+date: 2018-12-14 00:00:00
 categories:
   - blog
 published: false
@@ -22,7 +22,7 @@ published: false
 
 ## Finding the perfect project is easy? Hogwash
 
-Data science is a powerful tool that can accelerate the work of local governments and data scientists are beating at our door to work on projects with high impacts (optimizing a marketing algorithm gets boring after a bit). But, the biggest barrier to more data science in government is identifying good questions.&nbsp;
+Data science is a powerful tool that can accelerate the work of local governments and data scientists are beating at our door to work on projects with high impacts (optimizing a marketing algorithm gets boring after a bit). But, the biggest barrier to more data science in government is identifying good questions.
 
 In both New Orleans and San Francisco, we needed to transition from one-off, ad-hoc projects towards sustainable analytics programs that advance our respective mayors’ most important priorities.
 
