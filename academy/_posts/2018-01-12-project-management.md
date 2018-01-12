@@ -1,10 +1,9 @@
 ---
 title: Project Management
 description: >-
-  This course will cover fundamental concepts in in project management and is
-  meant for a beginner’s audience. It will focus on the use of project
-  management tools for improved day-to-day management of and contribution to
-  City projects.
+  This course will cover fundamental concepts in project management and is meant
+  for a beginner’s audience. It will focus on the use of project management
+  tools for improved day-to-day management of and contribution to City projects.
 prerequisites: None.
 length: 3 hours
 subjects:
@@ -23,7 +22,7 @@ categories:
 
 ## About this course
 
-This course will cover fundamental concepts in in project management and is meant for a beginner’s audience. It will focus on the use of project management tools for improved day-to-day management of and contribution to City projects. Special focus will be given to the application these concepts to participants’ existing workplace experience. The course will use specific examples drawn from City services and operations. Individuals who would benefit from this course will be primarily analysts who are interested in building their management knowledge base.
+This course will cover fundamental concepts in project management and is meant for a beginner’s audience. It will focus on the use of project management tools for improved day-to-day management of and contribution to City projects. Special focus will be given to the application these concepts to participants’ existing workplace experience. The course will use specific examples drawn from City services and operations. Individuals who would benefit from this course will be primarily analysts who are interested in building their management knowledge base.
 
 ## What you'll learn in this course
 
@@ -46,4 +45,4 @@ Learning Objectives:
 * Participants can explain the relationship between scope, schedule, and budget
 * Participants can develop a project plan
 * Participants can “chunk” a problem that is presented to them
-* Participants understand PMOs and how they function<br>
+* Participants understand PMOs and how they function
