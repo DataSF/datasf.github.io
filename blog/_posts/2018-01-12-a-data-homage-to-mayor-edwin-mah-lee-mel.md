@@ -51,7 +51,7 @@ The map below shows the 25 neighborhood commercial corridors that received custo
 Under Mayor Lee, San Francisco was the first city in the nation to be given a perfect park access score from The Trust for Public Land’s ParkScore. The City’s rich store of recreation locations mean every resident isn’t more than 10 minutes from a park.
 
 <div>
-    <iframe width="760px" title="Parks Map" height="646px" src="https://data.sfgov.org/w/pz9b-tj7y/ikek-yizv?cur=lkue_SIsEmW&from=root" frameborder="0"scrolling="no"><a href="https://data.sfgov.org/Culture-and-Recreation/Parks-Map/pz9b-tj7y" title="Parks Map" target="_blank">Parks Map</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
+    <iframe width="760px" title="Parks Map" height="646px" src="https://data.sfgov.org/w/pz9b-tj7y/ikek-yizv?cur=lkue_SIsEmW&from=root" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ## Xx new miles of bike lanes
