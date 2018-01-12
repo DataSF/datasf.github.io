@@ -1,9 +1,6 @@
 ---
 title: Project Management
-description: >-
-  This course will cover fundamental concepts in project management and is meant
-  for a beginner’s audience. It will focus on the use of project management
-  tools for improved day-to-day management of and contribution to City projects.
+description: "This course will cover fundamental concepts in project management and is meant for a beginner\_audience. It will focus on the use of project management tools for improved day-to-day management of and contribution to City projects."
 prerequisites: None.
 length: 3 hours
 subjects:
@@ -22,7 +19,7 @@ categories:
 
 ## About this course
 
-This course will cover fundamental concepts in project management and is meant for a beginner’s audience. It will focus on the use of project management tools for improved day-to-day management of and contribution to City projects. Special focus will be given to the application these concepts to participants’ existing workplace experience. The course will use specific examples drawn from City services and operations. Individuals who would benefit from this course will be primarily analysts who are interested in building their management knowledge base.
+This course will cover fundamental concepts in project management and is meant for a beginner audience. It will focus on the use of project management tools for improved day-to-day management of and contribution to City projects. Special focus will be given to the application these concepts to participants’ existing workplace experience. The course will use specific examples drawn from City services and operations. Individuals who would benefit from this course will be primarily analysts who are interested in building their management knowledge base.
 
 ## What you'll learn in this course
 
@@ -33,7 +30,7 @@ Subject matter will include the following:
 * Relationship between portfolios, programs, and projects
 * Project process groups
 * Basics: Charters, Scope, Plan, Schedule, Stakeholders, Team
-* The trifecta: Scope, Schedule, Budget
+* The Trifecta: Scope, Schedule, Budget
 * Chunking, Leads and Lags, Critical Path
 * Agile v. Waterfall
 * PMOs explained
