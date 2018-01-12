@@ -50,13 +50,17 @@ The map below shows the 25 neighborhood commercial corridors that received custo
 
 Under Mayor Lee, San Francisco was the first city in the nation to be given a perfect park access score from The Trust for Public Land’s ParkScore. The City’s rich store of recreation locations mean every resident isn’t more than 10 minutes from a park.
 
-<div><iframe width="760px" title="Parks Map" height="646px" src="https://data.sfgov.org/w/pz9b-tj7y/ikek-yizv?cur=3DWs4RP8eQD&from=root" frameborder="0"scrolling="no"><a href="https://data.sfgov.org/Culture-and-Recreation/Parks-Map/pz9b-tj7y" title="Parks Map" target="_blank">Parks Map</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+<div>
+    <iframe width="760px" title="Parks Map" height="646px" src="https://data.sfgov.org/w/pz9b-tj7y/ikek-yizv?cur=3DWs4RP8eQD&from=root" frameborder="0"scrolling="no"><a href="https://data.sfgov.org/Culture-and-Recreation/Parks-Map/pz9b-tj7y" title="Parks Map" target="_blank">Parks Map</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
+</div>
 
 ## Xx new miles of bike lanes
 
 Since the Mayor took office, bikers have had more places to roam with the addition of xxx new miles of bike lanes throughout the City.
 
-<div><iframe width="760px" title="SFMTA Bikeway Network" height="646px" src="https://data.sfgov.org/w/aupf-nbjc/ikek-yizv?cur=vnAbvgBVadr&from=root" frameborder="0"scrolling="no"><a href="https://data.sfgov.org/Transportation/SFMTA-Bikeway-Network/aupf-nbjc" title="SFMTA Bikeway Network" target="_blank">SFMTA Bikeway Network</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+<div>
+    <iframe width="760px" title="SFMTA Bikeway Network" height="646px" src="https://data.sfgov.org/w/aupf-nbjc/ikek-yizv?cur=vnAbvgBVadr&from=root" frameborder="0"scrolling="no"><a href="https://data.sfgov.org/Transportation/SFMTA-Bikeway-Network/aupf-nbjc" title="SFMTA Bikeway Network" target="_blank">SFMTA Bikeway Network</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
+</div>
 
 ## 283 new open datasets published in the last four years
 
