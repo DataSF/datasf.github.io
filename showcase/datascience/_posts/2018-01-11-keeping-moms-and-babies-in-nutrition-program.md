@@ -1,16 +1,16 @@
 ---
 title: Keeping Moms and Babies in Nutrition Program
-background_image_path: /uploads/bulbs.jpg
+background_image_path: /uploads/k-174-chim-3560-3.jpg
 card_image_path: /uploads/bulbs.jpg
 resources:
   - name: Powerpoint Presentation
-    url: https://datasf.org
+    url: 'https://datasf.org'
   - name: GitHub Repo
-    url: https://datasf.org
+    url: 'https://datasf.org'
 ---
 
-Have you ever been hangry (so hungry, you find yourself angry)? If you’ve ever experienced hangriness, you know firsthand the importance of food and nutrition for health and well-being. Now imagine if you are a pregnant mother or a newborn: proper 
-nutrition is essential.  
+
+Have you ever been hangry (so hungry, you find yourself angry)? If you’ve ever experienced hangriness, you know firsthand the importance of food and nutrition for health and well-being. Now imagine if you are a pregnant mother or a newborn: proper nutrition is essential.
 
 That’s why the San Francisco’s Women, Infants and Children nutrition program (WIC) provides not only nutritious foods, but also nutrition education, breastfeeding support, and referrals to health care and community services for thousands of low-income families.
 
@@ -28,8 +28,7 @@ Use of WIC is associated with many beneficial outcomes, including improving scho
 
 WIC noticed that retention rates have been falling since 2011. Women who start on WIC, are staying on it for less time. Only 28% of those who start the program, stay on it through the child turning age 5, the end of the program.
 
-One explanation could be that the economic recovery meant that less people were eligible or needed the program. But the department had already determined that the size of the eligible population well exceeded who they were serving.
-If eligibility was not an issue, what else could be driving the drop off?
+One explanation could be that the economic recovery meant that less people were eligible or needed the program. But the department had already determined that the size of the eligible population well exceeded who they were serving.If eligibility was not an issue, what else could be driving the drop off?
 
 They had a few hypotheses: since WIC is a federal program, there are many rules and regulations for maintaining eligibility. Moms have to come in for recertification appointments and are required to participate in certain forms of counseling. These types of program rules can turn off mothers or be too inconvenient.
 
@@ -52,5 +51,3 @@ As already noted, the analytical insights led to more questions. We knew from th
 We handed off the quantitative analysis to a pro-bono team from Google that conducted a range of interviews, observations and other qualitative research that focused on the groups identified in our analysis. For example, they did indeed identify stigma as being an issue for English speakers.
 
 WIC is now using the major insights to reshape their outreach and program messaging, including a campaign to reduce stigma associations. There is also a plan to use the analysis to highlight to physicians the benefits of targeted referrals early in pregnancy. This analysis is also feeding into a larger citywide discussion about food insecurity in San Francisco and WIC’s role in helping to eliminate food insecurity.
-
-
