@@ -90,7 +90,8 @@ _options:
     width: 1366
     resize_style: "cover"
   card_image_path:
-    width: 400
+    width: 310
+    height: 150
     resize_style: "cover"
       
 # Site settings
