@@ -816,13 +816,13 @@ a:active {
   body.has-subnav {
     margin-top: 122px;
   }
-  body article a:target:before {
+  body article a.footnote:before {
     content:"";
     display:inline-block;
     height:82px; /* fixed header height*/
     margin:-82px 0 0; /* negative fixed header height */
   }
-  body.has-subnav article a:target:before {
+  body.has-subnav article a.footnote:before {
     content:"";
     display:inline-block;
     height:142px; /* fixed header height*/
