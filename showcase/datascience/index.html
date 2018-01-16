@@ -4,29 +4,13 @@ title: Data Science Showcase
 background_image_path: /uploads/academy.jpg
 index: showcase
 subnav: true
-blurb: >-
-  Showcasing the work of DataScienceSF, a service of DataSF. DataSF works with
-  departments on applied problem-solving with analytics resulting in a service
-  change.
+blurb: "Showcasing the work of DataScienceSF, a service of DataSF. DataSF works with departments on applied problem-solving with advanced analytics resulting in a service change."
 ---
 
 <section id="stories" class="bg-light-gray">
   <div class="container">
-    <div class="row">
-      {% for post in site.categories.datascience %}    
-      <div class="story-item story-item-horizontal col-md-4">
-        <div class="story-caption clearfix">
-          {% if post.card_image_path %}
-          <a href="{{site.baseurl}}{{post.url}}">
-            <div class="block-image pull-right" style="background-image:url({{post.card_image_path}});" alt="Image for article titled {{post.title}}; click to read"></div>
-          </a>
-          {% endif %}
-          <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
-          <p class="text-muted">{{ post.excerpt }}</p>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
+    {% assign sortedposts = site.categories.datascience | sort: 'title' %}
+    {% include stories-iterator-horizontal-simple.html posts=sortedposts %}
   </div>
 </section>
     

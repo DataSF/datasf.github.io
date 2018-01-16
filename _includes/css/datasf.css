@@ -86,6 +86,22 @@ body {
   }
 }
 
+.equal,.equal>div[class*='col-'] {
+  display: -webkit-flex;
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.equal:last-child, .equal:last-child>div[class*='col-'] {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .equal,.equal>div[class*='col-'] {
+    display:block;
+  }
+}
+
 body img {
   max-width: 100%;
   height: auto;
