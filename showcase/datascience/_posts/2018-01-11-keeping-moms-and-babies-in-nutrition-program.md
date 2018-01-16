@@ -1,7 +1,7 @@
 ---
 title: Keeping Moms and Babies in Nutrition Program
 background_image_path: /uploads/k-174-chim-3560-3.jpg
-card_image_path: /uploads/bulbs.jpg
+card_image_path: /uploads/k-174-chim-3560-3-1.jpg
 resources:
   - name: Powerpoint Presentation
     url: 'https://datasf.org'
