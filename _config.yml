@@ -89,6 +89,9 @@ _options:
   background_image_path:
     width: 1366
     resize_style: "cover"
+  card_image_path:
+    width: 400
+    resize_style: "cover"
       
 # Site settings
 title: DataSF
