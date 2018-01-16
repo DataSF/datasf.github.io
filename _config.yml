@@ -84,7 +84,11 @@ defaults:
       toc: true
       hidden: true
       subnav: true
-    
+
+_options:
+  background_image_path:
+    width: 1366
+    resize_style: "cover"
       
 # Site settings
 title: DataSF
