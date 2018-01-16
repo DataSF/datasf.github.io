@@ -82,7 +82,7 @@ body {
 
 @media (min-width: 768px) {
   .left-cover {
-    width: 45%;
+    width: 49%;
   }
 }
 
@@ -815,6 +815,18 @@ a:active {
   }
   body.has-subnav {
     margin-top: 122px;
+  }
+  body article a:target:before {
+    content:"";
+    display:inline-block;
+    height:82px; /* fixed header height*/
+    margin:-82px 0 0; /* negative fixed header height */
+  }
+  body.has-subnav article a:target:before {
+    content:"";
+    display:inline-block;
+    height:142px; /* fixed header height*/
+    margin:-142px 0 0; /* negative fixed header height */
   }
 }
 
@@ -2363,7 +2375,7 @@ OL LI OL {
   margin-left: 20px;
 }
 
-article span:before { content: ''; display: block; position: relative; width: 0; height: 120px; margin-top: -120px }
+article span:before { content: ''; display: block; position: relative; width: 0; height: 142px; margin-top: -142px }
 
 .fr_option{
   font-weight: normal;

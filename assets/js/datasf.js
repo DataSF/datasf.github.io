@@ -19,7 +19,7 @@ $(function() {
   if (typeof $.fn.toc == 'function') {
     $('#article-toc').toc({
       'container': '.article-body',
-      'scrollToOffset': 100,
+      'scrollToOffset': 122,
       'prefix': 'toc',
       'anchorName': function(i, heading, prefix) {
         return prefix + i;

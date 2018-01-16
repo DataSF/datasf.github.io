@@ -1,6 +1,7 @@
 ---
 title: Greening the City with Better Lighting
-background_image_path: /uploads/bulbs.jpg 
+background_image_path: /uploads/bulbs.jpg
+card_image_path: /uploads/bulbs.jpg
 resources:
   - name: Powerpoint Presentation
     url: https://datasf.org
