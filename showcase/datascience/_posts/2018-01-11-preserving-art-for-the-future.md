@@ -12,6 +12,8 @@ resources:
 
 Have you ever looked at a work of public art and wondered - will that always be here? Will it be around for future generations? The San Francisco Arts Commission asks the same question because their job is to ensure that the city’s Civic Art Collection is preserved for current and future residents and visitors.
 
+![](/uploads/versions/sculpture-palace-of-fine-arts-5---x----1920-1281x---.jpg)This is a caption
+
 But there’s something tricky about public art preservation: every single piece is unique.
 
 So how can you estimate the costs to preserve pieces that are by nature non-standard? Compare public art care to budgeting for roads and bridges. Infrastructure estimates can rely on a vast repository of historical and cross-jurisdictional maintenance costs, as well as careful modeling of material decay. Public art assets have historically been excluded from infrastructure analysis and therefore don’t have this rich discipline and data to draw on.
@@ -35,7 +37,7 @@ Other factors include historical sensitivity and the starting condition of the p
 
 ## What We Did: Revised cost formula and forecasting improves estimates and helps prioritize pieces
 
-Fortunately, the Arts Commission had already taken significant steps to pin down this tricky estimate. Using their expert knowledge of art preservation they had identified the core factors listed above, and had already developed the foundation of a formula to estimate the costs.  However, they lacked the expertise to capture the often tricky interactions among the factors.They needed DataScienceSF’s help to put those factors together in the right sequence, accommodate interaction effects, and add key elements like forecasting, frequency, and other multipliers, such as dynamic condition ratings.
+Fortunately, the Arts Commission had already taken significant steps to pin down this tricky estimate. Using their expert knowledge of art preservation they had identified the core factors listed above, and had already developed the foundation of a formula to estimate the costs. However, they lacked the expertise to capture the often tricky interactions among the factors.They needed DataScienceSF’s help to put those factors together in the right sequence, accommodate interaction effects, and add key elements like forecasting, frequency, and other multipliers, such as dynamic condition ratings.
 
 The original formula first took into account size and scale and then used a stability score (a function of material, microclimate, historical sensitivity and condition) to estimate costs. But the formula was leading to some strange cost estimates. For example, it was estimating the same costs to preserve a piece in good condition with mildly robust materials as a piece in very poor condition.
 
