@@ -1,7 +1,7 @@
 ---
 title: Preserving Art for the Future
 background_image_path: /uploads/sculpture-palace-of-fine-arts-2.jpg
-card_image_path: /uploads/bulbs.jpg
+card_image_path: /uploads/sculpture-palace-of-fine-arts-4.jpg
 resources:
   - name: Powerpoint Presentation
     url: 'https://datasf.org'
