@@ -2083,7 +2083,7 @@ figure.third:after {
 }
 
 p+figcaption {
-  margin-top: -20px;
+  margin-top: -10px;
 }
 
 figcaption {
