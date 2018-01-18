@@ -48,9 +48,9 @@ Three major insights emerged.
 2. **Moms who formula fed drop out at higher rates.** In contrast, breastfeeding moms stayed in the program longer. This also generated some hypotheses about the differences in preferences for formula feeding versus breastfeeding mothers.
 3. **Moms that engaged WIC intensively before birth, were more likely to stay on.** Moms who consecutively attended 4 plus sessions before giving birth, stuck with the program longer. This finding held regardless of when the mom had signed up (e.g. first trimester versus second). Did more intense use increase commitment or better demonstrate the program benefits to moms?
 
-![](/uploads/versions/wic-treediagram---x----830-523x---.PNG)
+![Diagram of tree model used to identify the most important factors that predicted drop outs.](/uploads/versions/wic-treediagram---x----830-523x---.PNG)
 
-<figcaption>Three factors in the tree model were especially insightful to the WIC team: feeding choice, prenatal engagement, and English speaking</figcaption>
+<figcaption>Using a tree model, we are able to predict with 83% accuracy who is most likely to drop out. Three factors in the tree model were especially insightful to the WIC team: feeding choice, prenatal engagement, and English speaking.</figcaption>
 
 ## Implementation: From quantitative insight to qualitative explanation to new outreach plans
 
