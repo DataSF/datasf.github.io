@@ -39,7 +39,7 @@ They had a few hypotheses: since WIC is a federal program, there are many rules 
 
 In addition, the paper check system can be cumbersome to use in line at the grocery store. The State of California will be moving to electronic payment cards (similar to debit cards) by 2020 but in the meantime, checks are the payment method.
 
-## What We Did: English speakers, formula feeders and lower rates of prenatal activity predict dropout
+## Analytics: English speakers, formula feeders and lower rates of prenatal activity predict dropout
 
 To tease out these hypotheses, DataScienceSF explored more than 6 years of WIC program data that included who joined when, various program interactions, checks issued and more. The dataset also included demographic details like race/ethnicity, preferred language and age of the mother.
 
