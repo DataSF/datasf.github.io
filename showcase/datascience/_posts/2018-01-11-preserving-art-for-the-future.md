@@ -41,7 +41,7 @@ Other factors include historical sensitivity and the starting condition of the p
 
 <figcaption>The lefthand image is Untitled, 2015 by Amy Ellingson, a 10 foot tall, 109 foot long, mosaic mural located at SFO terminal 3. On the right is Jugs on Jugs, 1960 by Robert Arneson, 27 inch tall glazed ceramic stoneware vase. These two pieces have different restoration needs based on material, location and size.</figcaption>
 
-## What We Did: Revised cost formula and forecasting improves estimates and helps prioritize pieces
+## Analytics: Revised cost formula and forecasting improves estimates and helps prioritize pieces
 
 Fortunately, the Arts Commission had already taken significant steps to pin down this tricky estimate. Using their expert knowledge of art preservation they had identified the core factors listed above, and had already developed the foundation of a formula to estimate the costs.
 
@@ -66,15 +66,3 @@ To make it as easy as possible to use, DataScienceSF built an Excel based tool t
 * Adjust assumptions built into the model
 
 They’ve already made changes to some of the starting assumptions and are hearing significant interest from other jurisdictions hoping to improve their planning process for public art!
-
-## Project Details: Team and Testimonial
-
-### Project Team
-
-The Arts Commission Team included:
-
-* Name, role
-* Name, role
-* Name, role
-
-### Testimonial
