@@ -28,7 +28,9 @@ Use of WIC is associated with many beneficial outcomes, including improving scho
 
 WIC noticed that retention rates have been falling since 2011. Women who start on WIC, are staying on it for less time. Only 28% of those who start the program, stay on it through the child turning age 5, the end of the program.
 
-![](/uploads/versions/wic-droppingretention---x----477-397x---.PNG)
+![Line chart showing decreasing retention rates (% still in program at 1 year of age) from 2011-2017](/uploads/versions/wic-droppingretention---x----477-397x---.PNG)
+
+<figcaption>Since 2011, fewer participants have stayed in the program at 1 year of age, resulting in a 16% drop in retention since 2011.</figcaption>
 
 One explanation could be that the economic recovery meant that less people were eligible or needed the program. But the department had already determined that the size of the eligible population well exceeded who they were serving.If eligibility was not an issue, what else could be driving the drop off?
 
@@ -46,7 +48,9 @@ Three major insights emerged.
 2. **Moms who formula fed drop out at higher rates.** In contrast, breastfeeding moms stayed in the program longer. This also generated some hypotheses about the differences in preferences for formula feeding versus breastfeeding mothers.
 3. **Moms that engaged WIC intensively before birth, were more likely to stay on.** Moms who consecutively attended 4 plus sessions before giving birth, stuck with the program longer. This finding held regardless of when the mom had signed up (e.g. first trimester versus second). Did more intense use increase commitment or better demonstrate the program benefits to moms?
 
-![](/uploads/versions/wic-language---x----665-544x---.PNG)
+![Bar chart showing percent of participants who drop out of program by langage preference (english, not english speaking) by race/ethnicity (Asian, Hispanic, Black / African American, White/Other).](/uploads/versions/wic-language---x----665-544x---.PNG)
+
+<figcaption>Our data modeling identifed that a language preference for English speaking is a major predictor that a mom was more likely to drop regardless of her race / ethnicity.</figcaption>
 
 ## Implementation: From quantitative insight to qualitative explanation to new outreach plans
 
