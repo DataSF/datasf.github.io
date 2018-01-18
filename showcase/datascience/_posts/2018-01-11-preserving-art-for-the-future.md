@@ -49,6 +49,8 @@ However, they lacked the expertise to capture the often tricky interactions amon
 
 The original formula first took into account size and scale and then used a stability score (a function of material, microclimate, historical sensitivity and condition) to estimate costs. But the formula was leading to some strange cost estimates. For example, it was estimating the same costs to preserve a piece in good condition with mildly robust materials as a piece in very poor condition.
 
+![](/uploads/versions/art-strangeestimates---x----1446-632x---.PNG)
+
 The revised formula also starts with size and scale, but then uses condition to generate an initial estimate. The estimate is then updated based on material sensitivity and a factor for frequency based on both microclimate and material sensitivity. The long-range projections then incorporate the treatment frequency schedule, interest, fixed costs and dynamic condition scores.
 
 ## Implementation: Easy tool generates updated forecasts with the push of a button
