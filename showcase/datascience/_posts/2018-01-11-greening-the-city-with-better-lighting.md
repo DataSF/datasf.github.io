@@ -20,7 +20,9 @@ Designed to consume less energy, lighting technology progressed with the mass-ma
 
 3 bulb technologies and captions on how evolved
 
-![](/uploads/versions/lights-1-3bulbs---x----753-324x---.PNG)
+![Light technology has changed from incandescents to compact florescents to LEDs](/uploads/versions/lights-1-3bulbs---x----753-324x---.PNG)
+
+<figcaption>Light technology has evolved over time - from incandescents to compact florescents to LEDs.</figcaption>
 
 With each advancement in improved lighting technology, the City and County of San Francisco (City) wants to do all it can to encourage lighting upgrades, Commercial property and business owners are great lighting upgrade candidates, and the City is available to provide technical assistance and incentives to help with project implementation and upfront costs.
 
