@@ -28,6 +28,8 @@ Use of WIC is associated with many beneficial outcomes, including improving scho
 
 WIC noticed that retention rates have been falling since 2011. Women who start on WIC, are staying on it for less time. Only 28% of those who start the program, stay on it through the child turning age 5, the end of the program.
 
+![](/uploads/versions/wic-droppingretention---x----477-397x---.PNG)
+
 One explanation could be that the economic recovery meant that less people were eligible or needed the program. But the department had already determined that the size of the eligible population well exceeded who they were serving.If eligibility was not an issue, what else could be driving the drop off?
 
 They had a few hypotheses: since WIC is a federal program, there are many rules and regulations for maintaining eligibility. Moms have to come in for recertification appointments and are required to participate in certain forms of counseling. These types of program rules can turn off mothers or be too inconvenient.
@@ -43,6 +45,8 @@ Three major insights emerged.
 1. **English speakers were much more likely to drop out regardless of their race/ethnicity.** For example, an English speaking Asian mother is 90% more likely to drop out than an Asian mother speaking non-English within the first year of birth. This immediately led to hypotheses that English speakers may be more aware of perceptions of stigma when using the program, e.g. when using paper checks.
 2. **Moms who formula fed drop out at higher rates.** In contrast, breastfeeding moms stayed in the program longer. This also generated some hypotheses about the differences in preferences for formula feeding versus breastfeeding mothers.
 3. **Moms that engaged WIC intensively before birth, were more likely to stay on.** Moms who consecutively attended 4 plus sessions before giving birth, stuck with the program longer. This finding held regardless of when the mom had signed up (e.g. first trimester versus second). Did more intense use increase commitment or better demonstrate the program benefits to moms?
+
+![](/uploads/versions/wic-language---x----665-544x---.PNG)
 
 ## Implementation: From quantitative insight to qualitative explanation to new outreach plans
 
