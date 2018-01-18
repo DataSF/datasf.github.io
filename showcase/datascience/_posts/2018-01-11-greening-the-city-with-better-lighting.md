@@ -41,7 +41,7 @@ SFE staffers had a challenge: they had helped most of the clients in their datab
 
 <figcaption>The number of projects and resulting energy savings from Energy Watch has been declining in recent years.</figcaption>
 
-## What We Did: Building permits can help identify new clients
+## Analytics: Building permits can help identify new clients
 
 DataScienceSF explored what made for good candidates (leads) for lighting upgrades in the past. One key finding was that applicants for building permits where more likely to take advantage of energy efficiency incentives: Completed upgrades were nearly 2 times as likely to have applied for permits within prior 5 years and nearly 3 times as likely to have applied within 1 year.
 
