@@ -48,9 +48,9 @@ Three major insights emerged.
 2. **Moms who formula fed drop out at higher rates.** In contrast, breastfeeding moms stayed in the program longer. This also generated some hypotheses about the differences in preferences for formula feeding versus breastfeeding mothers.
 3. **Moms that engaged WIC intensively before birth, were more likely to stay on.** Moms who consecutively attended 4 plus sessions before giving birth, stuck with the program longer. This finding held regardless of when the mom had signed up (e.g. first trimester versus second). Did more intense use increase commitment or better demonstrate the program benefits to moms?
 
-![Bar chart showing percent of participants who drop out of program by langage preference (english, not english speaking) by race/ethnicity (Asian, Hispanic, Black / African American, White/Other).](/uploads/versions/wic-language---x----665-544x---.PNG)
+![](/uploads/versions/wic-treediagram---x----830-523x---.PNG)
 
-<figcaption>Our data modeling identifed that a language preference for English speaking is a major predictor that a mom was more likely to drop regardless of her race / ethnicity.</figcaption>
+<figcaption>Three factors in the tree model were especially insightful to the WIC team: feeding choice, prenatal engagement, and English speaking</figcaption>
 
 ## Implementation: From quantitative insight to qualitative explanation to new outreach plans
 
