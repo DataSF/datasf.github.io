@@ -4,7 +4,8 @@ background_image_path: /uploads/bulbs.jpg
 card_image_path: /uploads/bulbs.jpg
 resources:
   - name: Powerpoint Presentation
-    url: 'https://datasf.org'
+    url: >-
+      http://heroic-meek.cloudvent.net/science/ENV-GreeningCityBetterLighting-Final.pdf
   - name: GitHub Repo
     url: 'https://datasf.org'
 ---
@@ -62,7 +63,7 @@ Based on the findings, DataScienceSF created a long list of potential leads. We 
 
 <figcaption>DataScienceSF was able to increase Energy Watch's list of potential multifamily leads by 1000%.</figcaption>
 
-This project prompted a new idea: combine this data with building energy consumption data from PG&amp;E to further refine SFE&rsquo;s outreach strategy. This approach will allow staff to develop comprehensive energy proposals - not just lighting - to target clients.
+This project prompted a new idea: combine this data with building energy consumption data from PG&E to further refine SFE’s outreach strategy. This approach will allow staff to develop comprehensive energy proposals - not just lighting - to target clients.
 
 ---
 
