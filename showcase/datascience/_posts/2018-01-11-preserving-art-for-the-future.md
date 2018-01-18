@@ -12,10 +12,6 @@ resources:
 
 Have you ever looked at a work of public art and wondered - will that always be here? Will it be around for future generations? The San Francisco Arts Commission asks the same question because their job is to ensure that the city’s Civic Art Collection is preserved for current and future residents and visitors.
 
-![Also remember to put a caption here for screen readers](/uploads/versions/sculpture-palace-of-fine-arts-5---x----1920-1281x---.jpg)
-
-<figcaption>This is a caption. Make sure it's separated by 2 carriage returns directly after the image.</figcaption>
-
 But there’s something tricky about public art preservation: every single piece is unique.
 
 So how can you estimate the costs to preserve pieces that are by nature non-standard? Compare public art care to budgeting for roads and bridges. Infrastructure estimates can rely on a vast repository of historical and cross-jurisdictional maintenance costs, as well as careful modeling of material decay. Public art assets have historically been excluded from infrastructure analysis and therefore don’t have this rich discipline and data to draw on.
