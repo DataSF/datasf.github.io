@@ -16,7 +16,9 @@ But if you own a commercial property or lease a commercial space, your strategy 
 
 For the first 100 years of electrical lighting, the incandescent bulb reigned supreme. While it provided needed light, it burns a lot of energy and releases excessive heat. In fact, the California Energy Commission officially prohibited the sale of incandescent bulbs in our State in January 2018.
 
-Designed to consume less energy, lighting technology progressed with the mass-market introduction of compact fluorescent lamps in 1995. However, as soon as they had their heyday, Light Emitting Diodes or LEDs came on the scene.![Light technology has changed from incandescents to compact florescents to LEDs](/uploads/versions/lights-1-3bulbs---x----753-324x---.PNG)
+Designed to consume less energy, lighting technology progressed with the mass-market introduction of compact fluorescent lamps in 1995. However, as soon as they had their heyday, Light Emitting Diodes or LEDs came on the scene.
+
+![Picture showing different lightbulbs: incandescents to compact florescents to LEDs](/uploads/versions/lights-1-3bulbs---x----753-324x---.PNG)
 
 <figcaption>Light technology has evolved over time - from incandescents to compact florescents to LEDs.</figcaption>
 
@@ -34,17 +36,17 @@ These energy incentives are part of the City’s wider goal to significantly red
 
 SFE staffers had a challenge: they had helped most of the clients in their database and suspected there may be additional properties that could benefit from the program. However, SFE first needed to know if they had saturated the market and if not, how best to generate new leads. SFE also wanted to understand if additional upgrade potential existed within their existing list of clients for different energy efficiency measure incentives.
 
-Something about declining uptake?
+![Graphs showingn that both the number of average monthly projects and average monthly energy savings have declined.](/uploads/versions/lights-2-declininguptake---x----935-289x---.PNG)
 
-![](/uploads/versions/lights-2-declininguptake---x----935-289x---.PNG)
+<figcaption>The number of projects and resulting energy savings from Energy Watch has been declining in recent years.</figcaption>
 
 ## What We Did: Building permits can help identify new clients
 
 DataScienceSF explored what made for good candidates (leads) for lighting upgrades in the past. One key finding was that applicants for building permits where more likely to take advantage of energy efficiency incentives: Completed upgrades were nearly 2 times as likely to have applied for permits within prior 5 years and nearly 3 times as likely to have applied within 1 year.
 
-![](/uploads/versions/lights-2-permits---x----1040-522x---.PNG)
+![Bar charts showing that buildings with completed projects are more likely to apply for an electrical or building permit within 1 or 5 years of doing a project.](/uploads/versions/lights-2-permits---x----1040-522x---.PNG)
 
-Completed retrofits were more likely to have applied for a building permit
+<figcaption>Buildings that had completed projects with Energy Watch were more likely to have applied for a building or electrical permit, suggesting that other permit applicants may be good leads.</figcaption>
 
 We also found that the majority of past projects focused on smaller buildings with smaller energy savings. Was there an opportunity for bigger energy savings?
 
@@ -54,9 +56,13 @@ Based on the findings, DataScienceSF created a long list of potential leads. We 
 
 This project prompted a new idea: combine this data with building energy consumption data from PG&E to further refine SFE’s outreach strategy. This approach will allow staff to develop comprehensive energy proposals - not just lighting - to target clients.
 
-![](/uploads/versions/lights-commercial-leads---x----890-405x---.PNG)
+![Two maps showing the distribution of commerical leads before and after the DataScienceSF project.](/uploads/versions/lights-commercial-leads---x----890-405x---.PNG)
 
-![](/uploads/versions/lights-mutlifamilyleads---x----890-406x---.PNG)
+<figcaption>DataScienceSF was able to increase Energy Watch's list of potential commercial leads by 250%.</figcaption>
+
+![Two maps showing the distribution of multifamily leads before and after the DataScienceSF project.](/uploads/versions/lights-mutlifamilyleads---x----890-406x---.PNG)
+
+<figcaption>DataScienceSF was able to increase Energy Watch's list of potential multifamily leads by 1000%.</figcaption>
 
 ---
 
