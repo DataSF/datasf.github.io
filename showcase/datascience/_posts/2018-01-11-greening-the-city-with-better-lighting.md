@@ -60,7 +60,9 @@ Based on the findings, DataScienceSF created a long list of potential leads. We 
 
 ![Two maps showing the distribution of multifamily leads before and after the DataScienceSF project.](/uploads/versions/lights-mutlifamilyleads---x----890-406x---.PNG)
 
-<figcaption><p>DataScienceSF was able to increase Energy Watch's list of potential multifamily leads by 1000%.</p><p>This project prompted a new idea: combine this data with building energy consumption data from PG&amp;E to further refine SFE&rsquo;s outreach strategy. This approach will allow staff to develop comprehensive energy proposals - not just lighting - to target clients.</p></figcaption>
+<figcaption>DataScienceSF was able to increase Energy Watch's list of potential multifamily leads by 1000%.</figcaption>
+
+This project prompted a new idea: combine this data with building energy consumption data from PG&amp;E to further refine SFE&rsquo;s outreach strategy. This approach will allow staff to develop comprehensive energy proposals - not just lighting - to target clients.
 
 ---
 
