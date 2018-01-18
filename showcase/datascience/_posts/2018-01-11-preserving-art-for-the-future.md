@@ -51,6 +51,8 @@ The original formula first took into account size and scale and then used a stab
 
 ![](/uploads/versions/art-strangeestimates---x----1446-632x---.PNG)
 
+<figcaption>The Arts Commission's current formula was leading to some strange estimates. For example, it estimated that it would cost the same to conserve a piece made of a robust material and in good condition as a piece made of fragile material and in poor condition.</figcaption>
+
 The revised formula also starts with size and scale, but then uses condition to generate an initial estimate. The estimate is then updated based on material sensitivity and a factor for frequency based on both microclimate and material sensitivity. The long-range projections then incorporate the treatment frequency schedule, interest, fixed costs and dynamic condition scores.
 
 ## Implementation: Easy tool generates updated forecasts with the push of a button
