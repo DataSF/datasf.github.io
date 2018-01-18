@@ -54,15 +54,13 @@ We also found that the majority of past projects focused on smaller buildings wi
 
 Based on the findings, DataScienceSF created a long list of potential leads. We combined data on property use, permitting activity, and energy consumption to help prioritize targets. The new list relied heavily on data already published through the open data portal. We then matched it with properties in SFE’s existing database to easily identify properties that already existed in the database.
 
-This project prompted a new idea: combine this data with building energy consumption data from PG&E to further refine SFE’s outreach strategy. This approach will allow staff to develop comprehensive energy proposals - not just lighting - to target clients.
-
 ![Two maps showing the distribution of commerical leads before and after the DataScienceSF project.](/uploads/versions/lights-commercial-leads---x----890-405x---.PNG)
 
 <figcaption>DataScienceSF was able to increase Energy Watch's list of potential commercial leads by 250%.</figcaption>
 
 ![Two maps showing the distribution of multifamily leads before and after the DataScienceSF project.](/uploads/versions/lights-mutlifamilyleads---x----890-406x---.PNG)
 
-<figcaption>DataScienceSF was able to increase Energy Watch's list of potential multifamily leads by 1000%.</figcaption>
+<figcaption><p>DataScienceSF was able to increase Energy Watch's list of potential multifamily leads by 1000%.</p><p>This project prompted a new idea: combine this data with building energy consumption data from PG&amp;E to further refine SFE&rsquo;s outreach strategy. This approach will allow staff to develop comprehensive energy proposals - not just lighting - to target clients.</p></figcaption>
 
 ---
 
