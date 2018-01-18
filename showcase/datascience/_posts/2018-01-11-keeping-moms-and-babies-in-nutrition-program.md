@@ -4,7 +4,8 @@ background_image_path: /uploads/k-174-chim-3560-3.jpg
 card_image_path: /uploads/k-174-chim-3560-3-1.jpg
 resources:
   - name: Powerpoint Presentation
-    url: 'https://datasf.org'
+    url: >-
+      http://heroic-meek.cloudvent.net/science/DPH-WIC-MomsBabiesNutrition-Final.pdf
   - name: GitHub Repo
     url: 'https://datasf.org'
 ---
