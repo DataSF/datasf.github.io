@@ -4,7 +4,7 @@ background_image_path: /uploads/sculpture-palace-of-fine-arts-2.jpg
 card_image_path: /uploads/sculpture-palace-of-fine-arts-4.jpg
 resources:
   - name: Powerpoint Presentation
-    url: 'https://datasf.org'
+    url: 'http://heroic-meek.cloudvent.net/science/ART-PreservingArtFuture-Final.pdf'
   - name: GitHub Repo
     url: 'https://datasf.org'
 ---
@@ -74,5 +74,3 @@ The Arts Commission Team included:
 * Name, role
 
 ### Testimonial
-
-&nbsp;
