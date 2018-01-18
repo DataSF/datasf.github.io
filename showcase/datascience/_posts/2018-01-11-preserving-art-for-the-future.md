@@ -12,13 +12,13 @@ resources:
 
 Have you ever looked at a work of public art and wondered - will that always be here? Will it be around for future generations? The San Francisco Arts Commission asks the same question because their job is to ensure that the city’s Civic Art Collection is preserved for current and future residents and visitors.
 
-But there’s something tricky about public art preservation: every single piece is unique.
+But there’s something tricky about public art preservation: every single piece is unique.So how can you estimate the costs to preserve pieces that are by nature non-standard?
 
-So how can you estimate the costs to preserve pieces that are by nature non-standard? Compare public art care to budgeting for roads and bridges. Infrastructure estimates can rely on a vast repository of historical and cross-jurisdictional maintenance costs, as well as careful modeling of material decay. Public art assets have historically been excluded from infrastructure analysis and therefore don’t have this rich discipline and data to draw on.
+Compare public art care to budgeting for roads and bridges. Infrastructure estimates can rely on a vast repository of historical and cross-jurisdictional maintenance costs, as well as careful modeling of material decay. Public art assets have historically been excluded from infrastructure analysis and therefore don’t have this rich discipline and data to draw on.
 
 ![Picture of art piece being restored](/uploads/versions/artpreservation-renovation---x----1431-954x---.jpg)
 
-<figcaption>William McKinley Monument, 1904 by Robert Ingersoll Aitken, located at the end of the Panhandle in Golden Gate Park. Image of fine arts conservator cleaning and applying a protective wax coating to the 5 story tall bronze sculpture. Estimating the costs of restoration is hard given teh uniqueness of each piece.</figcaption>
+<figcaption>William McKinley Monument, 1904 by Robert Ingersoll Aitken, located at the end of the Panhandle in Golden Gate Park. Image of fine arts conservator cleaning and applying a protective wax coating to the 5 story tall bronze sculpture. Estimating the costs of restoration is hard given the uniqueness of each piece.</figcaption>
 
 ## Background: The Arts Commission must forecast art preservation needs 10-20 years out
 
@@ -26,7 +26,7 @@ Public art enriches public spaces, our cultural landscape, and supports our loca
 
 The collection is extensive and growing. As part of every new City construction project, 2% of the budget is allocated to public art. So the City is always acquiring more public art in need of long-term budget plans and annual preservation priorities.
 
-## Service Question: Estimating art preservation costs is complicated by the very nature of art: uniqueness
+## Service Question: Estimating art preservation costs is complicated by the very nature of art - uniqueness
 
 Each art piece is unique as a creative piece but also for practical reasons:
 
@@ -39,11 +39,13 @@ Other factors include historical sensitivity and the starting condition of the p
 
 ![Picture of two very different art pieces.](/uploads/versions/artpreservation-twopieces---x----702-334x---.JPG)
 
-<figcaption>The lefthand image is Untitled, 2015 by Amy Ellingson,a 10 foot tall, 109 foot long, mosaic mural located at SFO terminal 3. On the right is Jugs on Jugs, 1960 by Robert Arneson, 27 inch tall glazed ceramic stoneware vase. These two pieces have different restoration needs based on material, location and size.</figcaption>
+<figcaption>The lefthand image is Untitled, 2015 by Amy Ellingson, a 10 foot tall, 109 foot long, mosaic mural located at SFO terminal 3. On the right is Jugs on Jugs, 1960 by Robert Arneson, 27 inch tall glazed ceramic stoneware vase. These two pieces have different restoration needs based on material, location and size.</figcaption>
 
 ## What We Did: Revised cost formula and forecasting improves estimates and helps prioritize pieces
 
-Fortunately, the Arts Commission had already taken significant steps to pin down this tricky estimate. Using their expert knowledge of art preservation they had identified the core factors listed above, and had already developed the foundation of a formula to estimate the costs. However, they lacked the expertise to capture the often tricky interactions among the factors.They needed DataScienceSF’s help to put those factors together in the right sequence, accommodate interaction effects, and add key elements like forecasting, frequency, and other multipliers, such as dynamic condition ratings.
+Fortunately, the Arts Commission had already taken significant steps to pin down this tricky estimate. Using their expert knowledge of art preservation they had identified the core factors listed above, and had already developed the foundation of a formula to estimate the costs.
+
+However, they lacked the expertise to capture the often tricky interactions among the factors. They needed DataScienceSF’s help to put those factors together in the right sequence, accommodate interaction effects, and add key elements like forecasting, frequency, and other multipliers, such as dynamic condition ratings.
 
 The original formula first took into account size and scale and then used a stability score (a function of material, microclimate, historical sensitivity and condition) to estimate costs. But the formula was leading to some strange cost estimates. For example, it was estimating the same costs to preserve a piece in good condition with mildly robust materials as a piece in very poor condition.
 
@@ -60,3 +62,17 @@ To make it as easy as possible to use, DataScienceSF built an Excel based tool t
 * Adjust assumptions built into the model
 
 They’ve already made changes to some of the starting assumptions and are hearing significant interest from other jurisdictions hoping to improve their planning process for public art!
+
+## Project Details: Team and Testimonial
+
+### Project Team
+
+The Arts Commission Team included:
+
+* Name, role
+* Name, role
+* Name, role
+
+### Testimonial
+
+&nbsp;
