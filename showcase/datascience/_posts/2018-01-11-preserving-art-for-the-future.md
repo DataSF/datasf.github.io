@@ -20,6 +20,8 @@ But there’s something tricky about public art preservation: every single piece
 
 So how can you estimate the costs to preserve pieces that are by nature non-standard? Compare public art care to budgeting for roads and bridges. Infrastructure estimates can rely on a vast repository of historical and cross-jurisdictional maintenance costs, as well as careful modeling of material decay. Public art assets have historically been excluded from infrastructure analysis and therefore don’t have this rich discipline and data to draw on.
 
+![](/uploads/versions/artpreservation-renovation---x----1431-954x---.jpg)
+
 ## Background: The Arts Commission must forecast art preservation needs 10-20 years out
 
 Public art enriches public spaces, our cultural landscape, and supports our local art community. As part of the City’s 10 year capital plan, the Arts Commission must generate 10-20 year estimates of the cost to maintain the City’s public art collection. This ensures sufficient funds will be on hand to preserve art as the need arises.
@@ -36,6 +38,8 @@ Each art piece is unique as a creative piece but also for practical reasons:
 * **San Francisco microclimates.** Some pieces are located in the sunny Mission while others face the wind and sea breeze of the Pacific Ocean.
 
 Other factors include historical sensitivity and the starting condition of the piece. For example, a piece in poor condition will cost more to stabilize and move into preservation status.
+
+![](/uploads/versions/artpreservation-twopieces---x----702-334x---.JPG)
 
 ## What We Did: Revised cost formula and forecasting improves estimates and helps prioritize pieces
 
