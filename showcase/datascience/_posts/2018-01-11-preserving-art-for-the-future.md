@@ -20,7 +20,9 @@ But there’s something tricky about public art preservation: every single piece
 
 So how can you estimate the costs to preserve pieces that are by nature non-standard? Compare public art care to budgeting for roads and bridges. Infrastructure estimates can rely on a vast repository of historical and cross-jurisdictional maintenance costs, as well as careful modeling of material decay. Public art assets have historically been excluded from infrastructure analysis and therefore don’t have this rich discipline and data to draw on.
 
-![](/uploads/versions/artpreservation-renovation---x----1431-954x---.jpg)
+![Picture of art piece being restored](/uploads/versions/artpreservation-renovation---x----1431-954x---.jpg)
+
+<figcaption>William McKinley Monument, 1904 by Robert Ingersoll Aitken, located at the end of the Panhandle in Golden Gate Park. Image of fine arts conservator cleaning and applying a protective wax coating to the 5 story tall bronze sculpture. Estimating the costs of restoration is hard given teh uniqueness of each piece.</figcaption>
 
 ## Background: The Arts Commission must forecast art preservation needs 10-20 years out
 
@@ -39,7 +41,9 @@ Each art piece is unique as a creative piece but also for practical reasons:
 
 Other factors include historical sensitivity and the starting condition of the piece. For example, a piece in poor condition will cost more to stabilize and move into preservation status.
 
-![](/uploads/versions/artpreservation-twopieces---x----702-334x---.JPG)
+![Picture of two very different art pieces.](/uploads/versions/artpreservation-twopieces---x----702-334x---.JPG)
+
+<figcaption>The lefthand image is Untitled, 2015 by Amy Ellingson,a 10 foot tall, 109 foot long, mosaic mural located at SFO terminal 3. On the right is Jugs on Jugs, 1960 by Robert Arneson, 27 inch tall glazed ceramic stoneware vase. These two pieces have different restoration needs based on material, location and size.</figcaption>
 
 ## What We Did: Revised cost formula and forecasting improves estimates and helps prioritize pieces
 
