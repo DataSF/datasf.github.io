@@ -4,7 +4,7 @@ background_image_path:
 card_image_path:
 resources:
   - name: TTX PPT
-    url:
+    url: https://drive.google.com/open?id=0B3nQt7K8TDq0Nmd4eFVXTVlrZEE
 categories:
   - showcase
   - datascience
