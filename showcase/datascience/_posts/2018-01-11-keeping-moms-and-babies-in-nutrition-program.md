@@ -6,8 +6,6 @@ resources:
   - name: Powerpoint Presentation
     url: >-
       http://heroic-meek.cloudvent.net/science/DPH-WIC-MomsBabiesNutrition-Final.pdf
-  - name: GitHub Repo
-    url: 'https://datasf.org'
 ---
 
 
