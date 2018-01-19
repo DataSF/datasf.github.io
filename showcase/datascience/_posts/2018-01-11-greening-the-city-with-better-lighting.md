@@ -5,6 +5,7 @@ card_image_path: /uploads/bulbs.jpg
 resources:
   - name: Powerpoint Presentation
     url: 'https://drive.google.com/open?id=0B3nQt7K8TDq0NmtUT2d6TndBYWc'
+featured: true
 ---
 
 
