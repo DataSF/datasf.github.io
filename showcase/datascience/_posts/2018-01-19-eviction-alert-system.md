@@ -58,7 +58,7 @@ These two methods revealed the same pattern: a small number of owners and buildi
 
 ![Image of a landlord with multiple properties and a pie chart showing 8% of  current owners have high rates of eviction notices using most recent data.](/uploads/versions/evictions-repeatpattern---x----942-415x---.PNG)
 
-<figcaption><p>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</p><p><img alt="" src="/uploads/versions/evictions-masspattern---x----1007-405x---.PNG" width="1007" height="405" /><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">The mass eviction pattern looks within a building over a short timeframe to identify buildings with a large portion of eviction notices filed. This patterns shows that a small percent of buildings issue a large number of eviction notices within a short time period.</span></p></figcaption>
+<figcaption><p>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</p><p><img alt="" width="1007" height="405" src="/uploads/versions/evictions-masspattern---x----1007-405x---.PNG" /><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">The mass eviction pattern looks within a building over a short timeframe to identify buildings with a large portion of eviction notices filed. This patterns shows that a small percent of buildings issue a large number of eviction notices within a short time period.</span></p></figcaption>
 
 ## Implementation: Alert system flags outliers weekly
 
@@ -67,5 +67,19 @@ Our alert system runs the model and flags outliers on a weekly basis using fresh
 MOHCD then deploys community-based organizations that provide tenant counseling, tenant education and outreach, and tenant organizing to these properties to engage other tenants in the building who may be at risk. MOHCD is also using the model to track and validate long-term patterns of misbehavior for more systematic interventions.
 
 This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.
+
+## Client Details:
+
+### Project Team
+
+* Robert Collins, Executive Director, Rent Board
+* Hugo Ramirez, Senior Community Development Program Specialist, MOHCD
+
+### Testimonial
+
+> As a cohort, I disc
+>
+>
+> - Name
 
 <div class="footnotes"><ol><li id="fn:1"><p>https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/ <a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
