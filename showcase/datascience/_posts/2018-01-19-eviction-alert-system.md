@@ -14,9 +14,9 @@ categories:
 
 In 2015, 24 different families living at 2 Emery Lane in San Francisco received eviction notices. Fortunately, the residents were more than just neighbors - they were part of a community. So they were able to organize a protest with the assistance of local community-based organizations.
 
-After hearing of the tenant protest, Mayor Lee stepped in to ask the landlord to withdraw the evictions. The landlord agreed to withdraw most of the evictions. (1)
+After hearing of the tenant protest, Mayor Lee stepped in to ask the landlord to withdraw the evictions. The landlord agreed to withdraw most of the evictions.[^1]
 
-The experience of Emery Lane led us to wonder: Could there be other Emery Lanes? And if there were, how would we know? [^1]
+The experience of Emery Lane led us to wonder: Could there be other Emery Lanes? And if there were, how would we know?
 
 ## Background: The City regulates rents and evictions for certain housing units
 
