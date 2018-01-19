@@ -56,7 +56,9 @@ DataScienceSF developed two novel methods to identify abnormal eviction patterns
 
 These two methods revealed the same pattern: a small number of owners and buildings with high rates of repeat and mass evictions, respectively.
 
-![](/uploads/versions/evictions-repeatpattern---x----942-415x---.PNG)
+![Image of a landlord with multiple properties and a pie chart showing 8% of  current owners have high rates of eviction notices using most recent data.](/uploads/versions/evictions-repeatpattern---x----942-415x---.PNG)
+
+<figcaption>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</figcaption>
 
 ![](/uploads/versions/evict-chart---small-percent-owner---x----666-516x---.jpg)
 
