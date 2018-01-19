@@ -1,6 +1,6 @@
 ---
 title: AB Testing Service and Results to Date
-background_image_path:
+background_image_path: /uploads/AB-cardimage.PNG
 card_image_path: /uploads/AB-cardimage.PNG
 resources:
   - name: TTX PPT
