@@ -43,7 +43,7 @@ Tenant displacement due to eviction contributes to homelessness, housing unaffor
 
 ![Stacked bar chart showing eviction notices from the late 1990's through 2017 by fault and no fault.](/uploads/versions/evict-chart---no-fault-fault---x----990-568x---.jpg)
 
-<figcaption>&ldquo;No fault&rsquo; and &ldquo;fault&rdquo; eviction notices mirror recent economic trends.</figcaption>
+<figcaption>&ldquo;No fault&rsquo; and &ldquo;fault&rdquo; eviction notices mirror economic trends.</figcaption>
 
 While most landlords do not evict for financial gain, we wanted to see if we could use data to identify eviction patterns that fell outside the norm in order to identify potential bad actors.
 
@@ -58,7 +58,11 @@ These two methods revealed the same pattern: a small number of owners and buildi
 
 ![Image of a landlord with multiple properties and a pie chart showing 8% of  current owners have high rates of eviction notices using most recent data.](/uploads/versions/evictions-repeatpattern---x----942-415x---.PNG)
 
-<figcaption><p>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</p><p><img alt="" width="1007" height="405" src="/uploads/versions/evictions-masspattern---x----1007-405x---.PNG" /><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">The mass eviction pattern looks within a building over a short timeframe to identify buildings with a large portion of eviction notices filed. This patterns shows that a small percent of buildings issue a large number of eviction notices within a short time period.</span></p></figcaption>
+<figcaption>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</figcaption>
+
+
+
+<figcaption>The mass eviction pattern looks within a building over a short timeframe to identify buildings with a large portion of eviction notices filed. This patterns shows that a small percent of buildings issue a large number of eviction notices within a short time period.</figcaption>
 
 ## Implementation: Alert system flags outliers weekly
 
