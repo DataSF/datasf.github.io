@@ -4,7 +4,8 @@ background_image_path: /uploads/sculpture-palace-of-fine-arts-2.jpg
 card_image_path: /uploads/sculpture-palace-of-fine-arts-4.jpg
 resources:
   - name: Powerpoint Presentation
-    url: 'http://heroic-meek.cloudvent.net/science/ART-PreservingArtFuture-Final.pdf'
+    url: >-
+      https://drive.google.com/file/d/0B3nQt7K8TDq0NmVaX3RjMGE0bG8/view?usp=sharing
 ---
 
 
