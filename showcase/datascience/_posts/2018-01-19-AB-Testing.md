@@ -1,5 +1,5 @@
 ---
-title:
+title: AB Testing
 background_image_path:
 card_image_path:
 resources:
@@ -10,6 +10,7 @@ categories:
   - datascience
 ---
 
+## AB Testing Workshop Service
 
 DataSF offers AB testing design workshops to departments interested in comparing the effectiveness of different forms of communications, e.g. letters or emails.
 
