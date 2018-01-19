@@ -72,6 +72,6 @@ Our alert system runs the model and flags outliers on a weekly basis using fresh
 
 MOHCD then deploys community-based organizations that provide tenant counseling, tenant education and outreach, and tenant organizing to these properties to engage other tenants in the building who may be at risk. MOHCD is also using the model to track and validate long-term patterns of misbehavior for more systematic interventions.
 
-This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.<br>&nbsp;
+This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.
 
 <div class="footnotes"><ol><li id="fn:1"><p class="present-before-paste">https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/ <a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
