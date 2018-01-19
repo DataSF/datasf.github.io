@@ -61,7 +61,7 @@ WIC is now using the major insights to reshape their outreach and program messag
 
 ## Client Details:
 
-### Project Team
+### Client Team
 
 * Magdalene Louie, WIC Program Coordinator, Department of Public Health WIC
 * Alecia Martin, Quality Improvement and Integration Coordinato, Department of Public Health
