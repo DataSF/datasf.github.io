@@ -8,6 +8,7 @@ resources:
 categories:
   - showcase
   - datascience
+featured: false
 ---
 
 footnote link example.<sup id="fnref:1"><a class="footnote" href="#fn:1">1</a></sup>
