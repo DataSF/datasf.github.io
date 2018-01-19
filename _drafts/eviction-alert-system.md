@@ -1,7 +1,7 @@
 ---
 title: Eviction Alert System
-background_image_path:
-card_image_path:
+background_image_path: /uploads/evict header2.png
+card_image_path: /uploads/evict header2.png
 resources:
   - name: Powerpoint Presentation
     url: >-
