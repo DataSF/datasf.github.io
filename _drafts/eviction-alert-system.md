@@ -3,8 +3,9 @@ title: Eviction Alert System
 background_image_path:
 card_image_path:
 resources:
-  - name:
-    url:
+  - name: Powerpoint Presentation
+    url: >-
+      https://drive.google.com/file/d/0B3nQt7K8TDq0NmtUT2d6TndBYWc/view?usp=sharing
 categories:
   - showcase
   - datascience
@@ -27,5 +28,4 @@ DataScienceSF developed two novel methods to identify abnormal eviction patterns
 
 ## <br>Implementation: Alert system flags outliers weekly
 
-Our alert system runs the model and flags outliers on a weekly basis using fresh data. The Mayor’s Office of Housing and Community Development, through a nonprofit consultant, takes the flagged notices and manually reviews their paper files at the Rent Board. They use a scoring rubric to identify false positives and potential bad actors.<br>MOHCD then deploys community-based organizations that provide tenant counseling, tenant education and outreach, and tenant organizing to these properties to engage other tenants in the building who may be at risk. &nbsp;MOHCD is also using the model to track and validate long-term patterns of misbehavior for more systematic interventions.<br>This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.<br>&nbsp;
-[^1]: https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/
+Our alert system runs the model and flags outliers on a weekly basis using fresh data. The Mayor’s Office of Housing and Community Development, through a nonprofit consultant, takes the flagged notices and manually reviews their paper files at the Rent Board. They use a scoring rubric to identify false positives and potential bad actors.<br>MOHCD then deploys community-based organizations that provide tenant counseling, tenant education and outreach, and tenant organizing to these properties to engage other tenants in the building who may be at risk. &nbsp;MOHCD is also using the model to track and validate long-term patterns of misbehavior for more systematic interventions.<br>This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.<br>&nbsp; [^1]: https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/
