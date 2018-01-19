@@ -10,6 +10,8 @@ categories:
   - datascience
 ---
 
+Learn about our AB testing workshop service and about completed experiments across the City!
+
 ## AB Testing Workshop Service
 
 DataSF offers AB testing design workshops to departments interested in comparing the effectiveness of different forms of communications, e.g. letters or emails.
@@ -25,7 +27,7 @@ Once we design a new letter or communication using the EAST principles, we condu
 
 ![A diagram showing the bulleted steps in an experiment visually](/uploads/versions/ab-experimentprocess---x----994-553x---.PNG)
 
-Above are the steps involved in an AB testing experiment.
+<figcaption>Above are the steps involved in an AB testing experiment.</figcaption>
 
 If you are interested in a AB Testing Design Workshop, contact Joy Bonaguro for more details.
 
@@ -41,6 +43,8 @@ The Office of the Treasurer & Tax Collector (TTX) collects City taxes on a range
 The key difference between real and personal property is that the City has the right to seize land and buildings if taxes go unpaid. This gives the City a bit more leverage. But when it comes to personal property, the City relies on self-reported values and cannot simply seize the property if taxes are not paid. This is the difference between a “secured” and “unsecured” tax.
 
 That’s why the Office thought behavioral science insights could help make their tax payment letter more compelling.
+
+<figcaption>It is harder to collect taxes on unsecured property like office furniture, boats, or equipment. Unlike land or structures, i.e. secured property, the City can't seize unsecured property in the event of nonpayment.</figcaption>
 
 ### Before / After
 
@@ -59,7 +63,7 @@ To test the new letter, the Office randomly split the 3,495 delinquent taxpayers
 * 1,732 received the old notice (control)
 * 1,763 received the new notice (treatment)
 
-Responses were due December 15, 2017. Based on a rspose rate of 16.3% for the treatment and 14.0% for the control, we can say with 90% confidence that the new letter improved the response rate. In this case, it improved it by 17%.
+Responses were due December 15, 2017. Based on a respose rate of 16.3% for the treatment and 14.0% for the control, we can say with 90% confidence that the new letter improved the response rate. In this case, it improved it by 17%.
 
 TTX is now looking to run experiments on all of its tax letters!
 
