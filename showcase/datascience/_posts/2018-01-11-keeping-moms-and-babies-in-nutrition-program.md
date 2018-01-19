@@ -63,14 +63,15 @@ WIC is now using the major insights to reshape their outreach and program messag
 
 ### Project Team
 
-* Priti Rane, &nbsp;Director of Nutrition Services, Department of Public Health WIC
 * Magdalene Louie, WIC Program Coordinator, Department of Public Health WIC
-* Ameerah Thomas, Health Care Analyst, Department of Public Health
 * Alecia Martin, Quality Improvement and Integration Coordinato, Department of Public Health
+* Priti Rane, &nbsp;Director of Nutrition Services, Department of Public Health WIC
+* Ameerah Thomas, Health Care Analyst, Department of Public Health
 
 ### Testimonial
 
-> As a cohort, I discove....
+> As a cohort, I discove….
 >
 >
-> - Name
+>
+> * Name
