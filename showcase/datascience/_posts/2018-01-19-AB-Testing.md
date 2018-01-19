@@ -3,7 +3,7 @@ title: AB Testing
 background_image_path:
 card_image_path:
 resources:
-  - name: Powerpoint Presentation
+  - name: TTX PPT
     url:
 categories:
   - showcase
@@ -23,7 +23,7 @@ Once we design a new letter or communication using the EAST principles, we condu
 * Run the text
 * Compare the results
 
-![](/uploads/versions/ab-experimentprocess---x----994-553x---.PNG)
+![A diagram showing the bulleted steps in an experiment visually](/uploads/versions/ab-experimentprocess---x----994-553x---.PNG)
 
 Above are the steps involved in an AB testing experiment.
 
@@ -48,7 +48,7 @@ To improve the letter, the Office partnered with DataSF to conduct a workshop wh
 
 The image below provides before and after with the behavioral insights used. In particular, we leveraged concepts of making it easy, using social comparison and norms and making the action items more attractive.
 
-![](/uploads/versions/ab-ttx-beforeafter---x----1453-764x---.PNG)
+![An image showing the original letter and the redesigned letter.](/uploads/versions/ab-ttx-beforeafter---x----1453-764x---.PNG)
 
 <figcaption>The new letter, on the righthand side includes the EAST principles.</figcaption>
 
@@ -63,6 +63,6 @@ Responses were due December 15, 2017. Based on a rspose rate of 16.3% for the tr
 
 TTX is now looking to run experiments on all of its tax letters!
 
-![](/uploads/versions/ab-ttx-results---x----715-414x---.PNG)
+![A bar chart comparing the response rates for the control and treatment.](/uploads/versions/ab-ttx-results---x----715-414x---.PNG)
 
 <figcaption>The rate of response to the new letter (treatment) was 17% higher than the response rate for the old letter. We are 90% confidant that our new letter improved response rates with p=.0515</figcaption>
