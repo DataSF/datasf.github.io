@@ -11,7 +11,7 @@ resources:
 
 Have you ever been hangry (so hungry, you find yourself angry)? If you’ve ever experienced hangriness, you know firsthand the importance of food and nutrition for health and well-being. Now imagine if you are a pregnant mother or a newborn: proper nutrition is essential.
 
-That’s why the San Francisco’s Women, Infants and Children nutrition program (WIC) provides not only nutritious foods, but also nutrition education, breastfeeding support, and referrals to health care and community services for thousands of low-income families.
+That’s why the [San Francisco’s Women, Infants and Children nutrition program](https://www.sfdph.org/dph/comupg/oprograms/NutritionSvcs/WIC/WIClocations.asp) (WIC) provides not only nutritious foods, but also nutrition education, breastfeeding support, and referrals to health care and community services for thousands of low-income families.
 
 But since 2011, moms and babies have been dropping out of the program at higher and higher rates. Who was dropping out, when and why?
 
@@ -53,7 +53,7 @@ Three major insights emerged.
 
 ## Implementation: From quantitative insight to qualitative explanation to new outreach plans
 
-As already noted, the analytical insights led to more questions. We knew from the start that this project would require both a quantitative component (to answer who, when, where, how) and a qualitative component (to answer why). That’s why we teamed up with the Mayor’s Office of Civic Innovation. Through their Civic Bridge program, they bring in pro-bono consulting to help support civic challenges.
+As already noted, the analytical insights led to more questions. We knew from the start that this project would require both a quantitative component (to answer who, when, where, how) and a qualitative component (to answer why). That’s why we teamed up with the [Mayor’s Office of Civic Innovation](http://www.innovation.sfgov.org/). Through their [Civic Bridge program](http://www.innovation.sfgov.org/civic-bridge), they bring in pro-bono consulting to help support civic challenges.
 
 We handed off the quantitative analysis to a pro-bono team from Google that conducted a range of interviews, observations and other qualitative research that focused on the groups identified in our analysis. For example, they did indeed identify stigma as being an issue for English speakers.
 
