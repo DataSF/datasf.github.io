@@ -73,7 +73,7 @@ This project prompted a couple of new ideas:
 
 ## Client Details:
 
-### Project Team
+### Client Team
 
 * Kathleen Bryan, Senior Energy Efficiency Specialist
 * Lowell Chu, Senior Energy Efficiency Specialist
@@ -85,7 +85,7 @@ This project prompted a couple of new ideas:
 > As a cohort, I discovered that the DataSF Team’s expertise lies not only in working with binary numbers, but also in human connectedness. The Team took the time to connect with us by thoroughly learning its program, listening to the staff, fully understanding the issues, and most importantly, genuinely collaborating to yield the most appropriate set of solutions. DataSF Team’s ability to connect produced tangible, actionable solutions in an incredibly short amount of time.”
 >
 >
-> ---Lowell Chu, Senior Energy Efficiency Specialist, San Francisco Department of the Environment
+> —Lowell Chu, Senior Energy Efficiency Specialist, San Francisco Department of the Environment
 
 ---
 
