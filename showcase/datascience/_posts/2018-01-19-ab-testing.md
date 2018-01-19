@@ -45,7 +45,7 @@ The key difference between real and personal property is that the City has the r
 
 That’s why the Office thought behavioral science insights could help make their tax payment letter more compelling.
 
-![](/uploads/versions/ab-ttx-unsecuredsecured---x----1216-481x---.PNG)
+![Image showing unsecured versus secure property types.](/uploads/versions/ab-ttx-unsecuredsecured---x----1216-481x---.PNG)
 
 <figcaption>It is harder to collect taxes on unsecured property like office furniture, boats, or equipment. Unlike land or structures, i.e. secured property, the City can't seize unsecured property in the event of nonpayment.</figcaption>
 
