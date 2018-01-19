@@ -1,6 +1,6 @@
 ---
 title: Streamlining Property Tax Appraisals
-background_image_path:
+background_image_path: /uploads/ASRPropertyTaxes-header.jpg
 card_image_path: /uploads/ASRPropertyTaxes-CardImage.jpg
 resources:
   - name: Powerpoint Presentation
