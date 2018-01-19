@@ -58,17 +58,9 @@ These two methods revealed the same pattern: a small number of owners and buildi
 
 ![Image of a landlord with multiple properties and a pie chart showing 8% of  current owners have high rates of eviction notices using most recent data.](/uploads/versions/evictions-repeatpattern---x----942-415x---.PNG)
 
-<figcaption><p>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</p><p><img alt="" src="/uploads/versions/evictions-masspattern---x----1007-405x---.PNG" width="1007" height="405" /></p></figcaption>
+<figcaption><p>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</p><p><img alt="" src="/uploads/versions/evictions-masspattern---x----1007-405x---.PNG" width="1007" height="405" /><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">The mass eviction pattern looks within a building over a short timeframe to identify buildings with a large portion of eviction notices filed. This patterns shows that a small percent of buildings issue a large number of eviction notices within a short time period.</span></p></figcaption>
 
-![](/uploads/versions/evict-chart---small-percent-owner---x----666-516x---.jpg)
-
-<figcaption>A small minority of owners have high rates of repeat evictions</figcaption>
-
-![](/uploads/versions/evict-chart---small-percent-buildings---x----760-516x---.jpg)
-
-<figcaption>A small minority of buildings have high mass eviction rates</figcaption>
-
-## <br>Implementation: Alert system flags outliers weekly
+## Implementation: Alert system flags outliers weekly
 
 Our alert system runs the model and flags outliers on a weekly basis using fresh data. The [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/), through a nonprofit consultant, takes the flagged notices and manually reviews their paper files at the Rent Board. They use a scoring rubric to identify false positives and potential bad actors.
 
@@ -76,4 +68,4 @@ MOHCD then deploys community-based organizations that provide tenant counseling,
 
 This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.
 
-<div class="footnotes"><ol><li id="fn:1"><p class="present-before-paste">https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/ <a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li id="fn:1"><p>https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/ <a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
