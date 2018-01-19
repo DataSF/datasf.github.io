@@ -5,8 +5,6 @@ card_image_path: /uploads/sculpture-palace-of-fine-arts-4.jpg
 resources:
   - name: Powerpoint Presentation
     url: 'http://heroic-meek.cloudvent.net/science/ART-PreservingArtFuture-Final.pdf'
-  - name: GitHub Repo
-    url: 'https://datasf.org'
 ---
 
 
