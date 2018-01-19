@@ -54,13 +54,13 @@ DataScienceSF developed two novel methods to identify abnormal eviction patterns
 * Repeat evictions. This flags owners who file eviction notices repeatedly over time. Specifically, it flags owners who evict an annual average of 15% or more of their housing units regardless of location. This metric helps identify owners who may be repeatedly evicting units across multiple years and properties.
 * Mass evictions. This flags buildings where multiple tenants are being evicted within a short time frame. Specifically, it flags buildings where at least 11% of the units in the building are being evicted within a 180-day period. This metric helps identify other buildings like 2 Emery Lane.
 
+![](/uploads/versions/evictions-masspattern---x----1007-405x---.PNG)
+
 These two methods revealed the same pattern: a small number of owners and buildings with high rates of repeat and mass evictions, respectively.
 
 ![Image of a landlord with multiple properties and a pie chart showing 8% of  current owners have high rates of eviction notices using most recent data.](/uploads/versions/evictions-repeatpattern---x----942-415x---.PNG)
 
 <figcaption>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</figcaption>
-
-
 
 <figcaption>The mass eviction pattern looks within a building over a short timeframe to identify buildings with a large portion of eviction notices filed. This patterns shows that a small percent of buildings issue a large number of eviction notices within a short time period.</figcaption>
 
@@ -84,6 +84,7 @@ This supplements the City’s current eviction prevention services by adding pro
 > As a cohort, I disc
 >
 >
-> - Name
+>
+> * Name
 
 <div class="footnotes"><ol><li id="fn:1"><p>https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/ <a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
