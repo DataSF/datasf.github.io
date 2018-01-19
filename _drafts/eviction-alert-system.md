@@ -11,7 +11,7 @@ categories:
 ---
 
 
-In 2015, 24 different families living at 2 Emery Lane in San Francisco received eviction notices. Fortunately, the residents were more than just neighbors - they were part of a community. So they were able to organize a protest with the assistance of local community-based organizations.<br>After hearing of the tenant protest, Mayor Lee stepped in to ask the landlord to withdraw the evictions. The landlord agreed to withdraw most of the evictions. (1)<br>The experience of Emery Lane led us to wonder: Could there be other Emery Lanes? And if there were, how would we know?
+In 2015, 24 different families living at 2 Emery Lane in San Francisco received eviction notices. Fortunately, the residents were more than just neighbors - they were part of a community. So they were able to organize a protest with the assistance of local community-based organizations.<br>After hearing of the tenant protest, Mayor Lee stepped in to ask the landlord to withdraw the evictions. The landlord agreed to withdraw most of the evictions. (1)<br>The experience of Emery Lane led us to wonder: Could there be other Emery Lanes? And if there were, how would we know?[^1]
 
 ## Background: The City regulates rents and evictions for certain housing units
 
@@ -28,3 +28,4 @@ DataScienceSF developed two novel methods to identify abnormal eviction patterns
 ## <br>Implementation: Alert system flags outliers weekly
 
 Our alert system runs the model and flags outliers on a weekly basis using fresh data. The Mayor’s Office of Housing and Community Development, through a nonprofit consultant, takes the flagged notices and manually reviews their paper files at the Rent Board. They use a scoring rubric to identify false positives and potential bad actors.<br>MOHCD then deploys community-based organizations that provide tenant counseling, tenant education and outreach, and tenant organizing to these properties to engage other tenants in the building who may be at risk. &nbsp;MOHCD is also using the model to track and validate long-term patterns of misbehavior for more systematic interventions.<br>This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.<br>&nbsp;
+[^1]:https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/
