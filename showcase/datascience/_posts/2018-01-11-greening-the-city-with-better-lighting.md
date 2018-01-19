@@ -5,7 +5,7 @@ card_image_path: /uploads/bulbs.jpg
 resources:
   - name: Powerpoint Presentation
     url: >-
-      http://heroic-meek.cloudvent.net/science/ENV-GreeningCityBetterLighting-Final.pdf
+      https://drive.google.com/open?id=0B3nQt7K8TDq0NmtUT2d6TndBYWc
 ---
 
 
@@ -67,26 +67,7 @@ Based on the findings, DataScienceSF created a long list of potential leads. We 
 
 ### Next steps
 
-This project prompted a couple of new ideas:
-
-1. Combine this data with building energy consumption data from PG&E to further refine and prioritize SFE’s outreach strategy. This approach allows SFE staff to target the high-energy users first and to identify specific building sectors with abundance of potential, and
-2. Continue updating the data-set, including new permit information, and integrating it into a custom dashboard so Energy Watch staffers can see a summary of information quickly, and use it to conduct high-impact outreach.
-
-## Project Details:
-
-### Department of Environment Project Team
-
-* Kathleen Bryan, Senior Energy Efficiency Specialist
-* Lowell Chu, Senior Energy Efficiency Specialist
-* Ben Cooper, Alameda County
-* Imma Dela Cruz, Energy Efficiency Analyst
-
-### Client Testimonial
-
-> “As a cohort, I discovered that the DataSF Team’s expertise lies not only in working with binary numbers, but also in human connectedness. The Team took the time to connect with us by thoroughly learning its program, listening to the staff, fully understanding the issues, and most importantly, genuinely collaborating to yield the most appropriate set of solutions. DataSF Team’s ability to connect produced tangible, actionable solutions in an incredibly short amount of time.”
->
->
-> ---Lowell Chu, Senior Energy Efficiency Specialist, San Francisco Department of the Environment
+This project prompted a new idea: combine this data with building energy consumption data from PG&E to further refine SFE’s outreach strategy. This approach will allow staff to develop comprehensive energy proposals - not just lighting - to target clients.
 
 ---
 
