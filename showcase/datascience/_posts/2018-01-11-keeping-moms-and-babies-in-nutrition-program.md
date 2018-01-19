@@ -5,7 +5,7 @@ card_image_path: /uploads/k-174-chim-3560-3-1.jpg
 resources:
   - name: Powerpoint Presentation
     url: >-
-      http://heroic-meek.cloudvent.net/science/DPH-WIC-MomsBabiesNutrition-Final.pdf
+      https://drive.google.com/file/d/0B3nQt7K8TDq0NmZJeldWY3pwdzQ/view?usp=sharing
 ---
 
 
