@@ -4,11 +4,12 @@ background_image_path:
 card_image_path:
 resources:
   - name: TTX PPT
-    url: https://drive.google.com/open?id=0B3nQt7K8TDq0Nmd4eFVXTVlrZEE
+    url: 'https://drive.google.com/open?id=0B3nQt7K8TDq0Nmd4eFVXTVlrZEE'
 categories:
   - showcase
   - datascience
 ---
+
 
 Learn about our AB testing workshop service and about completed experiments across the City!
 
@@ -43,6 +44,8 @@ The Office of the Treasurer & Tax Collector (TTX) collects City taxes on a range
 The key difference between real and personal property is that the City has the right to seize land and buildings if taxes go unpaid. This gives the City a bit more leverage. But when it comes to personal property, the City relies on self-reported values and cannot simply seize the property if taxes are not paid. This is the difference between a “secured” and “unsecured” tax.
 
 That’s why the Office thought behavioral science insights could help make their tax payment letter more compelling.
+
+![](/uploads/versions/ab-ttx-unsecuredsecured---x----1216-481x---.PNG)
 
 <figcaption>It is harder to collect taxes on unsecured property like office furniture, boats, or equipment. Unlike land or structures, i.e. secured property, the City can't seize unsecured property in the event of nonpayment.</figcaption>
 
