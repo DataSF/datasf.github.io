@@ -29,9 +29,7 @@ This policy has rules for when landlords can lawfully evict tenants. These rules
 
 For example, a no fault eviction may involve an owner move-in or a capital improvement eviction. A fault eviction could involve a breach of lease, non-payment of rent, nuisance etc.
 
-## Service Question:
-
-### Can timely review of eviction notice filings flag potentially problematic evictions?
+## Service Question: Can timely review of eviction notice filings flag potentially problematic evictions?
 
 Our Rent Ordinance requires landlords to file a copy of the eviction notice with the [Rent Board](sfrb.org) for certain kinds of evictions. This provides a dataset of eviction notices going back to 1989.
 
@@ -74,7 +72,7 @@ This supplements the City’s current eviction prevention services by adding pro
 
 ## Client Details:
 
-### Project Team
+### Client Team
 
 * Robert Collins, Executive Director, Rent Board
 * Hugo Ramirez, Senior Community Development Program Specialist, MOHCD
