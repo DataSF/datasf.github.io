@@ -6,6 +6,7 @@ resources:
   - name: Powerpoint Presentation
     url: >-
       https://drive.google.com/file/d/0B3nQt7K8TDq0NmZJeldWY3pwdzQ/view?usp=sharing
+featured: true
 ---
 
 
