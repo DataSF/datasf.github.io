@@ -39,7 +39,8 @@ Our eviction notices data shows that the volume of notices correlates with econo
 
 Tenant displacement due to eviction contributes to homelessness, housing unaffordability, and other complex socioeconomic problems in the City.
 
-![](/uploads/versions/evict-chart---no-fault-fault---x----990-568x---.jpg)&nbsp;“No fault’ and “fault” eviction notices mirror recent economic trends
+![](/uploads/versions/evict-chart---no-fault-fault---x----990-568x---.jpg)&nbsp;
+<figcaption>“No fault’ and “fault” eviction notices mirror recent economic trends</figcaption>
 
 While most landlords do not evict for financial gain, we wanted to see if we could use data to identify eviction patterns that fell outside the norm in order to identify potential bad actors.
 
@@ -52,7 +53,12 @@ DataScienceSF developed two novel methods to identify abnormal eviction patterns
 
 These two methods revealed the same pattern: a small number of owners and buildings with high rates of repeat and mass evictions, respectively.
 
-![](/uploads/versions/evict-chart---small-percent-owner---x----666-516x---.jpg)&nbsp;A small minority of owners have high rates of repeat evictions<br>![](/uploads/versions/evict-chart---small-percent-buildings---x----760-516x---.jpg)A small minority of buildings have high mass eviction rates
+![](/uploads/versions/evict-chart---small-percent-owner---x----666-516x---.jpg)&nbsp;
+<figcaption>A small minority of owners have high rates of repeat evictions</figcaption>
+<br>
+
+![](/uploads/versions/evict-chart---small-percent-buildings---x----760-516x---.jpg)
+<figcaption>A small minority of buildings have high mass eviction rates</figcaption>
 
 ## <br>Implementation: Alert system flags outliers weekly
 
@@ -60,4 +66,6 @@ Our alert system runs the model and flags outliers on a weekly basis using fresh
 
 MOHCD then deploys community-based organizations that provide tenant counseling, tenant education and outreach, and tenant organizing to these properties to engage other tenants in the building who may be at risk. &nbsp;MOHCD is also using the model to track and validate long-term patterns of misbehavior for more systematic interventions.
 
-This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.<br>&nbsp; [^1]: https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/
+This supplements the City’s current eviction prevention services by adding proactive outreach to what has traditionally been a service based on self-referral.<br>&nbsp; 
+
+[^1]: https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/
