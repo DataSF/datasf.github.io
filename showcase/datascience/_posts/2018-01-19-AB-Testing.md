@@ -4,32 +4,33 @@ background_image_path:
 card_image_path:
 resources:
   - name: Powerpoint Presentation
-    url: 
+    url:
 categories:
   - showcase
   - datascience
 ---
 
-footnote link example.<sup id="fnref:1"><a class="footnote" href="#fn:1">1</a></sup>
 
-DataSF offers AB testing design workshops to departments interested in comparing the effectiveness of different forms of communications, e.g. letters or emails. The redesign of your communication rests on using the principles of Make it Easy, Attractive, Social and Timely or EAST, a framework developed by the Behavioral Insights Team.
+DataSF offers AB testing design workshops to departments interested in comparing the effectiveness of different forms of communications, e.g. letters or emails.
 
-Once we design a new letter or communicaiton using the EAST principles, we conduct an experiment (AB test it). The wait it works is that:
+The redesign of your communication rests on using the principles of Make it Easy, Attractive, Social and Timely or EAST, a framework developed by the [Behavioral Insights Team](http://www.behaviouralinsights.co.uk/).
+
+Once we design a new letter or communication using the EAST principles, we conduct an experiment (AB test it). The wait it works is that:
 
 * We identify the target population
 * Split it randomly into two groups: treatment and control
 * Run the text
 * Compare the results
 
-![Include description of image here for screen readers](/uploads/versions/evictions-masspattern---x----1007-405x---.PNG)
+![](/uploads/versions/ab-experimentprocess---x----994-553x---.PNG)
 
-<figcaption>Above are the steps involved in an AB testing experiment.</figcaption>
+Above are the steps involved in an AB testing experiment.
 
 If you are interested in a AB Testing Design Workshop, contact Joy Bonaguro for more details.
 
-On this page we will add AB experiments as they are complete. 
+On this page we will add AB experiments as they are complete.
 
-## Treasure Tax Collector: A bettter letter 
+## Treasure Tax Collector: A bettter letter
 
 The Office of the Treasurer & Tax Collector (TTX) collects City taxes on a range of things, including
 
@@ -46,7 +47,7 @@ To improve the letter, the Office partnered with DataSF to conduct a workshop wh
 
 The image below provides before and after with the behavioral insights used. In particular, we leveraged concepts of making it easy, using social comparison and norms and making the action items more attractive.
 
-![Include description of image here for screen readers](/uploads/versions/evictions-masspattern---x----1007-405x---.PNG)
+![](/uploads/versions/ab-ttx-beforeafter---x----1453-764x---.PNG)
 
 <figcaption>The new letter, on the righthand side includes the EAST principles.</figcaption>
 
@@ -61,6 +62,6 @@ Responses were due December 15, 2017. Based on a rspose rate of 16.3% for the tr
 
 TTX is now looking to run experiments on all of its tax letters!
 
-![Include description of image here for screen readers](/uploads/versions/evictions-masspattern---x----1007-405x---.PNG)
+![](/uploads/versions/ab-ttx-results---x----715-414x---.PNG)
 
 <figcaption>The rate of response to the new letter (treatment) was 17% higher than the response rate for the old letter. We are 90% confidant that our new letter improved response rates with p=.0515</figcaption>
