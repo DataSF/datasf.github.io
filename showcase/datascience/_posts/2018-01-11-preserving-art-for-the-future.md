@@ -68,7 +68,7 @@ They’ve already made changes to some of the starting assumptions and are heari
 
 ## Client Details:
 
-### Project Team
+### Client Team
 
 * Jennifer Correia, Project Manager, SF Arts Commission
 * Jennifer Crane, Program Associate, SF Arts Commission
