@@ -37,11 +37,11 @@ Our Rent Ordinance requires landlords to file a copy of the eviction notice with
 
 Our eviction notices data shows that the volume of notices correlates with economic booms and busts. While the vast majority of landlords work in ethical and lawful ways, unscrupulous landlords and real estate speculators may use multiple tactics to displace long-term tenants in order to reset rents to market rate or to convert the rental unit to a condo.
 
-Tenant displacement due to eviction contributes to homelessness, housing unaffordability, and other complex socioeconomic problems in the City.
-
 ![Stacked bar chart showing eviction notices from the late 1990's through 2017 by fault and no fault.](/uploads/versions/evict-chart---no-fault-fault---x----990-568x---.jpg)
 
 <figcaption>&ldquo;No fault&rsquo; and &ldquo;fault&rdquo; eviction notices mirror economic trends.</figcaption>
+
+Tenant displacement due to eviction contributes to homelessness, housing unaffordability, and other complex socioeconomic problems in the City.
 
 While most landlords do not evict for financial gain, we wanted to see if we could use data to identify eviction patterns that fell outside the norm in order to identify potential bad actors.
 
