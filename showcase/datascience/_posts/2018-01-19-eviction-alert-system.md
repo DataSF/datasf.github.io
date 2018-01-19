@@ -11,6 +11,7 @@ categories:
   - datascience
 ---
 
+
 In 2015, 24 different families living at 2 Emery Lane in San Francisco received eviction notices. Fortunately, the residents were more than just neighbors - they were part of a community. So they were able to organize a protest with the assistance of local community-based organizations.
 
 After hearing of the tenant protest, Mayor Lee stepped in to ask the landlord to withdraw the evictions. The landlord agreed to withdraw most of the evictions.<sup id="fnref:1"><a class="footnote" href="#fn:1">1</a></sup>
@@ -35,7 +36,6 @@ For example, a no fault eviction may involve an owner move-in or a capital impro
 Our Rent Ordinance requires landlords to file a copy of the eviction notice with the [Rent Board](sfrb.org) for certain kinds of evictions. This provides a dataset of eviction notices going back to 1989.
 
 > **Caveat on eviction notices**: While these eviction notices are an indicator of some evictions, they may not result in an actual eviction nor do they capture all residential evictions. The tenant may respond to the notice and successfully resolve the eviction matter. In addition, not all properties or types of evictions face this filing requirement. Plus, the extent of evictions through informal and unlawful means is unknown, (e.g., landlord intimidation, improper eviction actions that lead to tenant failing to exercise her/his tenant rights, etc.).
->
 
 Our eviction notices data shows that the volume of notices correlates with economic booms and busts. While the vast majority of landlords work in ethical and lawful ways, unscrupulous landlords and real estate speculators may use multiple tactics to displace long-term tenants in order to reset rents to market rate or to convert the rental unit to a condo.
 
@@ -58,7 +58,7 @@ These two methods revealed the same pattern: a small number of owners and buildi
 
 ![Image of a landlord with multiple properties and a pie chart showing 8% of  current owners have high rates of eviction notices using most recent data.](/uploads/versions/evictions-repeatpattern---x----942-415x---.PNG)
 
-<figcaption>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</figcaption>
+<figcaption><p>The repeat eviction pattern looks back over several years to identify landlords that file eviction notices at regular intervals across all of their units. This patterns shows that a small percent of current owners who have filed eviction notices have high rates of evictions.</p><p><img alt="" src="/uploads/versions/evictions-masspattern---x----1007-405x---.PNG" width="1007" height="405" /></p></figcaption>
 
 ![](/uploads/versions/evict-chart---small-percent-owner---x----666-516x---.jpg)
 
