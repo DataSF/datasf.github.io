@@ -25,9 +25,9 @@ With each advancement in improved lighting technology, the City and County of Sa
 
 ## Background: The City offers help to make energy upgrades simple
 
-While a lighting upgrade of 100s or 1000s of bulbs may make financial sense for a property or business owner, it still requires upfront dollars. That upfront cost is often a barrier. This is why the City’s Department of Environment (SFE) offers incentives to property owners and businesses to help encourage them to make the switch to the most efficient bulbs in the market that also fit the needs of building occupants.
+While a lighting upgrade of 100s or 1000s of bulbs may make financial sense for a property or business owner, it still requires upfront dollars. That upfront cost is often a barrier. This is why the [City’s Department of Environment](https://sfenvironment.org/) (SFE) offers incentives to property owners and businesses to help encourage them to make the switch to the most efficient bulbs in the market that also fit the needs of building occupants.
 
-Since 2006, the San Francisco Energy Watch program implemented by San Francisco Environment (SFE) has assisted local businesses and multifamily building managers or owners lower their energy bill through energy efficiency assessments and financial incentives, while also reducing San Francisco's impact on the environment.
+Since 2006, the [San Francisco Energy Watch program](https://sfenvironment.org/sf-energy-watch-incentives-businesses) implemented by San Francisco Environment (SFE) has assisted local businesses and multifamily building managers or owners lower their energy bill through energy efficiency assessments and financial incentives, while also reducing San Francisco's impact on the environment.
 
 These energy incentives are part of the City’s wider goal to significantly reduce energy consumption through energy efficiency upgrades by 2030<sup id="fnref:1"><a class="footnote" href="#fn:1">1</a></sup>, and ensure that 100% of the electricity supplied by the grid to San Francisco residents and businesses is renewable by 2030. Together these steps will help the City significantly reduce greenhouse gas emissions by 2050. With targets this high - every lightbulb helps.
 
