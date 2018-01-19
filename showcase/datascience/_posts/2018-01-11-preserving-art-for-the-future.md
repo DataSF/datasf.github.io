@@ -65,3 +65,22 @@ To make it as easy as possible to use, DataScienceSF built an Excel based tool t
 * Adjust assumptions built into the model
 
 They’ve already made changes to some of the starting assumptions and are hearing significant interest from other jurisdictions hoping to improve their planning process for public art!
+
+## Client Details:
+
+### Project Team
+
+* Jennifer Correia, Project Manager, SF Arts Commission
+* Allison Cummings, Senior Registrar, SF Arts Commission
+* Kate Faust, Capital Analyst, SF Arts Commission
+* Jennifer Crane, Program Associate, SF Arts Commission
+* Susan Pontious, Program Director Public Art Program and Civic Art Collection, SF Arts Commission
+* Rebekah Krell, Deputy Director, SF Arts Commission
+* Anh Thang Dao-Shah, Program Manager, SF Arts Commission
+
+### Testimonial
+
+> As a cohort, I disc
+>
+>
+> -name
