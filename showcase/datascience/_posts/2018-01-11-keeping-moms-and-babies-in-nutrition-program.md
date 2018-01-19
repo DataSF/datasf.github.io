@@ -58,3 +58,19 @@ As already noted, the analytical insights led to more questions. We knew from th
 We handed off the quantitative analysis to a pro-bono team from Google that conducted a range of interviews, observations and other qualitative research that focused on the groups identified in our analysis. For example, they did indeed identify stigma as being an issue for English speakers.
 
 WIC is now using the major insights to reshape their outreach and program messaging, including a campaign to reduce stigma associations. There is also a plan to use the analysis to highlight to physicians the benefits of targeted referrals early in pregnancy. This analysis is also feeding into a larger citywide discussion about food insecurity in San Francisco and WIC’s role in helping to eliminate food insecurity.
+
+## Client Details:
+
+### Project Team
+
+* Priti Rane, &nbsp;Director of Nutrition Services, Department of Public Health WIC
+* Magdalene Louie, WIC Program Coordinator, Department of Public Health WIC
+* Ameerah Thomas, Health Care Analyst, Department of Public Health
+* Alecia Martin, Quality Improvement and Integration Coordinato, Department of Public Health
+
+### Testimonial
+
+> As a cohort, I discove....
+>
+>
+> - Name
