@@ -45,7 +45,7 @@ Tenant displacement due to eviction contributes to homelessness, housing unaffor
 
 While most landlords do not evict for financial gain, we wanted to see if we could use data to identify eviction patterns that fell outside the norm in order to identify potential bad actors.
 
-## What We Did: Two metrics show a small % of owners and buildings have abnormal eviction notice patterns
+## Analytics: Two metrics show a small % of owners and buildings have abnormal eviction notice patterns
 
 DataScienceSF developed two novel methods to identify abnormal eviction patterns:
 
