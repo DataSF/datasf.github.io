@@ -35,7 +35,9 @@ These energy incentives are part of the City’s wider goal to significantly red
 
 ## Service Question: SFE had helped most of their clients - could they find new leads?
 
-SFE staffers had a challenge: they had helped most of the clients in their database and suspected there may be additional properties that could benefit from the program. However, SFE first needed to know if they had saturated the market and if not, how best to generate new leads. SFE also wanted to understand if additional upgrade potential existed within their existing list of clients for different energy efficiency measure incentives.
+SFE staffers had a challenge: they had helped most of the clients in their database and suspected there may be additional properties that could benefit from the program.
+
+However, SFE first needed to know if they had saturated the market and if not, how best to generate new leads. SFE also wanted to understand if additional upgrade potential existed within their existing list of clients for different energy efficiency measure incentives.
 
 ![Graphs showingn that both the number of average monthly projects and average monthly energy savings have declined.](/uploads/versions/lights-2-declininguptake---x----935-289x---.PNG)
 
