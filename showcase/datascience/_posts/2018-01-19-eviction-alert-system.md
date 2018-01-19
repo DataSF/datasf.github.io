@@ -60,7 +60,7 @@ These two methods revealed the same pattern: a small number of owners and buildi
 
 ![](/uploads/versions/evict-chart---small-percent-owner---x----666-516x---.jpg)
 
-<figcaption><p>A small minority of owners have high rates of repeat evictions</p><p><img alt="" src="/uploads/versions/evictions-masspattern---x----1007-405x---.PNG" width="1007" height="405" /></p></figcaption>
+<figcaption>A small minority of owners have high rates of repeat evictions</figcaption>
 
 ![](/uploads/versions/evict-chart---small-percent-buildings---x----760-516x---.jpg)
 
