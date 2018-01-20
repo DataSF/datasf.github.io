@@ -37,30 +37,25 @@ As someone who grew up in public housing, MEL cared deeply about the availabilit
 
 When Mayor Lee took office, San Francisco was reeling from the recession. During his tenure, unemployment decreased and x,xxx more jobs were created, leading to the lowest rate of unemployment in 37 years.
 
-<div>
-    <a href="https://plot.ly/~dblakev/1/?share_key=tOymhMWGRWiiq70p3BBNqN" target="_blank" title="ave_annual_unemployment_rate" style="display: block; text-align: center;"><img src="https://plot.ly/~dblakev/1.png?share_key=tOymhMWGRWiiq70p3BBNqN" alt="ave_annual_unemployment_rate" style="max-width: 100%;width: 600px;" width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="dblakev:1" sharekey-plotly="tOymhMWGRWiiq70p3BBNqN" src="https://plot.ly/embed.js" async=""></script>
-</div>
+<div><a target="_blank" title="ave_annual_unemployment_rate" style="display: block; text-align: center;" href="https://plot.ly/~dblakev/1/?share_key=tOymhMWGRWiiq70p3BBNqN"><img alt="ave_annual_unemployment_rate" style="max-width: 100%;width: 600px;" width="600" src="https://plot.ly/~dblakev/1.png?share_key=tOymhMWGRWiiq70p3BBNqN" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a> <script data-plotly="dblakev:1" sharekey-plotly="tOymhMWGRWiiq70p3BBNqN" src="https://plot.ly/embed.js" async=""></script></div>
 
 ## 25 neighborhoods benefited from economic investment
 
-The map below shows the 25 neighborhood commercial corridors that received customized assistance to meet their  needs through Invest in Neighborhoods. Invest in Neighborhoods aims to strengthen and revitalize neighborhood commercial districts around the City by marshaling and deploying resources from across multiple departments and nonprofit partners. These include economic development services such as loan programs, facade improvement grants, and technical assistance for small businesses.
+The map below shows the 25 neighborhood commercial corridors that received customized assistance to meet their needs through Invest in Neighborhoods. Invest in Neighborhoods aims to strengthen and revitalize neighborhood commercial districts around the City by marshaling and deploying resources from across multiple departments and nonprofit partners. These include economic development services such as loan programs, facade improvement grants, and technical assistance for small businesses.
+
+![](/uploads/versions/map---x----625-723x---.png)
 
 ## Every resident within a 10 minute walk of a park
 
 Under Mayor Lee, San Francisco was the first city in the nation to be given a perfect park access score from The Trust for Public Land’s ParkScore. The City’s rich store of recreation locations mean every resident isn’t more than 10 minutes from a park.
 
-<div>
-    <iframe width="760px" title="Parks Map" height="646px" src="https://data.sfgov.org/w/pz9b-tj7y/ikek-yizv?cur=lkue_SIsEmW&from=root" frameborder="0" scrolling="no"></iframe>
-</div>
+<div><iframe width="760px" title="Parks Map" height="646px" src="https://data.sfgov.org/w/pz9b-tj7y/ikek-yizv?cur=lkue_SIsEmW&amp;from=root" frameborder="0" scrolling="no"></iframe></div>
 
-## Xx new miles of bike lanes
+## 41 new miles of bike lanes
 
-Since the Mayor took office, bikers have had more places to roam with the addition of xxx new miles of bike lanes throughout the City.
+Since the Mayor took office, bikers have had more places to roam with the addition of 41.66 new miles of bike lanes throughout the City.
 
-<div>
-    &lt;iframe width="760px" title="SFMTA Bikeway Network" height="646px" src="https://data.sfgov.org/w/aupf-nbjc/ikek-yizv?cur=vnAbvgBVadr&amp;from=root" frameborder="0"scrolling="no"&gt;<a href="https://data.sfgov.org/Transportation/SFMTA-Bikeway-Network/aupf-nbjc" title="SFMTA Bikeway Network" target="_blank">SFMTA Bikeway Network</a><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p>
-</div>
+<div>&lt;iframe width="760px" title="SFMTA Bikeway Network" height="646px" src="https://data.sfgov.org/w/aupf-nbjc/ikek-yizv?cur=vnAbvgBVadr&amp;from=root" frameborder="0"scrolling="no"&gt;<a title="SFMTA Bikeway Network" target="_blank" href="https://data.sfgov.org/Transportation/SFMTA-Bikeway-Network/aupf-nbjc">SFMTA Bikeway Network</a><p><a target="_blank" href="http://www.socrata.com/">Powered by Socrata</a></p></div>
 
 ## 283 new open datasets published in the last four years
 
