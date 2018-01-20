@@ -53,9 +53,7 @@ The map below shows the 25 neighborhood commercial corridors that received custo
 
 Under Mayor Lee, San Francisco was the first city in the nation to be given a perfect park access score from The Trust for Public Land’s ParkScore. The City’s rich store of recreation locations mean every resident isn’t more than 10 minutes from a park.
 
-<style type="text/css">.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
-
-<div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="SFParks" src="//www.arcgis.com/apps/Embed/index.html?webmap=8f75a340adf141ddb8c6848a4502db73&amp;extent=-122.5685,37.6973,-122.315,37.8221&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;legend=true&amp;disable_scroll=false&amp;theme=dark"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="SFParks" src="//www.arcgis.com/apps/Embed/index.html?webmap=8f75a340adf141ddb8c6848a4502db73&amp;extent=-122.5685,37.6973,-122.315,37.8221&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=dark"></iframe></div>
 
 ## 41 new miles of bike lanes
 
