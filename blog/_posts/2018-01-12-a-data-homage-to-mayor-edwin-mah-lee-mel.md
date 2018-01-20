@@ -66,3 +66,8 @@ Since the Mayor took office, bikers have had more places to roam with the additi
 ## 283 new open datasets published in the last four years
 
 Lastly, since we run the open data program, we of course have to pay homage to the work MEL empowered us to support every day. Since the Mayor revitalized our open data program in 2014, we’ve published 283 new datasets or 62% of the total published.
+
+<div>
+    <a href="https://plot.ly/~dblakev/3/" target="_blank" title="mel_datasets" style="display: block; text-align: center;"><img src="https://plot.ly/~dblakev/3.png" alt="mel_datasets" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="dblakev:3" src="https://plot.ly/embed.js" async></script>
+</div>
