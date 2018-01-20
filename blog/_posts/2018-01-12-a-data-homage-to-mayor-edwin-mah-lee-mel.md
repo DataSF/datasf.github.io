@@ -37,7 +37,11 @@ As someone who grew up in public housing, MEL cared deeply about the availabilit
 
 When Mayor Lee took office, San Francisco was reeling from the recession. During his tenure, unemployment decreased and x,xxx more jobs were created, leading to the lowest rate of unemployment in 37 years.
 
-<div><a target="_blank" title="ave_annual_unemployment_rate" style="display: block; text-align: center;" href="https://plot.ly/~dblakev/1/?share_key=tOymhMWGRWiiq70p3BBNqN"><img alt="ave_annual_unemployment_rate" style="max-width: 100%;width: 600px;" width="600" src="https://plot.ly/~dblakev/1.png?share_key=tOymhMWGRWiiq70p3BBNqN" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a> <script data-plotly="dblakev:1" sharekey-plotly="tOymhMWGRWiiq70p3BBNqN" src="https://plot.ly/embed.js" async=""></script></div>
+![](/uploads/versions/pasted-image-0---x----862-464x---.png)
+
+![](/uploads/versions/pasted-image-0-1---x----862-464x---.png)​​​​​​​
+
+<iframe id="plotly-dblakev:1" width="0" height="0" frameborder="0" scrolling="no" src="https://plot.ly/~dblakev/1.embed?share_key=tOymhMWGRWiiq70p3BBNqN" style="max-width: 100%; visibility: hidden; position: absolute;"></iframe>
 
 ## 25 neighborhoods benefited from economic investment
 
@@ -49,13 +53,17 @@ The map below shows the 25 neighborhood commercial corridors that received custo
 
 Under Mayor Lee, San Francisco was the first city in the nation to be given a perfect park access score from The Trust for Public Land’s ParkScore. The City’s rich store of recreation locations mean every resident isn’t more than 10 minutes from a park.
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="SFParks" src="//www.arcgis.com/apps/Embed/index.html?webmap=8f75a340adf141ddb8c6848a4502db73&amp;extent=-122.5685,37.6973,-122.315,37.8221&zoom=true&previewImage=false&scale=true&legend=true&disable_scroll=false&theme=dark"></iframe></div>
+<style type="text/css">.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+
+<div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="SFParks" src="//www.arcgis.com/apps/Embed/index.html?webmap=8f75a340adf141ddb8c6848a4502db73&amp;extent=-122.5685,37.6973,-122.315,37.8221&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;legend=true&amp;disable_scroll=false&amp;theme=dark"></iframe></div>
 
 ## 41 new miles of bike lanes
 
 Since the Mayor took office, bikers have had more places to roam with the addition of 41.66 new miles of bike lanes throughout the City.
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Map_bike_lane" src="//www.arcgis.com/apps/Embed/index.html?webmap=679979050b7d40b7b80abdf236edd57f&amp;extent=-122.5511,37.6967,-122.2976,37.8215&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=dark"></iframe></div>
+<style type="text/css">.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+
+<div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Map_bike_lane" src="//www.arcgis.com/apps/Embed/index.html?webmap=679979050b7d40b7b80abdf236edd57f&amp;extent=-122.5511,37.6967,-122.2976,37.8215&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;disable_scroll=true&amp;theme=dark"></iframe></div>
 
 ## 283 new open datasets published in the last four years
 
