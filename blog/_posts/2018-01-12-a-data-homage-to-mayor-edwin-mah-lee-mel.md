@@ -55,7 +55,7 @@ Under Mayor Lee, San Francisco was the first city in the nation to be given a pe
 
 Since the Mayor took office, bikers have had more places to roam with the addition of 41.66 new miles of bike lanes throughout the City.
 
-<div>&lt;iframe width="760px" title="SFMTA Bikeway Network" height="646px" src="https://data.sfgov.org/w/aupf-nbjc/ikek-yizv?cur=vnAbvgBVadr&amp;from=root" frameborder="0"scrolling="no"&gt;<a title="SFMTA Bikeway Network" target="_blank" href="https://data.sfgov.org/Transportation/SFMTA-Bikeway-Network/aupf-nbjc">SFMTA Bikeway Network</a><p><a target="_blank" href="http://www.socrata.com/">Powered by Socrata</a></p></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Map_bike_lane" src="//www.arcgis.com/apps/Embed/index.html?webmap=679979050b7d40b7b80abdf236edd57f&amp;extent=-122.5511,37.6967,-122.2976,37.8215&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=dark"></iframe></div>
 
 ## 283 new open datasets published in the last four years
 
