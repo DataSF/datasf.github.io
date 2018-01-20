@@ -35,7 +35,7 @@ As someone who grew up in public housing, MEL cared deeply about the availabilit
 
 ## Under Mayor Lee, unemployment dropped from 8.9% to 3%, a 37 year record
 
-When Mayor Lee took office, San Francisco was reeling from the recession. During his tenure, unemployment decreased and x,xxx more jobs were created, leading to the lowest rate of unemployment in 37 years.
+When Mayor Lee took office, San Francisco was reeling from the recession. During his tenure, unemployment decreased and 92,255 more jobs were created, leading to the lowest rate of unemployment in 37 years.
 
 ![](/uploads/versions/pasted-image-0---x----862-464x---.png)
 
