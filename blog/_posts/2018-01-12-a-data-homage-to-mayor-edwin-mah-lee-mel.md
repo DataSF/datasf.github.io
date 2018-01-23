@@ -23,7 +23,7 @@ On Tuesday, December 12, 2017 Mayor Edwin Mah Lee, or MEL as we liked to call hi
 
 ## More than 20,000 new housing units built under MEL
 
-Anyone who knew the Mayor, knew he was passionate about housing. Sometimes, it was hard to get him to talk about anything else. And the proof is in the numbers. Nearly 50% of the new housing units built since 2000 were built during his term. Between 1980 and 2010, 1,695 housing units were built annually. Since the Mayor’s term started in 2011, the City has built 3,706 units annually, a 118% increase.
+Anyone who knew the Mayor, knew he was passionate about housing. Sometimes, it was hard to get him to talk about anything else. And the proof is in the numbers. Between 1980 and 2010, 1,695 housing units were built annually. Since the Mayor’s term started in 2011, the City has built 3,706 units annually, a 118% increase. Put another way, nearly 50% of the new housing units built since 2000 were built during his term.
 
 ![](/uploads/versions/housing-production-1---x----2691-1449x---.png)
 
@@ -69,4 +69,4 @@ Since the Mayor took office, bikers have had more places to roam with the additi
 
 Lastly, since we run the open data program, we of course have to pay homage to the work MEL empowered us to support every day. Since the Mayor revitalized our open data program in 2014, we’ve published 283 new datasets or 62% of the total published.
 
-<div><a target="_blank" title="mel_datasets" style="display: block; text-align: center;" href="https://plot.ly/~dblakev/3/"><img alt="mel_datasets" style="max-width: 100%;width: 600px;" width="600" src="https://plot.ly/~dblakev/3.png" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a> <script data-plotly="dblakev:3" src="https://plot.ly/embed.js" async=""></script></div>
+<div data-plotly="dblakev/3" style="text-align: center; position: relative;"><a target="_blank" title="mel_datasets" style="display: block; text-align: center;" data-plotly="dblakev/3" href="https://plot.ly/~dblakev/3/"><img alt="mel_datasets" style="max-width: 100%;width: 600px;" data-plotly="dblakev/3" width="600" src="https://plot.ly/~dblakev/3.png" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a><iframe id="plotly-dblakev:3" scrolling="no" style="max-width: 100%; visibility: hidden; position: absolute;" src="https://plot.ly/~dblakev/3.embed" width="0" height="0" frameborder="0"></iframe></div>
