@@ -16,7 +16,10 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: >-
+  On Tuesday, December 12, 2017 Mayor Edwin Mah Lee, or MEL as we liked to call
+  him, passed away. This is our homage to MEL in the language we know best,
+  data.
 date: 2018-01-12 00:00:00
 categories:
   - blog
