@@ -2,106 +2,196 @@ joy_bonaguro:
   name: Joy Bonaguro
   title: Chief Data Officer
   email: joy.bonaguro@sfgov.org
-  bio: "Chief Data Officer, City and County of San Francisco"
-  long_bio: "Joy Bonaguro is the first Chief Data Officer for the City and County of San Francisco, where she manages the City’s open data program. Joy has spent more than a decade working at the nexus of public policy, data, and technology. She worked from the birth of the open data and open government field, spending seven years designing and managing the development of information systems to support planning and decision-making at the Greater New Orleans Community Data. Prior to joining the City, Joy worked at Lawrence Berkeley National Laboratory to help develop technology, cyber and privacy policy working closely with both the National Lab CIO Council and the Department of Energy Information Management Advisory Group. Joy earned her Masters from UC Berkeley’s Goldman School of Public Policy, where she focused on IT policy."
+  bio: 'Chief Data Officer, City and County of San Francisco'
+  long_bio: >-
+    Joy Bonaguro is the first Chief Data Officer for the City and County of San
+    Francisco, where she manages the City’s open data program. Joy has spent
+    more than a decade working at the nexus of public policy, data, and
+    technology. She worked from the birth of the open data and open government
+    field, spending seven years designing and managing the development of
+    information systems to support planning and decision-making at the Greater
+    New Orleans Community Data. Prior to joining the City, Joy worked at
+    Lawrence Berkeley National Laboratory to help develop technology, cyber and
+    privacy policy working closely with both the National Lab CIO Council and
+    the Department of Energy Information Management Advisory Group. Joy earned
+    her Masters from UC Berkeley’s Goldman School of Public Policy, where she
+    focused on IT policy.
   gravatar: 8614bd4a1d6f6c24c0f6b08a2b9c0335
   twitter: datasf
-
 jason_lally:
   name: Jason Lally
-  title: "Open Data Program Manager"
+  title: Data Services Manager
   email: jason.lally@sfgov.org
-  bio: "Open Data Program Manager, City and County of San Francisco"
-  long_bio: "Jason Lally is the Open Data Program Manager, working  with the City’s Chief Data Officer, Joy Bonaguro, to help operationalize the City’s data strategy. Jason comes to the City by way of a Mayor’s Innovation Fellowship that wrapped up in August 2014. Before that, he worked at the intersection of technology and urban planning as Director of the Decision Lab at PlaceMatters in Denver, CO. He came to open government and open data through his work in cities and regions across the country on data-informed, community planning processes. Recognizing a need for more robust information services and platforms to support strong community engagement, Jason is pleased to contribute to making data more accessible and useful at the City. Jason earned his Masters in City and Regional Planning from the University of Pennsylvania."
+  bio: 'Open Data Program Manager, City and County of San Francisco'
+  long_bio: >-
+    Jason Lally is the Open Data Program Manager, working  with the City’s Chief
+    Data Officer, Joy Bonaguro, to help operationalize the City’s data strategy.
+    Jason comes to the City by way of a Mayor’s Innovation Fellowship that
+    wrapped up in August 2014. Before that, he worked at the intersection of
+    technology and urban planning as Director of the Decision Lab at
+    PlaceMatters in Denver, CO. He came to open government and open data through
+    his work in cities and regions across the country on data-informed,
+    community planning processes. Recognizing a need for more robust information
+    services and platforms to support strong community engagement, Jason is
+    pleased to contribute to making data more accessible and useful at the City.
+    Jason earned his Masters in City and Regional Planning from the University
+    of Pennsylvania.
   gravatar: b0d79f25e915d34f7f06907322ad8060
   twitter: synchronouscity
   google:
     plus: jasonlally
-
 erica_finkle:
   name: Erica Finkle
   title: ShareSF Program Manager
   email: erica.finkle@sfgov.org
   bio: 'ShareSF Program Manager, City and County of San Francisco'
-  long_bio: "Erica Finkle is the ShareSF Program Manager, working to support efficient, effective, consistent, secure and appropriate means for cross-departmental and cross-jurisdictional data sharing; with the aim of maturing the City’s capacity to leverage data so that residents can experience services that are more effective, holistic, and integrated. Erica comes to the City’s data team by way of her Masters research project, which focused on internal data sharing in San Francisco and provided the foundations for the ShareSF initiative. Erica previously worked as Budget Manager in the Office of the Treasurer and Tax Collector. Before joining the City, she worked internationally as an attorney representing foreign governments, corporate entities and financial institutions on complex, multinational financial and corporate matters. Erica earned her MPP from the University of Oxford and her JD from Columbia Law School."
+  long_bio: >-
+    Erica Finkle is the ShareSF Program Manager, working to support efficient,
+    effective, consistent, secure and appropriate means for cross-departmental
+    and cross-jurisdictional data sharing; with the aim of maturing the City’s
+    capacity to leverage data so that residents can experience services that are
+    more effective, holistic, and integrated. Erica comes to the City’s data
+    team by way of her Masters research project, which focused on internal data
+    sharing in San Francisco and provided the foundations for the ShareSF
+    initiative. Erica previously worked as Budget Manager in the Office of the
+    Treasurer and Tax Collector. Before joining the City, she worked
+    internationally as an attorney representing foreign governments, corporate
+    entities and financial institutions on complex, multinational financial and
+    corporate matters. Erica earned her MPP from the University of Oxford and
+    her JD from Columbia Law School.
   gravatar: b0c421b0165eb300d6eba034029479f6
   twitter: erilynnf
-
 janine_heiser:
   name: Janine Heiser
   title: Open Data Services Engineer
   email: janine.heiser@sfgov.org
   bio: 'Open Data Services Engineer, City and County of San Francisco'
-  long_bio: "Janine Heiser is the Open Data Services Engineer working to help design and implement a scalable framework for accessing and publishing data across the City. In her technologist role, she enjoys applying user-centered design methodologies to the process of creating and implementing new data products and services. Prior to joining the DataSF team, Janine worked as an engineer on data infrastructure and software projects at a variety of organizations including the Democratic Party, a digital music distribution company and the UC Bancroft Library. Janine earned her Masters degree in Information Management and Systems from the UC Berkeley School of Information."
+  long_bio: >-
+    Janine Heiser is the Open Data Services Engineer working to help design and
+    implement a scalable framework for accessing and publishing data across the
+    City. In her technologist role, she enjoys applying user-centered design
+    methodologies to the process of creating and implementing new data products
+    and services. Prior to joining the DataSF team, Janine worked as an engineer
+    on data infrastructure and software projects at a variety of organizations
+    including the Democratic Party, a digital music distribution company and the
+    UC Bancroft Library. Janine earned her Masters degree in Information
+    Management and Systems from the UC Berkeley School of Information.
   gravatar: a15af49cb9ec97776196f650feefc26b
   twitter: J9Heiser
-
 jeff_johnson:
   name: Jeff Johnson
-  title: "Manager, SFGIS and Open Data Services"
-  long_bio: "Jeff Johnson manages San Francisco’s Enterprise GIS Program at the Department of Technology, and has worked with the City’s Open Data platform since its inception.  Over the past several years, he has provided extract, transform and load (ETL) services for City departments, and has become an expert in the use of Safe Software’s FME.   Jeff has built extensive set of institutional knowledge, gained from over 20 years’ experience with the City, and has developed relationships with fellow GIS practitioners and other clients across a wide variety of City departments.  A transplanted East Coaster and graduate of the University of Pennsylvania, he relishes the technical opportunities available working in the beautiful Bay Area for the City and County of San Francisco."
+  title: 'Manager, SFGIS and Open Data Services'
+  long_bio: >-
+    Jeff Johnson manages San Francisco’s Enterprise GIS Program at the
+    Department of Technology, and has worked with the City’s Open Data platform
+    since its inception.  Over the past several years, he has provided extract,
+    transform and load (ETL) services for City departments, and has become an
+    expert in the use of Safe Software’s FME.   Jeff has built extensive set of
+    institutional knowledge, gained from over 20 years’ experience with the
+    City, and has developed relationships with fellow GIS practitioners and
+    other clients across a wide variety of City departments.  A transplanted
+    East Coaster and graduate of the University of Pennsylvania, he relishes the
+    technical opportunities available working in the beautiful Bay Area for the
+    City and County of San Francisco.
   email: jeff.johnson@sfgov.org
-  bio: "Manager, SFGIS and Open Data Services"
+  bio: 'Manager, SFGIS and Open Data Services'
   image: jeff_johnson.jpg
-
 sam_valdez:
   name: Samuel Valdez
-  title: "Enterprise GIS Engineer"
-  long_bio: "Samuel Valdez has been an Enterprise GIS Engineer with the City and County of San Francisco's Enterprise GIS Program (SFGIS) since 2006.  He brings over 30 years of software development, information technology, and GIS experience to the organization, which he gained while working for firms of all sizes, including several start-ups, and over five years with Oracle Corporation.  More recently, he has expanded his career interests to include Python development, spatial system architecture, complex event processing, local government operations, and the ITIL Service Lifecycle.  Before joining the City, Sam consulted on GIS and IT projects for local natural resource management organizations, and was employed with the California Department of Health Services' Environmental Health Investigations Branch.  His information technology and GIS skills and experience have been applied to the following programs and major projects at the City: the Enterprise GIS Program, enterprise-class GIS infrastructure design and deployment, the Open Data Program, and fiber and telecommunications asset management."
+  title: Enterprise GIS Engineer
+  long_bio: >-
+    Samuel Valdez has been an Enterprise GIS Engineer with the City and County
+    of San Francisco's Enterprise GIS Program (SFGIS) since 2006.  He brings
+    over 30 years of software development, information technology, and GIS
+    experience to the organization, which he gained while working for firms of
+    all sizes, including several start-ups, and over five years with Oracle
+    Corporation.  More recently, he has expanded his career interests to include
+    Python development, spatial system architecture, complex event processing,
+    local government operations, and the ITIL Service Lifecycle.  Before joining
+    the City, Sam consulted on GIS and IT projects for local natural resource
+    management organizations, and was employed with the California Department of
+    Health Services' Environmental Health Investigations Branch.  His
+    information technology and GIS skills and experience have been applied to
+    the following programs and major projects at the City: the Enterprise GIS
+    Program, enterprise-class GIS infrastructure design and deployment, the Open
+    Data Program, and fiber and telecommunications asset management.
   image: sam_valdez.jpg
-  
 brian_quinn:
   name: Brian Quinn
-  title: "Architect/Analyst SFGIS Program"
-  bio: "Architect/Analyst SFGIS Program"
-  long_bio: "Brian Quinn is the Architect/Analyst for SFGIS, helping to modernize GIS infrastructure from systems to enterprise datasets.  He likes to help users find the most GIS enjoyment from the least effort, and loves 3D virtual worlds.  A geophysicist who gave up oil to stay in San Francisco, Brian's perspective is informed by more than a decade of experience in each of academic research, private sector GIS, and public sector GIS, with international field sites, plus East- and North Bay agencies.  Brian holds a Rock Physics Ph.D. from Stanford and is a Certified GIS Professional."
+  title: Architect/Analyst SFGIS Program
+  bio: Architect/Analyst SFGIS Program
+  long_bio: >-
+    Brian Quinn is the Architect/Analyst for SFGIS, helping to modernize GIS
+    infrastructure from systems to enterprise datasets.  He likes to help users
+    find the most GIS enjoyment from the least effort, and loves 3D virtual
+    worlds.  A geophysicist who gave up oil to stay in San Francisco, Brian's
+    perspective is informed by more than a decade of experience in each of
+    academic research, private sector GIS, and public sector GIS, with
+    international field sites, plus East- and North Bay agencies.  Brian holds a
+    Rock Physics Ph.D. from Stanford and is a Certified GIS Professional.
   gravatar: d09ebdcf3025301227ee4c47b4dd8c62
-  
 blake_valenta:
   name: Blake Valenta
   title: Data Fellow
-  bio: "Data Fellow, DataSF"
-  long_bio: "Blake Valenta is a Data Fellow at DataSF. He holds a bachelor's degree in political science from the University of Chicago and master's degree in public policy from the UCLA Luskin School. Before joining DataSF, Blake worked as a researcher with the UCLA Labor Center, as a statistician with the Empirical Research Group at the UCLA Law School, and a policy advocate at IWJ, a non-profit in Chicago that focuses on labor rights and economic justice issues."
+  bio: 'Data Fellow, DataSF'
+  long_bio: >-
+    Blake Valenta is a Data Fellow at DataSF. He holds a bachelor's degree in
+    political science from the University of Chicago and master's degree in
+    public policy from the UCLA Luskin School. Before joining DataSF, Blake
+    worked as a researcher with the UCLA Labor Center, as a statistician with
+    the Empirical Research Group at the UCLA Law School, and a policy advocate
+    at IWJ, a non-profit in Chicago that focuses on labor rights and economic
+    justice issues.
   gravatar: 3f5249ee91007d67194270ad9b1708fa
-  
 kimberly_hicks:
   name: Kimberly Hicks
   title: Data Scientist
-  bio: "Data Scientist, City and County of San Francisco"
-  long_bio: 'Kimberly Hicks is the Data Scientist specializing in data mining, predictive analytics, machine learning and data visualization.  Her focus is putting the City’s data to work to increase the quality of life for San Franciscans. Kimberly comes to the City from the private sector having worked for several years building innovative, statistical tools and ultimately improving efficiency through advanced analytics. Kimberly holds a Bachelor’s degree in Mathematics and a Master’s degree in Applied Statistics from the University of Michigan, Ann Arbor.'
+  bio: 'Data Scientist, City and County of San Francisco'
+  long_bio: >-
+    Kimberly Hicks is the Data Scientist specializing in data mining, predictive
+    analytics, machine learning and data visualization.  Her focus is putting
+    the City’s data to work to increase the quality of life for San Franciscans.
+    Kimberly comes to the City from the private sector having worked for several
+    years building innovative, statistical tools and ultimately improving
+    efficiency through advanced analytics. Kimberly holds a Bachelor’s degree in
+    Mathematics and a Master’s degree in Applied Statistics from the University
+    of Michigan, Ann Arbor.
   gravatar: e60f96bec9c1d177713240e49bb71bf6
-  
 samuel_abbott:
   name: Sam Abbott
-  title: Performance Analyst, Controller's Office
-  bio: "Performance Analyst, Controller's Office"
-  long_bio: 'Sam joined the City in August 2015 after working for three years at Urban Partnership Bank, a Chicago-based community development bank serving low to moderate-income communities by providing capital and financial services to spur economic development.  While at the bank, Sam developed his Excel skills as a financial analyst and continues to put them to work in City Performance.  Since joining the City, Sam has worked on projects such as creating online Tableau dashboards for park scores and enhancing Data Academy!  Sam graduated with honors from the University of Chicago in 2012, where he received a BA in Public Policy and a minor in Spanish.  He is originally from Cleveland, Ohio and enjoys watching documentaries and playing basketball.'
+  title: 'Performance Analyst, Controller''s Office'
+  bio: 'Performance Analyst, Controller''s Office'
+  long_bio: "Sam joined the City in August 2015 after working for three years at Urban Partnership Bank, a Chicago-based community development bank serving low to moderate-income communities by providing capital and financial services to spur economic development.\_ While at the bank, Sam developed his Excel skills as a financial analyst and continues to put them to work in City Performance.\_ Since joining the City, Sam has worked on projects such as creating online Tableau dashboards for park scores and enhancing Data Academy!\_ Sam graduated with honors from the University of Chicago in 2012, where he received a BA in Public Policy and a minor in Spanish.\_ He is originally from Cleveland, Ohio and enjoys watching documentaries and playing basketball."
   gravatar: 84d3934d65fd0d0ead82de7a4ed5a35e
-  
 sherman_luk:
   name: Sherman Luk
-  title: Project Manager, Controller's Office
-  bio: "Project Manager, Controller's Office"
-  long_bio: 'Sherman oversees the formation and expansion of the Data Academy and manages a portfolio of technology projects for the City Performance Unit of the Controller’s Office. His expertise is in technology consulting and new product development. He has taught courses for UC Berkeley Extension and developed corporate training for technology users.&nbsp; Sherman has an MA in City Planning from UC Berkeley and an MS in Management Science from Stanford University. He is professionally certified in Business Intelligence, Business Analysis, and Project Management.'
+  title: 'Project Manager, Controller''s Office'
+  bio: 'Project Manager, Controller''s Office'
+  long_bio: >-
+    Sherman oversees the formation and expansion of the Data Academy and manages
+    a portfolio of technology projects for the City Performance Unit of the
+    Controller’s Office. His expertise is in technology consulting and new
+    product development. He has taught courses for UC Berkeley Extension and
+    developed corporate training for technology users.&nbsp; Sherman has an MA
+    in City Planning from UC Berkeley and an MS in Management Science from
+    Stanford University. He is professionally certified in Business
+    Intelligence, Business Analysis, and Project Management.
   gravatar: 5fe27ec33342f3942bf7ff581a898955
-
 omar_corona:
   name: Omar Corona
-  title: San Francisco Fellow, Controller's Office
-  bio: "San Francisco Fellow, Controller's Office"
-  long_bio: '.'
+  title: 'San Francisco Fellow, Controller''s Office'
+  bio: 'San Francisco Fellow, Controller''s Office'
+  long_bio: .
   gravatar: omar_corona.jpg
-  
 charlie_moffett:
   name: Charlie Moffett
   title: DataSF Summer Intern
-  bio: "DataSF Summer Intern, City and County of San Francisco"
-  long_bio: '.'
+  bio: 'DataSF Summer Intern, City and County of San Francisco'
+  long_bio: .
   gravatar: 02a2ea613df50585a71419b319d13477
-  
 anna_dunning:
   name: Anna Duning
   title: Budget Office Summer Intern
-  bio: "Budget Office Summer Intern, City and County of San Francisco"
-  long_bio: '.'
+  bio: 'Budget Office Summer Intern, City and County of San Francisco'
+  long_bio: .
   gravatar: 47c1534b6e375f002a4af275d813f8ee
