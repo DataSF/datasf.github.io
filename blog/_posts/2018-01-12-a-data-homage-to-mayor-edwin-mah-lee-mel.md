@@ -9,7 +9,7 @@ author:
 image:
   thumb: /mayor_data_homage/city_hall_mayor_lee.jpg
   feature: /mayor_data_homage/city_hall_mayor_lee.jpg
-  caption:
+  caption: City hall flags at half mast the morning of Mayor Ed Lee’s death.
   source:
     title:
     author:
