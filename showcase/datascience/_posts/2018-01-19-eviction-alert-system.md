@@ -74,15 +74,7 @@ This supplements the City’s current eviction prevention services by adding pro
 
 ### Client Team
 
-* Robert Collins, Executive Director, Rent Board
+* Brian Cheu, Directory of Community Development, MOHCD
 * Hugo Ramirez, Senior Community Development Program Specialist, MOHCD
-
-### Testimonial
-
-> As a cohort, I disc
->
->
->
-> * Name
 
 <div class="footnotes"><ol><li id="fn:1"><p>https://archives.sfexaminer.com/sanfrancisco/chinatown-evictions-halted-by-mayor-ed-lee/ <a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
