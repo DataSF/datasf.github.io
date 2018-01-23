@@ -2,8 +2,8 @@
 title: A Data Homage to Mayor Edwin Mah Lee (MEL)
 author:
 image:
-  thumb:
-  feature:
+  thumb: /mayor_data_homage/city_hall_mayor_lee.jpg
+  feature: /mayor_data_homage/city_hall_mayor_lee.jpg
   caption:
   source:
     title:
