@@ -73,3 +73,13 @@ TTX is now looking to run experiments on all of its tax letters!
 ![A bar chart comparing the response rates for the control and treatment.](/uploads/versions/ab-ttx-results---x----715-414x---.PNG)
 
 <figcaption>The rate of response to the new letter (treatment) was 17% higher than the response rate for the old letter. We are 90% confidant that our new letter improved response rates with p=.0515</figcaption>
+
+### Client Details
+
+#### Client Team
+
+insert list
+
+#### Testimonial
+
+Conducting an A/B Test with DataScienceSF was a great experience for the Office of the Treasurer & Tax Collector. They connected us with the Behavioral Insights Team through the What Works Cities initiative. We had training from the state of the industry in using behavioral insights for government work. They expertly facilitated a process where our team quickly learned the major elements of the EAST principles and rapidly put them into practice. We are incorporating A/B testing and behavioral insights into our future communications with taxpayers and look forward to making more evidence-based decisions.
