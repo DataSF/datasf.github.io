@@ -24,13 +24,13 @@ Eligibility is based on federal rules for income as well as meeting certain cond
 
 Use of WIC is associated with many beneficial outcomes, including improving school readiness, socioeconomic outcomes and lifetime health.
 
-## Service Question: Despite being eligible, moms are dropping out at higher rates every year
+## Service Question: Despite being eligible, babies are dropping out at higher rates every year
 
-WIC noticed that retention rates have been falling since 2011. Women who start on WIC, are staying on it for less time. Only 28% of those who start the program, stay on it through the child turning age 5, the end of the program.
+WIC noticed that retention rates have been falling since 2011. Women who start on WIC, are staying on it for less time. Only 28% of babies who enroll before 6 months of age, stay on it through age 5, the end of the program.
 
 ![Line chart showing decreasing retention rates (% still in program at 1 year of age) from 2011-2017](/uploads/versions/wic-droppingretention---x----477-397x---.PNG)
 
-<figcaption>Since 2011, fewer participants have stayed in the program at 1 year of age, resulting in a 16% drop in retention since 2011.</figcaption>
+<figcaption>Since 2011, fewer babies have stayed in the program at 1 year of age, resulting in a 16% drop in retention since 2011.</figcaption>
 
 One explanation could be that the economic recovery meant that less people were eligible or needed the program. But the department had already determined that the size of the eligible population well exceeded who they were serving.If eligibility was not an issue, what else could be driving the drop off?
 
@@ -65,14 +65,13 @@ WIC is now using the major insights to reshape their outreach and program messag
 ### Client Team
 
 * Magdalene Louie, WIC Program Coordinator, Department of Public Health WIC
-* Alecia Martin, Quality Improvement and Integration Coordinato, Department of Public Health
+* Alecia Martin, Quality Improvement and Integration Coordinato, MCAH, Department of Public Health
 * Priti Rane, &nbsp;Director of Nutrition Services, Department of Public Health WIC
-* Ameerah Thomas, Health Care Analyst, Department of Public Health
+* Ameerah Thomas, Health Care Analyst, MCAH, Department of Public Health
 
 ### Testimonial
 
-> As a cohort, I discove….
+> Even without prior knowledge of the WIC program, once presented with the problem statement, the DataSF team, with their expertise in data analysis, provided us with valuable insights and findings regarding the retention trends among children participating in the WIC Program. &nbsp;The most impressive part of their work was the extremely accurate predictive model that they build to help identify children that were at risk for dropping off even before they were born! This model has helped us strategically plan interventions and target our retention efforts towards the most vulnerable families in San Francisco. The entire DataSF team was highly responsive, innovative with a service-change oriented mindset and we could not have asked for better data partners to collaborate with!
 >
 >
->
-> * Name
+> ---Magdalene Louie
