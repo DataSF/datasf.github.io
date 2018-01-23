@@ -1,10 +1,11 @@
 ---
 title: A Data Homage to Mayor Edwin Mah Lee (MEL)
 author:
-  - joy_bonaguro
   - blake_valenta
-  - kimberly_hicks
   - janine_heiser
+  - jason_lally
+  - joy_bonaguro
+  - kimberly_hicks
 image:
   thumb: /mayor_data_homage/city_hall_mayor_lee.jpg
   feature: /mayor_data_homage/city_hall_mayor_lee.jpg
