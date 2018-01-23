@@ -71,7 +71,13 @@ WIC is now using the major insights to reshape their outreach and program messag
 
 ### Testimonial
 
-> Even without prior knowledge of the WIC program, once presented with the problem statement, the DataSF team, with their expertise in data analysis, provided us with valuable insights and findings regarding the retention trends among children participating in the WIC Program. &nbsp;The most impressive part of their work was the extremely accurate predictive model that they build to help identify children that were at risk for dropping off even before they were born! This model has helped us strategically plan interventions and target our retention efforts towards the most vulnerable families in San Francisco. The entire DataSF team was highly responsive, innovative with a service-change oriented mindset and we could not have asked for better data partners to collaborate with!
+> Even without prior knowledge of the WIC program, once presented with the problem statement, the DataSF team, with their expertise in data analysis, provided us with valuable insights and findings regarding the retention trends among children participating in the WIC Program.
+>
+>
+> The most impressive part of their work was the extremely accurate predictive model that they build to help identify children that were at risk for dropping off even before they were born! This model has helped us strategically plan interventions and target our retention efforts towards the most vulnerable families in San Francisco.
+>
+>
+> The entire DataSF team was highly responsive, innovative with a service-change oriented mindset and we could not have asked for better data partners to collaborate with!
 >
 >
 > ---Magdalene Louie
