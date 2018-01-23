@@ -87,6 +87,7 @@ TTX is now looking to run experiments on all of its tax letters!
 
 #### Testimonial
 
-Conducting an A/B Test with DataScienceSF was a great experience for the Office of the Treasurer & Tax Collector. They connected us with the Behavioral Insights Team through the What Works Cities initiative. We had training from the state of the industry in using behavioral insights for government work. They expertly facilitated a process where our team quickly learned the major elements of the EAST principles and rapidly put them into practice. We are incorporating A/B testing and behavioral insights into our future communications with taxpayers and look forward to making more evidence-based decisions.
-
----Greg Kato, Compliance Director, Treasurer & Tax Collector
+> Conducting an A/B Test with DataScienceSF was a great experience for the Office of the Treasurer & Tax Collector. They connected us with the [Behavioral Insights Team](http://www.behaviouralinsights.co.uk/behavioral-insights-team-north-america/) through the [What Works Cities](https://whatworkscities.bloomberg.org/) initiative. We had training from the state of the industry in using behavioral insights for government work. They expertly facilitated a process where our team quickly learned the major elements of the EAST principles and rapidly put them into practice. We are incorporating A/B testing and behavioral insights into our future communications with taxpayers and look forward to making more evidence-based decisions.
+>
+>
+> ---Greg Kato, Compliance Director, Treasurer & Tax Collector
