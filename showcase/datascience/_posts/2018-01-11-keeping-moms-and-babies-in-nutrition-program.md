@@ -1,6 +1,6 @@
 ---
 title: Keeping Moms and Babies in Nutrition Program
-background_image_path: /uploads/baby-mom.jpeg
+background_image_path: /uploads/baby-mom-cropped.jpg
 card_image_path: /uploads/baby-mom.png
 resources:
   - name: Powerpoint Presentation
