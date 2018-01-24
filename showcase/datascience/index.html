@@ -9,7 +9,7 @@ blurb: "Showcasing the work of DataScienceSF, a service of DataSF. DataSF works 
 
 <section id="stories" class="bg-light-gray">
   <div class="container">
-    {% assign sortedposts = site.categories.datascience | sort: 'title' %}
+    {% assign sortedposts = site.categories.datascience | sort: 'title' | where: 'featured',true %}
     {% include stories-iterator-horizontal-simple.html posts=sortedposts %}
   </div>
 </section>
