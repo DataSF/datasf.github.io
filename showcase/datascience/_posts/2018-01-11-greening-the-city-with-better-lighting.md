@@ -1,7 +1,7 @@
 ---
 title: Greening the City with Better Lighting
-background_image_path: /uploads/bulbs.jpg
-card_image_path: /uploads/bulbs.jpg
+background_image_path: /uploads/5243218781-c7d6243845-b.jpg
+card_image_path: /uploads/5243218781-c7d6243845-b.png
 resources:
   - name: Powerpoint Presentation
     url: 'https://drive.google.com/open?id=0B3nQt7K8TDq0NmtUT2d6TndBYWc'
