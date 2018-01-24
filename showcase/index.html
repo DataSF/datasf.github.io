@@ -1,103 +1,92 @@
----
-layout: masthead
-sitemap: false
-background_image_path: /uploads/showcase.jpg
-title: Made with Open Data
-blurb: The open data application showcase. Browse apps, research, websites and more made with open data.
+--- 
+layout: masthead 
+index: showcase 
+subnav: true 
+background_image_path: /uploads/showcase.jpg 
+title: Showcase 
+blurb: Browse projects showcasing the work of DataSF, City Departments, researchers, developers and more. 
 ---
 
-<section id="showcase">
+<section id="stories" class="bg-light-gray">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12 section-heading-wrapper">
-        <p class="opening-statement">
-        Welcome to the showcase. In the future, we'll include reports, stories and feature other uses of the City's data. For now, explore the different apps by category and visit our complete apps showcase. Or <a href="https://datasf.org/showcase/made-with-open-data-survey/">Submit your app</a>!
-        </p>
+      <div class="col-sm-12">
+        <h1>Featured from DataScienceSF</h1>
+        <p>DataSF works with departments on applied problem-solving with advanced analytics resulting in a service change. <a href="/showcase/datascience/">Explore even more projects on the Data Science Showcase</a>.</p>
       </div>
     </div>
-    <div class="row" id="featured-tiles">
-      <div class="featured-tile col-sm-6 col-md-3">
-        <div class="feature" style="background-image:url(/assets/img/leaf.png);">
-          <div class="feature-title">
-            Environment Apps
-          </div>
-          <a href="http://apps.sfgov.org/showcase/apps-categories/environment/"></a>
-        </div>
-      </div>
-      <div class="featured-tile col-sm-6 col-md-3">
-        <div class="feature" style="background-image:url(/assets/img/map-pin.png);">
-          <div class="feature-title">
-            Transit Apps
-          </div>
-          <a href="http://apps.sfgov.org/showcase/apps-categories/transportation/"></a>
-        </div>
-      </div>
-      <div class="featured-tile col-sm-6 col-md-3">
-        <div class="feature" style="background-image:url(/assets/img/shield.png);">
-          <div class="feature-title">
-            Crime Apps
-          </div>
-          <a href="http://apps.sfgov.org/showcase/apps-categories/crime/"></a>
-        </div>
-      </div>
-      <div class="featured-tile col-sm-6 col-md-3">
-        <div class="feature" style="background-image:url(/assets/img/mobile-phone.png);">
-          <div class="feature-title">
-            View more apps...
-          </div>
-          <a href="http://apps.sfgov.org/showcase/"></a>
-        </div>
+      {% assign sortedposts = site.categories.datascience | sort:'title' %}
+      {% include stories-iterator-horizontal-simple.html posts=sortedposts limit=3 %}
+    </div>
+  </section>
+  <section id="madewith">
+    <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1>Featured Applications of Open Data</h1>
+        <p>Researchers, developers and all sorts of data consumers create work <a href="/opendata/">using open data</a>. We feature those here. <a href="/showcase/opendata/">You can browse a full list of example uses on Made with Open Data</a>.</p>
       </div>
     </div>
-  <div class="row">
-    <div class="col-sm-12 text-center" style="margin-bottom: 25px">
-      <h2>Featured applications</h2>
-    </div>
-  </div>
-  <div id="app-content">
-    <!-- Placeholder for app content -->
-    <div class="row showcase-item">
-      <div class="col-sm-12 col-md-5 col-lg-4">
-        <a href="https://datasf.org/sf-building-explorer"><img src="/assets/showcase/building-explorer/building-app.png" alt="Screenshot of the Open311 explorer"></a>
-      </div>
-      <div class="col-sm-12 col-md-7 col-lg-8">
-        <h4 class="showcase-title no-top-margin"><a href="https://datasf.org/sf-building-explorer">Explore San Francisco Buildings in Three dimensions</a></h4>
-        <div class="showcase-description">
-          The San Francisco building explorer allows you to click through the City. You can explore open data related to each building including associated addresses, housing inspections and violations, permits and more.
+    <div id="app-content">
+      <!-- Placeholder for app content -->
+      <div class="row showcase-item">
+        <div class="col-sm-12 col-md-5 col-lg-4">
+          <a href="https://datasf.org/sf-building-explorer">
+            <img src="/assets/showcase/building-explorer/building-app.png" alt="Screenshot of the Open311 explorer">
+          </a>
         </div>
-      </div>
-    </div>
-  </div>
-
-    <div class="row showcase-item">
-      <div class="col-sm-12 col-md-5 col-lg-4">
-        <a href="http://housing.datasf.org/"><img src="/assets/showcase/housing-data-hub/housing-hub-screen.png" alt="Screenshot of housing data hub website"></a>
-      </div>
-      <div class="col-sm-12 col-md-7 col-lg-8">
-        <h4 class="showcase-title no-top-margin"><a href="http://housing.datasf.org/">Explore San Francisco Housing Policy and Data</a></h4>
-        <div class="showcase-description">
-          <p>The San Francisco Housing Data Hub is your go-to resource for learning about policies and programs that affect housing affordability and are administered by local government agencies in San Francisco. We provide an overview of each of the major programs - what it is, its purpose, and related data.</p>
+        <div class="col-sm-12 col-md-7 col-lg-8">
+          <h4 class="showcase-title no-top-margin">
+            <a href="https://datasf.org/sf-building-explorer">Explore San Francisco Buildings in Three dimensions</a>
+          </h4>
+          <div class="showcase-description">
+            The San Francisco building explorer allows you to click through the City. You can explore open data related to each building
+            including associated addresses, housing inspections and violations, permits and more.
+          </div>
         </div>
       </div>
     </div>
 
     <div class="row showcase-item">
       <div class="col-sm-12 col-md-5 col-lg-4">
-        <a href="http://propertymap.sfplanning.org/"><img src="/assets/showcase/property-information-map/pim.png" alt="Screenshot of the property information map"></a>
+        <a href="http://housing.datasf.org/">
+          <img src="/assets/showcase/housing-data-hub/housing-hub-screen.png" alt="Screenshot of housing data hub website">
+        </a>
       </div>
       <div class="col-sm-12 col-md-7 col-lg-8">
-        <h4 class="showcase-title no-top-margin"><a href="http://propertymap.sfplanning.org/">Public Access to Useful Property Information & Resources at the Click of a Mouse</a></h4>
+        <h4 class="showcase-title no-top-margin">
+          <a href="http://housing.datasf.org/">Explore San Francisco Housing Policy and Data</a>
+        </h4>
         <div class="showcase-description">
-          The San Francisco Planning Department's award winning, innovative and user-friendly Property Information Map provides a single access point for a variety of useful property data, zoning and premitting information. 
+          <p>The San Francisco Housing Data Hub is your go-to resource for learning about policies and programs that affect
+            housing affordability and are administered by local government agencies in San Francisco. We provide an overview
+            of each of the major programs - what it is, its purpose, and related data.</p>
         </div>
       </div>
     </div>
 
-  <div class="row spacer">
-    <div class="col-sm-12 text-center">
-      <a href="https://data.sfgov.org/developers" class="btn btn-default">Build your own app!</a>
+    <div class="row showcase-item">
+      <div class="col-sm-12 col-md-5 col-lg-4">
+        <a href="http://propertymap.sfplanning.org/">
+          <img src="/assets/showcase/property-information-map/pim.png" alt="Screenshot of the property information map">
+        </a>
+      </div>
+      <div class="col-sm-12 col-md-7 col-lg-8">
+        <h4 class="showcase-title no-top-margin">
+          <a href="http://propertymap.sfplanning.org/">Public Access to Useful Property Information & Resources at the Click of a Mouse</a>
+        </h4>
+        <div class="showcase-description">
+          The San Francisco Planning Department's award winning, innovative and user-friendly Property Information Map provides a single
+          access point for a variety of useful property data, zoning and premitting information.
+        </div>
+      </div>
     </div>
-  </div>
+
+    <div class="row spacer">
+      <div class="col-sm-12 text-center">
+        <a href="https://data.sfgov.org/developers" class="btn btn-default">Build your own app!</a>
+      </div>
+    </div>
   </div>
 </section>
 </div>

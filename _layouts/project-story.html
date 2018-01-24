@@ -1,0 +1,91 @@
+--- 
+layout: default
+---
+<div class="masthead" style="background: #333 url({{page.background_image_path}}) no-repeat center center; background-size: cover;">
+  {% if page.image_source %}
+  <div class="masthead-attribution hidden-xs" style="z-index: 5; position: absolute; bottom:0; right: 30px;">
+    <figcaption style="color:white;">
+      <a href="{{page.image_source.link}}">{{ page.image_source.title }}</a> by <a href="{{page.image_source.author_link}}">{{page.image_source.author}}</a> licensed under <a href="{{page.image_source.license_link}}">{{page.image_source.license}}</a>
+    </figcaption>
+  </div>
+  {% endif %}
+  <div class="container" style="z-index: 4; position: relative; min-height: 200px;">
+    <div class="row" style="position: absolute; bottom: 20px;">
+      <div class="col-xs-12">
+        <div style="padding: .5em; background-color: #133140;">
+          <strong style="color: #245f7b">Data Science Story</strong>
+          <h1 style="color: white; margin-top: 0;">{{page.title}}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="main" role="main" class="project-story">
+  <div class="container">
+    <article class="wrap" itemscope itemtype="http://schema.org/Article">
+      <!-- include breadcrumbs.html -->
+      <div class="row">
+        <div class="col-md-3 sidebar">
+          <aside>
+            <div class="toc-wrap">
+              <div id="article-toc"></div>
+              <div class="visible-md-block visible-lg-block">
+                {% if page.resources %}
+                <div style="margin-bottom: 2em">
+                  <h2>Project Resources</h2>
+                  <ul>
+                    {% for resource in page.resources %}
+                    <li><a href="{{resource.url}}">{{resource.name}}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+                {% endif %}
+                {% if page.share != false %}
+                {% include share-this.html %} {% endif %} 
+              </div>
+          </div>
+          </aside>
+        </div>
+        <div class="col-md-7">
+          <div id="content" class="page-content article-body" itemprop="articleBody">
+            {{ content }}
+            <hr />
+            <div class="page-footer">
+              <div class="visible-sm-block visible-xs-block">
+                  {% if page.resources %}
+                  <div style="margin-bottom: 2em">
+                    <h2>Project Resources</h2>
+                    <ul>
+                      {% for resource in page.resources %}
+                      <li><a href="{{resource.url}}">{{resource.name}}</a></li>
+                      {% endfor %}
+                    </ul>
+                  </div>
+                  {% endif %}
+              </div>
+            </div>
+            <!-- /.footer -->
+            <aside>
+              {% if page.comments == true %}
+              <!-- include comments.html -->
+              {% endif %}
+            </aside>
+          </div>
+          <!-- /.content -->
+        </div>
+      </div>
+      <!-- /.inner-wrap -->
+    </article>
+    <!-- Edit current page -->
+    <!--
+    <a href="{% if page.path %}https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo&redirect_uri=http://prose.io/#datasf/datasf-website/edit/master/{{ page.path }}{% else %}//prose.io/#datasf/datasf-website{% endif %}" target="_blank">Edit this page in Prose.io</a>-->
+
+    <!-- Add post -->
+    <!--
+    <a href="//prose.io/#zzolo/zzolo.github.com/new/master/_posts" target="_blank">Add a post with Prose.io</a>-->
+
+  </div>
+  <!-- ./wrap -->
+</div>
+<!-- /#main -->

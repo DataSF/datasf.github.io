@@ -6,8 +6,8 @@
 <div class="author-image pull-left">
 	<img src="http://gravatar.com/avatar/{{author.gravatar}}?s=100" alt="{{ author.name }}'s picture">
 </div><!-- ./author-image -->
-<div class="author-content">
-	<h3 class="author-name color-primary">{% if author.web %}<a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>{% else %}<span itemprop="author">{{ author.name }}</span>{% endif %}</h3>
+<div class="author-content" itemprop="author" itemscope itemtype="http://schema.org/Person">
+	<h3 class="author-name color-primary">{% if author.web %}<a href="{{ author.web }}" itemprop="name">{{ author.name }}</a>{% else %}<span itemprop="name">{{ author.name }}</span>{% endif %}</h3>
 	<p class="author-bio">{{ author.bio }}</p>
 </div><!-- ./author-content -->
 </div>

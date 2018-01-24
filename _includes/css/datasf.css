@@ -82,7 +82,23 @@ body {
 
 @media (min-width: 768px) {
   .left-cover {
-    width: 45%;
+    width: 49%;
+  }
+}
+
+.equal,.equal>div[class*='col-'] {
+  display: -webkit-flex;
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.equal:last-child, .equal:last-child>div[class*='col-'] {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .equal,.equal>div[class*='col-'] {
+    display:block;
   }
 }
 
@@ -815,6 +831,18 @@ a:active {
   }
   body.has-subnav {
     margin-top: 122px;
+  }
+  body article a.footnote:before {
+    content:"";
+    display:inline-block;
+    height:82px; /* fixed header height*/
+    margin:-82px 0 0; /* negative fixed header height */
+  }
+  body.has-subnav article a.footnote:before {
+    content:"";
+    display:inline-block;
+    height:142px; /* fixed header height*/
+    margin:-142px 0 0; /* negative fixed header height */
   }
 }
 
@@ -1614,6 +1642,43 @@ body {
   }
 }
 
+/* Showcase Data Science */
+
+.project-story aside {
+  margin-top: 0;
+}
+
+.project-story #article-toc ul {
+  list-style: none;
+  padding: 0;
+  border-top: 1px solid #cacaca;
+  margin-bottom: 2em;
+}
+
+.project-story #article-toc li {
+  display: block;
+  border-bottom: 1px solid #cacaca;
+}
+
+.project-story #article-toc a {
+  line-height: 1.3125em;
+  font-size: 1em;
+  font-weight: bold;
+  padding: .75em;
+  display: block;
+  text-decoration: none;
+  border-left: 0.5em solid #cacaca;
+  border-right: 0.1em solid #cacaca;
+}
+
+.project-story #article-toc .toc-active a {
+  border-left: 0.5em solid #{{site.color.primary}};
+}
+
+.project-story #article-toc .toc-hidden {
+  display: none;
+}
+
 /*Featured showcase */
 .featured-showcase .showcase-title {
   padding: 0 10px;
@@ -2018,7 +2083,7 @@ figure.third:after {
 }
 
 p+figcaption {
-  margin-top: -20px;
+  margin-top: -10px;
 }
 
 figcaption {
@@ -2308,15 +2373,25 @@ OL LI OL {
   list-style-type: lower-alpha;
 }
 
+@media (max-width: 767px) {
+  .affix {
+      position: static !important;
+  }
+}
+
 .toc-wrap.affix {
   top: 102px;
+}
+
+.has-subnav .toc-wrap.affix {
+  top: 142px;
 }
 
 .toc-h3 {
   margin-left: 20px;
 }
 
-article span:before { content: ''; display: block; position: relative; width: 0; height: 120px; margin-top: -120px }
+article span:before { content: ''; display: block; position: relative; width: 0; height: 142px; margin-top: -142px }
 
 .fr_option{
   font-weight: normal;

@@ -1,0 +1,26 @@
+{% if include.limit %}
+{% assign lim = include.limit %}
+{% else %}
+{% assign lim = nil %}
+{% endif %}
+
+{% for post in include.posts limit:lim %}
+{% assign remainder = forloop.index | modulo:3 %}
+{% if remainder == 1 %}
+<div class="row equal">
+{% endif %}
+  <div class="story-item story-item-horizontal col-md-4">
+    <div class="story-caption clearfix">
+      {% if post.card_image_path %}
+      <a href="{{site.baseurl}}{{post.url}}">
+        <div class="block-image pull-right" style="background-image:url({{post.card_image_path}});" alt="Image for article titled {{post.title}}; click to read"></div>
+      </a>
+      {% endif %}
+      <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
+      <p class="text-muted">{{ post.excerpt }}</p>
+    </div>
+  </div>
+{% if remainder == 0 or forloop.last == true %}
+</div>
+{% endif %}
+{% endfor %}
