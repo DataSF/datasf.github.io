@@ -1,7 +1,7 @@
 ---
 title: Greening the City with Better Lighting
-background_image_path: /uploads/bulbs.jpg
-card_image_path: /uploads/bulbs.jpg
+background_image_path: /uploads/5243218781-c7d6243845-b.jpg
+card_image_path: /uploads/5243218781-c7d6243845-b.png
 resources:
   - name: Powerpoint Presentation
     url: 'https://drive.google.com/open?id=0B3nQt7K8TDq0NmtUT2d6TndBYWc'
@@ -89,5 +89,7 @@ This project prompted a couple of new ideas:
 > —Lowell Chu, Senior Energy Efficiency Specialist, San Francisco Department of the Environment
 
 ---
+
+*Image Credit: Header Image "Three energy saving light bulbs (original image cropped but unaltered otherwise)" by [Anton Fomkin](https://www.flickr.com/photos/antonfomkin/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 <div class="footnotes"><ol><li id="fn:1"><p><a href="http://www.energy.ca.gov/sb350/">http://www.energy.ca.gov/sb350/</a> <a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
