@@ -1,7 +1,7 @@
 ---
 title: Keeping Moms and Babies in Nutrition Program
-background_image_path: /uploads/k-174-chim-3560-3.jpg
-card_image_path: /uploads/k-174-chim-3560-3-1.jpg
+background_image_path: /uploads/baby-mom.jpeg
+card_image_path: /uploads/baby-mom.png
 resources:
   - name: Powerpoint Presentation
     url: >-
@@ -66,7 +66,7 @@ WIC is now using the major insights to reshape their outreach and program messag
 
 * Magdalene Louie, WIC Program Coordinator, Department of Public Health WIC
 * Alecia Martin, Quality Improvement and Integration Coordinato, MCAH, Department of Public Health
-* Priti Rane, &nbsp;Director of Nutrition Services, Department of Public Health WIC
+* Priti Rane,  Director of Nutrition Services, Department of Public Health WIC
 * Ameerah Thomas, Health Care Analyst, MCAH, Department of Public Health
 
 ### Testimonial
@@ -80,4 +80,4 @@ WIC is now using the major insights to reshape their outreach and program messag
 > The entire DataSF team was highly responsive, innovative with a service-change oriented mindset and we could not have asked for better data partners to collaborate with!
 >
 >
-> ---Magdalene Louie
+> —Magdalene Louie
