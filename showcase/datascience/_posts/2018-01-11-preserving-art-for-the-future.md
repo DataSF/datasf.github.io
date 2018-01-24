@@ -72,7 +72,7 @@ They’ve already made changes to some of the starting assumptions and are heari
 ### Client Team
 
 * Jennifer Correia, Project Manager, Civic Art Collection, SF Arts Commission
-* Jennifer Crane, Program Associate, Civic Art Collection, SF Arts Commission
+* Jennifer Crane, Project Manager, Civic Art Collection, SF Arts Commission
 * Allison Cummings, Senior Registrar, Civic Art Collection, SF Arts Commission
 * Anh Thang Dao-Shah, Senior Racial Equity & Policy Analyst, SF Arts Commission
 * Kate Faust, Capital Analyst, SF Arts Commission
