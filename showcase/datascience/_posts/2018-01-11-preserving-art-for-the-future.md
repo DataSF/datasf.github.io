@@ -81,4 +81,7 @@ They’ve already made changes to some of the starting assumptions and are heari
 
 ### Testimonial
 
-> Forthcoming!
+> The San Francisco Arts Commission is grateful for being selected as a part of the first DataScienceSF cohort. After struggling for a number of years to produce accurate maintenance and conservation cost projections for the entirety of the Civic Art Collection, DataScienceSF brought the exact expertise we needed to break through and complete the project. Our experience working with Joy and her team by far exceeded expectations. They have the unique ability to quickly grasp client goals, are extremely attentive to client needs, and the precision with which they approached our project was unparalleled. We were deeply impressed with how efficiently DataScienceSF worked and the level of communication we maintained with their team. The result is a groundbreaking tool that simplifies our capital budgeting process, helps us determine maintenance priorities, and allows staff to focus energies on actually caring for the collection. Thank you DataScienceSF!!
+>
+>
+> ---Allison Cummings, Senior Registrar, Civic Art Collection
