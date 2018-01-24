@@ -81,7 +81,4 @@ They’ve already made changes to some of the starting assumptions and are heari
 
 ### Testimonial
 
-> As a cohort, I disc
->
->
-> -name
+> Forthcoming!
