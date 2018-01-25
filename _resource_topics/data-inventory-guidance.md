@@ -24,10 +24,10 @@ resources_list:
     resource_type: Guide
     links:
       - link: >-
-          https://docs.google.com/document/d/1W5C5oO2TrVnmOgLe81_KYgmbghj6hDs9-4SC-ygMDV4/edit
+          https://docs.google.com/document/d/1Ryg85TgCZxyKiPktD_7JEhKfnyV4otA6OaP-msAYnIE/edit?usp=sharing
         media_type: Google Doc
       - link: >-
-          https://docs.google.com/document/d/1W5C5oO2TrVnmOgLe81_KYgmbghj6hDs9-4SC-ygMDV4/export?format=pdf
+          https://docs.google.com/document/d/1Ryg85TgCZxyKiPktD_7JEhKfnyV4otA6OaP-msAYnIE/export?format=pdf
         media_type: PDF
   - name: One Page Summary of DataSF Program
     description: >-
