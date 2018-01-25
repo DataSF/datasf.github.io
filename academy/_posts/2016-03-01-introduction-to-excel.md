@@ -2,7 +2,9 @@
 layout: course
 title: Introduction to Excel
 course_short_name: Excel - Intro
-description: This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy.
+description: >-
+  This classroom based workshop is the first in a series of workshops on Excel
+  offered by the Data Academy.
 prerequisites: None
 length: 2.5
 series:
@@ -16,7 +18,8 @@ team_members:
   - david-weinzimmer
   - jessie-rubin
   - sam-abbott
-course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9YmlxVUV4WWlUNTA&usp=sharing'
+course_materials_link: >-
+  https://drive.google.com/folderview?id=0BwRgeGq-b8f9YmlxVUV4WWlUNTA&usp=sharing
 order: 0
 ---
 
@@ -25,11 +28,9 @@ order: 0
 
 This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy. &nbsp;It covers very basic topics and assumes no prior experience with the program.
 
-&nbsp;
-
 ## What you’ll learn
 
-Please click the below links to access how-to guides from Lynda.com! &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+In this course we will cover the following topics:
 
 * [Features of Excel and the tool ribbon](http://www.lynda.com/Excel-tutorials/Using-menu-system/376986/431699-4.html?)
 * [Basic shortcuts](https://support.office.com/en-us/article/Keyboard-shortcuts-in-Excel-Online-9271deca-569e-4ad2-8475-9ff98b8bcce3)
@@ -40,10 +41,10 @@ Please click the below links to access how-to guides from Lynda.com! &nbsp;[Clic
 * [COUNTIF, COUNTA functions](http://www.lynda.com/Excel-tutorials/Using-COUNTIF-family-functions/376986/431762-4.html?)
 * [Absolute vs relative cell references](http://www.lynda.com/Excel-tutorials/Working-relative-absolute-mixed-references/376986/431720-4.html?)
 
-
 ## &nbsp;
 
 ## More resources
 
+* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 * San Francisco Public Library
-  * [Introduction to Microsoft Excel 2013](http://education.gale.com/l-sfpl/online-courses/microsoft-excel-2013-introduction?tab=detail)[&nbsp;from Gale Courses](__notset__) (6 weeks, 24hrs total works)
+  * [Introduction to Microsoft Excel 2013](https://education.gale.com/l-sfpl/online-courses/microsoft-excel-2013-introduction?tab=detail)[&nbsp;from Gale Courses](__notset__) (6 weeks, 24hrs total works)
