@@ -1,6 +1,7 @@
 ---
 title: Why San Francisco is Proud to be What Works Cities Certified
 author:
+  - joy_bonaguro
 image:
   thumb:
   feature:
