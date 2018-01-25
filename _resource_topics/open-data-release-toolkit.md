@@ -1,33 +1,46 @@
 ---
 title: Open Data Release Toolkit
-description: 'Toolkit to manage risks when publishing data. The Privacy Edition assesses the release of de-identified sensitive or protected datasets on the open data portal. Includes a step-by-step guide and supporting form. The Security Edition is a 4 step process for managing other types of risks (life / safety, property, etc). Includes a worksheet in the appendix.'
+description: >-
+  Toolkit to manage risks when publishing data. The Privacy Edition assesses the
+  release of de-identified sensitive or protected datasets on the open data
+  portal. Includes a step-by-step guide and supporting form. The Security
+  Edition is a 4 step process for managing other types of risks (life / safety,
+  property, etc). Includes a worksheet in the appendix.
 tags:
 audiences:
   - Data Publisher
   - Data Coordinator
 resources_list:
   - name: 'Open Data Release Toolkit: Privacy Edition'
-    description: Toolkit to assess the release of de-identified sensitive or protected datasets on the open data portal.
+    description: >-
+      Toolkit to assess the release of de-identified sensitive or protected
+      datasets on the open data portal.
     post_date: 2015-08-08 00:00:00
     resource_type: Toolkit
     links:
-      - link: 'https://drive.google.com/open?id=0B0jc1tmJAlTcR0RMV01PM2NyNDA'
+      - link: >-
+          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnRGRUVzhJaG5UcTg
         media_type: PDF
-      - link: 'https://drive.google.com/open?id=1MhvEuGKFuGY2vLcNqiXBsPjCzxYebe4dJicRWe6gf_s'
+      - link: >-
+          https://drive.google.com/open?id=1_K59q9ik5eEw9_-iiPCbQ8WSlGk0FovNz1uLajVHoi0
         media_type: Google Doc
   - name: 'Open Data Release Form: Privacy Edition'
     description: 'Form that accompanies the Open Data Release Toolkit: Privacy Edition'
     post_date: 2016-08-08 00:00:00
     resource_type: Template
     links:
-      - link: 'https://drive.google.com/open?id=12uk04YOXqP10oqFy6EcJ-wRa0IrGx1B-BaCNUITP-EA'
+      - link: >-
+          https://drive.google.com/open?id=1Dt604u-rgsQC4NMaxjh6Y1PRIWHLm30T0Va-iFnSmXk
         media_type: Google Doc
   - name: 'Open Data Release Toolkit: Security Edition'
-    description: Toolkit provides a consistent and repeatable 4 step process to assess security risks and select controls. Appendix includes a worksheet.
+    description: >-
+      Toolkit provides a consistent and repeatable 4 step process to assess
+      security risks and select controls. Appendix includes a worksheet.
     post_date: 2017-05-29 00:00:00
     resource_type: Toolkit
     links:
-      - link: 'https://docs.google.com/document/d/1hb85N5G4RXF2_p6HOGIzhji2S4X7Ak8zdIdIM_8k5EA/edit?usp=sharing'
+      - link: >-
+          https://drive.google.com/open?id=1ZGknij29YfoYtYZFn6uGqpqGTXwmZNkdUNaNhK1-6pc
         media_type: Google Doc
 ---
 
