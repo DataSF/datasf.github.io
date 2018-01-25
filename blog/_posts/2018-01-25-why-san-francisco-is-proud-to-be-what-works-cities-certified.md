@@ -3,8 +3,8 @@ title: Why San Francisco is Proud to be What Works Cities Certified
 author:
   - joy_bonaguro
 image:
-  thumb: WWC-Certification/20180125_091634.jpg
-  feature: WWC-Certification/20180125_091634.jpg
+  thumb: /WWC-Certification/20180125_091634.jpg
+  feature: /WWC-Certification/20180125_091634.jpg
   caption: San Francisco is proud to be a What Works Certified City!
   source:
     title:
