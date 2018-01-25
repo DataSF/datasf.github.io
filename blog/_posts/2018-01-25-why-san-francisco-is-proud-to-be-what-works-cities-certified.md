@@ -1,10 +1,10 @@
 ---
-title: Why San Francisco is
+title: Why San Francisco is Proud to be What Works Cities Certified
 author:
 image:
   thumb:
   feature:
-  caption:
+  caption: San Francisco is proud to be a What Works Certified City!
   source:
     title:
     author:
