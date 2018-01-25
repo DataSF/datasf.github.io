@@ -45,7 +45,7 @@ resources_list:
     resource_type: One Pager
     links:
       - link: >-
-          https://drive.google.com/uc?export=download&id=0B3XTBxBQSd0hX0MzWnRodTVVNG8
+          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnU25abC1wSFhXOG8
         media_type: PDF
   - name: Data Coordinator Inventory Tools Webinar
     description: >-
@@ -64,7 +64,7 @@ resources_list:
     resource_type: Template
     links:
       - link: >-
-          https://drive.google.com/uc?export=download&id=0B3XTBxBQSd0hYzJTTUY1TzMwcjA
+          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnZXVrcHlNeVF0N0E
         media_type: Excel
   - name: Data Inventory Example
     description: Example of a completed dataset inventory from the Airport.
@@ -72,7 +72,7 @@ resources_list:
     resource_type: Template
     links:
       - link: >-
-          https://drive.google.com/uc?export=download&id=0B3XTBxBQSd0hTE9WSml4eEpIcW8
+          https://drive.google.com/uc?export=download&id=1w2KTSiOPjX-Ndn80SMMf-RJ1Jp6ALD2T
         media_type: Excel
 ---
 
