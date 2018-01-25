@@ -46,6 +46,6 @@ This course will cover the following topics:
 
 ## More resources
 
-* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;Click here to find out how to sign up for a free account.
+* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;Click [here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing)to find out how to sign up for a free account.
 * San Francisco Public Library
   * [Intermediate Microsoft Excel 2013 from Gale Courses](https://education.gale.com/l-sfpl/online-courses/intermediate-microsoft-excel-13?tab=detail) (6 weeks, 24hrs total works)
