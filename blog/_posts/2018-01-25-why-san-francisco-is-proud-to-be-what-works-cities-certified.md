@@ -36,9 +36,9 @@ Someone once told me that working in government was like being on a bus where ev
 
 Approaches from the private sector need to be modified to take into account the facets of government, including procurement and hiring rules designed to addressed corruption and fair play; outcomes that are complex, hard to reach and often years out; and an ever changing coalition of collective input.
 
-**Political durability.** Yesterday, we met our third boss in six weeks. So, we're freshly qualified to speak on the importance of an external standard that can serve as a guide, regardless of who is in charge. As part of the Harvard DataSmart Civic Analytics Network, we talk a great deal about continuity between administrations. The WWC Certification provides a powerful tool to support that work.
+**Political durability.** Yesterday, we met our third boss in six weeks. So, we're freshly qualified to speak on the importance of an external standard that can serve as a guide, regardless of who is in charge. As part of the [Harvard Data-Smart Civic Analytics Network](http://datasmart.ash.harvard.edu/civic-analytics-network), we talk a great deal about continuity between administrations. The WWC Certification provides a powerful tool to support that work.
 
-**External validation process.** To become WWW Certified, we were subject to an external review process. While the certification process started with self-reporting, we needed to provide artifacts that substantiated our claims. As we progressed in the process, the substantiation become more detailed and included a site visit and detailed interviews and reviews. This external validation provides consistency, reliability and credibility to the process.
+**External validation process.** To become WWC Certified, we were subject to an external review process. While the certification process started with self-reporting, we needed to provide artifacts that substantiated our claims. As we progressed in the process, the substantiation become more detailed and included a site visit and detailed interviews and reviews. This external validation provides consistency, reliability and credibility to the process.
 
 For these reasons and more, I'm a big supporter of the standard as a collective maturation forcing function. A few thoughts on how it can continue to evolve:
 
