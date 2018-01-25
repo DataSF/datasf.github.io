@@ -37,7 +37,7 @@ resources_list:
     resource_type: One Pager
     links:
       - link: >-
-          https://drive.google.com/uc?export=download&id=0B3XTBxBQSd0hZFBMVDFIZy1fMEk
+          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnbmF4TjdfWkNMRGs
         media_type: PDF
   - name: One Page Summary of Data Inventory Process
     description: 1 page flyer explaining the 3 step data inventory process.
