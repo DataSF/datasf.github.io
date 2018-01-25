@@ -10,7 +10,7 @@ resources_list:
     resource_type: Document
     links:
       - link: 'https://drive.google.com/open?id=1JyKqhYBXMltjBzxB3DcZNf3HnWWEWMDA'
-        media_type: Google Slideshow
+        media_type: Powerpoint
   - name: 'Template: DataScienceSF Project Charter'
     description: >-
       Our default project charter used for all of our data science projects.
