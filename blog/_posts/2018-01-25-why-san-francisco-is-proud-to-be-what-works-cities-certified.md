@@ -13,7 +13,7 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: Learn why San Francisco is proud and excited to be one of the nine inaugural cities certified with What Works Cities!
 date: 2018-01-25 09:23:16
 categories:
   - blog
