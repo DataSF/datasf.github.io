@@ -10,3 +10,7 @@
   action: "Download"
 "PDF":
   action: "Download"
+"Powerpoint":
+  action: "Download"
+"Google Slideshow":
+  action: "Open"

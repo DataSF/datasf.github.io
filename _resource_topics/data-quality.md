@@ -1,32 +1,38 @@
 ---
 title: Data Quality
-description: Use this guidebook and companion worksheet to follow 3 core steps to support quality data collection.
+description: >-
+  Use this guidebook and companion worksheet to follow 3 core steps to support
+  quality data collection.
 tags:
 audiences:
 resources_list:
   - name: 'Guidebook: How to Ensure Quality Data'
-    description: We designed this DataSF guide to help you ensure quality data for services and programs in the City and County of San Francisco. It covers the 3 key steps to better data quality.
+    description: >-
+      We designed this DataSF guide to help you ensure quality data for services
+      and programs in the City and County of San Francisco. It covers the 3 key
+      steps to better data quality.
     post_date: 2017-05-29 00:00:00
     resource_type: Guide
     links:
       - link: 'https://www.gitbook.com/book/datasf/datasf-guides-data-quality/details'
         media_type: Link
-      - link:
-        media_type:
   - name: 'Companion Worksheet: How to Ensure Data Quality'
-    description: 'Use this worksheet as a companion to reading and using the DataSF Guide: How to Ensure Quality Data. It provides checklists and templates to help you follow along. Copy or download the document as a word document.'
+    description: >-
+      Use this worksheet as a companion to reading and using the DataSF Guide:
+      How to Ensure Quality Data. It provides checklists and templates to help
+      you follow along. Copy or download the document as a word document.
     post_date: 2017-05-29 00:00:00
     resource_type: Document
     links:
-      - link: 'https://docs.google.com/document/d/16yJmlhu53J58OyxY9NOuQPOrvT3r7pQuHJFv0vskRfc/edit?usp=sharing'
+      - link: >-
+          https://drive.google.com/open?id=1pH-P6t5n5Go1eIsWt3fP9DiOP4ClCm-EuEGFb9-guXk
         media_type: Google Doc
 ---
 
 
 ## What is data quality?
 
-There are lots of ways of measuring data quality. A quick definition is: the degree to which
-<br>you can trust the data you are using for the purpose at hand.
+There are lots of ways of measuring data quality. A quick definition is: the degree to which<br>you can trust the data you are using for the purpose at hand.
 
 ## Why does data quality matter?
 

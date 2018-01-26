@@ -161,8 +161,10 @@ resource_types:
 media_types:
   - Excel
   - Word
+  - Powerpoint
   - Google Doc
   - Google Spreadsheet
+  - Google Slideshow
   - PDF
   - Link
   
