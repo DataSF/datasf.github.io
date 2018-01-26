@@ -11,25 +11,34 @@ resources_list:
     post_date: 2014-09-30 00:00:00
     resource_type: Research
     links:
-      - link: 'https://docs.google.com/document/d/1nT4EF6C8so2Qv6Y61MMn2FH-IATrOymfk0Z9A3DvN6w/edit?usp=sharing'
+      - link: >-
+          https://drive.google.com/open?id=1uET6QVderEyy-kL6ODesC3Z8N3YquiWu3PsYbsqZvMU
         media_type: Google Doc
-      - link: 'https://docs.google.com/document/d/1nT4EF6C8so2Qv6Y61MMn2FH-IATrOymfk0Z9A3DvN6w/export?format=pdf'
+      - link: >-
+          https://docs.google.com/document/d/1uET6QVderEyy-kL6ODesC3Z8N3YquiWu3PsYbsqZvMU/export?format=pdf
         media_type: PDF
   - name: Licenses Inventory
-    description: Inventory of available licenses we reviewed and licensing policies across cities and states.
+    description: >-
+      Inventory of available licenses we reviewed and licensing policies across
+      cities and states.
     post_date: 2014-09-30 00:00:00
     resource_type: Research
     links:
-      - link: 'https://docs.google.com/spreadsheets/d/1gZHgJig0BYlKdpSDieUfY-9pS5B6Tn6l3azWM7twbPw/edit?usp=sharing'
+      - link: >-
+          https://drive.google.com/open?id=1Lfd5WPtxj8xd0-uRZKDdbLnVHYnuGiQQHirvXm_A_fM
         media_type: Google Spreadsheet
-      - link: 'https://docs.google.com/spreadsheets/d/1gZHgJig0BYlKdpSDieUfY-9pS5B6Tn6l3azWM7twbPw/export?format=xlsx'
+      - link: >-
+          https://docs.google.com/spreadsheets/d/1Lfd5WPtxj8xd0-uRZKDdbLnVHYnuGiQQHirvXm_A_fM/export?format=xlsx
         media_type: Excel
   - name: 'Licensing Open Data: A practical guide'
-    description: Our favorite resource on data licensing by Naomi Korn and Prof Charles Oppenheim. Funded by UK’s JISC under the Discovery Program.
+    description: >-
+      Our favorite resource on data licensing by Naomi Korn and Prof Charles
+      Oppenheim. Funded by UK’s JISC under the Discovery Program.
     post_date: 2014-09-30 00:00:00
     resource_type: Research
     links:
-      - link: 'http://discovery.ac.uk/files/pdf/Licensing_Open_Data_A_Practical_Guide.pdf'
+      - link: >-
+          http://discovery.ac.uk/files/pdf/Licensing_Open_Data_A_Practical_Guide.pdf
         media_type: Link
 ---
 
@@ -38,4 +47,4 @@ How you license open data impacts who can use it and for what. Surprisingly, ope
 
 It can sometimes take a lot of effort to publish open data. A smart licensing strategy can help maximize your return by allowing the broadest set of users to leverage your data.
 
-Below is a set of resources that informed our thinking on how we chose to license all SF open data under the "[Public Domain and Dedication License](http://opendatacommons.org/licenses/pddl/summary/)" (PDDL). More on our final choice &nbsp;in our blog post "[Data License Liberation Day](https://datasf.org/blog/data-license-liberation-day/)".
+Below is a set of resources that informed our thinking on how we chose to license all SF open data under the “[Public Domain and Dedication License](http://opendatacommons.org/licenses/pddl/summary/)” (PDDL). More on our final choice  in our blog post “[Data License Liberation Day](https://datasf.org/blog/data-license-liberation-day/)”.
