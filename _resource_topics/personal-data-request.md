@@ -1,6 +1,8 @@
 ---
 title: Managing Personal Data Requests
-description: Guide for departments on when and how to provide individuals with their own personal data upon request.
+description: >-
+  Guide for departments on when and how to provide individuals with their own
+  personal data upon request.
 tags:
 audiences:
   - Data Coordinator
@@ -10,14 +12,18 @@ resources_list:
     post_date: 2016-08-08 00:00:00
     resource_type: One Pager
     links:
-      - link: 'https://drive.google.com/uc?export=download&id=0B0jc1tmJAlTcWk4xMXZUZEplQW8'
+      - link: >-
+          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnTUc1eXBNdjVtS3c
         media_type: PDF
   - name: Personal Data Request Guidebook
-    description: Guide on how government agencies can provide individuals with their own personal data upon their request.
+    description: >-
+      Guide on how government agencies can provide individuals with their own
+      personal data upon their request.
     post_date: 2016-08-08 00:00:00
     resource_type: Guide
     links:
-      - link: 'https://drive.google.com/uc?export=download&id=0B0jc1tmJAlTcZTBlY0duZjVGdUk'
+      - link: >-
+          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnREFfc1JYb0NwcUE
         media_type: PDF
 ---
 

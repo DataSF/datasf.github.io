@@ -18,22 +18,39 @@ $(function() {
   
   if (typeof $.fn.toc == 'function') {
     $('#article-toc').toc({
-      'container': 'article',
-      'scrollToOffset': 125,
+      'container': '.article-body',
+      'selectors': 'h2',
+      'scrollToOffset': 122,
       'prefix': 'toc',
       'anchorName': function(i, heading, prefix) {
         return prefix + i;
+      },
+      'headerText': function(i, heading, $heading) {
+        var text = $heading.text().split(":", 1)
+        return text[0]
+      },
+      'itemClass': function(i, heading, $heading, prefix) {
+        if ($heading[0].innerText.toLowerCase() === 'project resources') {
+          return prefix + '-hidden'
+        } // hack to hide project resources from TOC, could abstract this to look at the display props of the element, if display: none, skip
+        return prefix + '-' + $heading[0].tagName.toLowerCase()
       }
     });
 
     var affix = $('.toc-wrap');
     var width = $('.sidebar').width();
     affix.width(width);
+    //  - 100
 
     $('.toc-wrap').affix({
       offset: {
-        top: $('.toc-wrap').offset().top - 142
+        top: $('.toc-wrap').offset().top - 142,
+        bottom: $('.footer-content-wrapper').outerHeight(true)
       }
+    }).on('affix.bs.affix', function () {
+      $(this).css('position', 'fixed')
+    }).on('affix-top.bs.affix', function () {
+      $(this).css('position', 'relative')
     })
   }
 

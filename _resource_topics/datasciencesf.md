@@ -9,8 +9,9 @@ resources_list:
     post_date: 2017-11-07 00:00:00
     resource_type: Document
     links:
-      - link: 'https://drive.google.com/open?id=1JyKqhYBXMltjBzxB3DcZNf3HnWWEWMDA'
-        media_type: Word
+      - link: >-
+          https://drive.google.com/uc?export=download&id=1JyKqhYBXMltjBzxB3DcZNf3HnWWEWMDA
+        media_type: Powerpoint
   - name: 'Template: DataScienceSF Project Charter'
     description: >-
       Our default project charter used for all of our data science projects.
@@ -19,7 +20,8 @@ resources_list:
     post_date: 2017-11-07 00:00:00
     resource_type: Document
     links:
-      - link: 'https://drive.google.com/open?id=0B6av1JsL3xAnN2EyNUtOc2JQcEE'
+      - link: >-
+          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnN2EyNUtOc2JQcEE
         media_type: Word
   - name: 'Handbook: User and Context Research'
     description: >-
@@ -39,14 +41,16 @@ resources_list:
     post_date: 2017-11-07 00:00:00
     resource_type: Document
     links:
-      - link: 'https://drive.google.com/open?id=141ZA74-iLuveBVlGKKtnIS7vow8i1Leh'
+      - link: >-
+          https://drive.google.com/uc?export=download&id=141ZA74-iLuveBVlGKKtnIS7vow8i1Leh
         media_type: PDF
   - name: 'Template: Confidentiality Agreement'
     description: Simple data sharing agreement to use in DataScienceSF projects
     post_date: 2017-11-07 00:00:00
     resource_type: Document
     links:
-      - link: 'https://drive.google.com/open?id=0B6av1JsL3xAnenFlakhVTFRVa2s'
+      - link: >-
+          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnenFlakhVTFRVa2s
         media_type: Word
 ---
 

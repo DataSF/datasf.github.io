@@ -5,6 +5,7 @@ main_nav:
   index: catalog
 - text: Showcase
   url: /showcase/
+  index: showcase
 - text: Publishing
   url: /publishing/
   index: publishing
@@ -53,6 +54,14 @@ academy:
     url: /academy/calendar/
   - text: Instructors
     url: /academy/instructors/
+
+showcase:
+- text: Featured
+  url: /showcase/
+- text: Made with Open Data
+  url: /showcase/opendata/
+- text: Data Science
+  url: /showcase/datascience/
     
 utility:
 - text: SFGov

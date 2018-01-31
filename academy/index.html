@@ -84,13 +84,13 @@ blurb: A training program for City and County of San Francisco staff. Explore, r
           </a>
         </div>
         <div class="col-md-9">
-          {% assign grouped_courses = (site.categories.academy | group_by: 'series') %}
+          {% assign grouped_courses = site.categories.academy | group_by: 'series' %}
           <div id="courseList" class="row">
             {% for courses in grouped_courses %}
               {% if courses.name == "" %}
-              {% assign sorted_courses = (courses.items | sort: 'title') %}
+              {% assign sorted_courses = courses.items | sort: 'title' %}
               {% else %}
-              {% assign sorted_courses = (courses.items | sort: 'order') %}
+              {% assign sorted_courses = courses.items | sort: 'order' %}
               {%endif%}
                 {% for course in sorted_courses %}
                 <div class="col-md-12 course-item {% for subject in course.subjects %} {{subject | slugify | append: ' '}}{% endfor %}">

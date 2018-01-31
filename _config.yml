@@ -3,7 +3,7 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
-version: 3.4.3
+version: 3.6.2
 
 kramdown:
   input: GFM
@@ -11,7 +11,7 @@ kramdown:
 
 exclude: ['.c9']
 
-gems:
+plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-paginate
@@ -58,6 +58,7 @@ defaults:
       path: "academy"
     values:
       layout: "course"
+      index: "academy"
       hidden: true
       subnav: true
   -
@@ -74,7 +75,24 @@ defaults:
       layout: "resource-topic"
       index: "resources"
       subnav: true
-    
+  -
+    scope:
+      path: "showcase"
+    values:
+      layout: "project-story"
+      index: "showcase"
+      toc: true
+      hidden: true
+      subnav: true
+
+_options:
+  background_image_path:
+    width: 1366
+    resize_style: "cover"
+  card_image_path:
+    width: 310
+    height: 150
+    resize_style: "cover"
       
 # Site settings
 title: DataSF
@@ -143,8 +161,10 @@ resource_types:
 media_types:
   - Excel
   - Word
+  - Powerpoint
   - Google Doc
   - Google Spreadsheet
+  - Google Slideshow
   - PDF
   - Link
   
@@ -152,71 +172,3 @@ audiences:
   - Data Coordinator
   - Data Publisher
   - DataSF Staff
-
-prose:
-  siteurl: 'http://datasf.org'
-  metadata:
-    academy/_posts:
-      - name: 'layout'
-        field:
-          element: 'hidden'
-          value: 'course'
-      - name: 'title'
-        field:
-          element: 'text'
-          label: 'Title'
-      - name: 'summary'
-        field:
-          element: 'textarea'
-          label: 'Summary'
-      - name: "prereq"
-        field:
-          element: "textarea"
-          label: "Prerequisites"
-      - name: 'length'
-        field:
-          element: 'number'
-          value: 2
-          label: 'Length of course in hours'
-      - name: "subject"
-        field:
-          element: "multiselect"
-          label: "Topic Area"
-          options:
-            - name: "Information Design"
-              value: "information-design"
-            - name: "Analysis"
-              value: "analysis"
-            - name: "Mapping"
-              value: "mapping"
-            - name: "Data Management"
-              value: "management"
-            - name: "Data Visualization"
-              value: "visualization"
-      - name: 'instructors'
-        field:
-          element: "multiselect"
-          label: "Instructor(s)"
-          options: 
-            - name: "Sam Dorward"
-              value: "sam_dorward"
-            - name: "David Weinzimmer"
-              value: "david_weinzimmer"
-            - name: "Joy Bonaguro"
-              value: "joy_bonaguro"
-            - name: "Sherman Luk"
-              value: "sherman_luk"
-            - name: "Marc Hebert"
-              value: "marc_hebert"
-            - name: "Jason Lally"
-              value: "jason_lally"
-            - name: "Aaron Low"
-              value: "aaron_low"
-            - name: "Ashley Groffenberger"
-              value: "ashley_groffenberger"
-            - name: "Sam Abbot"
-              value: "sam_abbot"
-            - name: "Celeste Berg"
-              value: "celeste_berg"
-            - name: "Jessie Rubin"
-              value: "jessie_rubin"
