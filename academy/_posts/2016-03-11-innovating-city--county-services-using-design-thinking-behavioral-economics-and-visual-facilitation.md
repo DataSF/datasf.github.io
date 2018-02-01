@@ -11,6 +11,7 @@ description: >-
 prerequisites: None
 length: 2.5
 series:
+  - Process Improvement
 subjects:
   - Process Improvement
 team_members:

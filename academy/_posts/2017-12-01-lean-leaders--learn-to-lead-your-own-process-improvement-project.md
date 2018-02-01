@@ -10,6 +10,7 @@ length: 3 days / 24
 subjects:
   - Process Improvement
 series:
+  - Process Improvement
 team_members:
 course_short_name: Lean Leaders
 course_materials_link: >-
