@@ -14,7 +14,7 @@ team_members:
 course_short_name: Lean Leaders
 course_materials_link: >-
   https://drive.google.com/drive/folders/1jzamSa1Q93yf6J5dQmGML0mFUSPzGfsv?usp=sharing
-order:
+order: '2'
 category: academy
 categories:
   - academy
@@ -38,4 +38,4 @@ This course is offered approximately once a year or by special arrangement with 
 * How to translate your analysis into concrete ideas for improvement
 * How to communicate improvement plans to stakeholders and supervisors
 * How to create a plan, execute it and track progress
-* How to manage changes resulting from process improvement&nbsp;
+* How to manage changes resulting from process improvement
