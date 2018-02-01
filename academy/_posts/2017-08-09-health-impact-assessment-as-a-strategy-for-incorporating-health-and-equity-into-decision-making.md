@@ -9,6 +9,7 @@ subjects:
   - Process Improvement
   - Analysis
 series:
+  - Process Improvement
 team_members:
 course_short_name: Health Impact Assessment
 course_materials_link: 'https://drive.google.com/open?id=0BwRgeGq-b8f9NmVvdDhoM2dDaVE'
