@@ -10,7 +10,7 @@ series:
 team_members:
 course_short_name: Lean 101
 course_materials_link: 'https://drive.google.com/drive/folders/0BwRgeGq-b8f9OEh3ZjZTMVV5VXc'
-order:
+order: '1'
 category: academy
 categories:
   - academy
