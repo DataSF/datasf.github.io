@@ -21,7 +21,7 @@ team_members:
   - sherman-luk
 course_short_name: SQL - Intro
 course_materials_link: 'https://drive.google.com/drive/folders/0BwRgeGq-b8f9YVFKM0dWQzJKTG8'
-order:
+order: 0
 category: academy
 categories:
   - academy

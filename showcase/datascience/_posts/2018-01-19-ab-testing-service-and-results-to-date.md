@@ -34,7 +34,7 @@ If you are interested in a AB Testing Design Workshop, contact Joy Bonaguro for 
 
 On this page we will add AB experiments as they are complete.
 
-## Treasure Tax Collector: A bettter letter
+## Treasurer & Tax Collector: A better letter
 
 The Office of the Treasurer & Tax Collector (TTX) collects City taxes on a range of things, including
 

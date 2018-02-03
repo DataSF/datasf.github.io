@@ -10,7 +10,7 @@ series:
 team_members:
 course_short_name: Reading Statistics
 course_materials_link: 'https://drive.google.com/open?id=0BwRgeGq-b8f9TWlEUkVkT1VQZ00'
-order:
+order: 0
 category: academy
 categories:
   - academy

@@ -12,7 +12,7 @@ team_members:
   - sherman-luk
 course_short_name: Tableau - Certification Preview
 course_materials_link:
-order:
+order: 0
 category:
   - academy
 categories:
