@@ -10,7 +10,7 @@ team_members:
 course_short_name: Project Management
 course_materials_link: >-
   https://drive.google.com/drive/folders/17xD3g4CD3D4WOe6qHJODrPR9M_TmmmCX?usp=sharing
-order:
+order: 0
 category: academy
 categories:
   - academy

@@ -20,7 +20,7 @@ team_members:
   - sherman-luk
 course_short_name: Which Charts to Use
 course_materials_link: 'https://drive.google.com/drive/folders/0BwRgeGq-b8f9WmJRRHZ6M2NDUmc'
-order:
+order: 0
 category: academy
 categories:
   - academy

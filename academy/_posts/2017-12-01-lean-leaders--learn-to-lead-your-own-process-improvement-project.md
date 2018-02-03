@@ -15,7 +15,7 @@ team_members:
 course_short_name: Lean Leaders
 course_materials_link: >-
   https://drive.google.com/drive/folders/1jzamSa1Q93yf6J5dQmGML0mFUSPzGfsv?usp=sharing
-order: '2'
+order: 2
 category: academy
 categories:
   - academy
