@@ -1,7 +1,7 @@
 ---
 title: Intermediate Tableau I
 description: "This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy. \_Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities."
-course_short_name: "Tableau - Intermediate I"
+course_short_name: Tableau - Intermediate I
 prerequisites: Introduction to Tableau or basic familiarity with Tableau
 length: 2.5
 subjects:
@@ -13,7 +13,8 @@ series:
 team_members:
   - celeste-berg
   - jessie-rubin
-course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9cFpVR25RZUs5dXc&usp=sharing'
+course_materials_link: >-
+  https://drive.google.com/folderview?id=0BwRgeGq-b8f9cFpVR25RZUs5dXc&usp=sharing
 order: 2
 category: academy
 categories:
@@ -23,36 +24,18 @@ categories:
 
 ## About this course
 
-This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy.  Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
+This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy. &nbsp;Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
 
 This course is a natural continuation of our Introduction to Tableau training. We will show you how to create advanced and beautiful visualizations with only a few clicks.
 
+## What you'll learn in this course
 
-
-## What you'll learn
-
-Please click the below links to access how-to guides!  Some links will direct you to sign up for a free Tableau Public account.
+We'll cover the following topics. If you want some additional resources outside of our class, check out the links in the More Resources section below.
 
 * How to use multiple measures on the same axis
-  * [Dual axes charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html?)
-  * [Combination charts](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#multiplemeasures_combocharts.html)
 * How to show relationships between numerical values
-  * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html?)
 * How to view distributions and set up parameters
-  * [Histograms](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_histogram.html?Highlight=histograms)
-  * [Box-and-whisker plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_boxplot.html?)
-  * [Calculated fields](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#calculations_calculatedfields.html)
 * Instructions on how to create additional charts
-  * [Heat maps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_heatmap.html?)
-  * [Treemaps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_treemap.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____9)
-  * [Bullet graphs](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#reflines_adddistributions_bullet.html)
-  * [Pareto charts](http://www.tableau.com/learn/tutorials/on-demand/pareto-charts)
-  * [Sparklines](http://kb.tableau.com/articles/knowledgebase/sparklines-bullets)
-  * [Gantt charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_gantt.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____7)
-  * [Waterfall charts](http://www.tableau.com/learn/tutorials/on-demand/waterfall-charts-chart-type)
-
-
-##
 
 ## More resources
 
@@ -65,3 +48,21 @@ Please click the below links to access how-to guides!  Some links will direct y
   * [Creating Interactive Dashboards in Tableau](https://www.lynda.com/Tableau-tutorials/Creating-Interactive-Dashboards-Tableau/417094-2.html) (1h 38m, total)
 * Coursera
   * [Data Visualization and Communication in Tableau](https://www.coursera.org/learn/analytics-tableau/) (5 weeks, 3 - 5 hours per week)
+* Please click the below links to access how-to guides!&nbsp; Some links will direct you to sign up for a free Tableau Public account.
+  * How to use multiple measures on the same axis
+    * [Dual axes charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html?)
+    * [Combination charts](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#multiplemeasures_combocharts.html)
+  * How to show relationships between numerical values
+    * [Scatter plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_scatter.html?)
+  * How to view distributions and set up parameters
+    * [Histograms](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_histogram.html?Highlight=histograms)
+    * [Box-and-whisker plots](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_boxplot.html?)
+    * [Calculated fields](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#calculations_calculatedfields.html)
+  * Instructions on how to create additional charts
+    * [Heat maps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_heatmap.html?)
+    * [Treemaps](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_treemap.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____9)
+    * [Bullet graphs](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#reflines_adddistributions_bullet.html)
+    * [Pareto charts](http://www.tableau.com/learn/tutorials/on-demand/pareto-charts)
+    * [Sparklines](http://kb.tableau.com/articles/knowledgebase/sparklines-bullets)
+    * [Gantt charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#buildexamples_gantt.html%3FTocPath%3DBuilding%2520Data%2520Views%7CBuild-It-Yourself%2520Exercises%7C_____7)
+    * [Waterfall charts](http://www.tableau.com/learn/tutorials/on-demand/waterfall-charts-chart-type)

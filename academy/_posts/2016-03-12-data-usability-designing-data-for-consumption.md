@@ -1,16 +1,21 @@
 ---
 layout: course
-title: Data Usability - designing data for consumption
-course_short_name: "Data Usability"
-description: 'Basic data design choices can make the difference between simple analysis and hours of frustration. This classroom based workshop will go over how to make certain dataset design decisions that will make your reporting life much easier, hopefully reducing repetitive asks for data and interpretation.'
+title: 'Data Usability: designing data for consumption'
+course_short_name: Data Usability
+description: >-
+  Basic data design choices can make the difference between simple analysis and
+  hours of frustration. This classroom based workshop will go over how to make
+  certain dataset design decisions that will make your reporting life much
+  easier, hopefully reducing repetitive asks for data and interpretation.
 prerequisites: Intermediate Excel I or similar experience
 length: 2
 subjects:
   - Data Management
-series: z
+series:
 team_members:
   - jason-lally
-course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9dW9LQ2MxTHdiRms&usp=sharing'
+course_materials_link: >-
+  https://drive.google.com/folderview?id=0BwRgeGq-b8f9dW9LQ2MxTHdiRms&usp=sharing
 order: 0
 category: academy
 categories:
@@ -24,7 +29,7 @@ Basic data design choices can make the difference between simple analysis and ho
 
 This class assumes you are comfortable navigating in an Excel worksheet. You should have access to Excel 2010 or 2013 at your workstation.
 
-## What you'll learn
+## What you'll learn in this course
 
 * How to use functions in Excel to clean and prepare data for analysis
   * Use Paste-Transpose and SEARCH and FIND functions to create categorical variables

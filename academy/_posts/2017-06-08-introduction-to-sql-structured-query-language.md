@@ -30,20 +30,14 @@ categories:
 
 ## About this course
 
-Much of the initial and simple data analysis and manipulation is done in Excel spreadsheets.  However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is usually a more popular choice.
+Much of the initial and simple data analysis and manipulation is done in Excel spreadsheets. &nbsp;However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is usually a more popular choice.
 
 ## What you’ll learn in this course
 
-1)     Data Table Fundamental
-
-2)    Basic syntax of SQL – Your First SQL Query
-
-3)     Create a Custom View to Your Data Using the SELECT Statement
-
-4)     Filter Data with the WHERE Clause
-
-5)     Merge Data Elements from Different Tables Using JOINS
-
-6)     Combine Subsets of Records from Different Tables Using UNION
-
-7)     Aggregate data with SUM, AVG, MIN, MAX and the GROUP BY clause
+* Data Table Fundamental
+* Basic syntax of SQL – Your First SQL Query
+* Create a Custom View to Your Data Using the SELECT Statement
+* Filter Data with the WHERE Clause
+* Merge Data Elements from Different Tables Using JOINS
+* Combine Subsets of Records from Different Tables Using UNION
+* Aggregate data with SUM, AVG, MIN, MAX and the GROUP BY clause

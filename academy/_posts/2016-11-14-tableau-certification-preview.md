@@ -22,7 +22,7 @@ categories:
 
 ## About this course
 
-This classroom based workshop is the fourth in a series of workshops on Tableau offered by the Data Academy.   Our goal is to familiarize you with the Tableau Qualified Associate Certification ([http://www.tableau.com/support/certification](http://www.tableau.com/support/certification)).  We will provide quick tips on how to tackle the two hour certification exam and apply them to sample problems together.
+This classroom based workshop is the fourth in a series of workshops on Tableau offered by the Data Academy. &nbsp; Our goal is to familiarize you with the [Tableau Qualified Associate Certification](http://www.tableau.com/support/certification). &nbsp;We will provide quick tips on how to tackle the two hour certification exam and apply them to sample problems together.
 
 ## What you’ll learn
 
