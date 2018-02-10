@@ -1,7 +1,10 @@
 ---
-title: "Leveraging the City's Open Data Portal"
-course_short_name: "Leveraging the City's Open Data Portal"
-description: 'This course helps you unlock features of the open data portal to improve your own data workflows. To get the most out of this class, you should have Excel 2010 with the Power Query Add-in (free) or Excel 2013 on your work computer.'
+title: Leveraging the City's Open Data Portal
+course_short_name: Leveraging the City's Open Data Portal
+description: >-
+  This course helps you unlock features of the open data portal to improve your
+  own data workflows. To get the most out of this class, you should have Excel
+  2010 with the Power Query Add-in (free) or Excel 2013 on your work computer.
 prerequisites: Intermediate Excel I or similar experience working with Excel
 length: 2
 subjects:
@@ -11,7 +14,8 @@ subjects:
 series: z
 team_members:
   - jason-lally
-course_materials_link: 'https://drive.google.com/folderview?id=0BwRgeGq-b8f9M1BvYlRnQlBKWG8&usp=sharing'
+course_materials_link: >-
+  https://drive.google.com/folderview?id=0BwRgeGq-b8f9M1BvYlRnQlBKWG8&usp=sharing
 order: 0
 category: academy
 categories:
@@ -25,7 +29,7 @@ Have you heard of the [City's open data portal](https://data.sfgov.org)? Even if
 
 The class assumes you have working knowledge of Excel and a curiosity to learn new tools.
 
-## What you'll learn
+## What you'll learn in this course
 
 * How to connect to live data using Excel and the Power Query add-in
 * How to ask questions about datasets through the portal
