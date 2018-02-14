@@ -20,7 +20,6 @@ course_materials_link: >-
 order: 3
 ---
 
-
 ## About this course
 
 This video-guided workshop is the third in a series of Excel workshops offered by Data Academy. In this course, the instructor guides attendees through the course material by showing high-quality training videos from [Lynda.com](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing). &nbsp;This course provides Data Academy’s most advanced level of Excel training.
@@ -45,6 +44,8 @@ This course will cover the following topics. If you would like to review the mat
 * [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 * San Francisco Public Library
   * [Advanced Excel from Gale Courses](http://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel)&nbsp;(6 weeks, 24hrs total works)
+* Department of Human Resources
+  * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to the videos used in class:
   * [IF formulas](https://www.lynda.com/Excel-tutorials/logical-tests/431188/463312-4.html)
   * [Nested formulas](https://www.lynda.com/Excel-tutorials/Expanding-nested-statements/431188/463313-4.html)
