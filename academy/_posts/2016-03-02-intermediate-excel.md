@@ -26,7 +26,6 @@ course_materials_link: >-
 order: 2
 ---
 
-
 ## About this course
 
 This classroom based workshop, formerly titled *How to Be Productive in Excel*, is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced ways to manipulate and format data in spreadsheets.
@@ -49,6 +48,8 @@ This course will cover the following topics:
 * [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;Click [here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing)&nbsp;to find out how to sign up for a free account.
 * San Francisco Public Library
   * [Intermediate Microsoft Excel 2013 from Gale Courses](https://education.gale.com/l-sfpl/online-courses/intermediate-microsoft-excel-13?tab=detail) (6 weeks, 24hrs total works)
+* Department of Human Resources&nbsp;
+  * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to additional resources:
   * [Paste Special](http://www.lynda.com/Excel-tutorials/Display-Paste-Special-options-instantly/167361/182304-4.html?), [Text to Columns](http://www.lynda.com/Excel-tutorials/Splitting-data-multiple-columns/376985/431670-4.html?), and [Concatenate](http://www.lynda.com/Excel-tutorials/Use-CONCATENATE-function-combine-text/439680/487078-4.html?)
   * [VLOOKUP](http://www.lynda.com/Excel-tutorials/Getting-exact-table-data-VLOOKUP-function/376985/431658-4.html?)
