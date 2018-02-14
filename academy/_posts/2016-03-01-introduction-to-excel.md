@@ -23,7 +23,6 @@ course_materials_link: >-
 order: 0
 ---
 
-
 ## About this course
 
 This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy. &nbsp;It covers very basic topics and assumes no prior experience with the program.
@@ -46,6 +45,8 @@ This course will cover the following topics:
 * [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 * San Francisco Public Library
   * [Introduction to Microsoft Excel 2013](https://education.gale.com/l-sfpl/online-courses/microsoft-excel-2013-introduction?tab=detail)[&nbsp;from Gale Courses](__notset__) (6 weeks, 24hrs total works)
+* Department of Human Resources&nbsp;
+  * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to additional resources:
   * [Features of Excel and the tool ribbon](http://www.lynda.com/Excel-tutorials/Using-menu-system/376986/431699-4.html?)
   * [Basic shortcuts](https://support.office.com/en-us/article/Keyboard-shortcuts-in-Excel-Online-9271deca-569e-4ad2-8475-9ff98b8bcce3)
