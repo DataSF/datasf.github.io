@@ -19,18 +19,17 @@ categories:
   - academy
 ---
 
-
-## About this course
+## About This Course
 
 This classroom based workshop is the fourth in a series of workshops on Tableau offered by the Data Academy. &nbsp; Our goal is to familiarize you with the [Tableau Qualified Associate Certification](http://www.tableau.com/support/certification). &nbsp;We will provide quick tips on how to tackle the two hour certification exam and apply them to sample problems together.
 
-## What you’ll learn
+## What You’ll Learn In This Course
 
 * Tips and Takeaways
 * Applying them to sample questions
 * Certification path
 
-## More resources
+## More Resources
 
 * Certification: [http://www.tableau.com/support/certification](http://www.tableau.com/support/certification)
 * Information on Tableau Fundamentals and Tableau Advanced Classroom courses can be found at: [http://www.tableau.com/support/training](http://www.tableau.com/support/training)
