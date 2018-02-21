@@ -25,16 +25,15 @@ course_materials_link: >-
 order: 1
 ---
 
-
-## About this course
+## About This Course
 
 This classroom based workshop is the first in a series of workshops on Tableau offered by the Data Academy. Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.&nbsp;
 
-## What you’ll learn in this course
+## What You’ll Learn In This Course
 
 In this training, we will orient you to Tableau’s user interface and show you how to make basic charts with open datasets in your department. We will also show you how Tableau’s interactive features add another analytical dimension to your data visualizations.
 
-## More resources
+## More Resources
 
 * Tableau.com
   * [Free Tableau Training Videos](http://www.tableau.com/learn/training)
