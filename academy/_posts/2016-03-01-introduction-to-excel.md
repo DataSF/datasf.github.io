@@ -23,11 +23,11 @@ course_materials_link: >-
 order: 0
 ---
 
-## About this course
+## About This Course
 
 This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy. &nbsp;It covers very basic topics and assumes no prior experience with the program.
 
-## What you’ll learn
+## What You’ll Learn In This Course
 
 This course will cover the following topics:
 
