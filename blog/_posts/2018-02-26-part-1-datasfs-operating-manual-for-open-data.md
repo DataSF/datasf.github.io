@@ -26,7 +26,7 @@ categories:
 published: true
 ---
 
-\*\*\*\*\*\*\*\*
+<hr />
 
 In celebration of [Open Data Day on March 3, 2018](http://opendataday.org/), we are releasing a 4 part series on how to manage an open data program.
 
@@ -35,7 +35,7 @@ In celebration of [Open Data Day on March 3, 2018](http://opendataday.org/), we 
 3. Part 3: How to tame open data with standards
 4. Part 4: Why you need to profile your open data
 
-\*\*\*\*\*\*\*\*\*\*
+<hr />
 
 How do you operationalize open data? Our peers ask us this question quite a bit. We can answer this question - but it can be a lot to absorb in a single conversation.
 
