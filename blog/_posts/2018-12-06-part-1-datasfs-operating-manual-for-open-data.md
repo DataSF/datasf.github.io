@@ -61,6 +61,6 @@ You can think about scale in many different ways. In this context, we attempt to
 
 ## Continuously evaluate and improve
 
-Operating over everything is a process of continuous improvement. In practical terms that means collecting data that helps you make decisions and trade-offs and having touch points (like a monthly meeting) to make those decisions. As we’ve built our processes, we’ve [tried to capture data in ways that will allow us to make smarter decisions](https://datasf.gitbooks.io/datasf-publishing-toolkit/content/technology/powerbi.html) about where to optimize. And even that is a continuous process.
+Operating over everything is a process of continuous improvement. In practical terms that means collecting data that helps you make decisions and trade-offs and having touch points (like a regular meeting) to make those decisions. As we’ve built our processes, we’ve [tried to capture data in ways that will allow us to make smarter decisions](https://datasf.gitbooks.io/datasf-publishing-toolkit/content/technology/powerbi.html) about where to optimize. And even that is a continuous process.
 
 Read more in our [Open Data Publishing Toolkit](https://www.gitbook.com/book/datasf/datasf-publishing-toolkit/details).
