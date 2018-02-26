@@ -57,10 +57,10 @@ Notice, I say reduce, not eliminate. It is a high bar to completely avoid duplic
 
 ## Orient toward scaling where possible
 
-You can think about scale in many different ways. In this context, we attempt to identify reusable patterns and code that allow us to move publishing faster over time. There are trade-offs between building up scalable infrastructure and delivering a widget faster. The tension is always present, but it can be managed by being thoughtful about when to invest in scaling projects.
+You can think about scale in many different ways. In this context, we attempt to [identify reusable patterns](https://datasf.gitbooks.io/datasf-publishing-toolkit/content/5_etl_specification/) and [code](https://datasf.gitbooks.io/datasf-publishing-toolkit/content/6_etl_development/) that allow us to move publishing faster over time. There are trade-offs between building up scalable infrastructure and delivering a widget faster. The tension is always present, but it can be managed by being thoughtful about when to invest in scaling projects.
 
 ## Continuously evaluate and improve
 
-Operating over everything is a process of continuous improvement. In practical terms that means collecting data that helps you make decisions and trade-offs and having touchpoints to make those decisions. As we’ve built our processes, we’ve tried to capture data in ways that will allow us to make smarter decisions about where to optimize. And even that is a continuous process.
+Operating over everything is a process of continuous improvement. In practical terms that means collecting data that helps you make decisions and trade-offs and having touch points (like a monthly meeting) to make those decisions. As we’ve built our processes, we’ve [tried to capture data in ways that will allow us to make smarter decisions](https://datasf.gitbooks.io/datasf-publishing-toolkit/content/technology/powerbi.html) about where to optimize. And even that is a continuous process.
 
-Read more in our Open Data Publishing Toolkit.
+Read more in our [Open Data Publishing Toolkit](https://www.gitbook.com/book/datasf/datasf-publishing-toolkit/details).
