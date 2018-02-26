@@ -25,6 +25,17 @@ categories:
 published: false
 ---
 
+\*\*\*\*\*\*\*\*
+
+In celebration of Open Data Day on March 3, 2018, we are releasing a 4 part series on how to manage an open data program.
+
+1. Part 1: DataSF’s operating manual for open data
+2. Part 2: How to monitor your open data portal
+3. Part 3: How to tame open data with standards
+4. Part 4: Why you need to profile your open data
+
+\*\*\*\*\*\*\*\*\*\*
+
 How do you operationalize open data? Our peers ask us this question quite a bit. We can answer this question - but it can be a lot to absorb in a single conversation.
 
 We’ve been iterating and improving on how we run the program since 2014. Lots of collateral has been developed over time, but we wanted to thread together all of the work into a “operating manual” for open data.
