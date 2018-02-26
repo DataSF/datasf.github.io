@@ -20,7 +20,7 @@ description: >-
   series on how to manage an open data program. In Part 1, we reveal the Open
   Data Publishing Toolkit as a means to documenting our operations. We wrote
   this for us, but hope it's helpful for other open data programs.
-date: 2018-01-01 00:00:00
+date: 2018-02-26 00:00:00
 categories:
   - blog
 published: true
