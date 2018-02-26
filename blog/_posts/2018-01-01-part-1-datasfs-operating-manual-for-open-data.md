@@ -16,9 +16,10 @@ image:
     license:
     license_link:
 description: >-
-  The Open Data Publishing Toolkit is our approach to sharing and documenting
-  our operations. We've learned a lot along the way, and will learn more. We
-  wrote this for us, but hope it's helpful for other open data programs.
+  In celebration of Open Data Day on March 3, 2018, we are releasing a 4 part
+  series on how to manage an open data program. In Part 1, we reveal the Open
+  Data Publishing Toolkit as a means to documenting our operations. We wrote
+  this for us, but hope it's helpful for other open data programs.
 date: 2018-01-01 00:00:00
 categories:
   - blog
