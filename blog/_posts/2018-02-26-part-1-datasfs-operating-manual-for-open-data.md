@@ -28,12 +28,12 @@ published: true
 
 ---
 
-In celebration of [Open Data Day on March 3, 2018](http://opendataday.org/), we are releasing a 4 part series on how to manage an open data program.
+*In celebration of [Open Data Day on March 3, 2018](http://opendataday.org/), we are releasing a 4 part series on how to manage an open data program.*
 
-1. Part 1: DataSF’s operating manual for open data
-2. [Part 2: How to monitor your open data portal](/blog/part-2-how-to-monitor-your-open-data-portal/)
-3. Part 3: How to tame open data with standards
-4. Part 4: Why you need to profile your open data
+1. *Part 1: DataSF’s operating manual for open data*
+2. *[Part 2: How to monitor your open data portal](/blog/part-2-how-to-monitor-your-open-data-portal/)*
+3. *Part 3: How to tame open data with standards*
+4. *Part 4: Why you need to profile your open data*
 
 ---
 
