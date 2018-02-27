@@ -94,9 +94,7 @@ Collect as many data portal activity, data quality and event metrics as you can.
 * To maximize the value of your monitoring data, tag metrics and events with several scopes and retain them for at least 6 months.
 * Use your monitoring data as triggers to send out automated alerts.
 * Use alerts to flag symptoms so you and your team can figure out the cause.
-
 * Standardize your monitoring framework so you and your team can investigate problems more systematically.
-
 * Set up dashboards ahead of time that display all of your key data portal activity and data quality metrics.
 
 ## Resources to help you start
