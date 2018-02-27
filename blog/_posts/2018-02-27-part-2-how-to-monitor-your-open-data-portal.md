@@ -26,7 +26,7 @@ categories:
 
 ---
 
-*In celebration of Open Data Day on March 3, 2018, we are releasing a 4 part series on how to manage an open data program.*
+*In celebration of [Open Data Day on March 3, 2018](http://opendataday.org/), we are releasing a 4 part series on how to manage an open data program.*
 
 1. *[Part 1: DataSF’s operating manual for open data](/blog/part-1-datasfs-operating-manual-for-open-data/)*
 2. *Part 2: How to monitor your open data portal*
@@ -110,6 +110,6 @@ We would love to hear about your experiences monitoring your open data portal. I
 
 ## References
 
-* Alexis Lê-Quôc, (2015, June 30). Monitoring 101: Collecting the right data. Retrieved from [https://www.datadoghq.com/blog/monitoring-101-collecting-data](https://www.datadoghq.com/blog/monitoring-101-collecting-data)
-* Alexis Lê-Quôc, (2015, July 16). Monitoring 101: Investigating Performance Issues. Retrieved from [https://www.datadoghq.com/blog/monitoring-101-investigation/](https://www.datadoghq.com/blog/monitoring-101-investigation/)
-* Alexis Lê-Quôc, (2015, July 16). Monitoring 101: Alerting on What Matters. Retrieved from [https://www.datadoghq.com/blog/monitoring-101-alerting/](https://www.datadoghq.com/blog/monitoring-101-alerting/)
+* Alexis L&ecirc;-Qu&ocirc;c, (2015, June 30). Monitoring 101: Collecting the right data. Retrieved from [https://www.datadoghq.com/blog/monitoring-101-collecting-data](https://www.datadoghq.com/blog/monitoring-101-collecting-data)
+* Alexis L&ecirc;-Qu&ocirc;c, (2015, July 16). Monitoring 101: Investigating Performance Issues. Retrieved from [https://www.datadoghq.com/blog/monitoring-101-investigation/](https://www.datadoghq.com/blog/monitoring-101-investigation/)
+* Alexis L&ecirc;-Qu&ocirc;c, (2015, July 16). Monitoring 101: Alerting on What Matters. Retrieved from [https://www.datadoghq.com/blog/monitoring-101-alerting/](https://www.datadoghq.com/blog/monitoring-101-alerting/)
