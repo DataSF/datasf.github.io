@@ -22,6 +22,17 @@ categories:
   - blog
 ---
 
+<hr />
+
+In celebration of Open Data Day on March 3, 2018, we are releasing a 4 part series on how to manage an open data program.
+
+1. Part 1: DataSF’s operating manual for open data
+2. Part 2: How to monitor your open data portal
+3. Part 3: How to tame open data with standards
+4. Part 4: Why you need to profile your open data
+
+<hr />
+
 Monitoring data is essential to understand the inner workings of your open data portal. At DataSF, we strive to:
 
 * Provide data that is usable, timely, and accessible.
