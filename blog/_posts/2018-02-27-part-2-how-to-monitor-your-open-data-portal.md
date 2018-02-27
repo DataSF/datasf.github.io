@@ -2,9 +2,11 @@
 title: 'Part 2: How to monitor your open data portal'
 author: janine_heiser
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: /data-monitoring/performance.png
+  feature: /data-monitoring/performance.png
+  caption: >-
+    We roll up our monitoring in a number of ways including on our outward
+    facing progress dashboard at https://datasf.org/progress
   source:
     title:
     author:
