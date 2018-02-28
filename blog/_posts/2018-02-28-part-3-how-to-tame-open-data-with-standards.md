@@ -15,7 +15,10 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: >-
+  In celebration of Open Data Day on March 3, 2018, we are releasing a 4 part
+  series on how to manage an open data program. In Part 3, we reveal our new
+  handbook on standards for open data publishing.
 date: 2018-02-28 00:00:00
 categories:
   - blog
