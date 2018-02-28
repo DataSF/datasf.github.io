@@ -2,9 +2,12 @@
 title: 'Part 3: How to tame open data with standards'
 author: jason_lally
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: /data-standard-ref/centerlines.png
+  feature: /data-standard-ref/centerlines.png
+  caption: >-
+    What's a centerline node network (CNN) identifier? The new data standards
+    reference from DataSF sets out to clarify common definitions and references
+    as well as set publishing standards.
   source:
     title:
     author:
@@ -26,8 +29,8 @@ But across these many datasets, inconsistencies have invariably emerged in how t
 
 To begin taming these issues, we've launched a [Data Standards Reference Handbook](https://www.gitbook.com/book/datasf/draft-publishing-standards/details). This is our "missing manual" that focuses on data publishing decisions regarding:
 
-1. **Formats and data structure.** How the structure of columns and rows should be handled across any dataset (e.g. when providing a date/time field or a coordinate).
-2. **Standard references.** Which datasets represent standard references within the city and how those should be used in referring datasets (e.g. parcels or department codes).
+1. **[Formats and data structure](https://datasf.gitbooks.io/draft-publishing-standards/content/formats/).** How the structure of columns and rows should be handled across any dataset (e.g. when providing a date/time field or a coordinate).
+2. **[Standard references](https://datasf.gitbooks.io/draft-publishing-standards/content/reference-data.html).** Which datasets represent standard references within the city and how those should be used in any referring datasets (e.g. parcels or department codes).
 
 As a practical matter it becomes a guide for DataSF staff and department publishers as they're publishing new data. It also provides a baseline reference for some common questions we get about data across datasets, like:
 
@@ -38,7 +41,7 @@ As a practical matter it becomes a guide for DataSF staff and department publish
 
 ## A little note on implementation
 
-Any of our enterprising data users will probably be thinking: well this is great, but the existing datasets haven't changed, so what? This handbook is just a starting point. Going forward, new data will be published per the handbook. For existing data, we'll use our comprehensive profiling about every field, data on use and searches and other data to prioritize resets over time.
+Any of our enterprising data users will probably be thinking: well this is great, but the existing datasets haven't changed, so what? This handbook is just a starting point. Going forward, new data will be published per the handbook. For existing data, we'll use our [comprehensive dataset field profiles](https://data.sfgov.org/City-Management-and-Ethics/Field-Profiles/ekxv-883u), web analytics and other signals to prioritize resets over time.
 
 We're excited as this marks another milestone for managing data as an important City asset. We hope over time these efforts at standardization will bring down barriers to use and promote novel analysis across related datasets.
 
