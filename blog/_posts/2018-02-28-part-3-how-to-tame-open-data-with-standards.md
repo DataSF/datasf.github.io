@@ -18,18 +18,18 @@ categories:
   - blog
 ---
 
-Over the past 4 years, [we've added well over 200](https://datasf.org/progress) new datasets to the portal, many of them automated and considered highly valuable, such as building permits or medical and fire emergency calls.
+Over the past 4 years, [we've added well over 200](https://datasf.org/progress) new datasets to the portal, many of them automated and considered highly valuable, such as [building permits](https://data.sfgov.org/Housing-and-Buildings/Building-Permits/i98e-djp9) or [medical and fire emergency calls](https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3).
 
-But across these many datasets, inconsistencies have invariably emerged in how the data is published. For example, neighborhood columns that don't clearly identify their associated boundary or different ways of encoding the parcel number.
+But across these many datasets, inconsistencies have invariably emerged in how the data is published. For example, neighborhood columns that don't clearly identify their associated boundary or different ways of encoding a parcel number.
 
 ## The missing manual: Taming our datasets with standards
 
-To begin taming these issues, we've launched a Data Standards Reference Handbook. This is our "missing manual" that focuses on data publishing decisions regarding:
+To begin taming these issues, we've launched a [Data Standards Reference Handbook](https://www.gitbook.com/book/datasf/draft-publishing-standards/details). This is our "missing manual" that focuses on data publishing decisions regarding:
 
 1. **Formats and data structure.** How the structure of columns and rows should be handled across any dataset (e.g. when providing a date/time field or a coordinate).
 2. **Standard references.** Which datasets represent standard references within the city and how those should be used in referring datasets (e.g. parcels or department codes).
 
-As a practical matter it becomes a guide for DataSF staff and department publishers as they're publishing new data. It also provides a baseline reference for some common questions we get about data across the universe of datasets, like:
+As a practical matter it becomes a guide for DataSF staff and department publishers as they're publishing new data. It also provides a baseline reference for some common questions we get about data across datasets, like:
 
 * [What's a CNN](https://datasf.gitbooks.io/draft-publishing-standards/content/basemap/street-centerlines-nodes.html)? (hint: it's not the Cable News Network)
 * [What are the fields block, lot and apn? Are they related?](https://datasf.gitbooks.io/draft-publishing-standards/content/basemap/parcels.html)
