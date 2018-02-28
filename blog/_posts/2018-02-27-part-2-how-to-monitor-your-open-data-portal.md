@@ -30,7 +30,7 @@ categories:
 
 1. *[Part 1: DataSF’s operating manual for open data](/blog/part-1-datasfs-operating-manual-for-open-data/)*
 2. *Part 2: How to monitor your open data portal*
-3. *Part 3: How to tame open data with standards*
+3. [*Part 3: How to tame open data with standards*](/blog/part-3-how-to-tame-open-data-with-standards/)
 4. *Part 4: Why you need to profile your open data*
 
 ---
