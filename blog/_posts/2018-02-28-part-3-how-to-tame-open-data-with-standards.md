@@ -24,6 +24,17 @@ categories:
   - blog
 ---
 
+---
+
+*In celebration of [Open Data Day on March 3, 2018](http://opendataday.org/), we are releasing a 4 part series on how to manage an open data program.*
+
+1. *[Part 1: DataSF’s operating manual for open data](/blog/part-1-datasfs-operating-manual-for-open-data/)*
+2. *Part 2: How to monitor your open data portal*
+3. *Part 3: How to tame open data with standards*
+4. *Part 4: Why you need to profile your open data*
+
+---
+
 Over the past 4 years, [we've added well over 200](https://datasf.org/progress) new datasets to the portal, many of them automated and considered highly valuable, such as [building permits](https://data.sfgov.org/Housing-and-Buildings/Building-Permits/i98e-djp9) or [medical and fire emergency calls](https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3).
 
 But across these many datasets, inconsistencies have invariably emerged in how the data is published. For example, neighborhood columns that don't clearly identify their associated boundary or different ways of encoding a parcel number.
