@@ -1,5 +1,5 @@
 ---
-title: Part 3: How to tame open data with standards
+title: Part 3 How to tame open data with standards
 author:
 image:
   thumb:
