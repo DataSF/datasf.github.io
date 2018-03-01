@@ -2,9 +2,12 @@
 title: 'Part 4: Why you need to profile your open data'
 author: janine_heiser
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: /data-profiling/data_loss.png
+  feature: /data-profiling/data_loss.png
+  caption: >-
+    Profiling data can reveal issues like sudden data loss that could indicate a
+    broader issue. Above, you see visually what looks like a sudden loss of data
+    that indicated a potential error in the data loading process or source.
   source:
     title:
     author:
