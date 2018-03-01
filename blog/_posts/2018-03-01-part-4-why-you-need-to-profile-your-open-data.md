@@ -6,8 +6,9 @@ image:
   feature: /data-profiling/data_loss.png
   caption: >-
     Profiling data can reveal issues like sudden data loss that could indicate a
-    broader issue. Above, you see visually what looks like a sudden loss of data
-    that indicated a potential error in the data loading process or source.
+    systemic issue. Above, you see visually what looks like a sudden loss of
+    data that indicates a potential error in the data loading process or source.
+    This information makes it easier to find and fix issues with data pipelines.
   source:
     title:
     author:
