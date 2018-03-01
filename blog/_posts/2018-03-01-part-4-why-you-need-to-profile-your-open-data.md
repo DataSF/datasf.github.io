@@ -5,10 +5,10 @@ image:
   thumb: /data-profiling/data_loss.png
   feature: /data-profiling/data_loss.png
   caption: >-
-    Profiling data can reveal issues like sudden data loss that could indicate a
-    systemic issue. For example, this basic time series of a dataset reveals
-    what appears to be a sudden loss of data in mid February. This information
-    makes it easier to find and fix issues with data pipelines.
+    Profiling data can reveal possible issues with data pipelines among other
+    things. For example, this basic time series of a dataset reveals what
+    appears to be a sudden loss of data in mid February. This information makes
+    it easier to find and fix issues with data pipelines.
   source:
     title:
     author:
