@@ -12,8 +12,12 @@ image:
     author_link:
     license:
     license_link:
-description:
-date: 2018-03-01 20:06:21
+description: >-
+  In celebration of Open Data Day on March 3, 2018, we are releasing a 4 part
+  series on how to manage an open data program. In this final part, we discuss
+  how we use dataset and field profiling to monitor the health and quality of
+  the data on the open data portal.
+date: 2018-03-01 20:06:00
 categories:
   - blog
 ---
@@ -24,7 +28,7 @@ categories:
 
 1. *[Part 1: DataSF’s operating manual for open data](/blog/part-1-datasfs-operating-manual-for-open-data/)*
 2. [*Part 2: How to monitor your open data portal*](/blog/part-2-how-to-monitor-your-open-data-portal/)
-3. *Part 3: How to tame open data with standards*
+3. [*Part 3: How to tame open data with standards*](null)
 4. *Part 4: Why you need to profile your open data*
 
 ---
