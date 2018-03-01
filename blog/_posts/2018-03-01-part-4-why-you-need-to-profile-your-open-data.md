@@ -32,7 +32,7 @@ categories:
 
 1. *[Part 1: DataSF’s operating manual for open data](/blog/part-1-datasfs-operating-manual-for-open-data/)*
 2. [*Part 2: How to monitor your open data portal*](/blog/part-2-how-to-monitor-your-open-data-portal/)
-3. [*Part 3: How to tame open data with standards*](null)
+3. [*Part 3: How to tame open data with standards*](/blog/part-3-how-to-tame-open-data-with-standards/)
 4. *Part 4: Why you need to profile your open data*
 
 ---
@@ -69,9 +69,9 @@ Data can be profiled at both the dataset level and at the field level. Each leve
 Profiling at the dataset level allows you to measure the overall health of a dataset and its major characteristics. DataSF monitors the following for each dataset:
 
 * **Frequency counts:** the total number of records in the dataset, the total number of fields in the dataset (including the number of fields that are of a certain data type), which provides a sense of the size and structure of the dataset
-* **Duplicate Count and Percentage:**Count/Percentage of the number of row level duplicates- aka rows that are exact copies, which helps flag possible errors
-* **Documented Count and Percentage:** Count/Percentage of the number of fields that have been documented and have completed field definitions, which helps monitor compliance with our data dictionary requirements
-* **Global Field Count And Percentage:** Count/Percentage of the number of global fields in a dataset. A dataset with a high percentage of global fields may indicate that its a reference dataset, which helps flag data that could be standardized
+* **Duplicate Count and Percentage:** count/percentage of the number of row level duplicates- aka rows that are exact copies, which helps flag possible errors
+* **Documented Count and Percentage:** count/Percentage of the number of fields that have been documented and have completed field definitions, which helps monitor compliance with our data dictionary requirements
+* **Global Field Count And Percentage:** count/percentage of the number of global fields in a dataset. A dataset with a high percentage of global fields may indicate that its a reference dataset, which helps flag data that could be standardized
 * **Various timestamp information:** the timestamp of when the dataset was last updated and first created, which helps monitor dataset health
 
 ### Field Level Profiling
