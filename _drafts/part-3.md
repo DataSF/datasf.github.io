@@ -1,6 +1,6 @@
 ---
 title: 'Part 4: Why you need to profile your open data'
-author:
+author: janine_heiser
 image:
   thumb:
   feature:
