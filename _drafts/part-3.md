@@ -1,5 +1,5 @@
 ---
-title: Part 3
+title: 'Part 4: Why you need to profile your open data'
 author:
 image:
   thumb:
@@ -17,3 +17,4 @@ date:
 categories:
   - blog
 ---
+
