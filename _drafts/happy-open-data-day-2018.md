@@ -33,17 +33,17 @@ In anticipation of tomorrow's event, we wanted to highlight a couple of datasets
 
 ## Tracking public money flows
 
-Where does the money go? Nobody does this better in SF than the Controller’s Office and the Ethics Commission.
+Nobody tracks public money in SF better than the Controller’s Office and the Ethics Commission.
 
-The Controller’s Office manages the City and County budget datasets. Below are some resources published by the Controller’s Office:
+The Controller’s Office manages the City and County budget datasets as well as data on spending and revenue. Below are some resources published by the Controller’s Office:
 
-[Budget](https://data.sfgov.org/City-Management-and-Ethics/Budget/xdgd-c79v): This covers the budgets of the various departments
-
-[Budget - FTE](https://data.sfgov.org/City-Management-and-Ethics/Budget-FTE/4zfx-f2ts): This dataset provides salary information for each department and associated department programs.
+* [Budget](https://data.sfgov.org/City-Management-and-Ethics/Budget/xdgd-c79v): This covers the budgets of the various departments
+* [Budget - FTE](https://data.sfgov.org/City-Management-and-Ethics/Budget-FTE/4zfx-f2ts): This dataset provides budget related to salaries for each department and associated department programs.
+* [Spending and Revenue](https://data.sfgov.org/City-Management-and-Ethics/Spending-And-Revenue/bpnb-jwfb): This dataset tracks spending and revenue by department and related programs.
 
 One of the key mandates of the Ethics Commission is in educating the public of campaign and lobbyist spending. While the amount of [datasets the Ethics Commission publishes](https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Ethics+Commission&amp;category=City+Management+and+Ethics&amp;limitTo=datasets) can be overwhelming, here are some choice selections:
 
-* [Lobbyist Activity - Contacts of Public Officials](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Contacts-of-Public-Officials/hr5m-xnxc):  A dataset of each lobby visit.  A treasure trove containing who was doing the lobbying, what official they talked to, and why.
-* [Lobbyist Activity - Payments Promised by Clients](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Payments-Promised-By-Clients/s2fy-y3my): A dataset of lobbyist contributions.  Contains lobbyist, firm, payment amount, and client.
+* [Lobbyist Activity - Contacts of Public Officials](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Contacts-of-Public-Officials/hr5m-xnxc): &nbsp;A dataset of each lobby visit. &nbsp;A treasure trove containing who was doing the lobbying, what official they talked to, and why.
+* [Lobbyist Activity - Payments Promised by Clients](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Payments-Promised-By-Clients/s2fy-y3my): A dataset of lobbyist contributions. &nbsp;Contains lobbyist, firm, payment amount, and client.
 * [Lobbyist Activity - Political Contributions](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Political-Contributions/sa8r-purn): All political contributions of $100 of more by lobbyist.
 * [Campaign Consultants - Client Payment](https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Client-Payments/tc9q-72uj): Record of payments to campaign consultants
