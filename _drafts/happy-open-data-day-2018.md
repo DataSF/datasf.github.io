@@ -12,8 +12,8 @@ image:
     author_link:
     license:
     license_link:
-description:
-date:
+description: Happy Open Data Day 2018. We're excited to participate again!
+date: 2018-03-02 00:00:00
 categories:
   - blog
 ---
