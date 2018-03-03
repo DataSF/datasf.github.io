@@ -2,9 +2,9 @@
 title: Happy Open Data Day 2018!
 author: jason_lally
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: /open-data-day-2018/opendataday.png
+  feature: /open-data-day-2018/opendataday.png
+  caption: Hundreds of events are planned for tomorrow to acknowledge open data day!
   source:
     title:
     author:
