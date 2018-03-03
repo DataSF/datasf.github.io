@@ -43,8 +43,8 @@ The Controller’s Office manages the City and County budget datasets as well as
 
 One of the key mandates of the Ethics Commission is in educating the public of campaign and lobbyist spending. While there are a lot of [datasets the Ethics Commission publishes](https://data.sfgov.org/browse?Department-Metrics_Publishing-Department=Ethics+Commission&amp;category=City+Management+and+Ethics&amp;limitTo=datasets), here are some choice selections:
 
-* [Lobbyist Activity - Contacts of Public Officials](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Contacts-of-Public-Officials/hr5m-xnxc): &nbsp;A dataset of each lobby visit. &nbsp;A treasure trove containing who was doing the lobbying, what official they talked to, and why.
-* [Lobbyist Activity - Payments Promised by Clients](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Payments-Promised-By-Clients/s2fy-y3my): A dataset of lobbyist contributions. &nbsp;Contains lobbyist, firm, payment amount, and client.
+* [Lobbyist Activity - Contacts of Public Officials](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Contacts-of-Public-Officials/hr5m-xnxc):  A dataset of each lobby visit.  A treasure trove containing who was doing the lobbying, what official they talked to, and why.
+* [Lobbyist Activity - Payments Promised by Clients](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Payments-Promised-By-Clients/s2fy-y3my): A dataset of lobbyist contributions.  Contains lobbyist, firm, payment amount, and client.
 * [Lobbyist Activity - Political Contributions](https://data.sfgov.org/City-Management-and-Ethics/Lobbyist-Activity-Political-Contributions/sa8r-purn): All political contributions of $100 of more by lobbyist.
 * [Campaign Consultants - Client Payment](https://data.sfgov.org/City-Management-and-Ethics/Campaign-Consultants-Client-Payments/tc9q-72uj): Record of payments to campaign consultants
 
