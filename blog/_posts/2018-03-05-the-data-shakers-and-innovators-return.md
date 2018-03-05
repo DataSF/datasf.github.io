@@ -44,7 +44,6 @@ Team:
 * Kate Patterson
 * Anne Trickey
 
-<iframe src="https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={3e62cbac-c472-4305-bcf0-5eb0464c6dc3}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded &amp;amp;lt;a target="_blank" href="https://office.com"&amp;amp;gt;Microsoft Office&amp;amp;lt;/a&amp;amp;gt; presentation, powered by &amp;amp;lt;a target="_blank" href="https://office.com/webapps"&amp;amp;gt;Office Online&amp;amp;lt;/a&amp;amp;gt;.</iframe>
 
 ### A Picture is Worth a Thousand Words!
 
@@ -66,7 +65,6 @@ Team:
 * Jon Swae
 * Michael Webster
 
-<iframe src="https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={e24c7002-9849-487e-8b56-2b329fd2fde8}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded &amp;amp;lt;a target="_blank" href="https://office.com"&amp;amp;gt;Microsoft Office&amp;amp;lt;/a&amp;amp;gt; presentation, powered by &amp;amp;lt;a target="_blank" href="https://office.com/webapps"&amp;amp;gt;Office Online&amp;amp;lt;/a&amp;amp;gt;.</iframe>
 
 ### Data Crunch & Munch
 
@@ -82,7 +80,6 @@ Team:
 * Ritchie J. Rubio
 * Shamsi Soltani
 
-<iframe src="https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={3176110f-9554-43d1-965a-45536328d2a1}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded &amp;amp;lt;a target="_blank" href="https://office.com"&amp;amp;gt;Microsoft Office&amp;amp;lt;/a&amp;amp;gt; presentation, powered by &amp;amp;lt;a target="_blank" href="https://office.com/webapps"&amp;amp;gt;Office Online&amp;amp;lt;/a&amp;amp;gt;.</iframe>
 
 ### Mission Impossible
 
@@ -104,7 +101,6 @@ Team:
 * Vish Shenoi
 * Boon Teoh
 
-<iframe src="https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={65808c6b-9677-49db-86db-1e311ded051a}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded &amp;amp;lt;a target="_blank" href="https://office.com"&amp;amp;gt;Microsoft Office&amp;amp;lt;/a&amp;amp;gt; presentation, powered by &amp;amp;lt;a target="_blank" href="https://office.com/webapps"&amp;amp;gt;Office Online&amp;amp;lt;/a&amp;amp;gt;.</iframe>
 
 ### Users First
 
@@ -121,7 +117,6 @@ Team:
 * Donnie Oliveira
 * Sarah Peters
 
-<iframe src="https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={b8d1217d-504a-4af4-9a94-b63cb2e93cf0}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded &amp;amp;lt;a target="_blank" href="https://office.com"&amp;amp;gt;Microsoft Office&amp;amp;lt;/a&amp;amp;gt; presentation, powered by &amp;amp;lt;a target="_blank" href="https://office.com/webapps"&amp;amp;gt;Office Online&amp;amp;lt;/a&amp;amp;gt;.</iframe>
 
 ### Bridge Builder
 
@@ -145,4 +140,3 @@ Team:
 * Kevin Truitt
 * Cody Xuereb
 
-<iframe src="https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={ab6b7ad2-20f2-4d2f-bf6c-33df0801af60}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded &amp;amp;lt;a target="_blank" href="https://office.com"&amp;amp;gt;Microsoft Office&amp;amp;lt;/a&amp;amp;gt; presentation, powered by &amp;amp;lt;a target="_blank" href="https://office.com/webapps"&amp;amp;gt;Office Online&amp;amp;lt;/a&amp;amp;gt;.</iframe>
