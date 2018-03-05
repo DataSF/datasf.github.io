@@ -2,8 +2,8 @@
 title: The Data Shakers and Innovators Return
 author: blake_valenta
 image:
-  thumb:
-  feature:
+  thumb: data-awards2/banner2.jpg
+  feature: data-awards2/banner2.jpg
   caption:
   source:
     title:
