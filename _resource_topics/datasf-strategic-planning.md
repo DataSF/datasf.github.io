@@ -65,11 +65,8 @@ resources_list:
     resource_type: Spreadsheet
     links:
       - link: >-
-          https://docs.google.com/spreadsheets/d/1rxXSf6Rsu2tJxV9gEnRWuVzcbfSmJrpwj-b_T8u8TWs/edit?usp=sharing
+          https://drive.google.com/open?id=1nVWMApeLB-9iO9uFceTMCgiyuGjnAJ8rlJkTF16xnTo
         media_type: Google Spreadsheet
-      - link: >-
-          https://docs.google.com/spreadsheets/d/1rxXSf6Rsu2tJxV9gEnRWuVzcbfSmJrpwj-b_T8u8TWs/export?format=xlsx
-        media_type: Excel
   - name: Year 1 Strategic Plan
     description: >-
       Our strategic plan covers our 6 core goals and supporting strategies for
