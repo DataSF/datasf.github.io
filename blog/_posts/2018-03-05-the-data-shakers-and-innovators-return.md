@@ -66,7 +66,7 @@ Team:
 * Jon Swae
 * Michael Webster
 
-[![](/uploads/versions/sutainchinatown---x----1699-959x---.png)](https://drive.google.com/file/d/14PiYBxHRelPNKmRhJbSZ-0Gd-mV7jXep/view?usp=sharing)
+[![](/uploads/versions/sutainchinatown---x----1699-959x---.png)](https://drive.google.com/file/d/14UM0b8hpcbM2ZYYk-GTsJ4rBcxHlYb_f/view?usp=sharing)
 
 ### Data Crunch & Munch
 
