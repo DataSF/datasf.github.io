@@ -68,6 +68,8 @@ Team:
 * Jon Swae
 * Michael Webster
 
+<iframe src='https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={e24c7002-9849-487e-8b56-2b329fd2fde8}&action=embedview&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+
 ### Data Crunch & Munch
 
 *Took data munching and crunching to the next level* ![](/uploads/versions/img-20180302-125621---x----3038-1755x---.jpg)
@@ -81,6 +83,8 @@ Team:
 * Farahnaz K. Farahmand
 * Ritchie J. Rubio
 * Shamsi Soltani
+
+<iframe src='https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={3176110f-9554-43d1-965a-45536328d2a1}&action=embedview&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
 
 ### Mission Impossible
 
@@ -102,6 +106,8 @@ Team:
 * Vish Shenoi
 * Boon Teoh
 
+<iframe src='https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={65808c6b-9677-49db-86db-1e311ded051a}&action=embedview&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+
 ### Users First
 
 *This project made use of Human Centered Design* ![](/uploads/versions/img-20180302-122715-1---x----2962-1666x---.jpg)
@@ -116,6 +122,9 @@ Team:
 * Mark Nicholas
 * Donnie Oliveira
 * Sarah Peters
+
+<iframe src='https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={b8d1217d-504a-4af4-9a94-b63cb2e93cf0}&action=embedview&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+
 
 ### Bridge Builder
 
@@ -138,3 +147,5 @@ Team:
 * Chief Allen Nance
 * Kevin Truitt
 * Cody Xuereb
+
+<iframe src='https://sfgov1-my.sharepoint.com/personal/mayor_cdo_intern_sfgov_org/_layouts/15/WopiFrame.aspx?sourcedoc={ab6b7ad2-20f2-4d2f-bf6c-33df0801af60}&action=embedview&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
