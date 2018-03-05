@@ -20,8 +20,7 @@ categories:
   - blog
 ---
 
-On March 2nd nearly 100 city employees packed a room in City Hall for the second annual Data and Innovation Awards.  Organizes by DataSF and the Mayor's Office of Civic Innovation, each year a team of judges from the non-profit, for profit, foundation, and government sector come together and choose projects that eximplify excellent use of data and innovative thinking.  This year we are proud to announce the 6 winning projects comprised of 49 city employees across 11 departments.
-
+On March 2nd nearly 100 city employees packed a room in City Hall for the second annual Data and Innovation Awards, organized by DataSF and the Mayor's Office of Civic Innovation. Each year a team of judges from the non-profit, for profit, foundation, and government sector come together and choose projects that exemplify excellent use of data and innovative thinking. This year we are proud to announce the 6 winning projects from 49 city employees across 11 departments.
 
 ## Award Categories
 
