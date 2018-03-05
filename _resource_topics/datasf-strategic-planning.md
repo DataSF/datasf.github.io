@@ -45,7 +45,7 @@ resources_list:
     resource_type: Spreadsheet
     links:
       - link: >-
-          https://docs.google.com/spreadsheets/d/1LKLhB5XGvbYBm00R2E1jRGWfqnx4xNDnOVDAItG9Cjs/edit#gid=0
+          https://drive.google.com/open?id=1FbBg1YuYDsnkA4JZKEs8oEo2FSgQGMLKArcWV-9QTig
         media_type: Google Spreadsheet
   - name: Year 2 Strategic Plan
     description: >-
