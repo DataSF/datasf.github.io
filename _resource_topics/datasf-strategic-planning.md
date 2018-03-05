@@ -25,7 +25,7 @@ resources_list:
     resource_type: Document
     links:
       - link: >-
-          https://docs.google.com/document/d/1FTQ6oDWFEVVASlRDoCZ34HTGQZEvZdxRgDHFQFJfejA/edit?usp=sharing
+          https://drive.google.com/open?id=1NajQ3FIyjbJuptLEdkNU0f42rvLx9nUwraLk1HeogD8
         media_type: Google Doc
   - name: Year 3 Strategic Plan
     description: >-
