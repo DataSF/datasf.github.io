@@ -75,11 +75,8 @@ resources_list:
     resource_type: Document
     links:
       - link: >-
-          https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/edit?usp=sharing
+          https://drive.google.com/open?id=1kOoQn-Q1ww0ml1T4JtCWsFskgKZgpp_LF8-R8HJfKzc
         media_type: Google Doc
-      - link: >-
-          https://docs.google.com/document/d/1hvp_wls8KuJrfHW_NwX1qtyFR4EFdWCkxcULnNlhKNw/export?format=pdf
-        media_type: PDF
   - name: Year 1 Timeline with Activities
     description: >-
       Track our progress against our 3 year plan. Updated quarterly and subject
