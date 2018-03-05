@@ -85,11 +85,8 @@ resources_list:
     resource_type: Spreadsheet
     links:
       - link: >-
-          https://docs.google.com/spreadsheets/d/1M30oyAFUO6TXkmZ1jqGXTNGdvsTiXh5V7oS7vUCKRJ0/edit?usp=sharing
+          https://drive.google.com/open?id=1cw2CuVHQyKbJBAB2ueWnFDw6DowsLjlwYLEVDgF_dVw
         media_type: Google Spreadsheet
-      - link: >-
-          https://docs.google.com/spreadsheets/d/1M30oyAFUO6TXkmZ1jqGXTNGdvsTiXh5V7oS7vUCKRJ0/export?format=xlsx
-        media_type: Excel
 ---
 
 Every year, we write a strategic plan that is the basis of our work for the fiscal year. In addition, we provide quarterly updates to a more detailed project worksheet. All years are available below for reference.
