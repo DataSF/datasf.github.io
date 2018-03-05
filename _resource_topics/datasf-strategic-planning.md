@@ -35,7 +35,7 @@ resources_list:
     resource_type: Document
     links:
       - link: >-
-          https://docs.google.com/document/d/1cVqhRQXq5LJ7XQtA-OjmEXe6penlqI6DY8mY84_wlb0/edit#heading=h.cg536tgky2b
+          https://docs.google.com/document/d/1oS2KEVPVRUNZsoVzunSO-0C8sbkZWeVd678gUk0zvTs/edit?usp=sharing
         media_type: Google Doc
   - name: Year 3 Timeline with Activities
     description: >-
