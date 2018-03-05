@@ -55,11 +55,8 @@ resources_list:
     resource_type: Document
     links:
       - link: >-
-          https://docs.google.com/document/d/1mqunsT9wXRt-mBbOmY3WcEJmsWSpMOISotZ1WHZ1_IU/edit?usp=sharing
+          https://drive.google.com/open?id=1sIQyQoDiW0u06s6WvZs5i9tw2ZfQWsxGWkZmV3k95WU
         media_type: Google Doc
-      - link: >-
-          https://docs.google.com/document/d/1mqunsT9wXRt-mBbOmY3WcEJmsWSpMOISotZ1WHZ1_IU/export?format=pdf
-        media_type: PDF
   - name: Year 2 Timeline with Activities
     description: >-
       Track our progress against our 3 year plan. Updated quarterly and subject
