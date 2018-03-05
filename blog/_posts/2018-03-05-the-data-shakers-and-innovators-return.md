@@ -44,6 +44,7 @@ Team:
 * Kate Patterson
 * Anne Trickey
 
+[![](/uploads/versions/sfac---x----1354-762x---.png)](https://drive.google.com/file/d/146-6sXNW3aX4z2b04KA5rEVnznaiS3j3/view?usp=sharing)
 
 ### A Picture is Worth a Thousand Words!
 
@@ -65,6 +66,7 @@ Team:
 * Jon Swae
 * Michael Webster
 
+![](/uploads/versions/sutainchinatown---x----1699-959x---.png)
 
 ### Data Crunch & Munch
 
@@ -80,6 +82,7 @@ Team:
 * Ritchie J. Rubio
 * Shamsi Soltani
 
+![](/uploads/versions/drive---x----1352-762x---.png)
 
 ### Mission Impossible
 
@@ -101,6 +104,7 @@ Team:
 * Vish Shenoi
 * Boon Teoh
 
+![](/uploads/versions/hss-con---x----1699-958x---.png)
 
 ### Users First
 
@@ -117,6 +121,7 @@ Team:
 * Donnie Oliveira
 * Sarah Peters
 
+![](/uploads/versions/sfenv---x----1348-759x---.png)
 
 ### Bridge Builder
 
@@ -140,3 +145,6 @@ Team:
 * Kevin Truitt
 * Cody Xuereb
 
+![](/uploads/versions/sydb---x----1687-953x---.png)
+
+&nbsp;
