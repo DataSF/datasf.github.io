@@ -64,7 +64,7 @@ Team:
 * Jon Swae
 * Michael Webster
 
-[]()
+
 
 ### Data Crunch & Munch
 
@@ -84,7 +84,8 @@ Team:
 
 ### Mission Impossible
 
-*Got creative and innovative with a difficult problem* ![](/uploads/versions/CalFresh---x----1280-960x---.jpg)
+*Got creative and innovative with a difficult problem* ![](/uploads/versions/img-20180302-125621---x----3038-1755x---.jpg)
+
 
 For the category 'Mission Impossible' the award went to the [Health Service System](www.myhss.org/) and the [Controller's Officer](https://sfcontroller.org/).&nbsp; These two departments accomplished the impossible to save the city millions while maintaining quality of healthcare for city employees via implementation of a split carrier option.
 
