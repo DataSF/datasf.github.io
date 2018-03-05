@@ -66,7 +66,7 @@ Team:
 * Jon Swae
 * Michael Webster
 
-![](/uploads/versions/sutainchinatown---x----1699-959x---.png)
+[![](/uploads/versions/sutainchinatown---x----1699-959x---.png)](https://drive.google.com/file/d/14PiYBxHRelPNKmRhJbSZ-0Gd-mV7jXep/view?usp=sharing)
 
 ### Data Crunch & Munch
 
@@ -82,7 +82,7 @@ Team:
 * Ritchie J. Rubio
 * Shamsi Soltani
 
-![](/uploads/versions/drive---x----1352-762x---.png)
+[![](/uploads/versions/drive---x----1352-762x---.png)](https://drive.google.com/file/d/147yQ-PwYG03esZT8ifG3UenQgvOGHyNy/view?usp=sharing)
 
 ### Mission Impossible
 
@@ -104,7 +104,7 @@ Team:
 * Vish Shenoi
 * Boon Teoh
 
-![](/uploads/versions/hss-con---x----1699-958x---.png)
+[![](/uploads/versions/hss-con---x----1699-958x---.png)](https://drive.google.com/file/d/14BuyTdeiRljVZWzx1jWaT1cuootxdX7v/view?usp=sharing)
 
 ### Users First
 
@@ -121,7 +121,7 @@ Team:
 * Donnie Oliveira
 * Sarah Peters
 
-![](/uploads/versions/sfenv---x----1348-759x---.png)
+[![](/uploads/versions/sfenv---x----1348-759x---.png)](https://drive.google.com/file/d/14PiYBxHRelPNKmRhJbSZ-0Gd-mV7jXep/view?usp=sharing)
 
 ### Bridge Builder
 
@@ -145,6 +145,6 @@ Team:
 * Kevin Truitt
 * Cody Xuereb
 
-![](/uploads/versions/sydb---x----1687-953x---.png)
+[![](/uploads/versions/sydb---x----1687-953x---.png)](https://drive.google.com/file/d/14TC9DIk2Pq7rh745jeLvTVNz-e4jPF_z/view?usp=sharing)
 
 &nbsp;
