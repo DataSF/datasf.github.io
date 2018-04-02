@@ -21,8 +21,7 @@ categories:
   - academy
 ---
 
-
-## About this course
+## About This Course
 
 Lean Leaders equips City employees to be change agents in their departments through hands-on observation, making rapid, creative innovations, and coaching other staff through change. The Lean Leaders training is a 3-day intensive course designed to train City employees to lead their own process improvement projects in their departments. Over 3 days, participants will learn the fundamentals of Lean process improvement, change management, and analyzing their process using Lean tools. In addition, participants will have the opportunity to practice their newly-learned skills by observing another city department process in real time, analyzing the process, and presenting their findings to the process expert in that department with a project team composed of other trainees.
 
@@ -30,7 +29,7 @@ Trainees will leave this training equipped to lead their own process improvement
 
 This course is offered approximately once a year or by special arrangement with a department, and Lean 101 is not prerequisite for this class. This training is appropriate for front line staff, managers, and executives
 
-## What you'll learn in this course
+## What You'll Learn In This Course
 
 * Practice getting insight into your work through observation and measurement
 * How to analyze performance

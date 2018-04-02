@@ -22,14 +22,13 @@ categories:
   - academy
 ---
 
-
-## About this course
+## About This Course
 
 Basic data design choices can make the difference between simple analysis and hours of frustration. This classroom based workshop will go over how to make certain dataset design decisions that will make your reporting life much easier, hopefully reducing repetitive asks for data and interpretation. This is a methods course that will primarily use tools and formulas in Excel to help you test your data for analysis readiness.
 
 This class assumes you are comfortable navigating in an Excel worksheet. You should have access to Excel 2010 or 2013 at your workstation.
 
-## What you'll learn in this course
+## What You'll Learn In This Course
 
 * How to use functions in Excel to clean and prepare data for analysis
   * Use Paste-Transpose and SEARCH and FIND functions to create categorical variables

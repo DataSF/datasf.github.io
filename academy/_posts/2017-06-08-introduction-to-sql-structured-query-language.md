@@ -27,12 +27,11 @@ categories:
   - academy
 ---
 
-
-## About this course
+## About This Course
 
 Much of the initial and simple data analysis and manipulation is done in Excel spreadsheets. &nbsp;However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is usually a more popular choice.
 
-## What you’ll learn in this course
+## What You’ll Learn In This Course
 
 * Data Table Fundamental
 * Basic syntax of SQL – Your First SQL Query
