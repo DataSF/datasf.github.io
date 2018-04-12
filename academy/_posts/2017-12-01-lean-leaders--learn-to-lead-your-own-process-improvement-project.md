@@ -30,7 +30,7 @@ Lean Leaders is a multi-day Lean Process Improvement training that raises up cha
 
 In the first two days, trainees will first learn practical tools to reduce staff frustration and provide better services to the City’s customers then observe a city process in real time, analyzing the process using their newly-acquired Lean process improvement skills. Trainees are expected to return to their departments and begin implementing process improvements between the first set of training days (1&2) and the third training day (one month later). During and after the training, City Performance analysts will coach trainees through choosing the right tools to address their problem and troubleshooting issues that arise along the way.&nbsp;<br>This course is offered approximately once a year or by special arrangement with a department, and Lean 101 is not prerequisite for this class. This training is appropriate for front line staff, managers, and executives.&nbsp;
 
-**Note:** Potential trainees will have to submit an application and obtain signoff from department management on their proposed project prior to being accepted to this course.&nbsp;
+**Note:** Potential trainees will have to submit an application and obtain sign-off from department management on their proposed project prior to being accepted to this course.&nbsp;
 
 ## What You'll Learn In This Course
 
