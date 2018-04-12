@@ -23,11 +23,15 @@ categories:
 
 ## About This Course
 
-Lean Leaders equips City employees to be change agents in their departments through hands-on observation, making rapid, creative innovations, and coaching other staff through change. The Lean Leaders training is a 3-day intensive course designed to train City employees to lead their own process improvement projects in their departments. Over 3 days, participants will learn the fundamentals of Lean process improvement, change management, and analyzing their process using Lean tools. In addition, participants will have the opportunity to practice their newly-learned skills by observing another city department process in real time, analyzing the process, and presenting their findings to the process expert in that department with a project team composed of other trainees.
+&nbsp;
 
-Trainees will leave this training equipped to lead their own process improvement projects in their departments right away. Previous Lean Leaders trainees have successfully applied this training to their work by employing the Lean methodology to reduce the amount of time it takes to conduct contract solicitations and scoring by 31 days, halving the time it takes an HR division to prepare for employment exams, and reducing construction errors by developing a new standard process for reviewing construction blueprints.
+Lean Leaders is a multi-day Lean Process Improvement training that raises up change agents in City departments through hands-on observation, making rapid innovations, and coaching staff through change. Participants work with their supervisor and leaders in their department to identify a process problem that they will work on throughout the training. Each trainee will leave the training equipped to lead their own improvement projects and make measurable change to a department business process.
 
-This course is offered approximately once a year or by special arrangement with a department, and Lean 101 is not prerequisite for this class. This training is appropriate for front line staff, managers, and executives
+In the first two days, trainees will first learn practical tools to reduce staff frustration and provide better services to the City’s customers then observe a city process in real time, analyzing the process using their newly-acquired Lean process improvement skills. Trainees are expected to return to their departments and begin implementing process improvements between the first set of training days (1&2) and the third training day (one month later). During and after the training, City Performance analysts will coach trainees through choosing the right tools to address their problem and troubleshooting issues that arise along the way.&nbsp;<br>This course is offered approximately once a year or by special arrangement with a department, and Lean 101 is not prerequisite for this class. This training is appropriate for front line staff, managers, and executives.&nbsp;
+
+Note: Potential trainees will have to submit an application and obtain signoff from department management on their proposed project prior to being accepted to this course.&nbsp;<br>&nbsp;
+
+&nbsp;
 
 ## What You'll Learn In This Course
 
@@ -38,4 +42,4 @@ This course is offered approximately once a year or by special arrangement with 
 * How to translate your analysis into concrete ideas for improvement
 * How to communicate improvement plans to stakeholders and supervisors
 * How to create a plan, execute it and track progress
-* How to manage changes resulting from process improvement
+* How to manage changes resulting from process improvement<br>&nbsp;
