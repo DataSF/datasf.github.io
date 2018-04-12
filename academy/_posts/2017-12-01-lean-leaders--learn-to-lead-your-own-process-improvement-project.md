@@ -1,10 +1,13 @@
 ---
 title: Lean Leaders – Learn to lead your own process improvement project
 description: >-
-  The Lean Leaders training is a 3-day intensive course designed to train City
-  employees to lead their own process improvement projects in their departments.
-  Over 3 days, participants will learn the fundamentals of Lean process
-  improvement, change management, and analyzing their process using Lean tools.
+  Lean Leaders is a multi-day Lean Process Improvement training that raises up
+  change agents in City departments through hands-on observation, making rapid
+  innovations, and coaching staff through change. Participants work with their
+  supervisor and leaders in their department to identify a process problem that
+  they will work on throughout the training. Each trainee will leave the
+  training equipped to lead their own improvement projects and make measurable
+  change to a department business process.
 prerequisites:
 length: 3 days / 24
 subjects:
