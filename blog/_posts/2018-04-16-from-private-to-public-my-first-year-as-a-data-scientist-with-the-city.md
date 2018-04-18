@@ -12,7 +12,9 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: >-
+  One data scientist's reflections on transitioning from the private to public
+  sector
 date: 2018-04-16 00:00:00
 categories:
   - blog
