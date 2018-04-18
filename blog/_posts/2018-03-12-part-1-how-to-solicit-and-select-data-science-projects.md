@@ -102,7 +102,7 @@ As a team, DataSF discusses and places each project on a 2x2 that plots projects
 
 ![](/uploads/value-by-complexity.png)
 
-> > > Caption: Scoring projects using this 2x2 matrix helps ensure we have a mix of small, medium and large projects, all of medium to high value.
+> > > Scoring projects using this 2x2 matrix helps ensure we have a mix of small, medium and large projects, all of medium to high value.
 
 #### **Provide 'gentle off ramps'**
 
