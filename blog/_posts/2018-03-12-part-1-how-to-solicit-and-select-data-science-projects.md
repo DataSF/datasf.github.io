@@ -54,7 +54,7 @@ We recommend listing current analytic resources that are available and then show
 
 At DataSF, we insist that all projects have "service change" as a primary goal. This means clients will need to actually change how they do business. DataSF will deliver tools, decision aids, and models, but never white papers or research briefs. You may take a different approach - that's fine. Just state it clearly and consistently to help manage expectations.
 
-#### Speak their language and use lots of examples 
+#### Speak their language and use lots of examples&nbsp;
 
 All the operational smarts needed to identify good data science projects exist in departments. You have to help these subject matter experts look at their business processes like a data scientist without talking in statistical terms. Remember the goal is to generate applications, not impart the finer workings of machine learning.
 
@@ -109,5 +109,3 @@ As a team, DataSF discusses and places each project on a 2x2 that plots projects
 Remember the user. At this point, departments have dedicated time to submitting their idea and some have even met with you to discuss their application in detail. In the relationship heavy world you operate in, an impersonal "thanks but no thanks" email is not going to cut it.
 
 You want to leave a positive impression that will encourage future submissions. At DataSF, we employ 'gentle off ramps'. If a project is not ripe for data science, we try to identify another option from our (or a partners) suite of services. This is often our automation services via the open data portal, attending a data academy class, or dashboarding help. It doesn't matter that some don't follow up; what's important is that we offered.
-
-*Stay tuned for our next blog post in this series: How to scope data science projects.*
