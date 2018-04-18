@@ -1,6 +1,9 @@
 ---
 title: 'Part 1: How to solicit and select data science projects'
 author:
+  - joy_bonaguro
+  - kimberly_hicks
+  - blake_valenta
 image:
   thumb:
   feature:
