@@ -29,50 +29,93 @@ categories:
 
 ---
 
-Data science projects can quickly find themselves off track - there's just so much fun data to play with! Once you have a <span style="text-decoration:underline;">viable data science project</span>, you need to scope the project to ensure you can deliver actionable insights in a reasonable amount of time.
+If you are starting a data science service in your jurisdiction, your first task will be to develop a backlog of projects. This article walks through how we solicit and select data science projects.
 
 
-## Work in cohorts to time bound scope
-
-At DataSF, our data science projects happen in cohorts - groups of projects during a specific time period. The concept of a cohort conveniently contains the notion of deadlines. Cohorts end and a new one begins.
-
-We launch each cohort with a kick-off meeting. The kick-off meeting walks the teams through the project charter, reviews the timing for each project, and starts the process of data access. This helps set expectations for timing for each project.
-
-By bringing everyone into one room, it also serves to subtly message the constraints your team operates under. They are not your only project. Asking for out-of-scope analytical support or causing unnecessary data delays affects others.
+## How to solicit data science projects
 
 
-## Use a project charter as a scoping tool
+## You may start with a list of data science projects handed to you. However, once you work through those or if you're starting from scratch, you'll need to identify new project ideas. At a minimum, you'll probably hold brown bags, office hours and brainstorming sessions. Below are some additional ideas.
 
-The project charter is a document jointly signed by our team and the department's project champion and leadership. Although a formal agreement, its real purpose is a conversation tool meant to surface ambiguities, crystalize responsibilities, and identify and measure the deliverable.
+**Try using an application process to solicit projects**
 
-A majority of the sections - problem statement, service change, and business case - can be lifted and polished from the application (<span style="text-decoration:underline;">our clients apply to work with us</span>). The real conversation starts by digging a bit deeper.
+The biggest barrier to data science projects is identifying questions amenable to data science that people care about. An application process - where clients have to apply to use your data science service - solves this barrier because:
 
-**Identify issues and stakeholders early**
 
-Our section on "Constraints, Assumptions, Risks and Dependencies" provides space for clients to lay out any fears and concerns they may have. Better to know and address now than later. This may also introduce some important scoping issues. For example, in one project, we identified a law that constrained the type of analysis that could be used in the service change.
 
-We also have a stakeholder exercise at our cohort kickoff meeting to ensure we're building support for the project from the beginning. It also helps identify whose expectations we need to surface and manage in terms of the scope and deliverable.
+*   It surfaces committed clients with a priority project and an eager ear and
+*   The solicitation process helps define what is a good data science project
 
-**Create milestones to benchmark progress**
+An application process relies on you having an existing reputation and means of reaching clients (listservs, newsletters, etc). If you don't have this, [make sure that offering data science services is actually what your jurisdiction needs](https://www.govloop.com/community/blog/define-role-new-chief-data-officer/).
 
-In any project, milestones help measure progress and identify who is responsible for what. In data science projects, it can be hard to decide what is a milestone. At DataSF, we build in milestones related to how we approach the analysis to help keep us on track (e.g. exploratory analysis briefing, research briefing, model briefings etc). Basically, we put ourselves on the hook for meaningful, intermediate deliverables.
+**Define and differentiate your service**
 
-**Define success and success metrics**
+Not everyone will know what data science is. Or you may have existing analysts who want to understand how your service is different than their work. So you'll need to define what you are "selling" and, more importantly, what you are not selling.
 
-Hearing what success looks like in the client's words helps get everyone on the same page. It also helps elicit any lurking expectations. If their expectations of success are way beyond what your team believes is feasible, you need to know this before diving in.
+We recommend listing current analytic resources that are available and then showing how your service is different. It is easier to define (and explain) a new, unknown service in relation to existing, well-known services. Failure to do this may result in numerous requests for dashboards!
 
-You should also be leary of a project whose success cannot be quantified. In terms of scope, this also helps us stay on target. Most projects can split into many analytical branches bearing juicy, insightful data fruit. But you don't have infinite time. So your analytical forays need to tie back to these key success metrics. A good gating question on additional analysis is: "how does this support our key success measure or the service change we plan?"
+**Define the expected output**
 
-We often refer back to this success statement to help keep us on track. 
+At DataSF, we insist that all projects have "service change" as a primary goal. This means clients will need to actually change how they do business. DataSF will deliver tools, decision aids, and models, but never white papers or research briefs. You may take a different approach - that's fine. Just state it clearly and consistently to help manage expectations.
 
-**Define the deliverables**
+**Speak their language and use lots of examples **
 
-What is the physical thing clients expect to be in their hands when the project is complete. Is it a script? A workbook? A tool? This starts the important conversation of what your client can reasonably be expected to maintain. Depending on technical ability, some clients may be better served by an excel workbook than an R script. This also surfaces the question of who will maintain the end product going forward. More on this in our next article.
+All the operational smarts needed to identify good data science projects exist in departments. You have to help these subject matter experts look at their business processes like a data scientist without talking in statistical terms. Remember the goal is to generate applications, not impart the finer workings of machine learning.
 
-You may need to revisit the deliverable as you learn more (and should message that), but by defining it early, you are also helping to define what "done" looks like.
+Richard Todd and Oliver Wise, formerly of NOLAlytics, developed a thoughtful approach. Their [analytics typology](http://datadriven.nola.gov/nolalytics/) uses a set of "recipes" that speak to common business problems. DataSF refined these typologies and [created infographics](https://datasf.org/science/) and other [visual collateral](https://datasf.org/science/DataScienceSF-1%20pager.pdf) to help explain the project types. 
 
-Remember, whenever you're knee deep in the data and starting to feel lost, refer back to the charter as your guide. A thoughtful charter can help both you and your client stay on task.
+**Use a short application form to increase quantity and quality**
 
-Feel free to modify our charter available in our [DataScienceSF resource collection](https://datasf.org/resources/datasciencesf/).
+If you do use an application process, keep it short to increase the number of submissions. At the same time, filling out 100-200 word descriptions of the following acts as a filter for uncommitted projects:
 
-_For more on this blog series, read Part 1: How to solicit and select data science projects. Visit us next week for Part 3: How to deliver data science projects._
+
+
+*   What the problem is
+*   Why is it important
+*   What would be the service change
+
+Application forms of any length fail to solicit all the information we need to evaluate a project. It is best used as a tool to identify which projects deserve a 30 min follow-up meeting.
+
+
+## How to select projects
+
+Once you receive your applications, we recommend having a follow up conversation with each one to make sure you understand the submission in order to properly evaluate it. 
+
+**Screen projects against your criteria**
+
+Once we understand the project, we screen it against our selection criteria (which was communicated throughout the solicitation process):
+
+
+
+*   Answerable or potentially answerable by data science
+*   Level of impact
+*   Alignment with Mayoral priorities
+*   Viable path towards service change
+*   Appropriate project champion
+*   Solvable within the cohort timeframe
+
+This screening helps you identify which of the submissions is a viable project.
+
+**Score viable projects on complexity and value**
+
+Once you've screened the projects, you'll want to score the viable ones. You have limited capacity, which means you are going have to make some hard choices between good projects. Even if you take on all the projects, scoring will help you plan timing and sequencing.
+
+As a team, DataSF discusses and places each project on a 2x2 that plots projects by value and complexity. This helps us identify which combination of complex and simple projects can be accomplished in the cohort timeframe. It also helps us identify projects that we should avoid - mainly those that are high complexity and low on value.
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Part-10.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/Part-10.png "image_tooltip")
+
+
+>>>Caption: Scoring projects using this 2x2 matrix helps ensure we have a mix of small, medium and large projects, all of medium to high value.
+
+**Provide 'gentle off ramps'**
+
+Remember the user. At this point, departments have dedicated time to submitting their idea and some have even met with you to discuss their application in detail. In the relationship heavy world you operate in, an impersonal "thanks but no thanks" email is not going to cut it. 
+
+You want to leave a positive impression that will encourage future submissions. At DataSF, we employ 'gentle off ramps'. If a project is not ripe for data science, we try to identify another option from our (or a partners) suite of services. This is often our automation services via the open data portal, attending a data academy class, or dashboarding help. It doesn't matter that some don't follow up; what's important is that we offered.
+
+_Stay tuned for our next blog post in this series: How to scope data science projects._
