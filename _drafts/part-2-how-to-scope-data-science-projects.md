@@ -1,6 +1,9 @@
 ---
 title: 'Part 2: How to scope data science projects'
 author:
+  - joy_bonaguro
+  - kim_hicks
+  - blake_valenta
 image:
   thumb:
   feature:
@@ -22,7 +25,7 @@ categories:
 
 *This is the 2nd of a 4 part series on managing data science projects in government.*
 
-1. [*Part 1: How to solicit and select data science projects](/blog/part-1-how-to-solicit-and-select-data-science-projects/)*
+1. [*Part 1: How to solicit and select data science projects*](/blog/part-1-how-to-solicit-and-select-data-science-projects/)
 2. *Part 2: How to scope data science projects*
 3. [*Part 3: How to deliver a data science project*](/blog/part-3-how-to-deliver-a-data-science-project/)
 4. [*Part 4: How to tell your data science story*](/blog/part-4-how-to-tell-your-data-science-story/)
