@@ -15,7 +15,10 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: >-
+  If you are starting a data science service in your jurisdiction, your first
+  task will be to develop a backlog of projects. This article walks through how
+  we solicit and select data science projects.
 date: 2018-03-12 00:00:00
 categories:
   - blog
@@ -57,7 +60,7 @@ We recommend listing current analytic resources that are available and then show
 
 At DataSF, we insist that all projects have "service change" as a primary goal. This means clients will need to actually change how they do business. DataSF will deliver tools, decision aids, and models, but never white papers or research briefs. You may take a different approach - that's fine. Just state it clearly and consistently to help manage expectations.
 
-#### Speak their language and use lots of examples&nbsp;
+#### Speak their language and use lots of examples 
 
 All the operational smarts needed to identify good data science projects exist in departments. You have to help these subject matter experts look at their business processes like a data scientist without talking in statistical terms. Remember the goal is to generate applications, not impart the finer workings of machine learning.
 
