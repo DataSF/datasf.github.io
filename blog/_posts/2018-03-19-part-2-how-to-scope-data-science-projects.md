@@ -15,7 +15,11 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: >-
+  Data science projects can quickly find themselves off track - there's just so
+  much fun data to play with! Once you have a viable data science project, you
+  need to scope the project to ensure you can deliver actionable insights in a
+  reasonable amount of time.
 date: 2018-03-19 00:00:00
 categories:
   - blog
