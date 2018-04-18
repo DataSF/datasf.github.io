@@ -2,7 +2,7 @@
 title: 'Part 4: How to tell your data science story'
 author:
   - joy_bonaguro
-  - kim_hicks
+  - kimberly_hicks
   - blake_valenta
 image:
   thumb:
