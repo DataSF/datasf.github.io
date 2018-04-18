@@ -2,7 +2,7 @@
 title: 'Part 2: How to scope data science projects'
 author:
   - joy_bonaguro
-  - kim_hicks
+  - kimberly_hicks
   - blake_valenta
 image:
   thumb:
