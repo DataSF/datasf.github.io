@@ -1,6 +1,6 @@
 ---
 title: 'From Private to Public: My first year as a data scientist with the City'
-author: kim_hicks
+author: kimberly_hicks
 image:
   thumb:
   feature:
