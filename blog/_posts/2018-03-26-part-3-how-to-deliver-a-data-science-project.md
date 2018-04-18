@@ -2,7 +2,7 @@
 title: 'Part 3: How to deliver a data science project'
 author:
   - joy_bonaguro
-  - kim_hicks
+  - kimberly_hicks
   - blake_valenta
 image:
   thumb:
