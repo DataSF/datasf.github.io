@@ -15,7 +15,10 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: >-
+  Storytelling is part of a successful data science project. So don't neglect
+  it. This article covers why you should care about storytelling in data science
+  and how to tell your stories well.
 date: 2018-04-02 00:00:00
 categories:
   - blog
