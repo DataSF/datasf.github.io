@@ -15,7 +15,10 @@ image:
     author_link:
     license:
     license_link:
-description:
+description: >-
+  You need to deliver implementable data insights to your client. This article
+  describes how to deliver the most value and ensure that your insights are
+  understood and get used.
 date: 2018-03-26 00:00:00
 categories:
   - blog
