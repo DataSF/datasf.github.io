@@ -41,4 +41,8 @@ In the first two days, trainees will first learn practical tools to reduce staff
 * How to translate your analysis into concrete ideas for improvement
 * How to communicate improvement plans to stakeholders and supervisors
 * How to create a plan, execute it and track progress
-* How to manage changes resulting from process improvement<br>&nbsp;
+* How to manage changes resulting from process improvement
+
+## More Resources
+
+* Learn more on the [City Performance Lean Program website](https://cityperformanceleanprogram.weebly.com/)
