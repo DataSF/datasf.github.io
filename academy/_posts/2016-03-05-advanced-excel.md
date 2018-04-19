@@ -43,8 +43,9 @@ This course will cover the following topics. If you would like to review the mat
 
 * [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 * San Francisco Public Library
-  * [Advanced Excel from Gale Courses](http://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel)&nbsp;(6 weeks, 24hrs total works)
+  * [Advanced Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel)&nbsp;(6 weeks, 24hrs total)
 * Department of Human Resources
+  * DHR offers [discounted rates](http://sfdhr.org/sites/default/files/FileCenter/Documents/20647-CCSF%20Rates%20-%20June%2012%202014.pdf) for [Academy X courses](https://www.academyx.com/schedule/san_francisco/)
   * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to the videos used in class:
   * [IF formulas](https://www.lynda.com/Excel-tutorials/logical-tests/431188/463312-4.html)
