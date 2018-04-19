@@ -47,8 +47,9 @@ This course will cover the following topics:
 
 * [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;Click [here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing)&nbsp;to find out how to sign up for a free account.
 * San Francisco Public Library
-  * [Intermediate Microsoft Excel 2013 from Gale Courses](https://education.gale.com/l-sfpl/online-courses/intermediate-microsoft-excel-13?tab=detail) (6 weeks, 24hrs total works)
+  * [Intermediate Microsoft Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Intermediate+Excel) (6 weeks, 24hrs total)
 * Department of Human Resources&nbsp;
+  * DHR has [discounted rates](http://sfdhr.org/sites/default/files/FileCenter/Documents/20647-CCSF%20Rates%20-%20June%2012%202014.pdf) for [Academy X courses](https://www.academyx.com/schedule/san_francisco/)
   * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to additional resources:
   * [Paste Special](http://www.lynda.com/Excel-tutorials/Display-Paste-Special-options-instantly/167361/182304-4.html?), [Text to Columns](http://www.lynda.com/Excel-tutorials/Splitting-data-multiple-columns/376985/431670-4.html?), and [Concatenate](http://www.lynda.com/Excel-tutorials/Use-CONCATENATE-function-combine-text/439680/487078-4.html?)

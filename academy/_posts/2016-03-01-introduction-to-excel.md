@@ -44,7 +44,7 @@ This course will cover the following topics:
 
 * [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 * San Francisco Public Library
-  * [Introduction to Microsoft Excel 2013](https://education.gale.com/l-sfpl/online-courses/microsoft-excel-2013-introduction?tab=detail)[&nbsp;from Gale Courses](__notset__) (6 weeks, 24hrs total works)
+  * [Introduction to Microsoft Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Intro+to+Excel) (6 weeks, 24hrs total)
 * Department of Human Resources&nbsp;
   * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to additional resources:
