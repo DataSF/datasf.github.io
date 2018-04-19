@@ -39,7 +39,7 @@ You need to deliver implementable data insights to your client. This article des
 
 ## How to execute your data science project
 
-#### **Define and communicate the phases of analysis**
+### **Define and communicate the phases of analysis**
 
 Each data science project moves through analytical phases. You need to communicate these phases to your client, including what to expect. For example, at DataSF, each project includes an explanatory analysis (EA) phase. We communicate that the purpose of the EA is to:
 
