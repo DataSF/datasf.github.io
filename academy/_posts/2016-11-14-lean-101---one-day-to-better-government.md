@@ -31,3 +31,7 @@ Please note: This course is a 4-hour training and will use a moderated sign-up p
 * How to translate your analysis into concrete ideas for improvement
 * How to communicate improvement plans to stakeholders and supervisors
 * How to create a plan, execute it and track progress
+
+## More Resources
+
+* Learn more on the [City Performance Lean Program website](https://cityperformanceleanprogram.weebly.com/)
