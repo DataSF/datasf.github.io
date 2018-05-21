@@ -4,7 +4,7 @@
 
 <div class="author-wrapper clearfix">
 <div class="author-image pull-left">
-	<img src="http://gravatar.com/avatar/{{author.gravatar}}?s=100" alt="{{ author.name }}'s picture">
+	<img src="https://gravatar.com/avatar/{{author.gravatar}}?s=100" alt="{{ author.name }}'s picture">
 </div><!-- ./author-image -->
 <div class="author-content" itemprop="author" itemscope itemtype="http://schema.org/Person">
 	<h3 class="author-name color-primary">{% if author.web %}<a href="{{ author.web }}" itemprop="name">{{ author.name }}</a>{% else %}<span itemprop="name">{{ author.name }}</span>{% endif %}</h3>
