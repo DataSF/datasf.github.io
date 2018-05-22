@@ -21,8 +21,19 @@ resources_list:
       - link: >-
           https://legacy.gitbook.com/download/pdf/book/datasf/datasf-publishing-toolkit
         media_type: PDF
+  - name: Data Standards Reference Handbook
+    description: >-
+      This document contains format and reference standards to make data more
+      useful and consistent across the City at scale.
+    post_date: 2018-05-01 00:00:00
+    resource_type: Guide
+    links:
+      - link: >-
+          https://legacy.gitbook.com/book/datasf/draft-publishing-standards/details
+        media_type: Link
+      - link: >-
+          https://legacy.gitbook.com/download/pdf/book/datasf/draft-publishing-standards
+        media_type: PDF
 ---
 
-Running and scaling open data means investing in processes, tools and people to make it work. Here we include the resources we've developed to document some of our processes and standards. Check out the resources below, but also [read our 4 part blog series on this topic.](/blog/part-1-datasfs-operating-manual-for-open-data/)
-
-&nbsp;
+Running and scaling open data means investing in processes, tools and people to make it work. Here we include the resources we’ve developed to document some of our processes and standards. Check out the resources below, but also [read our 4 part blog series on this topic.](/blog/part-1-datasfs-operating-manual-for-open-data/)
