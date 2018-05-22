@@ -36,4 +36,4 @@ resources_list:
         media_type: PDF
 ---
 
-Running and scaling open data means investing in processes, tools and people to make it work. Here we include the resources we’ve developed to document some of our processes and standards. Check out the resources below, but also [read our 4 part blog series on this topic.](/blog/part-1-datasfs-operating-manual-for-open-data/)
+Running and scaling open data means investing in processes, tools and people to make it work. Here we include the resources we’ve developed to document some of those choices. Check them out below, but also [read our 4 part blog series on this topic.](/blog/part-1-datasfs-operating-manual-for-open-data/)
