@@ -1,15 +1,28 @@
 ---
 title: Open Data Program Operations and Management
-description:
+description: >-
+  Running and scaling open data means investing in processes, tools and people
+  to make it work. Here we include the resources we've developed to document
+  some of our processes and standards.
 tags:
 audiences:
 resources_list:
-  - name:
-    description:
-    post_date:
-    resource_type:
+  - name: DataSF Open Data Publishing Toolkit
+    description: >-
+      The publishing toolkit describes how DataSF supports open data publishing.
+      The processes herein are the outcome of continuous improvements that
+      reflect our environment.
+    post_date: 2018-05-01 00:00:00
+    resource_type: Toolkit
     links:
-      - link:
-        media_type:
+      - link: >-
+          https://legacy.gitbook.com/book/datasf/datasf-publishing-toolkit/details
+        media_type: Link
+      - link: >-
+          https://legacy.gitbook.com/download/pdf/book/datasf/datasf-publishing-toolkit
+        media_type: PDF
 ---
 
+Running and scaling open data means investing in processes, tools and people to make it work. Here we include the resources we've developed to document some of our processes and standards. Check out the resources below, but also [read our 4 part blog series on this topic.](/blog/part-1-datasfs-operating-manual-for-open-data/)
+
+&nbsp;
