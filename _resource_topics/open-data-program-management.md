@@ -1,5 +1,5 @@
 ---
-title: Open Data Program Operations and Management
+title: Open Data Operations and Management
 description: >-
   Running and scaling open data means investing in processes, tools and people
   to make it work. Here we include the resources we've developed to document
