@@ -1,5 +1,5 @@
 ---
-title: Open Data Program Management
+title: Open Data Program Operations and Management
 description:
 tags:
 audiences:
@@ -12,3 +12,4 @@ resources_list:
       - link:
         media_type:
 ---
+
