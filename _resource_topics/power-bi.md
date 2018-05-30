@@ -1,6 +1,8 @@
 ---
 title: Power BI
-description:
+description: >-
+  This collection consists of documents and resources DataSF has generated to
+  support the adoption of Power BI in CCSF.
 tags:
 audiences:
 resources_list:
@@ -34,3 +36,8 @@ resources_list:
         media_type: Google Doc
 ---
 
+Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.&nbsp; Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have a nearly free way of distributing these reports within CCSF
+
+Power BI's greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing.&nbsp; (see Brown Bag slidedeck for more).
+
+&nbsp;
