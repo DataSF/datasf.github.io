@@ -52,7 +52,7 @@ resources_list:
     links:
       - link: >-
           https://drive.google.com/drive/folders/1tJD4ix07-70VHvfrhD2NYaUor0c-PwF6?usp=sharing
-        media_type:
+        media_type: Link
   - name: Power BI Brown Bag
     description: 'A high level overview of Power BI compared to Tableau, Excel, and R.'
     post_date: 2018-05-31 00:00:00
