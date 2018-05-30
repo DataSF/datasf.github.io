@@ -37,7 +37,7 @@ resources_list:
   - name: DataSF PowerBI Cheatsheet
     description: A 2 page visual cheat sheet to Power BI's Report Editor and Query Editor
     post_date: 2018-05-31 00:00:00
-    resource_type:
+    resource_type: One Pager
     links:
       - link: >-
           https://drive.google.com/drive/folders/15Snh7-XJz3smcyoMVvhh_0kdFUWAv26H?usp=sharing
