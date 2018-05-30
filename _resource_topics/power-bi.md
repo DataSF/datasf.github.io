@@ -34,10 +34,27 @@ resources_list:
       - link: >-
           https://docs.google.com/document/d/1adUDdbHhl964270dPNyxL8laZgNGkpVwxLdLNWE65Vw/edit?usp=sharing
         media_type: Google Doc
+  - name: DataSF PowerBI Cheatsheet
+    description: A 2 page visual cheat sheet to Power BI's Report Editor and Query Editor
+    post_date: 2018-05-31 00:00:00
+    resource_type:
+    links:
+      - link: >-
+          https://drive.google.com/drive/folders/15Snh7-XJz3smcyoMVvhh_0kdFUWAv26H?usp=sharing
+        media_type: PDF
+  - name: DataSF Dashboard Template File
+    description: >-
+      A report template for Power BI that incorporates a date table and helpful
+      links.  Designed for DataSF's Intro to PowerBI course
+      (datasf.org/academy/power-bi/)
+    post_date: 2018-05-31 00:00:00
+    resource_type: Template
+    links:
+      - link: >-
+          https://drive.google.com/drive/folders/1tJD4ix07-70VHvfrhD2NYaUor0c-PwF6?usp=sharing
+        media_type:
 ---
 
-Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.&nbsp; Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have a nearly free way of distributing these reports within CCSF
+Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.  Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have a nearly free way of distributing these reports within CCSF
 
-Power BI's greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing.&nbsp; (see Brown Bag slidedeck for more).
-
-&nbsp;
+Power BI's greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing.  (see Brown Bag slidedeck for more).
