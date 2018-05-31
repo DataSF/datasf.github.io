@@ -45,7 +45,7 @@ resources_list:
   - name: DataSF PowerBI Cheatsheet
     description: >-
       A 2 page visual cheat sheet to Power BI's Report Editor and Query Editor. 
-      Created to support recent attendees of DataSF's Intro to PowerBI course.
+      Created for Intro to PowerBI course.
     post_date: 2018-05-31 00:00:00
     resource_type: One Pager
     links:
@@ -55,8 +55,7 @@ resources_list:
   - name: DataSF Dashboard Template File
     description: >-
       A report template for Power BI that incorporates a date table and helpful
-      links.  Created to support recent attendees of DataSF's Intro to PowerBI
-      course.
+      links.  Created for Intro to PowerBI course.
     post_date: 2018-05-31 00:00:00
     resource_type: Template
     links:
