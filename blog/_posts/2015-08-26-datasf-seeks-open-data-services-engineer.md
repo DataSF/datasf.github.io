@@ -13,6 +13,7 @@ image:
     license: CC BY-SA 3.0
     license_link: "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
 description: "What does open data look like at scale? Would you like to find out? Or rather, would you like to be a key person in helping the City and County of San Francisco continuously improve the way in which we deliver open data services for all of the various users of open data? We have a job for you."
+published: false
 ---
 What does open data look like at scale? Would you like to find out? Or rather, would you like to be a key person in helping the City and County of San Francisco continuously improve the way we deliver open data services? We have a job for you.
 
