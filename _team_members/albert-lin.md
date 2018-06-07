@@ -1,6 +1,6 @@
 ---
 name: Albert Lin
-work_title: Performance Analyst
+work_title: 'Performance Analyst, Controller''s Office'
 email:
 bio:
 gravatar:
