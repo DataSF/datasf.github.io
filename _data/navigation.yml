@@ -54,7 +54,7 @@ academy:
     url: /academy/calendar/
   - text: Instructors
     url: /academy/instructors/
-  - text: your text here
+  - text: your title here
     url: /academy/your-title-here
 
 showcase:
