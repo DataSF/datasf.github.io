@@ -15,7 +15,7 @@ image:
     license_link: 'https://creativecommons.org/licenses/by-sa/2.0/'
 description: >-
   Want to transform City services through the use of data science and analytics? Looking to use your data science skills for impact? Then join the DataSF team to empower and expand use of data in government!
-date: 2018-06-06 00:00:00
+date: 2018-06-08 00:00:00
 categories:
   - blog
 published: true
@@ -79,7 +79,7 @@ We would love applicants who also have the following:
 
 ## How to apply
 
-Submit your application at the City’s Jobs Portal. Include a cover letter and a resume with your application.
+Submit [your application at the City’s Jobs Portal](https://www.jobapscloud.com/SF/sup/bulpreview.asp?R1=PEX&R2=1043&R3=086434). Include a cover letter and a resume with your application.
 
 And the City’s application is a little clunky - so don’t leave it to the last minute ;-) Or you can send the cover letter to datasf at sfgov dot org. Title your email: "Cover Letter: Name".
 
