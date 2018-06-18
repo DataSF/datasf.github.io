@@ -15,6 +15,7 @@ plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
 
 url: https://datasf.org
 
