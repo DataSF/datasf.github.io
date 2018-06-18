@@ -11,7 +11,7 @@ resources_list:
     description: >-
       The publishing toolkit describes how DataSF supports open data publishing.
       The processes herein are the outcome of continuous improvements that
-      reflect our environment.
+      reflect our context.
     post_date: 2018-05-01 00:00:00
     resource_type: Toolkit
     links:
