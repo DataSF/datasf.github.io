@@ -1,6 +1,7 @@
 // each planning period, add the start date of the ***next*** period at the top of the array below
 
 var planPeriods = [
+  '01/01/2019',
   '01/01/2018',
   '01/01/2017',
   '07/01/2016',
@@ -10,7 +11,7 @@ var planPeriods = [
   
 //putting this in a variable until we have some time to automate sums, the system of record for plans (Knack) doesn't let us do aggregations yet through the API, so looking at doing a simple js sum on the records
 
-var cityWideTargets = [57, 43, 64, 121]
+var cityWideTargets = [0, 57, 43, 64, 121]
 
 //Functions
 var fetchStats = function(baseURL, deptFilter, index) {
@@ -111,6 +112,7 @@ var fetchPlan = function(deptFilter, index) {
         "X-Knack-REST-API-Key": "knack"
       },
       success: function(response) {
+        console.log(response)
         $("#citywide-narrative").hide();
         if (response.total_records > 0) {
           if (response.records[0].field_44) {
@@ -123,6 +125,7 @@ var fetchPlan = function(deptFilter, index) {
           $('#dept-link').show();
           $(".department-mission").html((response.records[0].field_21 ? response.records[0].field_21 : ""));
           $("#dept-link .website-text").html((response.records[0].field_21 ? response.records[0].field_28 : ""));
+          $(".narrative").html((response.records[0].field_74 ? response.records[0].field_74 : ""))
           $(".narrative-maintenance").html((response.records[0].field_17 ? response.records[0].field_17 : ""));
           $(".narrative-publishing").html((response.records[0].field_60 ? response.records[0].field_60 : ""));
           $(".narrative-planning").html((response.records[0].field_59 ? response.records[0].field_59 : ""));
@@ -134,6 +137,7 @@ var fetchPlan = function(deptFilter, index) {
           $(".narrative-maintenance").html('');
           $(".narrative-publishing").html('');
           $(".narrative-planning").html('');
+          $(".narrative").html('');
           $("#chart-targeted").hide();
         }
         $("#chart-targeted-citywide").hide();
@@ -147,6 +151,7 @@ var fetchPlan = function(deptFilter, index) {
     $(".narrative-maintenance").html('');
     $(".narrative-publishing").html('');
     $(".narrative-planning").html('');
+    $(".narrative").html('');
     $("#chart-targeted").hide();
     $("#chart-targeted").hide();
     $("#chart-targeted-citywide").show();

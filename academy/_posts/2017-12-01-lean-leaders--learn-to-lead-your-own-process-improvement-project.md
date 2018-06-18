@@ -18,6 +18,8 @@ order:
 category: academy
 categories:
   - academy
+permalink: /academy/lean-leaders/
+redirect_from: "/academy/lean-leaders-learn-to-lead-your-own-process-improvement-project/"
 ---
 
 
