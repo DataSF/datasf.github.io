@@ -15,8 +15,7 @@ subjects:
 team_members:
   - marc-hebert
 order: 3
-course_materials_link: >-
-  https://drive.google.com/folderview?id=0BwRgeGq-b8f9bUx5MFpOT0hsV3c&usp=sharing
+course_materials_link: 'https://drive.google.com/drive/folders/0BwRgeGq-b8f9bUx5MFpOT0hsV3c'
 ---
 
 ## About This Course
