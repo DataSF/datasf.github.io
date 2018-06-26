@@ -1,9 +1,7 @@
 ---
 category: academy
-title: >-
-  Innovating City & County Services Using Design Thinking, Behavioral Economics
-  and Visual Facilitation
-course_short_name: Innovating City & County Services Using Design Thinking
+title: Service Design in Government
+course_short_name: Service Design in Government
 description: >-
   Ever wanted to use design thinking to create more effective project outcomes?
   Plan to have fun practicing these techniques and then commit to trying to
