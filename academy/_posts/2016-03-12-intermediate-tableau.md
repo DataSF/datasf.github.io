@@ -1,7 +1,7 @@
 ---
-title: Intermediate Tableau I
+title: Intermediate Tableau
 description: "This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy. \_Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities."
-course_short_name: Tableau - Intermediate I
+course_short_name: Intermediate Tableau
 prerequisites: Introduction to Tableau or basic familiarity with Tableau
 length: 2.5
 subjects:
@@ -11,8 +11,9 @@ subjects:
 series:
   - Tableau
 team_members:
-  - celeste-berg
-  - jessie-rubin
+  - luke-fuller
+  - albert-lin
+  - michael-cox
 course_materials_link: >-
   https://drive.google.com/folderview?id=0BwRgeGq-b8f9cFpVR25RZUs5dXc&usp=sharing
 order: 2
@@ -23,7 +24,7 @@ categories:
 
 ## About This Course
 
-This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy. &nbsp;Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
+This classroom based workshop is the second in a series of workshops on Tableau offered by the Data Academy.  Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.
 
 This course is a natural continuation of our Introduction to Tableau training. We will show you how to create advanced and beautiful visualizations with only a few clicks.
 
@@ -47,7 +48,7 @@ We'll cover the following topics. If you want some additional resources outside 
   * [Creating Interactive Dashboards in Tableau](https://www.lynda.com/Tableau-tutorials/Creating-Interactive-Dashboards-Tableau/417094-2.html) (1h 38m, total)
 * Coursera
   * [Data Visualization and Communication in Tableau](https://www.coursera.org/learn/analytics-tableau/) (5 weeks, 3 - 5 hours per week)
-* Please click the below links to access how-to guides!&nbsp; Some links will direct you to sign up for a free Tableau Public account.
+* Please click the below links to access how-to guides!  Some links will direct you to sign up for a free Tableau Public account.
   * How to use multiple measures on the same axis
     * [Dual axes charts](http://onlinehelp.tableau.com/current/pro/online/windows/en-us/help.htm#multiplemeasures_dualaxes.html?)
     * [Combination charts](http://onlinehelp.tableau.com/current/pro/online/en-us/help.htm#multiplemeasures_combocharts.html)

@@ -1,6 +1,6 @@
 ---
 layout: course
-title: 'Data Usability: designing data for consumption'
+title: Data Usability
 course_short_name: Data Usability
 description: >-
   Basic data design choices can make the difference between simple analysis and
