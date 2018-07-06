@@ -1,7 +1,7 @@
 ---
 layout: course
-title: Introduction to Tableau
-course_short_name: Tableau - Intro
+title: Intro to Tableau
+course_short_name: Intro to Tableau
 description: >-
   This classroom based workshop is the first in a series of workshops on Tableau
   offered by the Data Academy.  Tableau Public is a free data visualization
@@ -16,10 +16,10 @@ subjects:
   - Analysis
   - Visualization
 team_members:
-  - celeste-berg
-  - jessie-rubin
   - luke-fuller
-  - sam-abbott
+  - albert-lin
+  - alice-kassinger
+  - debra-solomon
 course_materials_link: >-
   https://drive.google.com/folderview?id=0BwRgeGq-b8f9Ym45cDhTQ21fbk0&usp=sharing
 order: 1
@@ -27,7 +27,7 @@ order: 1
 
 ## About This Course
 
-This classroom based workshop is the first in a series of workshops on Tableau offered by the Data Academy. Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities.&nbsp;
+This classroom based workshop is the first in a series of workshops on Tableau offered by the Data Academy. Tableau Public is a free data visualization software that allows you to quickly create charts, maps, and dashboards with interactive filtering and drill-down capabilities. 
 
 ## What You’ll Learn In This Course
 
@@ -43,7 +43,7 @@ In this training, we will orient you to Tableau’s user interface and show you 
   * [Tableau 9 Essential Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) (2h 55m, total)
 * Coursera
   * [Data Visualization and Communication in Tableau](https://www.coursera.org/learn/analytics-tableau/) (5 weeks, 3 - 5 hours per week)
-* Please click the below links to access how-to guides!&nbsp; Some links will direct you to sign up for a free Tableau Public account.
+* Please click the below links to access how-to guides!  Some links will direct you to sign up for a free Tableau Public account.
 
   * [Why you should visualize your data and how Tableau can help](http://www.tableau.com/learn/tutorials/on-demand/getting-started?signin=2eef25056a4473a83a6529b1c5d5353f)
   * [How to format source data and import it into Tableau](http://www.tableau.com/learn/tutorials/on-demand/data-prep-text-and-excel-files?signin=72bd892169df0bda86f5bbdbce40b0a9)
