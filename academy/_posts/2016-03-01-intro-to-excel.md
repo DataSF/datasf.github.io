@@ -1,7 +1,7 @@
 ---
 layout: course
-title: Introduction to Excel
-course_short_name: Excel - Intro
+title: Intro to Excel
+course_short_name: Intro to Excel
 description: >-
   This classroom based workshop is the first in a series of workshops on Excel
   offered by the Data Academy.
@@ -13,11 +13,6 @@ subjects:
   - Analysis
   - Excel
 team_members:
-  - aaron-low
-  - ashley-groffenberger
-  - david-weinzimmer
-  - jessie-rubin
-  - sam-abbott
 course_materials_link: >-
   https://drive.google.com/folderview?id=0BwRgeGq-b8f9YmlxVUV4WWlUNTA&usp=sharing
 order: 0
@@ -25,7 +20,7 @@ order: 0
 
 ## About This Course
 
-This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy. &nbsp;It covers very basic topics and assumes no prior experience with the program.
+This classroom based workshop is the first in a series of workshops on Excel offered by the Data Academy.  It covers very basic topics and assumes no prior experience with the program.
 
 ## What You’ll Learn In This Course
 
@@ -42,10 +37,10 @@ This course will cover the following topics:
 
 ## More resources
 
-* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics.  [Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 * San Francisco Public Library
   * [Introduction to Microsoft Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Intro+to+Excel) (6 weeks, 24hrs total)
-* Department of Human Resources&nbsp;
+* Department of Human Resources 
   * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to additional resources:
   * [Features of Excel and the tool ribbon](http://www.lynda.com/Excel-tutorials/Using-menu-system/376986/431699-4.html?)

@@ -1,6 +1,6 @@
 ---
-title: Leveraging the City's Open Data Portal
-course_short_name: Leveraging the City's Open Data Portal
+title: Leveraging the City's Open Data
+course_short_name: Leveraging the City's Open Data
 description: >-
   This course helps you unlock features of the open data portal to improve your
   own data workflows. To get the most out of this class, you should have Excel
@@ -11,7 +11,7 @@ subjects:
   - Analysis
   - Visualization
   - Data Management
-series: z
+series:
 team_members:
   - jason-lally
 course_materials_link: >-

@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Intermediate Excel
-course_short_name: Excel - Intermediate
+course_short_name: Intermediate Excel
 description: >-
   This classroom based workshop is the second in a series of workshops on Excel
   offered by the Data Academy. It builds on the fundamentals of Excel and
@@ -15,12 +15,8 @@ subjects:
   - Visualization
   - Excel
 team_members:
-  - aaron-low
-  - ashley-groffenberger
-  - celeste-berg
-  - david-weinzimmer
-  - jessie-rubin
-  - sam-abbott
+  - alice-kassinger
+  - michael-cox
 course_materials_link: >-
   https://drive.google.com/folderview?id=0BwRgeGq-b8f9QWJHMWNnaTRFVVU&usp=sharing
 order: 2
@@ -45,10 +41,10 @@ This course will cover the following topics:
 
 ## More resources
 
-* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;Click [here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing)&nbsp;to find out how to sign up for a free account.
+* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics.  Click [here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 * San Francisco Public Library
   * [Intermediate Microsoft Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Intermediate+Excel) (6 weeks, 24hrs total)
-* Department of Human Resources&nbsp;
+* Department of Human Resources 
   * DHR has [discounted rates](http://sfdhr.org/sites/default/files/FileCenter/Documents/20647-CCSF%20Rates%20-%20June%2012%202014.pdf) for [Academy X courses](https://www.academyx.com/schedule/san_francisco/)
   * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to additional resources:

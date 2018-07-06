@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Advanced Excel
-course_short_name: Excel - Advanced
+course_short_name: Advanced Excel
 description: >-
   This video-guided workshop is the third in a series of Excel workshops offered
   by Data Academy.
@@ -13,8 +13,8 @@ subjects:
   - Excel
   - Analysis
 team_members:
-  - david-weinzimmer
-  - sam-abbott
+  - alice-kassinger
+  - michael-cox
 course_materials_link: >-
   https://drive.google.com/folderview?id=0BwRgeGq-b8f9bHp1UUtqNWJMTjA&usp=sharing
 order: 3
@@ -22,7 +22,7 @@ order: 3
 
 ## About This Course
 
-This video-guided workshop is the third in a series of Excel workshops offered by Data Academy. In this course, the instructor guides attendees through the course material by showing high-quality training videos from [Lynda.com](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing). &nbsp;This course provides Data Academy’s most advanced level of Excel training.
+This video-guided workshop is the third in a series of Excel workshops offered by Data Academy. In this course, the instructor guides attendees through the course material by showing high-quality training videos from [Lynda.com](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing).  This course provides Data Academy’s most advanced level of Excel training.
 
 We encourage experienced Excel users to register for this fast-paced course.
 
@@ -41,11 +41,11 @@ This course will cover the following topics. If you would like to review the mat
 
 ## More Resources
 
-* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;[Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics.  [Click here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
 * San Francisco Public Library
-  * [Advanced Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel)&nbsp;(6 weeks, 24hrs total)
+  * [Advanced Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Advanced+Excel) (6 weeks, 24hrs total)
 * Department of Human Resources
-  * DHR has&nbsp;[discounted rates](http://sfdhr.org/sites/default/files/FileCenter/Documents/20647-CCSF%20Rates%20-%20June%2012%202014.pdf) for [Academy X courses](https://www.academyx.com/schedule/san_francisco/)
+  * DHR has [discounted rates](http://sfdhr.org/sites/default/files/FileCenter/Documents/20647-CCSF%20Rates%20-%20June%2012%202014.pdf) for [Academy X courses](https://www.academyx.com/schedule/san_francisco/)
   * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to the videos used in class:
   * [IF formulas](https://www.lynda.com/Excel-tutorials/logical-tests/431188/463312-4.html)

@@ -1,7 +1,7 @@
 ---
 title: Excel Shortcuts
 description: "This short workshop\_serves to compliment the tools you will learn in other Excel courses offered by the Data Academy, and your existing skills. The tricks and tips it includes will save you time when performing analysis in Excel. This class uses keyboard shortcuts and some more advanced concepts and formulas to improve productivity and efficiency working in Excel."
-course_short_name: Excel - Shortcuts
+course_short_name: Excel Shortcuts
 prerequisites: Introduction to Excel or basic experience working with Excel
 length: 2
 subjects:

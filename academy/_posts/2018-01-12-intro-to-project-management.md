@@ -1,5 +1,5 @@
 ---
-title: Project Management
+title: Intro to Project Management
 description: "This course will cover fundamental concepts in project management and is meant for a beginner\_audience. It will focus on the use of project management tools for improved day-to-day management of and contribution to City projects."
 prerequisites: None.
 length: 3 hours
@@ -7,7 +7,7 @@ subjects:
   - Data Management
 series:
 team_members:
-course_short_name: Project Management
+course_short_name: Intro to Project Management
 course_materials_link: >-
   https://drive.google.com/drive/folders/17xD3g4CD3D4WOe6qHJODrPR9M_TmmmCX?usp=sharing
 order: 0

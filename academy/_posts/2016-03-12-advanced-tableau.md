@@ -1,6 +1,6 @@
 ---
-title: Intermediate Tableau II
-course_short_name: Tableau - Intermediate II
+title: Advanced Tableau
+course_short_name: Advanced Tableau
 description: >-
   This classroom based workshop is the third in a series of workshops on Tableau
   offered by the Data Academy. Tableau Public is a free data visualization
@@ -14,7 +14,8 @@ subjects:
 series:
   - Tableau
 team_members:
-  - celeste-berg
+  - luke-fuller
+  - sherman-luk
 course_materials_link: >-
   https://drive.google.com/folderview?id=0BwRgeGq-b8f9dW9jS25pM1JJcDQ&usp=sharing
 order: 3
