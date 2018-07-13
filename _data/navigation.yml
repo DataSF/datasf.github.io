@@ -56,7 +56,7 @@ academy:
     url: /academy/instructors/
   - text: Program Performance
     url: /academy/performance/
-    text: Office Hours
+  - text: Office Hours
     url: /academy/excel-office-hours
 showcase:
 - text: Featured
