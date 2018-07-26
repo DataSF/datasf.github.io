@@ -17,6 +17,9 @@ resources_list:
     links:
       - link: 'https://datasf.gitbooks.io/draft-publishing-standards/content/'
         media_type: Link
+      - link: >-
+          https://legacy.gitbook.com/download/pdf/book/datasf/draft-publishing-standards
+        media_type: PDF
   - name: Data Standards Reference Handbook
     description: >-
       This document contains format and reference standards to make data more
