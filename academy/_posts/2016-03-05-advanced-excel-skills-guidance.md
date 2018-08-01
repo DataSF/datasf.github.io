@@ -33,11 +33,9 @@ If you are looking for a more general class that covers advanced Excel topics, t
 * Department of Human Resources
   * DHR has&nbsp;[discounted rates](http://sfdhr.org/sites/default/files/FileCenter/Documents/20647-CCSF%20Rates%20-%20June%2012%202014.pdf) for [Academy X courses](https://www.academyx.com/schedule/san_francisco/)
   * [City University](http://sfdhr.org/city-university)
+* [ExcelJet](https://exceljet.net/){: target="_blank"}
 * Hyperlinks to the video explanations of specific skills:
-  * [IF formulas](https://www.lynda.com/Excel-tutorials/logical-tests/431188/463312-4.html)
   * [Nested formulas](https://www.lynda.com/Excel-tutorials/Expanding-nested-statements/431188/463313-4.html)
-  * [MATCH function](https://www.lynda.com/Excel-tutorials/Locating-data-MATCH-function/431188/463322-4.html)
-  * [INDEX and MATCH functions](https://www.lynda.com/Excel-tutorials/Using-MATCH-INDEX-functions-together/431188/463324-4.html)
   * [OFFSET function](https://www.lynda.com/Excel-tutorials/Use-OFFSET-function-tabulating-moving-data/363001/511305-4.html)
   * [Conditional Formatting with a Pick List](https://www.lynda.com/Excel-tutorials/Creating-Variable-Conditional-Formatting-Rules/363001/447337-4.html)
   * [INDIRECT function](https://www.lynda.com/Excel-tutorials/Returning-references-INDIRECT-function/431188/463362-4.html)
