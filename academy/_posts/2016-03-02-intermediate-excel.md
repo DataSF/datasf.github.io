@@ -33,12 +33,16 @@ This course assumes some comfort with Excel, including a basic understanding of 
 
 This course will cover the following topics:
 
-* Paste Special, Text to Columns, and Concatenate
-* VLOOKUP
-* Tables
-* PivotTables and PivotCharts
-* Making charts presentable
-* Printing, formatting, and sharing spreadsheets/charts
+* Review Excel Basics (reference, filtering/ sorting)
+* Date and Time Functions
+* Count Functions (Count, Countif, Countifs)
+* Text Functions (Len, Trim, Concatenate)
+* Logical Functions (IF and AND)
+* Lookup Functions (VLOOKUP and Index/Match)
+* Basics of Conditional Formatting
+* De-duplicating data
+* Pivot Tables
+* Formatting Charts
 
 ## More resources
 
