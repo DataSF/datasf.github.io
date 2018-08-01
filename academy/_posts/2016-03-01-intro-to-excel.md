@@ -2,9 +2,7 @@
 layout: course
 title: Intro to Excel
 course_short_name: Intro to Excel
-description: >-
-  This classroom based workshop is the first in a series of workshops on Excel
-  offered by the Data Academy.
+description: "This classroom-based workshop is the first in a series of workshops on Excel offered by the Data Academy.\_It covers very basic topics and assumes no prior experience with the program."
 prerequisites: None
 length: 2.5
 series:
