@@ -3,11 +3,12 @@ layout: course
 title: Intermediate Excel
 course_short_name: Intermediate Excel
 description: >-
-  This classroom based workshop is the second in a series of workshops on Excel
+  This classroom-based workshop is the second in a series of workshops on Excel
   offered by the Data Academy. It builds on the fundamentals of Excel and
-  introduces more advanced ways to manipulate and format data in spreadsheets.
+  introduces more advanced formulas and ways to manipulate and format data in
+  spreadsheets.
 prerequisites: None
-length: 2
+length: 3
 series:
   - Excel
 subjects:
@@ -24,27 +25,31 @@ order: 2
 
 ## About This Course
 
-This classroom based workshop, formerly titled *How to Be Productive in Excel*, is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced ways to manipulate and format data in spreadsheets.
+This classroom-based workshop is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced formulas and ways to manipulate and format data in spreadsheets.
 
-This course is a natural continuation of our Introduction to Excel training.
+This course assumes some comfort with Excel, including a basic understanding of formulas and standard functions and capabilities of Excel. By the end of the class, you’ll have the fundamentals of skills that will help you to do basic analysis, manipulation, and summary of datasets.
 
 ## What You’ll Learn In This Course
 
 This course will cover the following topics:
 
-* Paste Special, Text to Columns, and Concatenate
-* VLOOKUP
-* Tables
-* PivotTables and PivotCharts
-* Making charts presentable
-* Printing, formatting, and sharing spreadsheets/charts
+* Review Excel Basics (reference, filtering/ sorting)
+* Date and Time Functions
+* Count Functions (Count, Countif, Countifs)
+* Text Functions (Len, Trim, Concatenate)
+* Logical Functions (IF and AND)
+* Lookup Functions (VLOOKUP and Index/Match)
+* Basics of Conditional Formatting
+* De-duplicating data
+* Pivot Tables
+* Formatting Charts
 
 ## More resources
 
-* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics.  Click [here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing) to find out how to sign up for a free account.
+* [Lynda.com](https://www.lynda.com/) offers free resources on common Excel topics. &nbsp;Click [here](https://drive.google.com/file/d/0BwRgeGq-b8f9eVNXQU9BNEJJVHc/view?usp=sharing)&nbsp;to find out how to sign up for a free account.
 * San Francisco Public Library
   * [Intermediate Microsoft Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Intermediate+Excel) (6 weeks, 24hrs total)
-* Department of Human Resources 
+* Department of Human Resources&nbsp;
   * DHR has [discounted rates](http://sfdhr.org/sites/default/files/FileCenter/Documents/20647-CCSF%20Rates%20-%20June%2012%202014.pdf) for [Academy X courses](https://www.academyx.com/schedule/san_francisco/)
   * [City University](http://sfdhr.org/city-university)
 * Hyperlinks to additional resources:
