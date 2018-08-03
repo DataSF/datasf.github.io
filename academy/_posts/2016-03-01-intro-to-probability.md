@@ -1,7 +1,7 @@
 ---
 layout: course
-title: Intro to Statistics
-course_short_name: Intro to Statistics
+title: Intro to Probability
+course_short_name: Intro to Probability
 description: >-
   This classroom based workshop is the first in a series of workshops about
   statistics and probability analysis. Special focus will be given to the
