@@ -48,11 +48,15 @@ Before you publish the data, make sure you review your plans to publish the data
 
 ### Sensitive and Protected Datasets
 
-As part of the publishing process, you will classify your data as public, sensitive or protected:
+As part of the publishing process, you will classify your data as per the [City's Data Classification Standard](https://sfcoit.org/datastandard):
 
-* **Public**. This data could be publicly disseminated without any concerns.
-* **Sensitive**. In its raw form, this data poses security concerns, could be misused to target individuals or poses other concerns.
-* **Protected**. This data is protected by law or regulation and can only be shared or accessed internally and per organizational procedures; OR this information includes individually identified information.
+* **Level 1 -****Public.** Data available for public access or release.
+* **Level 2 - Internal Use.** Normal operating information, but is not proactively released to the public. Viewing and use is intended for employees; it could be made available Citywide or to specific employees in a department, division or business unit. Certain data may be made available to external parties upon their request.
+* **Level 3 -****Sensitive.** Data intended for release on a need-to-know basis. Data regulated by privacy laws or regulations or restricted by a regulatory agency or contract, grant, or other agreement terms and conditions.<br>
+* **Level 4 -****Protected.** Data that triggers requirement for notification to affected parties or public authorities in case of a security breach.
+* **Level 5 - Restricted.** This data poses direct threats to human life or catastrophic loss of major assets and critical infrastructure (e.g. triggering lengthy periods of outages to critical processes or services for residents).\*
+
+  *\*Before classifying data as Level 5 Restricted, you should speak with leadership in your department and the City’s Chief Information Security Officer. Only in rare instances will data be classified at this level. For example, in the federal NIST guidance, homeland security, national defense and intelligence information is classified as “high” impact.*
 
 If your data is sensitive or protected, we will walk you through a decision-making process to help assess whether de-identified data should be published. The primary steps are:
 
@@ -62,7 +66,7 @@ If your data is sensitive or protected, we will walk you through a decision-maki
 
 If you have any questions about this process or the Toolkit, or require help at any step, please [contact us](http://support.datasf.org/customer/portal/emails/new).
 
-## Clearly define your datasets for an external audience
+## Clearly define your datasets for another audience
 
 Not everyone will have as deep an understanding of the data's context. As part of the publishing process we capture a certain amount of metadata that helps provide context. While many of these are drop downs, there are a handful of fields that are open text. Below are some guidelines and examples for the dataset's **title** and **description** as well as definitions for **categories**.
 
@@ -77,10 +81,10 @@ Make sure your title is descriptive and as concise as possible.
 
 Make sure your description addresses the following points where appropriate:
 
-* Who collects the data or who is the source of the data
-* How is the data collected
-* Why is this data collected and what is it used for (include relevant ordinance references, if applicable)
-* What are the programs or policies that this data supports
+* Who collects the data or who is the source of the data?
+* How is the data collected?
+* Why is this data collected and what is it used for (include relevant ordinance references, if applicable)?
+* What are the programs or policies that this data supports?
 
 ### Title and description examples
 
