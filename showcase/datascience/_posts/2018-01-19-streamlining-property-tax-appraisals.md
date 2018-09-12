@@ -63,6 +63,8 @@ The models run on new data to generate price predictions on a bi-weekly basis. I
 
 The first list goes to a group of appraisers who conduct additional checks and quality assurance to determine if any properties should require additional analysis. Otherwise, the sale prices are accepted and enrolled as the new values. The second list gets divided up and assigned to appraisers for a full reassessment.
 
-![The new process streamlines the assessment of sales that look typical](/uploads/asr-chart3-1.png)<br>The new model resulted in over 250 cases removed from the work queue as of March 30, 2018. These cases represent approximately $407 million in pure roll value (not to be confused with additional value which still needs to be calculated).<br>
+![The new process streamlines the assessment of sales that look typical](/uploads/asr-chart3-1.png)
 <figcaption>The new process streamlines the assessment of sales that look typical</figcaption>
 &nbsp;
+<br>The new model resulted in over 250 cases removed from the work queue as of March 30, 2018. These cases represent approximately $407 million in pure roll value (not to be confused with additional value which still needs to be calculated).<br>
+
