@@ -44,7 +44,7 @@ To help reduce their work queue, the Assessor’s Office needed to divide proper
 This is more difficult than it looks. Properties are highly variable - two homes next to each other may have very different sales prices because of the history of the property, its characteristics, and many other factors.
 
 ![Price per square foot varies quite a bit - even in the same neighborhood](/uploads/asr-chart1.png)
-
+<figcaption>Price per square foot varies quite a bit - even in the same neighborhood.</figcaption>
 &nbsp;
 
 ## What we did: A statistical model creates a predicted price for each property sale
@@ -52,7 +52,8 @@ This is more difficult than it looks. Properties are highly variable - two homes
 DataScienceSF developed three regression models that generate a “predicted price” based on many factors, starting with if it was a condominium, multi-family home, or single-family home. In each case, the model then uses data on when and where the property sold, and property details like the year built and square feet to generate a prediction.
 
 ![The predicted price of a home is affected by many factors](/uploads/asr-chart2-1.png)
-
+<figcaption>The predicted price of a home is affected by many factors.</figcaption>
+&nbsp;
 ## Implementation: Thresholds flag sales requiring a full appraisal
 
 The models run on new data to generate price predictions on a bi-weekly basis. It then splits properties into two lists:
@@ -62,4 +63,6 @@ The models run on new data to generate price predictions on a bi-weekly basis. I
 
 The first list goes to a group of appraisers who conduct additional checks and quality assurance to determine if any properties should require additional analysis. Otherwise, the sale prices are accepted and enrolled as the new values. The second list gets divided up and assigned to appraisers for a full reassessment.
 
-![The new process streamlines the assessment of sales that look typical](/uploads/asr-chart3-1.png)<br>The new model resulted in over 250 cases removed from the work queue as of March 30, 2018. These cases represent approximately $407 million in pure roll value (not to be confused with additional value which still needs to be calculated).<br>&nbsp;
+![The new process streamlines the assessment of sales that look typical](/uploads/asr-chart3-1.png)<br>The new model resulted in over 250 cases removed from the work queue as of March 30, 2018. These cases represent approximately $407 million in pure roll value (not to be confused with additional value which still needs to be calculated).<br>
+<figcaption>The new process streamlines the assessment of sales that look typical</figcaption>
+&nbsp;
