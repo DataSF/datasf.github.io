@@ -9,6 +9,7 @@ resources:
 categories:
   - showcase
   - datascience
+featured: true
 ---
 
 Imagine if a Ms. Jenkins sells her San Francisco home to a close friend at half the price ($500,000) of what she could have sold on the open market ($1 million). &nbsp;What would be the impact on property taxes?
