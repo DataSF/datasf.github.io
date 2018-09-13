@@ -1,7 +1,7 @@
 ---
 title: Streamlining Property Tax Appraisals
-background_image_path: /uploads/architecture-skyline-house-town-city-urban-518220-pxhere-com.jpg
-card_image_path: /uploads/ASRPropertyTaxes-CardImage.jpg
+background_image_path: /uploads/architecture-sf.jpg
+card_image_path: /uploads/architecture-sf-cropped.jpg
 resources:
   - name: Powerpoint Presentation
     url: >-
