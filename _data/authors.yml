@@ -1,11 +1,11 @@
 joy_bonaguro:
   name: Joy Bonaguro
-  title: Chief Data Officer
+  title: Former Chief Data Officer
   email: joy.bonaguro@sfgov.org
-  bio: 'Chief Data Officer, City and County of San Francisco'
+  bio: 'Former Chief Data Officer, City and County of San Francisco'
   long_bio: >-
-    Joy Bonaguro is the first Chief Data Officer for the City and County of San
-    Francisco, where she manages the City’s open data program. Joy has spent
+    Joy Bonaguro was the first Chief Data Officer for the City and County of San
+    Francisco, where she managed the City’s open data program. Joy has spent
     more than a decade working at the nexus of public policy, data, and
     technology. She worked from the birth of the open data and open government
     field, spending seven years designing and managing the development of
@@ -24,8 +24,7 @@ jason_lally:
   email: jason.lally@sfgov.org
   bio: 'Data Services Manager, City and County of San Francisco'
   long_bio: >-
-    Jason Lally is the Data Services Manager, working with the City’s Chief Data
-    Officer, Joy Bonaguro, to help operationalize the City’s data strategy.
+    Jason Lally is the Data Services Manager, working to operationalize the City’s data strategy.
     Jason comes to the City by way of a Mayor’s Innovation Fellowship that
     wrapped up in August 2014. Before that, he worked at the intersection of
     technology and urban planning as Director of the Decision Lab at
@@ -65,9 +64,9 @@ janine_heiser:
   name: Janine Heiser
   title: Former Open Data Services Engineer
   email: janine.heiser@sfgov.org
-  bio: 'Open Data Services Engineer, City and County of San Francisco'
+  bio: 'Former Open Data Services Engineer, City and County of San Francisco'
   long_bio: >-
-    Janine Heiser is the Open Data Services Engineer working to help design and
+    Janine Heiser was the Open Data Services Engineer working to help design and
     implement a scalable framework for accessing and publishing data across the
     City. In her technologist role, she enjoys applying user-centered design
     methodologies to the process of creating and implementing new data products
@@ -80,7 +79,7 @@ janine_heiser:
   twitter: J9Heiser
 jeff_johnson:
   name: Jeff Johnson
-  title: 'Manager, SFGIS and Open Data Services'
+  title: 'Manager, SFGIS'
   long_bio: >-
     Jeff Johnson manages San Francisco’s Enterprise GIS Program at the
     Department of Technology, and has worked with the City’s Open Data platform
@@ -146,11 +145,11 @@ blake_valenta:
   gravatar: 3f5249ee91007d67194270ad9b1708fa
 kimberly_hicks:
   name: Kimberly Hicks
-  title: Data Scientist
-  bio: 'Data Scientist, City and County of San Francisco'
+  title: Former Data Scientist
+  bio: 'Former Data Scientist, City and County of San Francisco'
   long_bio: >-
-    Kimberly Hicks is the Data Scientist specializing in data mining, predictive
-    analytics, machine learning and data visualization.  Her focus is putting
+    Kimberly Hicks was the Data Scientist specializing in data mining, predictive
+    analytics, machine learning and data visualization.  Her focus was putting
     the City’s data to work to increase the quality of life for San Franciscans.
     Kimberly comes to the City from the private sector having worked for several
     years building innovative, statistical tools and ultimately improving
