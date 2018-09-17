@@ -50,3 +50,5 @@ Joy's impact on the City and on myself will not be forgotten. And while goodbyes
 The City deserves a DataSF that [will continue to put data and technology in the service of people](https://datasf.org/about); that will mean we cannot sit still and use the patterns of yesterday to solve the problems of tomorrow.
 
 Thank you Joy for giving us the courage to pursue new challenges and stay restless!
+
+*And for some additional reflections from Joy, read her post [On Being CDO of San Francisco](https://medium.com/@joybonaguro/on-being-cdo-of-san-francisco-3ef58b53b601).*
