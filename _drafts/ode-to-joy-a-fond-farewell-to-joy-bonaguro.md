@@ -1,6 +1,6 @@
 ---
 title: 'Ode to Joy: a Fond Farewell to Joy Bonaguro'
-author:
+author: jason_lally
 image:
   thumb:
   feature:
