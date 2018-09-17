@@ -3,7 +3,7 @@ title: 'Ode to Joy: a Fond Farewell to Joy Bonaguro'
 author: jason_lally
 image:
   thumb: /ode-to-joy/joyfarewell_thumb.jpg
-  feature: /ode-to-joy/joyfarewell.jpg
+  feature: /ode-to-joy/joyfarewell_rectangle.jpg
   caption: Joy Bonaguro leaves us with a legacy of successes and a lot of gratitude.
   source:
     title:
