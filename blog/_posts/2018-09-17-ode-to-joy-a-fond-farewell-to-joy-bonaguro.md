@@ -21,6 +21,8 @@ categories:
   - blog
 ---
 
+## ![Picture of Joy Bonaguro with Jason Lally and Blake Valenta at going away](/assets/blog/ode-to-joy/joyfarewell.jpg "Picture of Joy Bonaguro with Jason Lally and Blake Valenta")
+
 ## Goodbyes are hard
 
 A cliche, I know, but true. This one is particularly hard for me. Joy Bonaguro, was [the first Chief Data Officer of San Francisco](http://www.govtech.com/data/San-Francisco-Announces-Chief-Data-Officer-Joy-Bonaguro.html) and I had the pleasure of working with her nearly 5 years.
