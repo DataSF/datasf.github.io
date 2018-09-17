@@ -3,7 +3,7 @@ title: 'Ode to Joy: a Fond Farewell to Joy Bonaguro'
 author: jason_lally
 image:
   thumb: /ode-to-joy/joyfarewell_thumb.jpg
-  feature:
+  feature: /ode-to-joy/joyfarewell.jpg
   caption: Joy Bonaguro leaves us with a legacy of successes and a lot of gratitude.
   source:
     title:
@@ -20,8 +20,6 @@ date: 2018-09-17 00:00:00
 categories:
   - blog
 ---
-
-## ![Picture of Joy Bonaguro with Jason Lally and Blake Valenta at going away](/assets/blog/ode-to-joy/joyfarewell.jpg "Picture of Joy Bonaguro with Jason Lally and Blake Valenta")
 
 ## Goodbyes are hard
 
