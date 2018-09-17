@@ -41,7 +41,7 @@ The bulk of open data publishing was [focused on the highest priority data](http
 
 **What Works Cities Certification.** [Bloomberg's What Works Cities initiative certified San Francisco for good use of data this past year](https://medium.com/what-works-cities-certification/san-francisco-building-stronger-neighborhoods-and-a-data-fluent-city-hall-7b444d0af4f5). The City was [one of 9 cities to receive the certification](https://whatworkscities.bloomberg.org/certification/). In the 2 technical assistance categories representing much of our portfolio, *Open Data* and *Data Governance*, the City received perfect marks. The [materials we've posted related to those topics](https://datasf.org/resources) have been copied and re-used the world over.
 
-**An Amazing Team and Culture.** Moreover, Joy brought on the [brightest p](https://datasf.org/about)[eople I've had the](https://datasf.org/about)[opportunity to work with](https://datasf.org/about). She allowed us to contribute not just our skills but our ideas to shape DataSF. She is an empowering leader that put her heart into the team as well as the work.
+**An Amazing Team and Culture.** Moreover, Joy brought on the [brightest p](https://datasf.org/about)[eople I've had the](https://datasf.org/about)[ opportunity to work with](https://datasf.org/about). She allowed us to contribute not just our skills but our ideas to shape DataSF. She is an empowering leader that put her heart into the team as well as the work.
 
 ## Building on the success, onward to the future
 
