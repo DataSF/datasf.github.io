@@ -12,8 +12,11 @@ image:
     author_link:
     license:
     license_link:
-description:
-date: 2018-09-17 05:45:44
+description: >-
+  Goodbyes are hard. A cliche, I know, but true. This one is particularly hard
+  for me. Joy Bonaguro, was the first Chief Data Officer of San Francisco and I
+  had the pleasure of working with her nearly 5 years.
+date: 2018-09-17 00:00:00
 categories:
   - blog
 ---
