@@ -2,9 +2,9 @@
 title: New police department incident report data now live!
 author: jason_lally
 image:
-  thumb:
-  feature:
-  caption:
+  thumb: /police-incident-data/police_thumb.png
+  feature: /police-incident-data/police_incidents.png
+  caption: 'New dataset is live on the portal, featuring a new mapping visualization!'
   source:
     title:
     author:
@@ -12,8 +12,14 @@ image:
     author_link:
     license:
     license_link:
-description:
-date:
+description: >-
+  On September 9, we launched the updated police incident report dataset. This
+  has been a long standing goal since I started with DataSF 4 years ago. The
+  Police Department has since then made incredible strides migrating to the new
+  Crime Data Warehouse. Before, we were publishing data that came from a legacy
+  mainframe called CABLE which was not without its challenges (to say the
+  least).
+date: 2018-10-05 00:00:00
 categories:
   - blog
 ---
