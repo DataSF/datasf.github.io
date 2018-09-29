@@ -45,6 +45,16 @@ resources_list:
       - link: >-
           https://drive.google.com/drive/folders/1tJD4ix07-70VHvfrhD2NYaUor0c-PwF6?usp=sharing
         media_type: Link
+  - name: Power BI Premium Report Optimization Tipsheet
+    description: >-
+      A guide for CCSF employees to optimize their PowerBI data models for use
+      in the Premium capacity
+    post_date: 2018-05-31 00:00:00
+    resource_type: Document
+    links:
+      - link: >-
+          https://docs.google.com/document/d/1zy1FMNq5Zfbr7LsiEvi660c6BIs8BbLdkvPwr4dr08g/edit?usp=sharing
+        media_type: Google Doc
 ---
 
 Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.&nbsp; Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have a nearly free way of distributing these reports within CCSF
