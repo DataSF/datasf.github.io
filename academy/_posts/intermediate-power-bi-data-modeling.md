@@ -4,8 +4,10 @@ description: "This course is the 2nd in DataSF’s series on PowerBI. \_This cou
 prerequisites: >-
   Participants must have taken Data Academy's Intro to Power BI, and should be
   confident using the program.
-length:
+length: Full day (~8 hours)
 subjects:
+  - Data Management
+  - Visualization
 series:
 team_members:
   - blake-valenta
