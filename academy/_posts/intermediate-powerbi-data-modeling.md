@@ -1,11 +1,13 @@
 ---
-title: Intro to Power BI
+title: 'Intermediate PowerBI: Data Modeling'
 description: >-
-  This course is designed to give you a strong foundation in Power BI and a
-  jump-start on your 1st Power BI project. Power BI is a powerful, low-cost
-  program that focuses on the entire business intelligence chain: from data
-  wrangling to visualizing to sharing to automation.
-prerequisites: Participants should have a good working knowledge of pivot tables.
+  This course is the 2nd in DataSF’s series on PowerBI. This course will provide
+  a strong foundation in Data Structure and Data Modeling through the tool of
+  PowerBI. Analyst tasked with getting multiple data sources to “talk” to each
+  other in PowerBI will find this class of use.
+prerequisites: >-
+  Participants must have taken Data Academy's Intro to Power BI, and should be
+  confident using the program.
 length: Full day (~8 hours)
 subjects:
   - Data Management
@@ -13,40 +15,47 @@ subjects:
 series:
 team_members:
   - blake-valenta
-course_short_name: Intro to Power BI
-course_materials_link: >-
-  https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR?usp=sharing
-order: 0
+course_short_name: 'Intermediate Power BI: Data Modeling'
+course_materials_link: 'https://drive.google.com/open?id=1T_bQ75Uj96aVq27C00CrWLth5S2XzUXq'
+order: '0'
 category: academy
 categories:
   - academy
 ---
 
-## About This Course
+## About this course
 
-This course is designed to give you a strong foundation in Power BI and a jump-start on your 1st Power BI project.
+This course is the 2nd in DataSF’s series on PowerBI. &nbsp;This course will provide a strong foundation in Data Structure and Data Modeling through the tool of PowerBI. &nbsp;Analyst tasked with getting multiple data sources to “talk” to each other in PowerBI will find this class of use.
 
-Power BI is a powerful, low-cost program that focuses on the entire business intelligence chain: from data wrangling to visualizing to sharing to automation. &nbsp;Most BI programs (such as Tableau) focus primarily on data visualization, which often leaves users having to do significant (often repetitive) ‘data wrangling’ in Excel before it is ready to import. In contrast, Power BI enables users to clean data and then visualize and share.
+While most dashboarding tools, force the user to ‘flatten’ multiple data sources into a single table, PowerBI allows for more robust Data Modeling. &nbsp;Instead of making a single table, you establish relationships between many tables.&nbsp; This Data Modeling capability allows for far greater analytical flexibility; allowing you to answer more questions and pose better questions.
 
-Power BI also has substantial visualization/sharing/automation abilities allowing for easier exploration of your department’s data by your co-workers and the public. Instead of always having to calculate how many X are in Supervisorial District Y, you can now create an embed-able chart on your department website that automatically updates and always shows the most up-to-date estimates.
+However, it is often the case that the data you are using lacks the proper structure for data modeling. &nbsp;You encounter issues like: you have difficulty getting your charts to work, simple calculations seem inexplicably complex, or you are getting weird results. &nbsp;This course will also address how to structure your data for modeling.
+
+This course will give analyst a new set of data eyes allowing them to identify and solve common data structure and data modeling issues.
 
 ## What You'll Learn In This Course
 
-* Import and 'data wrangle' data from various sources
-* Join multiple data sets for analysis
-* Visualize/map the results
-* Automate the entire process
-* Share your work privately within the city or publicly
-* Best practices for documenting and managing your workflow
-* Tips and Tricks specially designed for the data needs of CCSF employees
-* Note: class is dedicated to practice, not high level overview or comparison to other programs. &nbsp;Review CCSF powerBI brown bag slidedeck which dives into those areas.
+* Data Structure
+  * What is ideal data structure for analytics
+  * How to recognize a poorly structured dataset
+  * How to reshape the data in PowerBI
+* Data Modeling
+  * Foundational concepts in data modeling for analytics
+  * How to model properly structured data
+  * Identify and fix common data modeling challenges
+  * Workflow best practice
 
 ## Course Outline
 
-* Instruction - 4 hours
-* Long Exercise - 1.5 hours
-* Your project - 1.5 hours
+* Data Structure - 1.5 hours
+* Mid-Point Exercise - .5 hours
+* Data Modeling - 4 hours
+* Workflow Best Practices - .5 hours
 
 ## Prerequisites
 
-Participants should have a good working knowledge of pivot tables. This is a fast-paced intermediate level Data Academy course. Working knowledge of higher level programming languages such as R or Python can be substituted for pivot tables. Exceptions are rare and at the approval of the instructor.
+This course is best suited for users responsible for creating PowerBI data models that involve multiple datasets. &nbsp;&nbsp;
+
+* Completion of Data Academy’s Intro to PowerBI Course is required. &nbsp;This course assume a good working knowledge of how PowerBI works. &nbsp;Heavy use is made of the query editor and familiarity is assumed. &nbsp;Exceptions at discretion of instructor (mayor.cdo.intern@sfgov.org)
+* Attendees should have made use of PowerBI since taking the Intro to PowerBI Course. &nbsp;This course is not designed as a refresher course, but as the next stage in training for advanced PowerBI analyst. &nbsp;Attendees out of practice should refresh their memories via an online course or work through the [final exercise again from the Intro Class](https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR){: target="_blank"}.
+* Not everyone who takes the Intro to PowerBI course needs (or should) take this course; it is fast paced and geared for users of PowerBI tasked with complicated Data Modeling scenarios.
