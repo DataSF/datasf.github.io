@@ -1,7 +1,9 @@
 ---
-title: Intermediate Power BI: Data Modeling
-description:  This course is the 2nd in DataSF’s series on PowerBI. This course will provide a strong foundation in Data Structure and Data Modeling through the tool of PowerBI. Analyst tasked with getting multiple data sources to “talk” to each other in PowerBI will find this class of use.
-prerequisites: Participants must have taken Data Academy's Intro to Power BI, and should be confident using the program.
+title: 'Intermediate Power BI: Data Modeling'
+description: "This course is the 2nd in DataSF’s series on PowerBI. \_This course will provide a strong foundation in Data Structure and Data Modeling through the tool of PowerBI. \_Analyst tasked with getting multiple data sources to “talk” to each other in PowerBI will find this class of use."
+prerequisites: >-
+  Participants must have taken Data Academy's Intro to Power BI, and should be
+  confident using the program.
 length: Full day (~8 hours)
 subjects:
   - Data Management
@@ -9,9 +11,9 @@ subjects:
 series:
 team_members:
   - blake-valenta
-course_short_name: Intermediate Power BI: Data Modeling
+course_short_name: 'Intermediate Power BI: Data Modeling'
 course_materials_link: 'https://drive.google.com/open?id=1T_bQ75Uj96aVq27C00CrWLth5S2XzUXq'
-order: 0
+order: '0'
 category: academy
 categories:
   - academy
