@@ -10,11 +10,12 @@ subjects:
   - Visualization
   - PowerBI
 series:
+  - PowerBI
 team_members:
   - blake-valenta
 course_short_name: 'Intermediate Power BI: Data Modeling'
 course_materials_link: 'https://drive.google.com/open?id=1T_bQ75Uj96aVq27C00CrWLth5S2XzUXq'
-order: '0'
+order: '1'
 category: academy
 categories:
   - academy
