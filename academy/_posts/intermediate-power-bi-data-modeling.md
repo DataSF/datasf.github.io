@@ -19,13 +19,13 @@ categories:
   - academy
 ---
 
-## About this course
+## About this course&nbsp;
 
-This course is the 2nd in DataSF’s series on PowerBI.  This course will provide a strong foundation in Data Structure and Data Modeling through the tool of PowerBI.  Analyst tasked with getting multiple data sources to “talk” to each other in PowerBI will find this class of use.
+This course is the 2nd in DataSF’s series on PowerBI. &nbsp;This course will provide a strong foundation in Data Structure and Data Modeling through the tool of PowerBI. &nbsp;Analyst tasked with getting multiple data sources to “talk” to each other in PowerBI will find this class of use.
 
-While most dashboarding tools, force the user to ‘flatten’ multiple data sources into a single table, PowerBI allows for more robust Data Modeling.  Instead of making a single table, you establish relationships between many tables.  This Data Modeling capability allows for far greater analytical flexibility; allowing you to answer more questions and pose better questions.
+While most dashboarding tools, force the user to ‘flatten’ multiple data sources into a single table, PowerBI allows for more robust Data Modeling. &nbsp;Instead of making a single table, you establish relationships between many tables.&nbsp; This Data Modeling capability allows for far greater analytical flexibility; allowing you to answer more questions and pose better questions.
 
-However, it is often the case that the data you are using lacks the proper structure for data modeling.  You encounter issues like: you have difficulty getting your charts to work, simple calculations seem inexplicably complex, or you are getting weird results.  This course will also address how to structure your data for modeling.
+However, it is often the case that the data you are using lacks the proper structure for data modeling. &nbsp;You encounter issues like: you have difficulty getting your charts to work, simple calculations seem inexplicably complex, or you are getting weird results. &nbsp;This course will also address how to structure your data for modeling.
 
 This course will give analyst a new set of data eyes allowing them to identify and solve common data structure and data modeling issues.
 
@@ -50,10 +50,10 @@ This course will give analyst a new set of data eyes allowing them to identify a
 
 ## Pre-requisites
 
-This course is best suited for users responsible for creating PowerBI data models that involve multiple datasets.   
+This course is best suited for users responsible for creating PowerBI data models that involve multiple datasets. &nbsp;&nbsp;
 
-Completion of Data Academy’s Intro to PowerBI Course is required.  This course assume a good working knowledge of how PowerBI works.  Heavy use is made of the query editor and familiarity is assumed.  Exceptions at discretion of instructor (mayor.cdo.intern@sfgov.org)
+Completion of Data Academy’s Intro to PowerBI Course is required. &nbsp;This course assume a good working knowledge of how PowerBI works.&nbsp; Heavy use is made of the query editor and familiarity is assumed. &nbsp;Exceptions at discretion of instructor (mayor.cdo.intern@sfgov.org)
 
-Attendees should have made use of PowerBI since taking the Intro to PowerBI Course.  This course is not designed as a refresher course, but as the next stage in training for advanced PowerBI analyst.  Attendees out of practice should refresh their memories via an online course or work through the [final exercise again from the Intro Class](https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR){: target="_blank"}.
+Attendees should have made use of PowerBI since taking the Intro to PowerBI Course. &nbsp;This course is not designed as a refresher course, but as the next stage in training for advanced PowerBI analyst. &nbsp;Attendees out of practice should refresh their memories via an online course or work through the [final exercise again from the Intro Class](https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR){: target="_blank"}.
 
 Not everyone who takes the Intro to PowerBI course needs (or should) take this course; it is fast paced and geared for users of PowerBI tasked with complicated Data Modeling scenarios.
