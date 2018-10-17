@@ -1090,7 +1090,7 @@ section#progress .stat-text {
 }
 
 .jumbotron-default {
-    background: url("/assets/img/jumbotron/sanfrancisco_aerial_reduced.jpg") no-repeat top center;
+    background: url("/assets/img/jumbotron/sanfrancisco_aerial_reduced_cropped.jpg") no-repeat top center;
     background-size: cover !important;
     background-color: #253C4C;
     text-align: center;
