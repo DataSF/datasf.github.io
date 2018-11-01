@@ -2,8 +2,8 @@
 title: Natural ecosystems to city ecosystems
 author: tania_jogesh
 image:
-  thumb: /natural-ecosystems-to-city-ecosystems/nature.jpg
-  feature: /natural-ecosystems-to-city-ecosystems/nature.jpg
+  thumb: natural-ecosystems-to-city-ecosystems/nature.jpg
+  feature: natural-ecosystems-to-city-ecosystems/nature.jpg
   caption: From the phenomenal Nature in the City map
   source:
     title: Nature in the City
