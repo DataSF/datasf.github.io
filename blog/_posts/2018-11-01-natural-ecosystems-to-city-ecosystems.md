@@ -2,16 +2,17 @@
 title: Natural ecosystems to city ecosystems
 author: tania_jogesh
 image:
-  thumb: /natural-ecosystems-to-city-ecosystems/slimemold.jpg
-  feature: /natural-ecosystems-to-city-ecosystems/slimemold.jpg
+  thumb: /natural-ecosystems-to-city-ecosystems/bonn.jpg
+  feature: /natural-ecosystems-to-city-ecosystems/bonn.jpg
   caption:
   source:
-    title: Slime Mold of US
-    author:
-    source_link: 'https://www.popsci.com/science/article/2010-05/slimeography'
-    author_link:
-    license:
-    license_link:
+    title: Butterfly in the City
+    author: joergens.mi
+    source_link: >-
+      https://commons.wikimedia.org/wiki/File:Stromh%C3%A4uschen_Graffiti_(Bonn)_jm01681.jpg
+    author_link: 'https://commons.wikimedia.org/wiki/User:Joergens.mi'
+    license: CC BY-SA 3.0
+    license_link: 'https://creativecommons.org/licenses/by-sa/3.0/'
 description: DataSF's new data scientist talks about her journey from ecology to the City
 date: 2018-11-01 00:00:00
 categories:
