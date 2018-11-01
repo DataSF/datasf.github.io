@@ -4,7 +4,7 @@ author: tania_jogesh
 image:
   thumb: /natural-ecosystems-to-city-ecosystems/nature.jpg
   feature: /natural-ecosystems-to-city-ecosystems/nature.jpg
-  caption: From the phenomenal Nature in the City map (natureinthecity.org/map)
+  caption: From the phenomenal Nature in the City map
   source:
     title: Nature in the City
     author:
