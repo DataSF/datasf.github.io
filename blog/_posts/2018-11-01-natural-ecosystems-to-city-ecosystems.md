@@ -2,17 +2,16 @@
 title: Natural ecosystems to city ecosystems
 author: tania_jogesh
 image:
-  thumb: /natural-ecosystems-to-city-ecosystems/bonn.jpg
-  feature: /natural-ecosystems-to-city-ecosystems/bonn.jpg
-  caption:
+  thumb: /natural-ecosystems-to-city-ecosystems/nature.jpg
+  feature: /natural-ecosystems-to-city-ecosystems/nature.jpg
+  caption: From the phenomenal Nature in the City map (natureinthecity.org/map)
   source:
-    title: Butterfly in the City
-    author: joergens.mi
-    source_link: >-
-      https://commons.wikimedia.org/wiki/File:Stromh%C3%A4uschen_Graffiti_(Bonn)_jm01681.jpg
-    author_link: 'https://commons.wikimedia.org/wiki/User:Joergens.mi'
-    license: CC BY-SA 3.0
-    license_link: 'https://creativecommons.org/licenses/by-sa/3.0/'
+    title: Nature in the City
+    author:
+    source_link: 'http://natureinthecity.org/map'
+    author_link:
+    license:
+    license_link:
 description: DataSF's new data scientist talks about her journey from ecology to the City
 date: 2018-11-01 00:00:00
 categories:
