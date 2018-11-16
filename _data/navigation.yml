@@ -58,6 +58,8 @@ academy:
     url: /academy/performance/
   - text: Office Hours
     url: /academy/office-hours
+  - text: FAQ
+    url: /academy/Data-Academy-FAQ
 showcase:
 - text: Featured
   url: /showcase/
