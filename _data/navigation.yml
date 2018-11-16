@@ -52,12 +52,12 @@ academy:
     url: /academy/
   - text: Course Calendar
     url: /academy/calendar/
+  - text: Office Hours
+    url: /academy/office-hours
   - text: Instructors
     url: /academy/instructors/
   - text: Program Performance
     url: /academy/performance/
-  - text: Office Hours
-    url: /academy/office-hours
   - text: FAQ
     url: /academy/Data-Academy-FAQ
 showcase:
