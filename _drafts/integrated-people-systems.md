@@ -6,7 +6,7 @@ image:
   feature:
   caption:
   source:
-    title:
+    title: Panel on Civic Data Integration
     author: Stefania Nava
     source_link:
     author_link:
