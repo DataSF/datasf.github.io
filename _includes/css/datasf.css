@@ -6,6 +6,10 @@ body {
   margin-top: 50px;
 }
 
+strike {
+    text-decoration:line-through;
+}
+
 .btn {
   border-radius: 0;
 }
