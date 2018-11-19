@@ -5,9 +5,9 @@ image:
   thumb: /integrated-people-systems/panel1.jpg
   feature: /integrated-people-systems/panel1.jpg
   caption: >-
-    On November 15th, I presented on a panel about the report Technology for
-    Civic Data Integration, with co-contributors and primary author Natalie
-    Evans Harris
+    On October 15th, I presented on a panel about the report "Technology for
+    Civic Data Integration" at the MetroLab Summit, with co-contributors and
+    primary author Natalie Evans Harris
   source:
     title: Panel on Civic Data Integration
     author: Stefania Di Mauro-Nava
@@ -44,7 +44,7 @@ Every other consideration in the paper happens in the context of the virtuous cy
 But chanting people, people, people is all well and good, but where does one start? My tips for developing an integrated people system include:
 
 * **Define where you’re trying to go.** This could be a major initiative, a project, a strategy; basically it’s important to find your north star. But don’t get stuck. As Steven Bungay advises in the Art of Action, “You cannot create perfect plans, so do not attempt to do so. Do not plan beyond the circumstances you can foresee.” For more on making plans connected to strategy, I recommend picking up the Art of Action.
-* **Understand the people and skills available to you.** &nbsp;These people and skills could be on your team or somewhere else in your organization. One simple tool to use is a [skills inventory](https://franus.com/2018/01/17/cheat-sheet-map-your-teams-skills-to-scale-growth-and-clarify-your-culture/){: target="_blank"}, which I suggest you develop collaboratively with anyone that may be involved in execution of your work.
+* **Understand the people and skills available to you.**  These people and skills could be on your team or somewhere else in your organization. One simple tool to use is a [skills inventory](https://franus.com/2018/01/17/cheat-sheet-map-your-teams-skills-to-scale-growth-and-clarify-your-culture/){: target="_blank"}, which I suggest you develop collaboratively with anyone that may be involved in execution of your work.
 * **Ask if you can get to where you want to go with the people and skills you have?**
   * **Yes**. Proceed happily along.
   * **No**. Make a plan to fill those gaps, could include training, hiring, contract work or vendor support. Most important thing is to be intentional and connect to where you're trying to go.
