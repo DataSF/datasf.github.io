@@ -49,7 +49,7 @@ But chanting people, people, people is all well and good, but where does one sta
   * **Yes**. Proceed happily along.
   * **No**. Make a plan to fill those gaps, could include training, hiring, contract work or vendor support. Most important thing is to be intentional and link to where you’re trying to go.
 
-## What can go <strike>wrong</strike> right if you <strike>fail</strike> to put people at the center
+## What can go <strike>wrong</strike> right if you <strike>fail to</strike> put people at the center
 
 I won’t enumerate all the things that can go wrong when we don’t put people at the center. Instead, I want to end on what can go right when we do.
 
