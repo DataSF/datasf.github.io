@@ -1,5 +1,5 @@
 ---
-title: Integrated People Systems
+title: Building Integrated People Systems
 author: jason_lally
 image:
   thumb: /integrated-people-systems/panel1.jpg
