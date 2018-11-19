@@ -10,11 +10,11 @@ image:
     Evans Harris
   source:
     title: Panel on Civic Data Integration
-    author: Stefania Nava
-    source_link:
-    author_link:
-    license:
-    license_link:
+    author: Stefania Mauro-Nava
+    source_link: 'https://metrolabnetwork.org/'
+    author_link: 'https://www.linkedin.com/in/stefaniadn/'
+    license: CC BY-NC 4.0
+    license_link: 'https://creativecommons.org/licenses/by-nc/4.0/'
 description: >-
   I recently had the privilege to contribute to the MetroLab report Technology
   for Civic Data Integration with my peers (see who below). In it are 7
@@ -49,7 +49,7 @@ But chanting people, people, people is all well and good, but where does one sta
   * **Yes**. Proceed happily along.
   * **No**. Make a plan to fill those gaps, could include training, hiring, contract work or vendor support. Most important thing is to be intentional and link to where you’re trying to go.
 
-## What can go <strike>wrong</strike> right if you <strike>fail to</strike> put people at the center
+## What can go ~~wrong~~ right if you ~~fail to~~ put people at the center
 
 I won’t enumerate all the things that can go wrong when we don’t put people at the center. Instead, I want to end on what can go right when we do.
 
