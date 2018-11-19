@@ -37,7 +37,7 @@ You can [read more about all the considerations in the paper](https://metrolabne
 
 * **Data Access & Dissemination.** Consideration 6 is really about the human need. How are we supporting the people that need to use the data to make decisions or take action on data?
 
-Every other consideration in the paper happens in the context of the virtuous cycle of continuous improvement. Human needs should help uncover gaps, gaps should be filled with people, people should help scope and deploy technology, repeat. Getting the people considerations right can help with all the others.
+Every other consideration in the paper happens in the context of the virtuous cycle of continuous improvement. Human needs should help uncover gaps, gaps should be filled by people, people should help scope and deploy technology, repeat. Getting the people considerations right can help with all the others.
 
 ## Practical tips to get there
 
