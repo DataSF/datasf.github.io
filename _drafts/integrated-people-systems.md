@@ -47,7 +47,7 @@ But chanting people, people, people is all well and good, but where does one sta
 * **Understand the people and skills available to you.** &nbsp;These people and skills could be on your team or somewhere else in your organization. One simple tool to use is a [skills inventory](https://franus.com/2018/01/17/cheat-sheet-map-your-teams-skills-to-scale-growth-and-clarify-your-culture/){: target="_blank"}, which I suggest you develop collaboratively with anyone that may be involved in execution of your work.
 * **Ask if you can get to where you want to go with the people and skills you have?**
   * **Yes**. Proceed happily along.
-  * **No**. Make a plan to fill those gaps, could include training, hiring, contract work or vendor support. Most important thing is to be intentional and link to where you’re trying to go.
+  * **No**. Make a plan to fill those gaps, could include training, hiring, contract work or vendor support. Most important thing is to be intentional and connect to where you're trying to go.
 
 ## What can go ~~wrong~~ right if you ~~fail to~~ put people at the center
 
