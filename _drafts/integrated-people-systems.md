@@ -10,7 +10,7 @@ image:
     Evans Harris
   source:
     title: Panel on Civic Data Integration
-    author: Stefania Mauro-Nava
+    author: Stefania Di Mauro-Nava
     source_link: 'https://metrolabnetwork.org/'
     author_link: 'https://www.linkedin.com/in/stefaniadn/'
     license: CC BY-NC 4.0
