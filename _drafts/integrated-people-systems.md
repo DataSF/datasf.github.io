@@ -3,8 +3,11 @@ title: Integrated People Systems
 author: jason_lally
 image:
   thumb: /integrated-people-systems/panel1.jpg
-  feature:
-  caption:
+  feature: /integrated-people-systems/panel1.jpg
+  caption: >-
+    On November 15th, I presented on a panel about the report Technology for
+    Civic Data Integration, with co-contributors and primary author Natalie
+    Evans Harris
   source:
     title: Panel on Civic Data Integration
     author: Stefania Nava
@@ -41,7 +44,7 @@ Every other consideration in the paper happens in the context of the virtuous cy
 But chanting people, people, people is all well and good, but where does one start? My tips for developing an integrated people system include:
 
 * **Define where you’re trying to go.** This could be a major initiative, a project, a strategy; basically it’s important to find your north star. But don’t get stuck. As Steven Bungay advises in the Art of Action, “You cannot create perfect plans, so do not attempt to do so. Do not plan beyond the circumstances you can foresee.”
-* **Understand the people and skills available to you.** &nbsp;These people and skills could be on your team or somewhere else in your organization. One simple tool to use is a [skills inventory](https://franus.com/2018/01/17/cheat-sheet-map-your-teams-skills-to-scale-growth-and-clarify-your-culture/){: target="_blank"}, which I suggest you develop collaboratively with anyone that may be involved in execution of your work.
+* **Understand the people and skills available to you.**  These people and skills could be on your team or somewhere else in your organization. One simple tool to use is a [skills inventory](https://franus.com/2018/01/17/cheat-sheet-map-your-teams-skills-to-scale-growth-and-clarify-your-culture/){: target="_blank"}, which I suggest you develop collaboratively with anyone that may be involved in execution of your work.
 * **Ask if you can get to where you want to go with the people and skills you have?**
   * **Yes**. Proceed happily along.
   * **No**. Make a plan to fill those gaps, could include training, hiring, contract work or vendor support. Most important thing is to be intentional and link to where you’re trying to go.
@@ -79,6 +82,6 @@ And actually writing, editing, corralling and integrating everyone’s ideas and
 
 Thanks to everyone that made this possible and I hope you [get value from the report](https://metrolabnetwork.org/wp-content/uploads/2018/09/Technology-for-Civic-Data-Integration.pdf){: target="_blank"} toward advancing integrated data in your organization!
 
-&nbsp;
+ 
 
-## &nbsp;
+##
