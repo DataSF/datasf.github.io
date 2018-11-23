@@ -35,7 +35,7 @@ You can [read more about all the considerations in the paper](https://metrolabne
 
 * **Staffing Expertise.** This is all about having the right people needed to do the job. This is consideration 0 in the report; it is so important we’re using zero-based numbering! ([that’s a nerdy programming joke](https://en.wikipedia.org/wiki/Zero-based_numbering){: target="_blank"})
 
-* **Data Access & Dissemination.** Consideration 6 is really about the human need. How are we supporting the people that need to use the data to make decisions or take action on data?
+* **Data Access & Dissemination.** Consideration 6 is really about the human need. How are we supporting the people that need to use the data to make decisions or take action?
 
 Every other consideration in the paper happens in the context of the virtuous cycle of continuous improvement. Human needs should help uncover gaps, gaps should be filled by people, people should help scope and deploy technology, repeat. Getting the people considerations right can help with all the others.
 
@@ -44,7 +44,7 @@ Every other consideration in the paper happens in the context of the virtuous cy
 But chanting people, people, people is all well and good, but where does one start? My tips for developing an integrated people system include:
 
 * **Define where you’re trying to go.** This could be a major initiative, a project, a strategy; basically it’s important to find your north star. But don’t get stuck. As Steven Bungay advises in the Art of Action, “You cannot create perfect plans, so do not attempt to do so. Do not plan beyond the circumstances you can foresee.” For more on making plans connected to strategy, I recommend picking up the Art of Action.
-* **Understand the people and skills available to you.**  These people and skills could be on your team or somewhere else in your organization. One simple tool to use is a [skills inventory](https://franus.com/2018/01/17/cheat-sheet-map-your-teams-skills-to-scale-growth-and-clarify-your-culture/){: target="_blank"}, which I suggest you develop collaboratively with anyone that may be involved in execution of your work.
+* **Understand the people and skills available to you.** &nbsp;These people and skills could be on your team or somewhere else in your organization. One simple tool to use is a [skills inventory](https://franus.com/2018/01/17/cheat-sheet-map-your-teams-skills-to-scale-growth-and-clarify-your-culture/){: target="_blank"}, which I suggest you develop collaboratively with anyone that may be involved in execution of your work.
 * **Ask if you can get to where you want to go with the people and skills you have?**
   * **Yes**. Proceed happily along.
   * **No**. Make a plan to fill those gaps, could include training, hiring, contract work or vendor support. Most important thing is to be intentional and connect to where you're trying to go.
