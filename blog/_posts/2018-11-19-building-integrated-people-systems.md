@@ -25,7 +25,7 @@ categories:
   - blog
 ---
 
-I recently had the privilege to contribute to the [MetroLab ](https://metrolabnetwork.org/data-science-and-human-services-lab/){: target="_blank"}report [Technology for Civic Data Integration](https://metrolabnetwork.org/data-science-and-human-services-lab/){: target="_blank"} with my peers (see who below). In it are 7 considerations to take into account when planning for an integrated data system.
+I recently had the privilege to contribute to the report [Technology for Civic Data Integration](https://metrolabnetwork.org/data-science-and-human-services-lab/){: target="_blank"} with my peers produced through a collaboration of 4 fabulous organizations (see who below). In it are 7 considerations to take into account when planning for an integrated data system.
 
 While not explicitly stated in the report, my takeaway from it is that data systems are actually people systems. Put plainly, an integration must support a real human need and real humans need to implement integrated data systems. When we fail to recognize this, integration projects are doomed to failure.
 
@@ -59,7 +59,7 @@ And when people are at the center, the people delivering technology and data sys
 
 ## And a special thanks to all those lovely people that made this report possible
 
-Speaking of people, it was a group [convened by the MetroLab Network](https://metrolabnetwork.org/){: target="_blank"} that brought this report together. I was struck by everyone’s brilliance and sincere desire to unstick the stickiest of problems in the service of others.
+Speaking of people, it was a group of peers convened by a collaborative effort of [Actionable Intelligence for Social Policy](https://www.aisp.upenn.edu/) (AISP), the [National Neighborhood Indicators Partnership](https://www.neighborhoodindicators.org/) (NNIP), and [MetroLab Network](https://metrolabnetwork.org/) that put together this report. I was struck by everyone’s brilliance and sincere desire to unstick the stickiest of problems in the service of others.
 
 My peer contributors included:
 
@@ -80,4 +80,10 @@ My peer contributors included:
 
 And actually writing, editing, corralling and integrating everyone’s ideas and feedback is no small feat! That was performed expertly by the talented Natalie Evans Harris and supported by the staff at MetroLab network including Ben Levine and Stefania Di Mauro-Nava.
 
+Finally, NNIP and AISP made expert contributions and first recognized the need for the research for which the [Annie E. Casey Foundation](https://www.aecf.org/) provided generous support. Chris Kingsley of the foundation was an important contributor to the work as well as Amy Hawn Nelson from AISP and Leah Hendey from NNIP. The paper wouldn't have seen light if not for their leadership and collaborative effort.
+
 Thanks to everyone that made this possible and I hope you [get value from the report](https://metrolabnetwork.org/wp-content/uploads/2018/09/Technology-for-Civic-Data-Integration.pdf){: target="_blank"} toward advancing integrated data in your organization!
+
+-----
+
+***Correction:** this post has been updated to mention the important contributions of AISP and NNIP as well as the generous support of the Annie E. Casey foundation. This was an accidental oversight.*
