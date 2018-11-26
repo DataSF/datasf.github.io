@@ -20,7 +20,7 @@ description: >-
   for Civic Data Integration with my peers (see who below). In it are 7
   considerations to take into account when planning for an integrated data
   system....
-date: 2018-11-19 00:00:00
+date: 2018-11-26 00:00:00
 categories:
   - blog
 ---
