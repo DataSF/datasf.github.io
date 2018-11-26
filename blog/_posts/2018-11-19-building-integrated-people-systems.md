@@ -80,7 +80,7 @@ My peer contributors included:
 
 And actually writing, editing, corralling and integrating everyone’s ideas and feedback is no small feat! That was performed expertly by the talented Natalie Evans Harris and supported by the staff at MetroLab network including Ben Levine and Stefania Di Mauro-Nava.
 
-Finally, NNIP and AISP made expert contributions and first recognized the need for the research for which the [Annie E. Casey Foundation](https://www.aecf.org/) provided generous support. Chris Kingsley of the foundation was an important contributor to the work as well as Amy Hawn Nelson from AISP and Leah Hendey from NNIP. The paper wouldn't have seen light if not for their leadership and collaborative effort.
+Finally, NNIP and AISP made expert contributions and first recognized the need for the research for which the [Annie E. Casey Foundation](https://www.aecf.org/) provided generous support. Chris Kingsley from the foundation was an important contributor to the work as well as Amy Hawn Nelson from AISP and Leah Hendey from NNIP. The paper wouldn't have seen light if not for their leadership and collaborative effort.
 
 Thanks to everyone that made this possible and I hope you [get value from the report](https://metrolabnetwork.org/wp-content/uploads/2018/09/Technology-for-Civic-Data-Integration.pdf){: target="_blank"} toward advancing integrated data in your organization!
 
