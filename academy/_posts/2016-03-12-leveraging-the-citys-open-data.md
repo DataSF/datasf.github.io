@@ -30,6 +30,7 @@ The class assumes you have working knowledge of Excel and a curiosity to learn n
 
 ## What You'll Learn In This Course
 
+* How to load data manually into the open data portal
 * How to connect to live data using Excel and the Power Query add-in
 * How to ask questions about datasets through the portal
 * How to discover yet to be published data not on the portal
