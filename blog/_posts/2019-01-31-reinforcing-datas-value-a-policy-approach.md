@@ -70,6 +70,6 @@ This section lays the ground for understanding where we are now so that the City
 
 ## Thanks to a great team
 
-Policy is a team sport. The team was made up of stakeholders from across the City. Special thanks goes to department representatives in the working group including former DataSF staff, the COIT Architecture Review Board subcommittee, the COIT committee, and our Citywide CIO.
+Policy is a team sport. The team was made up of stakeholders from across the City. Special thanks goes to department representatives in the working group including former DataSF staff, the COIT Architecture Review Board subcommittee, the COIT committee, and our [Citywide CIO](http://tech.sfgov.org/office-cio).
 
 While there are more games to play in the season, we think the City team did a great job delivering a win for data! And if you haven't yet, [check out the full text of the policy](https://sfcoit.org/datamanagement).
