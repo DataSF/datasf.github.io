@@ -2,8 +2,8 @@
 title: 'Reinforcing Data''s Value: A Policy Approach'
 author: jason_lally
 image:
-  thumb:
-  feature:
+  thumb: /data-management/datapolicy.png
+  feature: /data-management/datapolicy.png
   caption:
   source:
     title:
