@@ -1,5 +1,5 @@
 ---
-title: Advanced Tableau
+title: Test
 description:
 prerequisites:
 length:
@@ -8,7 +8,7 @@ series:
 team_members:
 course_short_name:
 course_materials_link:
-order:
+order: 0
 category: academy
 categories:
   - academy

@@ -21,6 +21,8 @@ categories:
 published: true
 ---
 
+***Note: this position has been filled and closed***
+
 Want to transform City services through the use of data science and analytics? Looking to use your data science skills for impact? Then join the DataSF team to empower and expand use of data in government!
 
 DataSF is a small, agile team working across City and County of San Francisco. The mission of DataSF is to empower use of data, transforming the way the city works through better use of data. We work to streamline data access through light, agile data infrastructure, improve data management and governance, and boost capacity to use data through training and data science.
@@ -79,11 +81,10 @@ We would love applicants who also have the following:
 
 ## How to apply
 
-Submit [your application at the City’s Jobs Portal](https://www.jobapscloud.com/SF/sup/bulpreview.asp?R1=PEX&R2=1043&R3=086434). Include a cover letter and a resume with your application.
+Submit [your application at the City’s Jobs Portal](https://www.jobapscloud.com/SF/sup/bulpreview.asp?R1=PEX&amp;R2=1043&amp;R3=086434). Include a cover letter and a resume with your application.
 
 And the City’s application is a little clunky - so don’t leave it to the last minute ;-) Or you can send the cover letter to datasf at sfgov dot org. Title your email: "Cover Letter: Name".
 
 ## Equal Employment Opportunity
 
 The City and County of San Francisco is committed to equal employment opportunity. [Read more about our equal employment opportunity policy](http://sfdhr.org/equal-employment-opportunity).
-

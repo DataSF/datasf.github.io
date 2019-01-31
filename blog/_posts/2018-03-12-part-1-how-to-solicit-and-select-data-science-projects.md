@@ -35,7 +35,7 @@ categories:
 
 ---
 
-If you are starting a data science service in your jurisdiction, your first task will be to develop a backlog of projects. This article walks through how we solicit and select data science projects.
+If you are starting a data science service in your jurisdiction, your first task will be to develop a backlog of projects. This article walks through how we solicit and select data science projects.&nbsp;
 
 ## How to solicit data science projects
 
