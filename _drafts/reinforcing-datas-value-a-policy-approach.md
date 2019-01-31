@@ -59,7 +59,7 @@ Applying an “API-centric” or data service approach to all data across the Ci
 2. To perform a core function
 3. And is the authoritative source
 
-![](/uploads/thepartdefinition.png)
+![Pictured is the three part definition listed above as a Venn Diagram](/uploads/thepartdefinition.png)
 
 The policy then:
 
