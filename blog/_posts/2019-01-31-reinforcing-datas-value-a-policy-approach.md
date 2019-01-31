@@ -39,7 +39,7 @@ To manage data as an asset, [the policy covers](https://sfcoit.org/datamanagemen
 
 ## A modular policy
 
-This policy also threads together other policies and standards from [disaster preparedness and recovery](https://sfcoit.org/dpr3) to [data classification](https://sfcoit.org/datastandard). It places these things in context and acts as an aggregator and synthesizer of these deeper policies. 
+This policy also threads together other policies and standards from [disaster preparedness and recovery](https://sfcoit.org/dpr3) to [data classification](https://sfcoit.org/datastandard). It places these things in context and acts as an aggregator and synthesizer of these deeper policies.&nbsp;
 
 We imagine that we will need to flex and change the policy as the world changes. COIT has standardized on an annual review of all policies to make sure they stay relevant which will allow the Data Management Policy to adapt as needed.
 
@@ -59,7 +59,7 @@ Applying an “API-centric” or data service approach to all data across the Ci
 2. To perform a core function
 3. And is the authoritative source
 
-![Pictured is the three part definition listed above as a Venn Diagram](/uploads/thepartdefinition.png)
+![Pictured is the three part definition listed above as a Venn Diagram](/uploads/threepartdef.png)
 
 The policy then:
 
