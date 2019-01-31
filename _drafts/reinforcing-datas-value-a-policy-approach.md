@@ -1,6 +1,6 @@
 ---
 title: 'Reinforcing Data''s Value: A Policy Approach'
-author:
+author: jason_lally
 image:
   thumb:
   feature:
@@ -12,8 +12,12 @@ image:
     author_link:
     license:
     license_link:
-description:
-date:
+description: >-
+  On January 17, 2019, the Data Management Policy was passed unanimously by the
+  Committee on Information Technology (COIT), San Francisco’s IT governance
+  body. The policy was crafted with departments to define and make clearer what
+  it means to manage data as a strategic asset.
+date: 2019-01-31 00:00:00
 categories:
   - blog
 ---
