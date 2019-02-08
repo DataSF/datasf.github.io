@@ -1129,6 +1129,19 @@ section#progress .stat-text {
   margin: 15px 0;
   text-transform: none;
 }
+
+.services__title {
+  font-size: 36px;
+  border-left: solid 5px #6dbce2; 
+  padding-left: 10px;
+}
+
+.services__subtitle {
+  color: #6dbce2;
+  font-weight: 300;
+  margin-top: 10px;
+}
+
 .story-sidebar h4 {
   margin: 0 0 1.2em 0;
 }
