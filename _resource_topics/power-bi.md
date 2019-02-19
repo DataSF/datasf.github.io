@@ -70,4 +70,4 @@ Power BI is a tool that allows analyst to quickly generate dashboards and report
 Power BI's greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing. &nbsp;Learn more:
 
 * Brown Bag slidedeck explains the benefits of Power BI versus other tools
-* Sign up for waitlist for [Data Academy training](datasf.org/academy/power-bi){: target="_blank"}
+* Tipsheets on use of the CCSF Premium Capacity & Publish-to-Web feature
