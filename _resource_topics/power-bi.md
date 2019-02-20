@@ -55,11 +55,19 @@ resources_list:
       - link: >-
           https://docs.google.com/document/d/1zy1FMNq5Zfbr7LsiEvi660c6BIs8BbLdkvPwr4dr08g/edit?usp=sharing
         media_type: Google Doc
+  - name: PowerBI Publish-to-Web Tipsheet
+    description: A tipsheet for CCSF employees when using publish to web feature in PowerBI
+    post_date: 2018-05-31 00:00:00
+    resource_type: Document
+    links:
+      - link: >-
+          https://docs.google.com/document/d/1XiyC4dCkMcjI74VToNtTLcCyc8FOtAcw_EfG7Df6nPc/edit?usp=sharing
+        media_type: Google Doc
 ---
 
-Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.&nbsp; Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have a nearly free way of distributing these reports within CCSF
+Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.&nbsp; Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have an easy way of distributing these reports within CCSF
 
 Power BI's greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing. &nbsp;Learn more:
 
 * Brown Bag slidedeck explains the benefits of Power BI versus other tools
-* Sign up for waitlist for [Data Academy training](datasf.org/academy/power-bi){: target="_blank"}
+* Tipsheets on use of the CCSF Premium Capacity & Publish-to-Web feature
