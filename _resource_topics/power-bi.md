@@ -32,6 +32,16 @@ resources_list:
       - link: >-
           https://docs.google.com/document/d/1XiyC4dCkMcjI74VToNtTLcCyc8FOtAcw_EfG7Df6nPc/edit?usp=sharing
         media_type: Google Doc
+  - name: PowerBI Resources for IT
+    description: >-
+      Curated list of external resources for IT departments to understand the
+      PowerBI ecosystem.
+    post_date: 2019-02-19 00:00:00
+    resource_type: Document
+    links:
+      - link: >-
+          https://docs.google.com/document/d/1MdJKrbYcqYd5y5-4nYbwzcJEtkXZQBlDbKW-kxtsJyY/edit?usp=sharing
+        media_type: Google Doc
   - name: DataSF PowerBI Resource Collection
     description: >-
       A curated collection of DataSF created guides, vetted learning resources,
@@ -63,21 +73,11 @@ resources_list:
       - link: >-
           https://drive.google.com/drive/folders/1tJD4ix07-70VHvfrhD2NYaUor0c-PwF6?usp=sharing
         media_type: Link
-  - name: PowerBI Resources for IT
-    description: >-
-      Curated list of external resources for IT departments to understand the
-      PowerBI ecosystem.
-    post_date: 2019-02-19 00:00:00
-    resource_type: Document
-    links:
-      - link: >-
-          https://docs.google.com/document/d/1MdJKrbYcqYd5y5-4nYbwzcJEtkXZQBlDbKW-kxtsJyY/edit?usp=sharing
-        media_type: Google Doc
 ---
 
-Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.  Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have an easy way of distributing these reports within CCSF
+Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.&nbsp; Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have an easy way of distributing these reports within CCSF.
 
-Power BI's greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing.  Learn more:
+Power BI's greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing. &nbsp;Learn more:
 
 * Brown Bag slidedeck explains the benefits of Power BI versus other tools
 * Tipsheets on use of the CCSF Premium Capacity & Publish-to-Web feature
