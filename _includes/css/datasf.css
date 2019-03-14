@@ -11,7 +11,9 @@ strike {
 }
 
 .btn {
-  border-radius: 0;
+  border-radius: 40px;
+  padding: 8px;
+  font-size: 14px;
 }
 
 .pubexpsurvey {
@@ -377,6 +379,9 @@ h2.resource-title {
   color: #333;
   background-color: #7dd191;
   border-color: #44bd61;
+  border-width: 3px;
+  font-weight: bold;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .btn-default.active,
 .btn-default.focus,
@@ -1142,6 +1147,10 @@ section#progress .stat-text {
   margin-top: 10px;
 }
 
+.services__panels .panel-title {
+  font-size: 21px;
+}
+
 .story-sidebar h4 {
   margin: 0 0 1.2em 0;
 }
@@ -1807,6 +1816,14 @@ img.emoji {
 .panel-default>.panel-heading {
   background-color: #1A4154;
   color: #eee;
+  border-radius: 0;
+}
+.panel-default>.panel-heading-secondary {
+  background-color: #D5ECF7;
+  color: #1A4154;
+}
+.panel-heading-secondary>h5.panel-title {
+  font-size: 18px;
 }
 .panel {
   border-radius: 0;
