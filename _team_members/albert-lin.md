@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/albert-lin.jpg
+headshot_image_path: /uploads/Albert Lin_circle.jpg
 instructor: 'Yes'
 ---
 

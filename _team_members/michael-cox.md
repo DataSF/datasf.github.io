@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/michael-cox---photo.jpg
+headshot_image_path: /uploads/Michael Cox_circle.jpg
 instructor: 'Yes'
 ---
 

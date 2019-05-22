@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/Wendy Lee.jpg
+headshot_image_path: /uploads/Wendy Lee_circle.jpg
 instructor: 'Yes'
 ---
 

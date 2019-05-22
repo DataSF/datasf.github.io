@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/jeff-pomrenke.jpg
+headshot_image_path: /uploads/Jeff Pomrenke_circle.jpg
 instructor: 'Yes'
 ---
 

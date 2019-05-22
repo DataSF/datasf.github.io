@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/emily-lisker-resized.jpg
+headshot_image_path: /uploads/Emily Lisker_circle.jpg
 instructor: 'Yes'
 ---
 

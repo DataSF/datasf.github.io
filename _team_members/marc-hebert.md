@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/marc-hebert---cropped.jpg
+headshot_image_path: /uploads/Marc Hebert_circle.jpg
 instructor: 'Yes'
 ---
 

@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/ellen-love.jpg
+headshot_image_path: /uploads/Ellen Love_circle.jpg
 instructor: 'Yes'
 ---
 

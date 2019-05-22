@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/glynis-startz.jpg
+headshot_image_path: /uploads/Glynis Startz_circle.jpg
 instructor: 'Yes'
 ---
 

@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/emily-vontsolos.png
+headshot_image_path: /uploads/Emily Vontsolos_circle.png
 instructor: 'Yes'
 ---
 

@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/Peg Stevenson.JPG
+headshot_image_path: /uploads/Peg Stevenson_circle.jpg
 instructor: 'Yes'
 ---
 
