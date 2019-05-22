@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/vivian-chen.jpg
+headshot_image_path: /uploads/Vivian Chen_circle.jpg
 instructor: 'Yes'
 ---
 
