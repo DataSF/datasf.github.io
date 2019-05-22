@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/michael-perlstein.JPG
+headshot_image_path: /uploads/Mike Perlstein_circle.jpg
 instructor: 'Yes'
 ---
 
