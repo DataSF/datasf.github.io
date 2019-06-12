@@ -1022,7 +1022,6 @@ section#progress .stat-text {
 
 #progress .btn {
   margin-top: 10px;
-  width: 100%;
 }
 
 .chart-title {
@@ -1036,9 +1035,6 @@ section#progress .stat-text {
 }
 
 @media (min-width: 992px) {
-  #progress .btn {
-    width: 175px;
-  }
   section#progress {
     text-align: left;
     background-color: #245f7b;
