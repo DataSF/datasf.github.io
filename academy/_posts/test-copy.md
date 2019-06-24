@@ -7,7 +7,7 @@ subjects:
 series:
 team_members:
 course_short_name: Intro to Group Facilitation
-course_materials_link:
+course_materials_link: 'https://drive.google.com/open?id=1uPH_ir3vSIDBxPsbqZjzL7vWUkc7RUiS'
 order: 0
 category: academy
 categories:
