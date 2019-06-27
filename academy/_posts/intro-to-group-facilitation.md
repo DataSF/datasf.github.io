@@ -2,7 +2,7 @@
 title: Intro to Group Facilitation
 description: "Do you participate in or lead meetings where important decisions are discussed?\_ Whether in the context of weekly staff meetings or an inter-agency working group, well-designed meeting can lead to better decisions.\_ Data Academy is offering a new half-day training on group facilitation, where attendees will learn key approaches and skills to support inclusive and efficient decision-making."
 prerequisites:
-length: '3'
+length: '4'
 subjects:
 series:
   - Process Improvement
