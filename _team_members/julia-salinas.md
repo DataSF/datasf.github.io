@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/Julia.png
+headshot_image_path: /uploads/julia-salinas-circle.jpg
 instructor: 'Yes'
 ---
 
