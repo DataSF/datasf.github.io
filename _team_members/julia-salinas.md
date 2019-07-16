@@ -1,6 +1,6 @@
 ---
 name: Julia Salinas
-work_title: 'Performance Analyst, City Performance'
+work_title: 'Performance Analyst, Controller''s Office'
 email:
 bio:
 gravatar:
