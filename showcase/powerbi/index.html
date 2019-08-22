@@ -1,0 +1,17 @@
+---
+layout: masthead
+title: PowerBI Showcase
+background_image_path: /uploads/academy.jpg
+index: showcase
+subnav: true
+blurb: "Blurby thing"
+---
+
+<section id="stories" class="bg-light-gray">
+  <div class="container">
+    {% assign sortedposts = site.categories.datascience | sort: 'title' %}
+    {% include stories-iterator-horizontal-simple.html posts=sortedposts %}
+  </div>
+</section>
+    
+
