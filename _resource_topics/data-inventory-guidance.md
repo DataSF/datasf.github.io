@@ -1,8 +1,8 @@
 ---
-title: Data Inventory Guidance
+title: Data Coordinator Guidance
 description: >-
-  Resources to aid in the collection and maintenance of dataset inventories for
-  the open data program.
+  Resources to aid data coordinators in their duties including the collection
+  and maintenance of dataset inventories for the open data program.
 tags:
 resources_list:
   - name: Data Coordinator Guidebook
@@ -76,7 +76,6 @@ resources_list:
         media_type: Excel
 ---
 
-
 The resources here provide a mix of guidance, templates and examples to help data coordinators. You can read more about the process in the blog post, [5 Ways to Scale the Mountain of Data in Your Organization](/blog/5-ways-to-scale-mountain-of-data/).
 
-The [dataset inventory provides a list of data maintained by departments](https://data.sfgov.org/City-Management-and-Ethics/Dataset-Inventory/y8fp-fbf5) that are candidates for open data publishing or have already been published and is collected in accordance with Chapter 22D of the Administrative Code. Data Coordinators, appointed by their departments, were responsible for collating and collecting the initial inventory and are responsible for ongoing maintenance of the inventory.
+The [dataset inventory provides a list of data maintained by departments](https://data.sfgov.org/City-Management-and-Ethics/Dataset-Inventory/y8fp-fbf5) and is collected in accordance with Chapter 22D of the Administrative Code. Additionally, when data can be published to the portal, a link to the public dataset is made available in that inventory. Data Coordinators, appointed by their departments, are responsible for annual inventory updates.

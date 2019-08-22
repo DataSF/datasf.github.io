@@ -1,11 +1,11 @@
 joy_bonaguro:
   name: Joy Bonaguro
-  title: Chief Data Officer
+  title: Former Chief Data Officer
   email: joy.bonaguro@sfgov.org
-  bio: 'Chief Data Officer, City and County of San Francisco'
+  bio: 'Former Chief Data Officer, City and County of San Francisco'
   long_bio: >-
-    Joy Bonaguro is the first Chief Data Officer for the City and County of San
-    Francisco, where she manages the City’s open data program. Joy has spent
+    Joy Bonaguro was the first Chief Data Officer for the City and County of San
+    Francisco, where she managed the City’s open data program. Joy has spent
     more than a decade working at the nexus of public policy, data, and
     technology. She worked from the birth of the open data and open government
     field, spending seven years designing and managing the development of
@@ -24,17 +24,12 @@ jason_lally:
   email: jason.lally@sfgov.org
   bio: 'Data Services Manager, City and County of San Francisco'
   long_bio: >-
-    Jason Lally is the Data Services Manager, working with the City’s Chief Data
-    Officer, Joy Bonaguro, to help operationalize the City’s data strategy.
-    Jason comes to the City by way of a Mayor’s Innovation Fellowship that
-    wrapped up in August 2014. Before that, he worked at the intersection of
-    technology and urban planning as Director of the Decision Lab at
-    PlaceMatters in Denver, CO. He came to open government and open data through
+    Jason Lally is the Data Services Manager, working to operationalize the City’s data strategy and leads the DataSF team.
+    He has been with the City for over 5 years and came to open government and open data through
     his work in cities and regions across the country on data-informed,
-    community planning processes. Recognizing a need for more robust information
-    services and platforms to support strong community engagement, Jason is
+    community planning processes. Jason is
     pleased to contribute to making data more accessible and useful at the City.
-    Jason earned his Masters in City and Regional Planning from the University
+    He earned his Masters in City and Regional Planning from the University
     of Pennsylvania.
   gravatar: b0d79f25e915d34f7f06907322ad8060
   twitter: synchronouscity
@@ -65,9 +60,9 @@ janine_heiser:
   name: Janine Heiser
   title: Former Open Data Services Engineer
   email: janine.heiser@sfgov.org
-  bio: 'Open Data Services Engineer, City and County of San Francisco'
+  bio: 'Former Open Data Services Engineer, City and County of San Francisco'
   long_bio: >-
-    Janine Heiser is the Open Data Services Engineer working to help design and
+    Janine Heiser was the Open Data Services Engineer working to help design and
     implement a scalable framework for accessing and publishing data across the
     City. In her technologist role, she enjoys applying user-centered design
     methodologies to the process of creating and implementing new data products
@@ -80,7 +75,7 @@ janine_heiser:
   twitter: J9Heiser
 jeff_johnson:
   name: Jeff Johnson
-  title: 'Manager, SFGIS and Open Data Services'
+  title: 'Manager, SFGIS'
   long_bio: >-
     Jeff Johnson manages San Francisco’s Enterprise GIS Program at the
     Department of Technology, and has worked with the City’s Open Data platform
@@ -146,11 +141,11 @@ blake_valenta:
   gravatar: 3f5249ee91007d67194270ad9b1708fa
 kimberly_hicks:
   name: Kimberly Hicks
-  title: Data Scientist
-  bio: 'Data Scientist, City and County of San Francisco'
+  title: Former Data Scientist
+  bio: 'Former Data Scientist, City and County of San Francisco'
   long_bio: >-
-    Kimberly Hicks is the Data Scientist specializing in data mining, predictive
-    analytics, machine learning and data visualization.  Her focus is putting
+    Kimberly Hicks was the Data Scientist specializing in data mining, predictive
+    analytics, machine learning and data visualization.  Her focus was putting
     the City’s data to work to increase the quality of life for San Franciscans.
     Kimberly comes to the City from the private sector having worked for several
     years building innovative, statistical tools and ultimately improving
@@ -158,6 +153,13 @@ kimberly_hicks:
     Mathematics and a Master’s degree in Applied Statistics from the University
     of Michigan, Ann Arbor.
   gravatar: e60f96bec9c1d177713240e49bb71bf6
+tania_jogesh:
+  name: Tania Jogesh
+  title: 'Data Scientist, City and County of San Francisco'
+  bio: 'Data Scientist, City and County of San Francisco'
+  long_bio: >-
+    Tania Jogesh is the Data Scientist at DataSF. Tania comes to DataSF with more than a decade of data-driven research experience, an unconventional background in pollination ecology, and a desire to improve the world with data. She holds a PhD in Entomology from the University of Illinois Urbana-Champaign and a Bachelor’s degree in Biology and Statistics from Carleton University, Canada. Prior to her current position, Tania was a postdoctoral scientist with the Chicago Botanic Garden, where she applied advanced statistical methods to understand plant and insect communities in natural ecosystems.
+  gravatar: f57c79da15c950f1c3b59704588a2204
 samuel_abbott:
   name: Sam Abbott
   title: 'Performance Analyst, Controller''s Office'
@@ -196,3 +198,10 @@ anna_dunning:
   bio: 'Budget Office Summer Intern, City and County of San Francisco'
   long_bio: .
   gravatar: 47c1534b6e375f002a4af275d813f8ee
+tania_jogesh:
+  name: Tania Jogesh
+  title: 'Data Scientist'
+  bio: 'Data Scientist, City and County of San Francisco'
+  long_bio: >-
+    Tania Jogesh is the Data Scientist at DataSF. Tania comes to DataSF with more than a decade of data-driven research experience, an unconventional background in pollination ecology, and a desire to improve the world with data. She holds a PhD in Entomology from the University of Illinois Urbana-Champaign and a Bachelor’s degree in Biology and Statistics from Carleton University, Canada. Prior to her current position, Tania was a postdoctoral scientist with the Chicago Botanic Garden, where she applied advanced statistical methods to understand plant and insect communities in natural ecosystems.
+  gravatar: f57c79da15c950f1c3b59704588a2204

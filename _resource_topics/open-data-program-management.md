@@ -15,8 +15,7 @@ resources_list:
     post_date: 2018-05-01 00:00:00
     resource_type: Toolkit
     links:
-      - link: >-
-          https://legacy.gitbook.com/book/datasf/datasf-publishing-toolkit/details
+      - link: 'https://datasf.gitbooks.io/datasf-publishing-toolkit/content/'
         media_type: Link
       - link: >-
           https://legacy.gitbook.com/download/pdf/book/datasf/datasf-publishing-toolkit
@@ -28,8 +27,7 @@ resources_list:
     post_date: 2018-05-01 00:00:00
     resource_type: Guide
     links:
-      - link: >-
-          https://legacy.gitbook.com/book/datasf/draft-publishing-standards/details
+      - link: 'https://datasf.gitbooks.io/draft-publishing-standards/content/'
         media_type: Link
       - link: >-
           https://legacy.gitbook.com/download/pdf/book/datasf/draft-publishing-standards
