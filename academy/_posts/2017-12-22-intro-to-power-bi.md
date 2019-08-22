@@ -10,13 +10,15 @@ length: Full day (~8 hours)
 subjects:
   - Data Management
   - Visualization
+  - PowerBI
 series:
+  - PowerBI
 team_members:
   - blake-valenta
 course_short_name: Intro to Power BI
 course_materials_link: >-
   https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR?usp=sharing
-order: 0
+order: '0'
 category: academy
 categories:
   - academy
@@ -39,7 +41,7 @@ Power BI also has substantial visualization/sharing/automation abilities allowin
 * Share your work privately within the city or publicly
 * Best practices for documenting and managing your workflow
 * Tips and Tricks specially designed for the data needs of CCSF employees
-* Note: class is dedicated to practice, not high level overview or comparison to other programs.  Contact mayor.cdo.intern@sfgov.org to get the CCSF  Power BI brown bag slide deck which dives into those areas.
+* Note: class is dedicated to practice, not high level overview or comparison to other programs.  Review CCSF powerBI brown bag slidedeck which dives into those areas.
 
 ## Course Outline
 

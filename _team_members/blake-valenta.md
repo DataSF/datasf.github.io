@@ -5,7 +5,7 @@ email:
 bio:
 gravatar:
 twitter:
-headshot_image_path: /uploads/blake-valenta.jpg
+headshot_image_path: /uploads/Blake Valenta_circle.jpg
 instructor: 'Yes'
 ---
 
