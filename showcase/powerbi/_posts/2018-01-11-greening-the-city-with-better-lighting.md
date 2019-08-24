@@ -1,94 +1,70 @@
 ---
 title: Greening the City with Better Lighting
-background_image_path: /uploads/5243218781-c7d6243845-b.jpg
-card_image_path: /uploads/5243218781-c7d6243845-b.png
+background_image_path:
+card_image_path:
 resources:
   - name: Powerpoint Presentation
     url: 'https://drive.google.com/open?id=0B3nQt7K8TDq0NmtUT2d6TndBYWc'
 featured: false
 ---
 
-When was the last time you decided to upgrade your light bulbs? If you’re like many folks, you wait until a light bulb burns out. In your home or apartment, you might have at most 20-30 bulbs.
+Everyday in San Francisco, new buildings and residences are being constructed.&nbsp; In an average year, there are over 20,000 new and ongoing construction projects. Sixty Appraisers in the Assessor-Recorder Office are in charge of making a fair and impartial appraisal of a property’s value for the purpose of assessing a fair tax.&nbsp; For FY18 property tax brought in $70 million dollars in the revenue for the general fund, which supports City services, such as public safety, parks, libraries, and health and social services.
 
-But if you own a commercial property or lease a commercial space, your strategy might be a bit different. If you have 100s or 1000s of lightbulbs, there is tremendous cost savings potential from migrating from wholesale to light bulbs using newer more energy efficient technology.
+![](/uploads/accurate-taxing.png){: width="1106" height="622"}
 
-For the first 100 years of electrical lighting, the incandescent bulb reigned supreme. While it provided needed light, it burns a lot of energy and releases excessive heat. In fact, the California Energy Commission officially prohibited the sale of incandescent bulbs in our State in January 2018.
+# What was the problem
 
-Designed to consume less energy, lighting technology progressed with the mass-market introduction of compact fluorescent lamps in 1995. However, as soon as they had their heyday, Light Emitting Diodes or LEDs came on the scene.
+With over 20,000 active construction projects, the Assessor-Recorder had developed a process to prioritize and assign these projects to the sixty appraisers.&nbsp; This was the full time responsibility of a single analyst. Every year they would generate sixty separate workbooks which become the primary tool the appraisers use to evaluate a property.
 
-![Picture showing different lightbulbs: incandescents to compact florescents to LEDs](/uploads/versions/lights-1-3bulbs---x----753-324x---.PNG)
+Further complicating matters, for each project the sixty workbooks need to be augmented with additional data scattered across various sources such as:
 
-<figcaption>Light technology has evolved over time - from incandescents to compact florescents to LEDs.</figcaption>
+* Data submitted by taxpayers stored in their Document Management System
+* Building Inspection notes from the[DBI Permits dataset](https://data.sfgov.org/Housing-and-Buildings/Building-Permits/i98e-djp9) on the open data portal
+* [Historical Tax Rolls dataset](https://data.sfgov.org/Housing-and-Buildings/Assessor-Historical-Secured-Property-Tax-Rolls/wv5m-vpq2) from Open Data Portal
 
-With each advancement in improved lighting technology, the City and County of San Francisco (City) wants to do all it can to encourage lighting upgrades, Commercial property and business owners are great lighting upgrade candidates, and the City is available to provide technical assistance and incentives to help with project implementation and upfront costs.
+Appraisers processed and entered the data into five different screens in their internal AS-400 system.&nbsp; This was then pulled into an “Error Report” for eight principal appraisers to review, identify quality control issues, and send back to appraisers for manual correction. They confirmed corrections were made by waiting until the next report in two weeks.
 
-## Background: The City offers help to make energy upgrades simple
+![](/uploads/workflow.png){: width="1089" height="556"}
 
-While a lighting upgrade of 100s or 1000s of bulbs may make financial sense for a property or business owner, it still requires upfront dollars. That upfront cost is often a barrier. This is why the [City’s Department of Environment](https://sfenvironment.org/) (SFE) offers incentives to property owners and businesses to help encourage them to make the switch to the most efficient bulbs in the market that also fit the needs of building occupants.
+As the picture above conveys, this was a complicated undertaking, impacting over seventy members of the Assessor staff.&nbsp; There were numerous pain points, the biggest of which were:
 
-Since 2006, the [San Francisco Energy Watch program](https://sfenvironment.org/sf-energy-watch-incentives-businesses) implemented by San Francisco Environment (SFE) has assisted local businesses and multifamily building managers or owners lower their energy bill through energy efficiency assessments and financial incentives, while also reducing San Francisco's impact on the environment.
+* **Time consuming** - The manual Excel based system meant that managing and maintaining the workbooks and associate processes was the full time job of a single analyst.&nbsp; Nearly all the analyst’s working hours were spent keeping this engine running
+* **Quality issues** - Due to the manual process, Data Quality issues&nbsp; were only caught after the fact and required additional manual work to fix
 
-These energy incentives are part of the City’s wider goal to significantly reduce energy consumption through energy efficiency upgrades by 2030<sup id="fnref:1"><a class="footnote" href="#fn:1">1</a></sup>, and ensure that 100% of the electricity supplied by the grid to San Francisco residents and businesses is renewable by 2030. Together these steps will help the City significantly reduce greenhouse gas emissions by 2050. With targets this high - every lightbulb helps.
+# What was done
 
-## Service Question: SFE had helped most of their clients - could they find new leads?
+## *Partner/Team*
 
-SFE staffers had a challenge: they had helped most of the clients in their database and suspected there may be additional properties that could benefit from the program.
+Michelle Wong
 
-However, SFE first needed to know if they had saturated the market and if not, how best to generate new leads. SFE also wanted to understand if additional upgrade potential existed within their existing list of clients for different energy efficiency measure incentives.
+## *Approach*
 
-![Graphs showingn that both the number of average monthly projects and average monthly energy savings have declined.](/uploads/versions/lights-2-declininguptake---x----935-289x---.PNG)
+The daunting task of improving this process fell to Operations Analyst, Michelle Wong.&nbsp; The result was an radical transformation of the tool from a manual static Excel workbook to an automated, dynamic, Power BI report with enhanced functionality. She accomplished this through an iterative, user-centered approach that minimized effort and maximized user buy-in.
 
-<figcaption>The number of projects and resulting energy savings from Energy Watch has been declining in recent years.</figcaption>
+By taking advantage of DataSF’s PowerBI co![](/uploads/user-centered-feedback-process.png){: width="922" height="568"}urses and office hours, Michelle recognized the potential to radically transform process via PowerBI. In particular, the DataSF Data Modeling course gave her the theoretical foundation to structure a system built on PowerBI which would automate the entire process.&nbsp; The resulting data model embedded the existing business logic into PowerBI. Instead of sixty excel workbooks, there is now a single report powered by an elegant and flexible data model. The development transition time from data model to V1 was only three weeks\!
 
-## Analytics: Building permits can help identify new clients
+But Michelle didn’t stop at mere automation.&nbsp; Instead, she chose to rethink what the tool could be. She incorporated a Data Quality page that instantly alerted Appraisers if they forgot to enter a field.&nbsp; This caught errors (which the focus group rebranded as “Incomplete”) before they reached the principal appraisers. Furthermore, she integrated user feedback by adding advanced features such as interactive maps and additional columns to facilitate the appraisers’ tasks.
 
-DataScienceSF explored what made for good candidates (leads) for lighting upgrades in the past. One key finding was that applicants for building permits where more likely to take advantage of energy efficiency incentives: Completed upgrades were nearly 2 times as likely to have applied for permits within prior 5 years and nearly 3 times as likely to have applied within 1 year.
+&nbsp;
 
-![Bar charts showing that buildings with completed projects are more likely to apply for an electrical or building permit within 1 or 5 years of doing a project.](/uploads/versions/lights-2-permits---x----1040-522x---.PNG)
+A large part of the success came from the iterative and user-centered approach Michelle took to the roll out of the new PowerBI report.&nbsp; Change management can be hard, and appraisers were used to viewing their workload and making notes in Excel. Michelle created a V1 of the report that simply recreated what the appraisers were used to seeing.&nbsp; She created focus groups and provided office hours within ASR to help ease the transition.&nbsp;
 
-<figcaption>Buildings that had completed projects with Energy Watch were more likely to have applied for a building or electrical permit, suggesting that other permit applicants may be good leads.</figcaption>
+Importantly, she rapidly responded to feedback that surfaced in the focus groups, often making changes within days.&nbsp; This built trust and excitement among staff. For example, staff asked for novel features like a searchable map to identify which sites to visit that day.&nbsp; This involved incorporating an entirely new dataset, but, due to the data model’s flexibility, it only took hours to deliver.&nbsp;&nbsp;
 
-We also found that the majority of past projects focused on smaller buildings with smaller energy savings. Was there an opportunity for bigger energy savings?
+## *Tools & Services Used*
 
-## Implementation: Enriched list of property leads feeds new client outreach strategy
+**Tags:Power BI**
 
-Based on the findings, DataScienceSF created a long list of potential leads. We combined data on property use, permitting activity, and energy consumption to help prioritize targets. The new list relied heavily on data already published through the open data portal. We then matched it with properties in SFE’s existing database to easily identify properties that already existed in the database.
+## What was the outcome
 
-### Before and after maps show increase in list of leads
+The analyst tasked with shepherding the process went from 100% of time spent on this project to 5%, drastically freeing up their time for more pressing analytical needs.&nbsp; He went from managing the excel workbooks to managing the project as a whole. In effect, the report provided the Assessor-Recorder a new analyst.
 
-![Two maps showing the distribution of commerical leads before and after the DataScienceSF project.](/uploads/versions/lights-commercial-leads---x----890-405x---.PNG)
+![](/uploads/overall-automation.png){: width="1099" height="611"}
 
-<figcaption>DataScienceSF was able to increase Energy Watch's list of potential commercial leads by 250%.</figcaption>
+The data quality page drastically cut the amount of errors in the final report given to Principal Appraisers to review which saved hours of staff time.&nbsp; It also helped change the dynamic between the Analysts and Appraisers. Before the automated data quality flags, the Analystsanalyst had to play the very unfun role of data drill sergeants.&nbsp; Appraisers small but consistent pain-points such as lack of a map and immediate access to information from external systems were resolved making work life more efficient.&nbsp;&nbsp;
 
-![Two maps showing the distribution of multifamily leads before and after the DataScienceSF project.](/uploads/versions/lights-mutlifamilyleads---x----890-406x---.PNG)
+Appraisers’ responses to the tool and the user centered process have been overwhelmingly positive.
 
-<figcaption>DataScienceSF was able to increase Energy Watch's list of potential multifamily leads by 1000%.</figcaption>
+## Testimony
 
-### Next steps
-
-This project prompted a couple of new ideas:
-
-1. Combine this data with building energy consumption data from PG&E to further refine and prioritize SFE’s outreach strategy. This approach allows SFE staff to target the high-energy users first and to identify specific building sectors with abundance of potential, and
-2. Continue updating the data-set, including new permit information, and integrating it into a custom dashboard so Energy Watch Staffers can see a summary of information quickly, and use it to conduct high-impact outreach.
-
-## Client Details:
-
-### Client Team
-
-* Kathleen Bryan, Senior Energy Efficiency Specialist
-* Lowell Chu, Senior Energy Efficiency Specialist
-* Ben Cooper, Alameda County
-* Imma Dela Cruz, Energy Efficiency Analyst
-
-### Testimonial
-
-> As a cohort, I discovered that the DataSF Team’s expertise lies not only in working with binary numbers, but also in human connectedness. The Team took the time to connect with us by thoroughly learning its program, listening to the staff, fully understanding the issues, and most importantly, genuinely collaborating to yield the most appropriate set of solutions. DataSF Team’s ability to connect produced tangible, actionable solutions in an incredibly short amount of time.”
->
->
-> —Lowell Chu, Senior Energy Efficiency Specialist, San Francisco Department of the Environment
-
----
-
-\*Image Credit: Header Image "Three energy saving light bulbs (original image cropped but unaltered otherwise)" by [Anton Fomkin](https://www.flickr.com/photos/antonfomkin/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-
-<div class="footnotes"><ol><li id="fn:1"><p><a href="http://www.energy.ca.gov/sb350/">http://www.energy.ca.gov/sb350/</a> <a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
+\[quote from ASR about DataSF\]
