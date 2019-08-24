@@ -7,7 +7,7 @@ card_image_path: /uploads/accurate-taxing-2-1.png
 resources:
   - name: Powerpoint Presentation
     url: 'https://drive.google.com/open?id=0B3nQt7K8TDq0NmtUT2d6TndBYWc'
-featured: false
+featured: true
 ---
 
 Everyday in San Francisco, new buildings and residences are being constructed.&nbsp; In an average year, there are over 20,000 new and ongoing construction projects. Sixty Appraisers in the Assessor-Recorder Office are in charge of making a fair and impartial appraisal of a property’s value for the purpose of assessing a fair tax.&nbsp; For FY18 property tax brought in $70 million dollars in the revenue for the general fund, which supports City services, such as public safety, parks, libraries, and health and social services.
