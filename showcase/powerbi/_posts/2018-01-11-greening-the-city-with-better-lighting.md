@@ -1,6 +1,6 @@
 ---
 title: Greening the City with Better Lighting
-background_image_path:
+background_image_path: /uploads/accurate-taxing-2.png
 card_image_path:
 resources:
   - name: Powerpoint Presentation
