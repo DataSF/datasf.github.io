@@ -3,7 +3,7 @@ title: >-
   Streamlining distribution of work with user-centered design and quality
   control tools
 background_image_path: /uploads/accurate-taxing-2.png
-card_image_path:
+card_image_path: /uploads/accurate-taxing-2-1.png
 resources:
   - name: Powerpoint Presentation
     url: 'https://drive.google.com/open?id=0B3nQt7K8TDq0NmtUT2d6TndBYWc'
