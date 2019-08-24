@@ -1,5 +1,7 @@
 ---
-title: Greening the City with Better Lighting
+title: >-
+  Streamlining distribution of work with user-centered design and quality
+  control tools
 background_image_path: /uploads/accurate-taxing-2.png
 card_image_path:
 resources:
