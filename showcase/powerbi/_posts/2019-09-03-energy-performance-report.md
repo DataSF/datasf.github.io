@@ -11,6 +11,10 @@ categories:
 featured: false
 ---
 
+*Data and Analytical Transparency with PowerBI and Open Data*
+
+## Background
+
 Reducing greenhouse gas emissions is in everyone’s best interest. &nbsp;SF Environment is ensuring everyone in San Francisco plays their part via programs, outreach, and community engagement. &nbsp;Yet, while everyone plays a role, in San Francisco, 45% of greenhouse gas emissions come from buildings.&nbsp;<br>In 2011, the Existing Commercial Buildings Energy Performance Ordinance was passed to help reduce greenhouse gas emissions in this vital sector. As specified in the ordinance, each year building owners are required to report data to the Department for benchmarking purposes. &nbsp;SF Environment uses this data to engage in targeted outreach and collaborates with building owners to reduce energy use.
 
 ## What was the problem
