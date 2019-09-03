@@ -33,7 +33,7 @@ The final report [was launched on March 2019.](https://sfenvironment.org/energy/
 
 San Francisco is now the first city to create a public interactive report of Building Energy Use in the United States. &nbsp;Residents, building owners, or policy makers who use the report are able to understand why the ordinance exists, current state of energy usage, and track the performance of San Francisco in reducing energy use and greenhouse gas emissions.<br>![](/uploads/env-1-report.png){: width="659" height="343"}
 
-Furthermore, SF Environment internally uses the same report to shape targeted outreach and ongoing business community engagement. &nbsp;SF Environment has noted a monthly reduction in staff hours spent on processing and re-analyzing the data &nbsp;thanks to the online report. Tasks that traditionally may have been contracted out are being done in-house with &nbsp;PowerBI. &nbsp;But most importantly, all parties -- from residents to businesses to policy makers -- &nbsp;not only have access to the same data, but to &nbsp;the same analytical tool as well. &nbsp;Full stack transparency\!
+Furthermore, SF Environment internally uses the same report to shape targeted outreach and ongoing business community engagement. &nbsp;SF Environment has noted a monthly reduction in staff hours spent on processing and re-analyzing the data &nbsp;thanks to the online report. Tasks that traditionally may have been contracted out are being done in-house with &nbsp;PowerBI. &nbsp;But most importantly, all parties – from residents to businesses to policy makers – &nbsp;not only have access to the same data, but to &nbsp;the same analytical tool as well. &nbsp;Full stack transparency\!
 
 ## Team
 
