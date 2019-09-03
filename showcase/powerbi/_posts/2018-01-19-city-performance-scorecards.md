@@ -1,7 +1,7 @@
 ---
 title: City Performance Scorecards
-background_image_path:
-card_image_path:
+background_image_path: /uploads/con-banner.png
+card_image_path: /uploads/con-badge.png
 resources:
   - name: Powerpoint Presentation
     url: >-
