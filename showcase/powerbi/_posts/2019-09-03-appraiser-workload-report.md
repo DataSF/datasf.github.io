@@ -67,4 +67,4 @@ Appraisers’ responses to the tool and the user centered process have been over
 
 ## Team
 
-Michelle Wong, Assessor Recorder
+Michelle Wong, Assessor Recorder<br>Benjamin Lau, Assessor Recorder&nbsp;
