@@ -34,21 +34,13 @@ The Performance Unit knew this process could perform better.&nbsp; Data needed t
 
 ## What was done
 
-### *Partner/Team*
+The Performance Unit tackled the problem in stages.&nbsp; First, they worked with DataSF to identify a data structure for the scorecard data including transformations and mappings for fields. The resulting dataset is&nbsp;**[hosted on the Open Data portal](https://data.sfgov.org/City-Management-and-Ethics/Scorecard-Measures/kc49-udxn)** where it is automatically updated every day.&nbsp; The standardized output provides a consistent, central dataset upon which visualizations can be based.&nbsp;
 
-![](/uploads/team.png){: width="949" height="447"}
-
-### *Approach*
-
-The Performance Unit tackled the problem in stages.&nbsp; First, they worked with DataSF to identify a data structure for the scorecard data including transformations and mappings for fields. The resulting dataset is**[hosted on the Open Data portal](https://data.sfgov.org/City-Management-and-Ethics/Scorecard-Measures/kc49-udxn)** where it is automatically updated every day.&nbsp; The standardized output provides a consistent, central dataset upon which visualizations can be based.&nbsp;
-
-Members of the scorecard team attended a DataSF PowerBI training.&nbsp; Realizing the efficiencies to be gained from automating the data transformation process, they set about converting all 70+ tableau reports to PowerBI.&nbsp;&nbsp;
+Members of the scorecard team attended a [DataSF PowerBI training](https://datasf.org/academy/intro-to-power-bi/).&nbsp; Realizing the efficiencies to be gained from automating the data transformation process, they set about converting all 70+ tableau reports to PowerBI.&nbsp;&nbsp;
 
 ![](/uploads/data-wrangling.png){: width="1045" height="556"}
 
-### *Tools & Services Used*
-
-Tags:Power BI and Open Data
+### &nbsp;
 
 ## What was the outcome
 
@@ -60,4 +52,6 @@ Although the savings in time were substantial, what was *done* with the time sav
 
 The Scorecard team is eager for your feedback on **[the scorecards](https://sfgov.org/scorecards/)** and encourages suggestions and changes by tweeting them at **[@SFCityScorecard](https://twitter.com/SFCityScorecard)**
 
-## Testimony
+## Team
+
+![](/uploads/team.png){: width="949" height="447"}
