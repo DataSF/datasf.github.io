@@ -5,7 +5,7 @@ card_image_path: /uploads/con-badge.png
 resources:
   - name: Powerpoint Presentation
     url: >-
-      https://drive.google.com/file/d/0B3nQt7K8TDq0NnNqVHBUXzVta2M/view?usp=sharing
+      https://drive.google.com/file/d/1pFULJlNGCxuE2KIjsAkFLw2DRkwgpF9K/view?usp=sharing
 categories:
   - showcase
   - datascience
