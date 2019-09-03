@@ -14,7 +14,7 @@ Everyday in San Francisco, new buildings and residences are being constructed.&n
 
 ![](/uploads/accurate-taxing.png){: width="1106" height="622"}
 
-# What was the problem
+## What was the problem
 
 With over 20,000 active construction projects, the Assessor-Recorder had developed a process to prioritize and assign these projects to the sixty appraisers.&nbsp; This was the full time responsibility of a single analyst. Every year they would generate sixty separate workbooks which become the primary tool the appraisers use to evaluate a property.
 
@@ -33,17 +33,13 @@ As the picture above conveys, this was a complicated undertaking, impacting over
 * **Time consuming** - The manual Excel based system meant that managing and maintaining the workbooks and associate processes was the full time job of a single analyst.&nbsp; Nearly all the analyst’s working hours were spent keeping this engine running
 * **Quality issues** - Due to the manual process, Data Quality issues&nbsp; were only caught after the fact and required additional manual work to fix
 
-# What was done
-
-## *Partner/Team*
-
-Michelle Wong
-
-## *Approach*
+## What was done
 
 The daunting task of improving this process fell to Operations Analyst, Michelle Wong.&nbsp; The result was an radical transformation of the tool from a manual static Excel workbook to an automated, dynamic, Power BI report with enhanced functionality. She accomplished this through an iterative, user-centered approach that minimized effort and maximized user buy-in.
 
-By taking advantage of DataSF’s PowerBI co![](/uploads/user-centered-feedback-process.png){: width="922" height="568"}urses and office hours, Michelle recognized the potential to radically transform process via PowerBI. In particular, the DataSF Data Modeling course gave her the theoretical foundation to structure a system built on PowerBI which would automate the entire process.&nbsp; The resulting data model embedded the existing business logic into PowerBI. Instead of sixty excel workbooks, there is now a single report powered by an elegant and flexible data model. The development transition time from data model to V1 was only three weeks\!
+![](/uploads/user-centered-feedback-process.png){: width="922" height="568"}
+
+By taking advantage of DataSF’s PowerBI courses and office hours, Michelle recognized the potential to radically transform process via PowerBI. In particular, the DataSF Data Modeling course gave her the theoretical foundation to structure a system built on PowerBI which would automate the entire process.&nbsp; The resulting data model embedded the existing business logic into PowerBI. Instead of sixty excel workbooks, there is now a single report powered by an elegant and flexible data model. The development transition time from data model to V1 was only three weeks\!
 
 But Michelle didn’t stop at mere automation.&nbsp; Instead, she chose to rethink what the tool could be. She incorporated a Data Quality page that instantly alerted Appraisers if they forgot to enter a field.&nbsp; This caught errors (which the focus group rebranded as “Incomplete”) before they reached the principal appraisers. Furthermore, she integrated user feedback by adding advanced features such as interactive maps and additional columns to facilitate the appraisers’ tasks.
 
@@ -52,10 +48,6 @@ But Michelle didn’t stop at mere automation.&nbsp; Instead, she chose to rethi
 A large part of the success came from the iterative and user-centered approach Michelle took to the roll out of the new PowerBI report.&nbsp; Change management can be hard, and appraisers were used to viewing their workload and making notes in Excel. Michelle created a V1 of the report that simply recreated what the appraisers were used to seeing.&nbsp; She created focus groups and provided office hours within ASR to help ease the transition.&nbsp;
 
 Importantly, she rapidly responded to feedback that surfaced in the focus groups, often making changes within days.&nbsp; This built trust and excitement among staff. For example, staff asked for novel features like a searchable map to identify which sites to visit that day.&nbsp; This involved incorporating an entirely new dataset, but, due to the data model’s flexibility, it only took hours to deliver.&nbsp;&nbsp;
-
-## *Tools & Services Used*
-
-**Tags:Power BI**
 
 ## What was the outcome
 
@@ -67,6 +59,8 @@ The data quality page drastically cut the amount of errors in the final report g
 
 Appraisers’ responses to the tool and the user centered process have been overwhelmingly positive.
 
-## Testimony
+## Team
 
-\[quote from ASR about DataSF\]
+Michelle Wong, Assessor Recorder
+
+&nbsp;
