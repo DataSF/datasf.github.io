@@ -1,10 +1,11 @@
 ---
 title: Affordable Housing Report
 background_image_path: /uploads/mohcd-banner.png
-card_image_path: /uploads/mohcd---icon.png
+card_image_path: /uploads/mohcd---badge.png
 resources:
   - name: Powerpoint Presentation
-    url:
+    url: >-
+      https://drive.google.com/file/d/11mTE0gt02SCaihazh2US-1vLmAo5af5s/view?usp=sharing
 categories:
   - showcase
   - datascience
