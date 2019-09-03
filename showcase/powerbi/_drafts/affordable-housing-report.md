@@ -11,6 +11,8 @@ categories:
 featured: false
 ---
 
+*Increasing Accuracy and Decreasing Work with PowerBI*
+
 ## Background
 
 The Mayor’s Office of Housing and Community development provides stable, healthy, and &nbsp;affordable housing to the residents of San Francisco. &nbsp;They accomplish this primarily through a suite of lottery and preference programs designed to match available affordable housing to help low-income residents and communities in need.<br>Information about who applied and who was accepted to MOHCD’s Affordable Housing Programs is highly valuable for programmatic and equity purposes. &nbsp;MOHCD receives constant inquiries from the public, stakeholders, advocates, and politicians about they number of applicants by project, demographics, and program type.<br>&nbsp;
