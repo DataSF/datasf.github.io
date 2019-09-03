@@ -12,6 +12,8 @@ categories:
 featured: true
 ---
 
+*More Efficient Workflows by Converting from Tableau to PowerBI*
+
 ## Background
 
 The residents of San Francisco need to know how well City services are meeting their needs.&nbsp; The job of providing an easily understandable scorecard for City services falls to the talented **[City Performance Unit at the Controller's Office](https://sfcontroller.org/city-performance)**.&nbsp; Since 2015 they have maintained the memorable **[City Performance Scorecards](https://sfgov.org/scorecards/)**\: stylish dashboards that give a clean, crisp, bird’s-eye view of how the City of San Francisco is performing.&nbsp;&nbsp;
