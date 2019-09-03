@@ -1,6 +1,6 @@
 ---
 title: Energy Performance Report
-background_image_path: /uploads/env-report.png
+background_image_path: /uploads/env-banner.png
 card_image_path: /uploads/env-report.png
 resources:
   - name: Powerpoint Presentation
