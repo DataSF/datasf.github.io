@@ -6,6 +6,9 @@ resources:
   - name: Powerpoint Presentation
     url: >-
       https://drive.google.com/file/d/19A9TxRJcrf9TpVEUVzDMcANJaCM4ux0J/view?usp=sharing
+  - name: View the report
+    url: >-
+      https://sfenvironment.org/energy/san-francisco-existing-commercial-buildings-performance-report
 categories:
   - showcase
   - datascience
