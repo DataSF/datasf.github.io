@@ -1,11 +1,13 @@
 ---
 title: City Performance Scorecards
-background_image_path: /uploads/con-banner.png
+background_image_path: /uploads/con---banner2.png
 card_image_path: /uploads/con-badge.png
 resources:
   - name: Powerpoint Presentation
     url: >-
       https://drive.google.com/file/d/1pFULJlNGCxuE2KIjsAkFLw2DRkwgpF9K/view?usp=sharing
+  - name: 'https://sfgov.org/scorecards/'
+    url: View the Scorecards
 categories:
   - showcase
   - datascience
