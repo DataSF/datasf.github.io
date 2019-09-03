@@ -12,15 +12,13 @@ categories:
 featured: true
 ---
 
-## ***More Efficient Workflows by Converting from Tableau to PowerBI***
-
 The residents of San Francisco need to know how well City services are meeting their needs.&nbsp; The job of providing an easily understandable scorecard for City services falls to the talented **[City Performance Unit at the Controller's Office](https://sfcontroller.org/city-performance)**.&nbsp; Since 2015 they have maintained the memorable **[City Performance Scorecards](https://sfgov.org/scorecards/)**\: stylish dashboards that give a clean, crisp, bird’s-eye view of how the City of San Francisco is performing.&nbsp;&nbsp;
 
 ## What was the problem
 
-People loved them, residents tweeted them, all was seemingly swell...
+People loved them, residents tweeted them, all was seemingly swell…
 
-But behind the scenes things were not so great. &nbsp; The scorecards were rapidly developed in 2 months to meet an urgent deadline.&nbsp; With 70+ charts, this left little time for process refinement. Tableau, the software used for the dashboards, required data in a specific format to visualize but offered no tools to help ‘wrangle the data’.&nbsp; The data came from csv flat files pulled from their performance database and were manually ‘wrangled’ in Excel to the needed format. Each time the metric needed to be updated, analysts would have to manually download the new data, update one -- or sometimes multiple -- Excel spreadsheets, log on to a shared computer when no one else was using it, and go through the steps to refresh and re-publish the Tableau visual.&nbsp;
+But behind the scenes things were not so great. &nbsp; The scorecards were rapidly developed in 2 months to meet an urgent deadline.&nbsp; With 70+ charts, this left little time for process refinement. Tableau, the software used for the dashboards, required data in a specific format to visualize but offered no tools to help ‘wrangle the data’.&nbsp; The data came from csv flat files pulled from their performance database and were manually ‘wrangled’ in Excel to the needed format. Each time the metric needed to be updated, analysts would have to manually download the new data, update one – or sometimes multiple – Excel spreadsheets, log on to a shared computer when no one else was using it, and go through the steps to refresh and re-publish the Tableau visual.&nbsp;
 
 ![](/uploads/manual-data.png){: width="1096" height="554"}
 
