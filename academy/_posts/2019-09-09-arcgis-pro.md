@@ -10,7 +10,7 @@ description: >-
 
   The class will consist of four short lecture/demonstrations paired with
   self-paced exercises.
-prerequisites:
+prerequisites: none
 length: '4'
 subjects:
   - Analysis
