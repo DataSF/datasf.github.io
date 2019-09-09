@@ -10,7 +10,7 @@ subjects:
 series:
 team_members:
 course_short_name: ArcGIS Pro
-course_materials_link:
+course_materials_link: 'https://drive.google.com/open?id=1rQLjjy5PHvaXM95qJcxc2Xzr6qDfIYfI'
 order: 0
 category: academy
 ---
