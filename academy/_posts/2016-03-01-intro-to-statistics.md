@@ -2,23 +2,10 @@
 layout: course
 title: Intro to Statistics
 course_short_name: Intro to Statistics
-description: >-
-  In this two-part introductory statistics course, participants will learn the
-  building blocks necessary to understand the data they work with and conduct
-  more advanced analyses in the future. Topics covered in the first session
-  include: statistical terminology, introduction to sampling, summarizing data
-  through central tendency measures, understanding data variability measures,
-  and examining distributions of data. 
-
-
-  The second session will build on this content, with topics covering:
-  introduction to probabilities, how to tell if statistics are meaningfully
-  different from one-another, and how to make inferences about populations using
-  samples. 
-
-
-  It is expected that learners commit to attending both sessions.
-prerequisites: None
+description: "In this two-part introductory statistics course, participants will learn the building blocks necessary to understand the data they work with and conduct more advanced analysis in the future. \n\nTopics covered in the first part include: statistical terminology, introduction to sampling, summarizing data through central tendency measures, understanding data variability measures, and examining distributions of data.\n\nThe second part\_will build on this content, with topics covering: introduction to probabilities, how to tell if statistics are meaningfully different from one-another, and how to make inferences about populations using samples. It is recommended that students attend part one or be familiar with the topics discussed\_in part one\_before attending part two of this series."
+prerequisites: >-
+  For Part II - Attendance to Part I or an understanding of the topics discussed
+  in it.
 length: Two 2-hour sessions
 series:
 subjects:
@@ -30,11 +17,11 @@ order: 0
 
 ## About This Course
 
-In this two-part introductory statistics course, participants will learn the building blocks necessary to understand the data they work with and conduct more advanced analyses in the future. Topics covered in the first session include: statistical terminology, introduction to sampling, summarizing data through central tendency measures, understanding data variability measures, and examining distributions of data.
+In this two-part introductory statistics course, participants will learn the building blocks necessary to understand the data they work with and conduct more advanced analysis in the future.
 
-The second session will build on this content, with topics covering: introduction to probabilities, how to tell if statistics are meaningfully different from one-another, and how to make inferences about populations using samples.
+Topics covered in the first part include: statistical terminology, introduction to sampling, summarizing data through central tendency measures, understanding data variability measures, and examining distributions of data.
 
-It is expected that learners commit to attending both sessions.
+The second part will build on this content, with topics covering: introduction to probabilities, how to tell if statistics are meaningfully different from one-another, and how to make inferences about populations using samples. It is recommended that students attend part one or be familiar with the topics discussed in part one before attending part two of this series. &nbsp;
 
 ## What You’ll Learn In This Course
 
@@ -57,4 +44,4 @@ Part II
 
 ## Prerequisites
 
-There are no prerequisites for this course, but a basic understanding of algebra will be helpful.
+For Part II - Attendance to Part I or an understanding of the topics discussed in it.&nbsp;
