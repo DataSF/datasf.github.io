@@ -11,7 +11,7 @@ resources:
       https://sfenvironment.org/energy/san-francisco-existing-commercial-buildings-performance-report
 categories:
   - showcase
-  - powerbi
+  - Datascience
 featured: false
 ---
 
