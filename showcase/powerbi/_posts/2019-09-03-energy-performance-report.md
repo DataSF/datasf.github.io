@@ -3,7 +3,7 @@ title: Energy Performance Report
 background_image_path: /uploads/env-banner.png
 card_image_path: /uploads/env-report.png
 resources:
-  - name: Powerpoint Presentation
+  - name: Presentation Slidedeck
     url: >-
       https://drive.google.com/file/d/19A9TxRJcrf9TpVEUVzDMcANJaCM4ux0J/view?usp=sharing
   - name: View the report
