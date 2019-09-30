@@ -3,7 +3,7 @@ title: Appraiser Workload Report
 background_image_path: /uploads/asr-banner.png
 card_image_path: /uploads/asr-piggybank.png
 resources:
-  - name: Powerpoint Presentation
+  - name: Presentation Slidedeck
     url: >-
       https://drive.google.com/file/d/11O7PenczvDONvvH6FGNTXIpDVq-S8R9Q/view?usp=sharing
 categories:
