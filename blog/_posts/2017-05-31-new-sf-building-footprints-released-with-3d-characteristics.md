@@ -6,7 +6,9 @@ author:
 image:
   thumb: /buildings/building-screen.png
   feature: /buildings/building-screen.png
-  caption: "With new building footprints, we can link administrative data and explore in ways we haven't been able to before"
+  caption: >-
+    With new building footprints, we can link administrative data and explore in
+    ways we haven't been able to before
   source:
     title:
     author:
@@ -14,14 +16,18 @@ image:
     author_link:
     license:
     license_link:
-description: 'We are excited to announce the release of new building footprints to the open data portal! Wait, weren’t there already buildings on the open data portal? Yes, but take a close look at the new data and you’ll see not just masses for entire blocks of buildings, but beautiful footprints for each individual structure.'
+description: >-
+  We are excited to announce the release of new building footprints to the open
+  data portal! Wait, weren’t there already buildings on the open data portal?
+  Yes, but take a close look at the new data and you’ll see not just masses for
+  entire blocks of buildings, but beautiful footprints for each individual
+  structure.
 date: 2017-05-31 00:00:00
 categories:
   - blog
 ---
 
-
-We are excited to announce the release of new building footprints to the open data portal! Wait, weren’t there already buildings on the open data portal? Yes, but take a [close look at the new data](https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege) and you’ll see not just masses for entire blocks of buildings, but beautiful footprints for each individual structure.
+We are excited to announce the release of new building footprints to the open data portal\! Wait, weren’t there already buildings on the open data portal? Yes, but take a [close look at the new data](https://data.sfgov.org/Geographic-Locations-and-Boundaries/Building-Footprints/ynuv-fyni) and you’ll see not just masses for entire blocks of buildings, but beautiful footprints for each individual structure.
 
 And with those structures, unique identifiers and all [sorts of derived data from LIDAR](http://oceanservice.noaa.gov/facts/lidar.html). But rather than tell you, let’s show you.
 
