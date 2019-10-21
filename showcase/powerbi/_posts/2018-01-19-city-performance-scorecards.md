@@ -55,4 +55,12 @@ The Scorecard team is eager for your feedback on **[the scorecards](https://sfgo
 
 ## Team
 
-![](/uploads/team.png){: width="949" height="447"}
+* Emily Alt
+* Luke Fuller
+* Alice Kassinger
+* Wendy Lee
+* Natash Mihal
+* Cody Reneau
+* Sarah Small
+
+&nbsp;
