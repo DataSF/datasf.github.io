@@ -10,6 +10,7 @@ resources:
     url: 'https://sfgov.org/scorecards/'
 categories:
   - showcase
+  - Datascience
 featured: true
 ---
 
