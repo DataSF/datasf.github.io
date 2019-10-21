@@ -56,12 +56,12 @@ The Scorecard team is eager for your feedback on **[the scorecards](https://sfgo
 
 ## Team
 
-* Emily Alt, City Performance Unit, Controllers Office
-* Luke Fuller, City Performance Unit, Controllers Office
-* Alice Kassinger, City Performance Unit, Controllers Office
-* Wendy Lee, City Performance Unit, Controllers Office
-* Natash Mihal, City Performance Unit, Controllers Office
-* Cody Reneau, City Performance Unit, Controllers Office
-* Sarah Small, City Performance Unit, Controllers Office
+* Emily Alt, City Performance Unit, Office of the Controller 
+* Luke Fuller, City Performance Unit, Office of the Controller
+* Alice Kassinger, City Performance Unit, Office of the Controller
+* Wendy Lee, City Performance Unit, Office of the Controller
+* Natash Mihal, City Performance Unit, Office of the Controller
+* Cody Reneau, City Performance Unit, Office of the Controller
+* Sarah Small, City Performance Unit, Office of the Controller
 
 &nbsp;
