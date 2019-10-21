@@ -10,8 +10,8 @@ resources:
     url: 'https://sfgov.org/scorecards/'
 categories:
   - showcase
-  - Datascience
-featured: true
+  - datascience
+featured: false
 ---
 
 *More Efficient Workflows by Converting from Tableau to PowerBI*
