@@ -1,6 +1,6 @@
 ---
 title: Appraiser Workload Report
-background_image_path: /uploads/asr-banner.png
+background_image_path: /uploads/banner1.png
 card_image_path: /uploads/accurate-taxingV2_Icon.png
 resources:
   - name: Presentation Slidedeck
