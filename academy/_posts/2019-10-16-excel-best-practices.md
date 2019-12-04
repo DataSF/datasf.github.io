@@ -16,9 +16,9 @@ category: academy
 
 ## About this course
 
-Do you ever wonder how Excel can help you do more with your data? This class will teach you how to set up your information in a way that maximizes Excel's capabilities and make your data as accessible and useful as possible.
+Excel is powerful, but only if you've set up your data properly.&nbsp; This class will dive into how to set up your information in a way that maximizes Excel's capabilities and make your data as accessible and useful as possible. This is not an Excel skills-focused class. Rather, we'll use Excel as a tool to review data management best practices to set yourself up for success when you use Excel.
 
-This course is for basic Excel users - you should know how to move around a spreadsheet but don't need extensive knowledge. This is not an Excel skills class (no formulas or pivot tables here), but provides discussion and practice in how to use the program to greatest effect.
+This course is for basic Excel users - you should know how to move around a spreadsheet but don't need extensive knowledge. This is not an Excel skills class, but provides discussion and practice in how to organize your data to use the program to greatest effect.
 
 ## What you'll learn in this course
 
