@@ -12,7 +12,7 @@ blurb: Browse projects showcasing the work of DataSF, City Departments, research
     <div class="row">
       <div class="col-sm-12">
         <h1>Featured from DataScienceSF</h1>
-        <p>DataSF works with departments on applied problem-solving with advanced analytics resulting in a service change. <a href="/showcase/datascience/">Explore even more projects on the Data Science Showcase</a>.</p>
+        <p>DataSF works with departments on <a href="https://datasf.org/science">applied problem-solving with advanced analytics</a> resulting in a service change. <a href="/showcase/datascience/">Explore even more projects on the Data Science Showcase</a>.</p>
       </div>
     </div>
       {% assign sortedposts = site.categories.datascience | sort:'title' | where: 'featured',true %}
@@ -24,10 +24,10 @@ blurb: Browse projects showcasing the work of DataSF, City Departments, research
       <div class="row">
         <div class="col-sm-12">
           <h1>Featured PowerBI Cases</h1>
-          <p>DataSF works with departments on applied problem-solving with advanced analytics resulting in a service change. <a href="/showcase/datascience/">Explore even more projects on the Data Science Showcase</a>.</p>
+          <p>DataSF supports departments in the adoption of Power BI to advance their missions. Here are some of their stories of analytical transformation.</p>
         </div>
       </div>
-        {% assign sortedposts = site.categories.datascience | sort:'title' | where: 'featured',true %}
+        {% assign sortedposts = site.categories.powerbi | sort:'title' | where: 'featured',true %}
         {% include stories-iterator-horizontal-simple.html posts=sortedposts limit=3 %}
       </div>
     </section>

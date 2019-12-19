@@ -7,8 +7,8 @@ resources:
     url: >-
       https://drive.google.com/file/d/0B3nQt7K8TDq0NmZJeldWY3pwdzQ/view?usp=sharing
 featured: true
+excerpt: "Have you ever been hangry (so hungry, you find yourself angry)? If you’ve ever experienced hangriness, you know firsthand the importance of food and nutrition for health and well-being. Now imagine if you are a pregnant mother or a newborn: proper nutrition is essential."
 ---
-
 
 Have you ever been hangry (so hungry, you find yourself angry)? If you’ve ever experienced hangriness, you know firsthand the importance of food and nutrition for health and well-being. Now imagine if you are a pregnant mother or a newborn: proper nutrition is essential.
 

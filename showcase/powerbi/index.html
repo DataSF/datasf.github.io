@@ -1,15 +1,15 @@
 ---
 layout: masthead
-title: PowerBI Showcase
+title: Power BI Showcase
 background_image_path: /uploads/academy.jpg
 index: showcase
 subnav: true
-blurb: Analytical transformations via PowerBI
+blurb: DataSF supports departments in the adoption of Power BI to advance their missions. Here are some of their stories of analytical transformation.
 ---
 
 <section id="stories" class="bg-light-gray">
   <div class="container">
-    {% assign sortedposts = site.categories.datascience | sort: 'title' %}
+    {% assign sortedposts = site.categories.powerbi | sort: 'title' %}
     {% include stories-iterator-horizontal-simple.html posts=sortedposts %}
   </div>
 </section>

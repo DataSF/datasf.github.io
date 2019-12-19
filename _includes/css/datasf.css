@@ -1239,7 +1239,7 @@ section#progress .stat-text {
   background-color: #fff;
 }
 #stories .story-item .story-caption h4 {
-  margin: 0;
+  margin: 0 0 10px 0;
   text-transform: none;
 }
 #stories * {

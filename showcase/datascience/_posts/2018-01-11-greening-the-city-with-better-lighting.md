@@ -6,6 +6,10 @@ resources:
   - name: Powerpoint Presentation
     url: 'https://drive.google.com/open?id=0B3nQt7K8TDq0NmtUT2d6TndBYWc'
 featured: false
+excerpt: When was the last time you decided to upgrade your light bulbs? If you’re like many folks, you wait until a light bulb burns out. In your home or apartment, you might have at most 20-30 bulbs.
+categories:
+  - showcase
+  - datascience
 ---
 
 When was the last time you decided to upgrade your light bulbs? If you’re like many folks, you wait until a light bulb burns out. In your home or apartment, you might have at most 20-30 bulbs.

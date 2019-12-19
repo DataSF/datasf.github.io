@@ -7,10 +7,10 @@ resources:
     url: >-
       https://drive.google.com/file/d/0B3nQt7K8TDq0NmVaX3RjMGE0bG8/view?usp=sharing
 featured: true
+excerpt: Have you ever looked at a work of public art and wondered - will that always be here? Will it be around for future generations? The San Francisco Arts Commission] asks the same question because their job is to ensure that the city’s Civic Art Collection is preserved for current and future residents and visitors.
 ---
 
-
-Have you ever looked at a work of public art and wondered - will that always be here? Will it be around for future generations? The [San Francisco Arts Commission](http://www.sfartscommission.org/) asks the same question because their job is to ensure that the city’s [Civic Art Collection](http://www.sfartscommission.org/our-role-impact/programs/public-art) is preserved for current and future residents and visitors.&nbsp;
+Have you ever looked at a work of public art and wondered - will that always be here? Will it be around for future generations? The [San Francisco Arts Commission](http://www.sfartscommission.org/) asks the same question because their job is to ensure that the city’s [Civic Art Collection](http://www.sfartscommission.org/our-role-impact/programs/public-art) is preserved for current and future residents and visitors.
 
 But there’s something tricky about public art preservation: every single piece is unique.So how can you estimate the costs to preserve pieces that are by nature non-standard?
 

@@ -8,10 +8,8 @@ resources:
 categories:
   - showcase
   - datascience
+excerpt: Learn about our AB testing workshop service and about completed experiments across the City!
 ---
-
-
-Learn about our AB testing workshop service and about completed experiments across the City!
 
 ## AB Testing Workshop Service
 
