@@ -2,8 +2,8 @@
 title: Unlocking Analytical Capacity with PowerBI
 author: blake_valenta
 image:
-  thumb:
-  feature:
+  thumb: /uploads/env-banner.png
+  feature: /uploads/env-banner.png
   caption:
   source:
     title:
