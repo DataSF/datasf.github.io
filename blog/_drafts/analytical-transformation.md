@@ -2,8 +2,8 @@
 title: Analytical Transformation
 author: blake_valenta
 image:
-  thumb:
-  feature:
+  thumb: /powerbi-transform/thumbnailsf.png
+  feature: /powerbi-transform/MapofSF.png
   caption:
   source:
     title:
