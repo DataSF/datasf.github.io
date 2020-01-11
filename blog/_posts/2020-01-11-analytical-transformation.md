@@ -13,7 +13,7 @@ image:
     license:
     license_link:
 description:
-date:
+date: 2020-01-11 02:43:23
 ---
 
 At DataSF we aim to help departments use data to drive decision making. In fact it's an explicit part of our mandate\! Chapter 22D of the City’s Admin Code tasks DataSF with “assist\[ing\] City departments with analysis of City data sets to improve decision making.” &nbsp;But between you and me, we love data so much, we would do this even if we didn’t have to\!&nbsp;<br>To achieve this, DataSF works with the City’s analysts. The City and County of San Francisco is fortunate to employ some of the smartest and entrepreneurial data lovers you can find anywhere. &nbsp;They want nothing more than to dive into the data and discover new insights to improve city services. Unfortunately, we found there were several barriers stopping them from unlocking their potential.
