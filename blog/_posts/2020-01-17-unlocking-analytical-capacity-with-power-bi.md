@@ -13,7 +13,7 @@ image:
     license:
     license_link:
 description: Learn how 3 departments unlocked analytical capacity with PowerBI.
-date: 2020-01-08 00:00:00
+date: 2020-01-17 00:00:00
 ---
 
 At DataSF we aim to help departments use data to drive decision making. In fact it's an explicit part of our mandate\! Chapter 22D of the City’s Admin Code tasks DataSF with “assist\[ing\] City departments with analysis of City data sets to improve decision making.” But between you and me, we love data so much, we would do this even if we didn’t have to\!
