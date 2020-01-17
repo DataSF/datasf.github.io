@@ -10,9 +10,10 @@ categories:
   - showcase
   - datascience
 featured: true
+excerpt: Imagine if a Ms. Jenkins sells her San Francisco home to a close friend at half the price ($500,000) of what she could have sold on the open market ($1 million). What would be the impact on property taxes?
 ---
 
-Imagine if a Ms. Jenkins sells her San Francisco home to a close friend at half the price ($500,000) of what she could have sold on the open market ($1 million). &nbsp;What would be the impact on property taxes?
+Imagine if a Ms. Jenkins sells her San Francisco home to a close friend at half the price ($500,000) of what she could have sold on the open market ($1 million). What would be the impact on property taxes?
 
 The Assessor’s Office must assess how much the new owner should pay in property taxes every time when there is a property transfer. But state law requires the office to accept the market value as the initial value for property taxes. Many times, the sale price reflects the market value but there are also exceptions, like Ms. Jenkins. So, how can you tell if a sale price is the market value of a property?
 

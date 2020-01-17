@@ -67,6 +67,8 @@ showcase:
   url: /showcase/opendata/
 - text: Data Science
   url: /showcase/datascience/
+- text: Power BI
+  url: /showcase/powerbi/
     
 utility:
 - text: SFGov
