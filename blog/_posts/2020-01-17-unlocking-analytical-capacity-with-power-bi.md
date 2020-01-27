@@ -26,7 +26,7 @@ To achieve this, DataSF works with the City’s analysts. The City and County of
 
 In 2017 DataSF embarked on a landscape review of dashboarding tools, deciding on Power BI for its ease of use, robust and integrated ETL (data wrangling), and orientation to self-service while still scaling to enterprise grade service. To support it, we developed a robust suite of trainings for analysts, a department Power BI accelerator, analyst centered documentation, regular office hours, and started an online community of practice to knit everyone together.
 
-The results have been astounding, and we want to share out a small sample of the great work analysts have done. We are proud to launch a new [Power BI showcase](https://chosen-rail.cloudvent.net/showcase/powerbi/) page alongside our [DataScienceSF showcase](https://datasf.org/showcase/datascience/). Inside you can read 3 brief case studies of how departments are leveraging Power BI to save time, increase revenue, and promote transparency.
+The results have been astounding, and we want to share out a small sample of the great work analysts have done. We are proud to launch a new [Power BI showcase](/showcase/powerbi/) page alongside our [DataScienceSF showcase](/showcase/datascience/). Inside you can read 3 brief case studies of how departments are leveraging Power BI to save time, increase revenue, and promote transparency.
 
 Learn how the:
 
@@ -34,4 +34,4 @@ Learn how the:
 * [Office of Assessor-Recorder](https://chosen-rail.cloudvent.net/showcase/powerbi/appraiser-workload-report/) streamlined a process involving manual maintenance of 60 excel workbooks into an automated Power BI pipeline
 * [SF Environment](https://chosen-rail.cloudvent.net/showcase/powerbi/energy-performance-report/) brought an important benchmarking dataset to life for residents, businesses, and stakeholders
 
-In the coming months we will be blogging more about different aspects of the DataSF Dashboarding service. And we will be updating the showcase with even more exciting use cases.
+In the coming months we will be blogging more about different aspects of the DataSF Dashboarding service. And we will be [updating the showcase](/showcase/powerbi/) with even more exciting use cases.
