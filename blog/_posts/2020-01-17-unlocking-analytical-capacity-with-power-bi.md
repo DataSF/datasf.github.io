@@ -31,7 +31,7 @@ The results have been astounding, and we want to share out a small sample of the
 Learn how the:
 
 * [Controller’s Office City Performance Unit](/showcase/powerbi/city-performance-scorecards/) reduced staff hours spent maintaining dashboards by 80% by switching from Tableau to Power BI
-* [Office of Assessor-Recorder](https://chosen-rail.cloudvent.net/showcase/powerbi/appraiser-workload-report/) streamlined a process involving manual maintenance of 60 excel workbooks into an automated Power BI pipeline
-* [SF Environment](https://chosen-rail.cloudvent.net/showcase/powerbi/energy-performance-report/) brought an important benchmarking dataset to life for residents, businesses, and stakeholders
+* [Office of Assessor-Recorder](/showcase/powerbi/appraiser-workload-report/) streamlined a process involving manual maintenance of 60 excel workbooks into an automated Power BI pipeline
+* [SF Environment](/showcase/powerbi/energy-performance-report/) brought an important benchmarking dataset to life for residents, businesses, and stakeholders
 
 In the coming months we will be blogging more about different aspects of the DataSF Dashboarding service. And we will be [updating the showcase](/showcase/powerbi/) with even more exciting use cases.
