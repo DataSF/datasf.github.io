@@ -4,7 +4,7 @@ author: jason_lally
 image:
   thumb: /open-data-day-2020/safe_lanes.png
   feature: /open-data-day-2020/safe_lanes.png
-  caption: Safe Lanes is an application that uses open data and open APIs to collect data and show insights on blocked bike lanes and related citations to promote data-informed improvements in bike infrastructure that improve safety.
+  caption: Safe Lanes is an application that uses open APIs and open data to collect data and share insights on blocked bike lanes and related citations. It's goal is to promote data-informed improvements in bike infrastructure that improve safety.
   source:
     title:
     author: 
