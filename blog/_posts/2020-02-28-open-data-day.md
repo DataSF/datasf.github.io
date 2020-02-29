@@ -13,7 +13,7 @@ image:
     license: 
     license_link:
 description: Open Data Day is here again! Join us March 7th, 2020 to imagine the next 10 years of open data in San Francisco and learn about ways to engage in this year's Census.
-date: 2020-02-28
+date: 2020-02-29
 ---
 
 On February 3rd, the [SFMTA approved the creation of passenger and commercial loading zones near 4th and 16th](https://www.sfmta.com/notices/color-curb-public-hearing-results-january-31-2020) on [the UCSF Campus in Mission Bay](https://goo.gl/maps/eceVBvpFvzYRKhKKA). This change allows drivers to pull away from the bike lane on 4th street and improves safety for cyclists. It also happens to be a success story empowered by open data!
