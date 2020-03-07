@@ -16,6 +16,18 @@ description: Open Data Day is here again! Join us March 7th, 2020 to imagine the
 date: 2020-02-29
 ---
 
+---
+***March 6, 2020 Update*** 
+
+The in-person Open Data Day event referenced below scheduled was cancelled by the hosts out of caution because of the coronavirus situation in the Bay Area. Code for San Francisco will be sharing the planned content for the event through alternative media.
+
+Despite not seeing you in person, we still want to hear from you! Please fill out [our brief open data users survey](https://forms.gle/ZBCiYZcqccPkgpmS6)!
+
+The blog post below is left in its original form below.
+
+---
+&nbsp;
+
 On February 3rd, the [SFMTA approved the creation of passenger and commercial loading zones near 4th and 16th](https://www.sfmta.com/notices/color-curb-public-hearing-results-january-31-2020) on [the UCSF Campus in Mission Bay](https://goo.gl/maps/eceVBvpFvzYRKhKKA). This change allows drivers to pull away from the bike lane on 4th street and improves safety for cyclists. It also happens to be a success story empowered by open data!
 
 [Safe Lanes](https://safelanes.org/), a community-built application, [was used to make the case to a UCSF facilities manager](https://medium.com/@braitsch/tired-of-cars-blocking-bike-lanes-heres-something-that-actually-works-afd0e863719b) about the need for new loading zones and later used to justify the change to the SFMTA Board. Safe Lanes was built by Stephen Braitsch, and uses the [Open311 API](http://mobile311.sfgov.org/open311) to collect data on blocked bike lanes and [open data to provide insights and analysis](https://safelanes.org/insights/san-francisco/ca) on reports and citations.
