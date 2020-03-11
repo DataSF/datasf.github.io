@@ -79,5 +79,7 @@ utility:
 #  url: /blog
 - text: About
   url: /about/
+- text: Join Us
+  url: /join-us/
 - text: Help
   url: 'http://support.datasf.org'
