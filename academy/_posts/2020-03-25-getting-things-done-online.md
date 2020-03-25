@@ -12,7 +12,7 @@ description: >-
   of the same name, Getting Things Done will give you super-practical tools to
   start applying lean principles to increase your personal productivity.
 prerequisites: None
-length: 3
+length: 1
 series:
   - Process Improvement
 subjects:
