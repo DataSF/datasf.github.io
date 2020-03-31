@@ -23,8 +23,8 @@ order: 2
 category: academy
 categories:
   - academy
-permalink: /academy/lean-leaders/
-redirect_from: /academy/lean-leaders-learn-to-lead-your-own-process-improvement-project/
+permalink: /academy/Behavioral_Insights
+redirect_from:
 lean_leaders: false
 ---
 
