@@ -8,7 +8,8 @@ description: >-
   us that we have more power than we think to influence our customers’ behavior.
   Smart folks like Richard Thaler and Cass Sunstein (Nudge) or the UK’s
   Behavioral Insights Team have shaped public policy to help more people save
-  for retirement, pay their taxes, or write accurate prescriptions.
+  for retirement, pay their taxes, or write accurate prescriptions.  This course
+  will explore what they know.
 prerequisites: None
 length: '3'
 subjects:
@@ -35,6 +36,8 @@ So many of our government services require our customers to take action: pay a f
 A partnership between the City Performance Lean Program and the datasf team, the Behavioral Insights Workshop will give you a framework for how to apply behavioral insights to your department’s daily work as well as how to run an A/B test to prove whether changes you make have the intended effect. This is a hands-on workshop: Participants are expected to apply in advance of the training with (1) a specific customer behavior they are trying to change and (2) at least one communications piece currently in use to elicit that behavior (e.g., a letter, email, or text message). By the end of the three-hour workshop, you will have completed a first draft of a new customer communication. Workshop leaders will follow up after the training to monitor participants’ successful implementation of their new process.
 
 We encourage business units to send groups of 2-4 staff, but individual applicants may also be accepted. After receiving your application, we will contact your supervisor or process owner to confirm approval before you are accepted.
+
+## Please Fill Out Application
 
 To apply, visit: [https://form.jotform.com/193526613455158](https://form.jotform.com/193526613455158)
 
