@@ -53,3 +53,5 @@ This course will cover the following topics:
   * [Filtering and sorting](http://www.lynda.com/Excel-tutorials/Using-filters/376986/431772-4.html?)
   * [Tables](http://www.lynda.com/Excel-tutorials/Creating-using-tables/376986/431731-4.html?)
   * [Using formulas for basic summary statistics](http://www.lynda.com/Excel-tutorials/Using-SUM-AVERAGE/376986/431721-4.html?)
+
+Created 3/1/2016
