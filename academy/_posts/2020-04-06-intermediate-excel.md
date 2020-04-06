@@ -25,6 +25,8 @@ order: 2
 
 ## About This Course
 
+\*\*\* Data Academy has suspended its in-person classes due to the City's Shelter-in-Place Directive.&nbsp; Meanwhile, please take advantage of the free SF Public Library online&nbsp;[Intermediate Microsoft Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Intermediate+Excel)&nbsp;if you have a library card, or [other Excel related analytics courses at EDX.org](https://www.edx.org/course/?search_query=excel&amp;language=English)&nbsp;(audits only).\*\*\*
+
 This classroom-based workshop is the second in a series of workshops on Excel offered by the Data Academy. It builds on the fundamentals of Excel and introduces more advanced formulas and ways to manipulate and format data in spreadsheets.
 
 This course assumes some comfort with Excel, including a basic understanding of formulas and standard functions and capabilities of Excel. By the end of the class, you’ll have the fundamentals of skills that will help you to do basic analysis, manipulation, and summary of datasets.
