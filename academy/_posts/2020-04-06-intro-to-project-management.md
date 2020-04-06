@@ -18,6 +18,8 @@ categories:
 
 ## About This Course
 
+\*\*\* Data Academy has suspended its in-person classes due to the City's Shelter-in-Place Directive.&nbsp; Meanwhile, please take advantage of the free SF Public Library online&nbsp;[Project Management courses from Gale](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=project+management)&nbsp;if you have a library card, or [other project management related courses at EDX.org](https://www.edx.org/course?search_query=project+management)&nbsp;(audits only).\*\*\*
+
 This course will cover fundamental concepts in project management and is meant for a beginner audience. It will focus on the use of project management tools for improved day-to-day management of and contribution to City projects. Special focus will be given to the application these concepts to participants’ existing workplace experience. The course will use specific examples drawn from City services and operations. Individuals who would benefit from this course will be primarily analysts who are interested in building their management knowledge base.
 
 ## What You'll Learn In This Course
@@ -42,3 +44,5 @@ Learning Objectives:
 * Participants can develop a project plan
 * Participants can “chunk” a problem that is presented to them
 * Participants understand PMOs and how they function
+
+Created 1/12/2018
