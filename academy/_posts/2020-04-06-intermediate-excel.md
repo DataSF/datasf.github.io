@@ -62,3 +62,5 @@ This course will cover the following topics:
   * [Conditional Formatting](https://www.lynda.com/Excel-tutorials/Creating-Variable-Conditional-Formatting-Rules/363001/447337-4.html){: target="_blank"}
   * [Paste Special](http://www.lynda.com/Excel-tutorials/Display-Paste-Special-options-instantly/167361/182304-4.html?), [Text to Columns](http://www.lynda.com/Excel-tutorials/Splitting-data-multiple-columns/376985/431670-4.html?), and [Concatenate](http://www.lynda.com/Excel-tutorials/Use-CONCATENATE-function-combine-text/439680/487078-4.html?)
   * [PivotTables](http://www.lynda.com/Excel-tutorials/Creating-PivotTables/376986/431783-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3adennis+taylor%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) and [PivotCharts](http://www.lynda.com/Excel-tutorials/Using-PivotCharts/376986/431788-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3adennis+taylor%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+
+Created 3/16/2016
