@@ -18,6 +18,8 @@ order: 0
 
 ## About This Course
 
+\*\*\* Data Academy has suspended its in-person classes due to the City's Shelter-in-Place Directive.&nbsp; Meanwhile, please take advantage of the free SF Public Library online&nbsp;[Introduction to Microsoft Excel from Gale Courses](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=Intro+to+Excel)&nbsp;if you have a library card, or [other Excel related analytics courses at EDX.org](https://www.edx.org/course/?search_query=excel&amp;language=English)&nbsp;(audits only).\*\*\*
+
 This classroom-based workshop is the first in a series of workshops on Excel offered by the Data Academy. It covers very basic topics and assumes no prior experience with the program.
 
 By the end of the class, you’ll be comfortable navigating around an Excel workbook and have a basic understanding of how to use simple formulas and formatting to make your work more efficient.
@@ -51,3 +53,5 @@ This course will cover the following topics:
   * [Filtering and sorting](http://www.lynda.com/Excel-tutorials/Using-filters/376986/431772-4.html?)
   * [Tables](http://www.lynda.com/Excel-tutorials/Creating-using-tables/376986/431731-4.html?)
   * [Using formulas for basic summary statistics](http://www.lynda.com/Excel-tutorials/Using-SUM-AVERAGE/376986/431721-4.html?)
+
+Created 3/1/2016
