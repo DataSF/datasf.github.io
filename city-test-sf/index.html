@@ -1,0 +1,1139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title>COVID-19 Testing Locations | San Francisco</title>
+  <meta name='robots' content='noindex, nofollow'>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Rubik:300,400,500,700">
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.js'></script>
+  <!-- Geocoder plugin -->
+  <script
+    src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.2.0/mapbox-gl-geocoder.min.js'></script>
+  <link rel='stylesheet'
+    href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.2.0/mapbox-gl-geocoder.css'
+    type='text/css' />
+
+  <!-- Turf.js plugin -->
+  <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    body {
+      font-family: "Rubik", sans-serif;
+      font-size: 17px;
+      font-weight: 400;
+      line-height: 24px;
+      color: #1c3e57;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    * {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    .sidebar {
+      position: absolute;
+      width: 33.3333%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      overflow: hidden;
+      border-right: 1px solid rgba(0, 0, 0, 0.25);
+    }
+
+    .pad2 {
+      padding: 20px;
+    }
+
+    .map {
+      position: absolute;
+      left: 33.3333%;
+      width: 66.6666%;
+      top: 0;
+      bottom: 0;
+    }
+
+    h1 {
+      font-size: 22px;
+      margin: 0;
+      font-weight: 500;
+      line-height: 20px;
+      padding: 20px 2px;
+    }
+
+    a {
+      color: #4F66EE;
+      text-decoration: underline;
+    }
+
+    a:hover {
+      color: #101010;
+    }
+
+    .heading {
+      border-bottom: 1px solid #eee;
+      min-height: 60px;
+      line-height: 60px;
+      padding: 0 10px;
+      background-color: #A9D6EA;
+      color: #1c3e57;
+    }
+
+    .listings {
+      height: 100%;
+      overflow: auto;
+      padding-bottom: 60px;
+    }
+
+    .listings .item {
+      display: block;
+      border-bottom: 1px solid #eee;
+      padding: 10px;
+      text-decoration: none;
+    }
+
+    .listings .item:last-child {
+      border-bottom: none;
+    }
+
+    .listings .item .title {
+      display: block;
+      color: #4F66EE;
+      font-weight: 700;
+    }
+
+    .listings .item .title small {
+      font-weight: 400;
+    }
+
+    .listings .item.active .title,
+    .listings .item .title:hover {
+      color: #4F66EE;
+    }
+
+    .listings .item.active {
+      background-color: #f8f8f8;
+    }
+
+    ::-webkit-scrollbar {
+      width: 3px;
+      height: 3px;
+      border-left: 0;
+      background: rgba(0, 0, 0, 0.1);
+    }
+
+    ::-webkit-scrollbar-track {
+      background: none;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #00853e;
+      border-radius: 0;
+    }
+
+    .marker {
+      border: none;
+      cursor: pointer;
+      height: 56px;
+      width: 56px;
+      background-color: rgba(0, 0, 0, 0);
+    }
+
+    .marker-public {
+      background-image: url(marker-public.png);
+    }
+
+    .marker-private {
+      background-image: url(marker-private.png);
+    }
+
+    .clearfix {
+      display: block;
+    }
+
+    .clearfix:after {
+      content: '.';
+      display: block;
+      height: 0;
+      clear: both;
+      visibility: hidden;
+    }
+
+    /* Marker tweaks */
+    .mapboxgl-popup {
+      padding-bottom: 50px;
+    }
+
+    .mapboxgl-popup-close-button {
+      display: none;
+    }
+
+    .mapboxgl-popup-content {
+      font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+      padding: 0;
+      width: 275px;
+    }
+
+    .mapboxgl-popup-content-wrapper {
+      padding: 1%;
+    }
+
+    .mapboxgl-popup-content h3 {
+      background: #A9D6EA;
+      color: #1c3e57;
+      margin: 0;
+      display: block;
+      padding: 10px;
+      border-radius: 3px 3px 0 0;
+      font-weight: 700;
+      margin-top: -15px;
+    }
+
+    .mapboxgl-popup-content h4 {
+      margin: 0;
+      display: block;
+      padding: 10px 10px 10px 10px;
+      font-weight: 400;
+    }
+
+    .mapboxgl-popup-content div {
+      padding: 10px;
+    }
+
+    .mapboxgl-popup-content p {
+      padding: 10px;
+    }
+
+    .mapboxgl-container .leaflet-marker-icon {
+      cursor: pointer;
+    }
+
+    .mapboxgl-popup-anchor-top>.mapboxgl-popup-content {
+      margin-top: 15px;
+    }
+
+    .mapboxgl-popup-anchor-top>.mapboxgl-popup-tip {
+      border-bottom-color: #91c949;
+    }
+
+    .mapboxgl-ctrl-geocoder {
+      border: 0;
+      border-radius: 0;
+      position: relative;
+      top: 0;
+      width: 800px;
+      margin-top: 0;
+    }
+
+    .mapboxgl-ctrl-geocoder>div {
+      min-width: 100%;
+      margin-left: 0;
+    }
+
+    .mapboxgl-ctrl-top-left .mapboxgl-ctrl-geocoder {
+      clear: none;
+    }
+
+    button.mapboxgl-ctrl-geolocate {
+      width: 35px;
+      height: 35px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class='sidebar'>
+    <div class='heading'>
+      <h1>COVID-19 Testing Locations</h1>
+    </div>
+    <div id='listings' class='listings'></div>
+  </div>
+  <div id='map' class='map'></div>
+  <script>
+    // This will let you use the .remove() function later on
+    if (!('remove' in Element.prototype)) {
+      Element.prototype.remove = function () {
+        if (this.parentNode) {
+          this.parentNode.removeChild(this);
+        }
+      };
+    }
+
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZGF0YXNmIiwiYSI6ImNrOXB4aGpxczBib2szam1vdTdvZ2tlZTIifQ.Jo2x1aJbnvoOqb5z0f5A4Q';
+    /** 
+     * Add the map to the page
+    */
+    var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/light-v10',
+      center: [-122.431297, 37.773972],
+      zoom: 12,
+      scrollZoom: false
+    });
+
+    var geolocate = new mapboxgl.GeolocateControl({
+          positionOptions: {
+            enableHighAccuracy: true
+          },
+          trackUserLocation: true
+        });
+
+    map.addControl(geolocate, 'top-left');
+
+    var locations = {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "SF Health Network (Department of Public Health)",
+            "phone_number_formatted": "(415) 682-1740",
+            "website": null,
+            "name": "Southeast Health Center Alternative Testing Site",
+            "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.",
+            "phone_number": "4156821740",
+            "location_type": "Public",
+            "address": "2401 Keith Street",
+            "testing_hours": "8am - 5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.39251,
+              37.725915
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Kaiser",
+            "phone_number_formatted": "(415) 833-2000",
+            "website": null,
+            "name": "French Campus",
+            "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.",
+            "phone_number": "4158332000",
+            "location_type": "Public",
+            "address": "4131 Geary Blvd",
+            "testing_hours": "8am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.46406,
+              37.780968
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Northeast Medical Services",
+            "phone_number_formatted": "(415) 391-9686",
+            "website": "https://www.nems.org/forPatientsEnrollJoin.html",
+            "name": "Noriega Clinic",
+            "eligibility": "Must be NEM patient. May register as a new NEMS patient for free",
+            "phone_number": "4153919686",
+            "location_type": "Private",
+            "address": "1450 Noriega",
+            "testing_hours": "2-3pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.479406,
+              37.754113
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Brown and Toland/Sutter",
+            "phone_number_formatted": "(415) 600-6000",
+            "website": null,
+            "name": "CPMC Pacific Heights Campus",
+            "eligibility": "Must be Brown and Toland patient",
+            "phone_number": "4156006000",
+            "location_type": "Private",
+            "address": "2333 Buchanan Street",
+            "testing_hours": "9am-4pm M-F, 9am-1pm Sat"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.430983,
+              37.791321
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Dignity Health",
+            "phone_number_formatted": null,
+            "website": "https://www.gohealthuc.com/bayarea/virtual-visits",
+            "name": "Go Health Urgent Care Centers",
+            "eligibility": "Virtual Visit required first for screening. Virtual Visits have zero cost to patients under Medicare/Medicaid and most other major insurance plans during the public health emergency. Currently, Virtual Visits are covered by Aetna, Anthem, Cigna, Health Plan San Mateo, Health Net (during emergency declarations) Humana, and UnitedHealthcare. Otherwise $140 out of pocket for virtual visit, which goes toward copay if visit to physical location is necessary after virtual screening, visit must happen within 24 hours of referral.",
+            "phone_number": null,
+            "location_type": null,
+            "address": "288 Market Street (Multiple Locations)",
+            "testing_hours": "8am-8pm M-F, 9am-5pm Weekends"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.397329,
+              37.792479
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "UCSF",
+            "phone_number_formatted": "(415) 885-7478",
+            "website": null,
+            "name": "Parnassus - UCSF",
+            "eligibility": "Must be UCSF patient",
+            "phone_number": "4158857478",
+            "location_type": "Private",
+            "address": "400 Parnassus Ave",
+            "testing_hours": "8am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.458137,
+              37.763414
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Carbon Health",
+            "phone_number_formatted": "(510) 686-3621",
+            "website": "https://carbonhealth.com/mobile-clinic",
+            "name": "Haight & Stanyan Mobile Clinic",
+            "eligibility": "Must be Carbon patient",
+            "phone_number": "5106863621",
+            "location_type": "Private",
+            "address": "705 Stanyan St",
+            "testing_hours": "9am-7pm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.45352,
+              37.76903
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "SF Health Network (Department of Public Health)",
+            "phone_number_formatted": "(415) 682-1740",
+            "website": null,
+            "name": "Castro Mission - Alternative Testing Site",
+            "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.",
+            "phone_number": "4156821740",
+            "location_type": "Public",
+            "address": "3850 17th Street",
+            "testing_hours": "8am - 5pm M-F, 12 - 4 pm on weekends"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.43183,
+              37.762707
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Kaiser",
+            "phone_number_formatted": "(415) 833-2000",
+            "website": null,
+            "name": "Tent & Respiratory Clinic",
+            "eligibility": "Must be a Kaiser patient",
+            "phone_number": "4158332000",
+            "location_type": "Private",
+            "address": "2350 Geary Blvd",
+            "testing_hours": null
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.442154,
+              37.783041
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "San Francisco Department of Public Health",
+            "phone_number_formatted": "Dial 3-1-1",
+            "website": "https://sf.gov/citytestsf",
+            "name": "CityTest SF - Piers 30/32",
+            "eligibility": "Anyone living or working in SF. No insurance required. Convenient for people in vehicles.",
+            "phone_number": "311",
+            "location_type": "Public",
+            "address": "40 The Embarcadero, Piers 30-32",
+            "testing_hours": "8am-6pm Every Day"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.387681,
+              37.787438
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Northeast Medical Services",
+            "phone_number_formatted": "(415) 391-9686",
+            "website": "https://www.nems.org/forPatientsEnrollJoin.html",
+            "name": "Vallejo St Clinic",
+            "eligibility": "Must be NEM patient. May register as a new NEMS patient for free",
+            "phone_number": "4153919686",
+            "location_type": "Private",
+            "address": "735 Vallejo St",
+            "testing_hours": "3-4pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.409386,
+              37.798509
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Forward",
+            "phone_number_formatted": "(833) 334-6393",
+            "website": null,
+            "name": "Forward Clinic",
+            "eligibility": "Must be Forward health patient",
+            "phone_number": "8333346393",
+            "location_type": "Private",
+            "address": "180 Sutter St",
+            "testing_hours": "8am-6pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.403319,
+              37.789899
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "SF Health Network (Department of Public Health)",
+            "phone_number_formatted": "(415) 682-1740",
+            "website": null,
+            "name": "ZSFG - Alternative Testing Site",
+            "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.",
+            "phone_number": "4156821740",
+            "location_type": "Public",
+            "address": "1001 Potrero Ave",
+            "testing_hours": "9-6 pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.406608,
+              37.756171
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "UCSF",
+            "phone_number_formatted": "(415) 885-7478",
+            "website": null,
+            "name": "Laurel Heights Campus",
+            "eligibility": "Must be UCSF patient",
+            "phone_number": "4158857478",
+            "location_type": "Private",
+            "address": "3333 California St",
+            "testing_hours": "9am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.448645,
+              37.786995
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "San Francisco Department of Public Health",
+            "phone_number_formatted": "Dial 3-1-1",
+            "website": "https://sf.gov/citytestsf",
+            "name": "CityTest SF - SoMa",
+            "eligibility": "Anyone living or working in SF. No insurance required. Convenient for people on foot.",
+            "phone_number": "311",
+            "location_type": "Public",
+            "address": "600 7th Street",
+            "testing_hours": "9am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.403233,
+              37.773044
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "One Medical",
+            "phone_number_formatted": "(415) 593-1134",
+            "website": null,
+            "name": "One Medical Clinic - Drive Thru",
+            "eligibility": "Must be One Medical patient",
+            "phone_number": "4155931134",
+            "location_type": "Private",
+            "address": "3333 California St",
+            "testing_hours": "8am-6pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.448645,
+              37.786995
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Northeast Medical Services",
+            "phone_number_formatted": "(415) 391-9686",
+            "website": "https://www.nems.org/forPatientsEnrollJoin.html",
+            "name": "Stockton St Clinic",
+            "eligibility": "Must be NEM patient. May register as a new NEMS patient for free",
+            "phone_number": "4153919686",
+            "location_type": "Private",
+            "address": "1520 Stockton St",
+            "testing_hours": "8:30am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.40908,
+              37.799897
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "SF Health Network (Department of Public Health)",
+            "phone_number_formatted": "(628) 206-4100",
+            "website": null,
+            "name": "ZSFG - Occupational Health",
+            "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.",
+            "phone_number": "6282064100",
+            "location_type": "Public",
+            "address": "1001 Potrero Ave",
+            "testing_hours": "9am-4:30pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.406608,
+              37.756171
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Carbon Health",
+            "phone_number_formatted": "(415) 792-6040",
+            "website": "https://carbonhealth.com/mobile-clinic",
+            "name": "Carbon Health - Castro Clinic",
+            "eligibility": "Must be Carbon patient",
+            "phone_number": "4157926040",
+            "location_type": "Private",
+            "address": "1998 Market St",
+            "testing_hours": "9am-7pm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.425886,
+              37.77001
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "UCSF",
+            "phone_number_formatted": "(415) 885-7478",
+            "website": null,
+            "name": "Respiratory Care Clinic at the Gateway Building in  Mission Bay",
+            "eligibility": "Must be UCSF patient",
+            "phone_number": "4158857478",
+            "location_type": "Private",
+            "address": "1825 4th St",
+            "testing_hours": "8am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.390817,
+              37.766604
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "One Medical",
+            "phone_number_formatted": "(415) 593-1134",
+            "website": null,
+            "name": "One Medical Clinic - Hayes Valley",
+            "eligibility": "Must be One Medical patient",
+            "phone_number": "4155931134",
+            "location_type": "Private",
+            "address": "98 Gough St",
+            "testing_hours": "8am-6pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.422434,
+              37.774082
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "SF Free Clinic",
+            "phone_number_formatted": "(415) 750-9894",
+            "website": null,
+            "name": "SF Free Clinic",
+            "eligibility": "Anyone living or working in SF. No insurance required.",
+            "phone_number": "4157509894",
+            "location_type": "Public",
+            "address": "4900 California St",
+            "testing_hours": "10am-4:30pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.470093,
+              37.784563
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Northeast Medical Services",
+            "phone_number_formatted": "(415) 391-9686",
+            "website": "https://www.nems.org/forPatientsEnrollJoin.html",
+            "name": "San Bruno Ave Clinic",
+            "eligibility": "Must be NEM patient. May register as a new NEMS patient for free",
+            "phone_number": "4153919686",
+            "location_type": "Private",
+            "address": "2574 San Bruno Ave",
+            "testing_hours": "8:30am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.404218,
+              37.7291
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "Carbon Health",
+            "phone_number_formatted": "(510) 686-3621",
+            "website": "https://carbonhealth.com/mobile-clinic",
+            "name": "Stonestown Mobile Clinic",
+            "eligibility": "Must be Carbon patient",
+            "phone_number": "5106863621",
+            "location_type": "Private",
+            "address": "501 Buckingham Way",
+            "testing_hours": "9am-7pm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.478464,
+              37.730071
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "SF Health Network (Department of Public Health)",
+            "phone_number_formatted": "(415) 682-1740",
+            "website": null,
+            "name": "Maxine Hall Health Center - Alternative Testing Site",
+            "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.",
+            "phone_number": "4156821740",
+            "location_type": "Public",
+            "address": "1181 Golden Gate Ave",
+            "testing_hours": "8am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.429896,
+              37.779825
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "medical_home": "UCSF",
+            "phone_number_formatted": "(415) 885-7478",
+            "website": null,
+            "name": "Pediatrics Clinic at Mt. Zion",
+            "eligibility": "Must be UCSF patient",
+            "phone_number": "4158857478",
+            "location_type": "Private",
+            "address": "2330 Post St #320",
+            "testing_hours": "8am-5pm M-F"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.440375,
+              37.784227
+            ]
+          }
+        }
+      ]
+    };
+
+    /**
+     * Assign a unique id to each location. You'll use this `id`
+     * later to associate each point on the map with a listing
+     * in the sidebar.
+    */
+    locations.features.forEach(function (location, i) {
+      location.properties.id = i;
+    });
+
+    /**
+     * Wait until the map loads to make changes to the map.
+    */
+    map.on('load', function (e) {
+      /**
+      add geocoder
+      **/
+      var geocoder = new MapboxGeocoder({
+        accessToken: mapboxgl.accessToken, // Set the access token
+        mapboxgl: mapboxgl, // Set the mapbox-gl instance
+        marker: true, // Use the geocoder's default marker style
+        bbox: [-122.6001, 37.6403, -122.2818, 37.8481] // Set the bounding box coordinates
+      });
+
+      map.addControl(geocoder, 'top-left');
+      /** 
+       * This is where your '.addLayer()' used to be, instead
+       * add only the source without styling a layer
+      */
+      map.addSource("places", {
+        "type": "geojson",
+        "data": locations
+      });
+
+      geolocate.on('geolocate', function(ev) {
+        var geom = {
+          geometry: {
+            coordinates: [ev.coords.longitude, ev.coords.latitude],
+            type: "Point"
+          }
+        };
+        
+        reSortList(geom);
+      })
+
+      /**
+         * Listen for when a geocoder result is returned. When one is returned:
+         * - Calculate distances
+         * - Sort locations by distance
+         * - Rebuild the listings
+         * - Adjust the map camera
+         * - Open a popup for the closest location
+         * - Highlight the listing for the closest location.
+        */
+      geocoder.on('result', function (ev) {
+        reSortList(ev.result.geometry);
+      });
+
+    function reSortList(geom) {
+        /**
+         * Calculate distances:
+         * For each location, use turf.disance to calculate the distance
+         * in miles between the searchResult and the location. Assign the
+         * calculated value to a property called `distance`.
+        */
+        var options = { units: 'miles' };
+        locations.features.forEach(function (location) {
+          Object.defineProperty(location.properties, 'distance', {
+            value: turf.distance(geom, location.geometry, options),
+            writable: true,
+            enumerable: true,
+            configurable: true
+          });
+        });
+
+        /**
+         * Sort locations by distance from closest to the `searchResult`
+         * to furthest.
+        */
+        locations.features.sort(function (a, b) {
+          if (a.properties.distance > b.properties.distance) {
+            return 1;
+          }
+          if (a.properties.distance < b.properties.distance) {
+            return -1;
+          }
+          return 0; // a must be equal to b
+        });
+
+        /**
+         * Rebuild the listings:
+         * Remove the existing listings and build the location
+         * list again using the newly sorted locations.
+        */
+        var listings = document.getElementById('listings');
+        while (listings.firstChild) {
+          listings.removeChild(listings.firstChild);
+        }
+        buildLocationList(locations);
+
+        /* Open a popup for the closest location. */
+        createPopUp(locations.features[0]);
+
+        /** Highlight the listing for the closest location. */
+        var activeListing = document.getElementById('listing-' + locations.features[0].properties.id);
+        activeListing.classList.add('active');
+
+        /**
+         * Adjust the map camera:
+         * Get a bbox that contains both the geocoder result and
+         * the closest location. Fit the bounds to that bbox.
+        */
+        var bbox = getBbox(locations, 0, geom);
+        map.fitBounds(bbox, {
+          padding: 100
+        });
+      };
+
+      /**
+      * Using the coordinates (lng, lat) for
+      * (1) the search result and
+      * (2) the closest location
+      * construct a bbox that will contain both points
+      */
+      function getBbox(sortedlocations, locationIdentifier, geom) {
+        var lats = [sortedlocations.features[locationIdentifier].geometry.coordinates[1], geom.geometry.coordinates[1]]
+        var lons = [sortedlocations.features[locationIdentifier].geometry.coordinates[0], geom.geometry.coordinates[0]]
+        var sortedLons = lons.sort(function (a, b) {
+          if (a > b) { return 1; }
+          if (a.distance < b.distance) { return -1; }
+          return 0;
+        });
+        var sortedLats = lats.sort(function (a, b) {
+          if (a > b) { return 1; }
+          if (a.distance < b.distance) { return -1; }
+          return 0;
+        });
+        return [
+          [sortedLons[0], sortedLats[0]],
+          [sortedLons[1], sortedLats[1]]
+        ];
+      }
+      /**
+       * Add all the things to the page:
+       * - The location listings on the side of the page
+       * - The markers onto the map
+      */
+      buildLocationList(locations);
+      addMarkers();
+    })
+
+    /**
+     * Add a marker to the map for every location listing.
+    **/
+    function addMarkers() {
+      /* For each feature in the GeoJSON object above: */
+      locations.features.forEach(function (marker) {
+        /* Create a div element for the marker. */
+        var el = document.createElement('div');
+        /* Assign a unique `id` to the marker. */
+        el.id = "marker-" + marker.properties.id;
+        /* Assign the `marker` class to each marker for styling. */
+        el.className = 'marker';
+        if (marker.properties.location_type == "Public") {
+          el.className += ' marker-public'
+        } else {
+          el.className += ' marker-private'
+        }
+
+        /**
+         * Create a marker using the div element
+         * defined above and add it to the map.
+        **/
+        new mapboxgl.Marker(el, { offset: [0, -23] })
+          .setLngLat(marker.geometry.coordinates)
+          .addTo(map);
+
+        /**
+         * Listen to the element and when it is clicked, do three things:
+         * 1. Fly to the point
+         * 2. Close all other popups and display popup for clicked location
+         * 3. Highlight listing in sidebar (and remove highlight for all other listings)
+        **/
+        el.addEventListener('click', function (e) {
+          /* Fly to the point */
+          flyTolocation(marker);
+          /* Close all other popups and display popup for clicked location */
+          createPopUp(marker);
+          /* Highlight listing in sidebar */
+          var activeItem = document.getElementsByClassName('active');
+          e.stopPropagation();
+          if (activeItem[0]) {
+            activeItem[0].classList.remove('active');
+          }
+          var listing = document.getElementById('listing-' + marker.properties.id);
+          listing.classList.add('active');
+        });
+      });
+    }
+
+    /**
+     * Add a listing for each location to the sidebar.
+    **/
+    function buildLocationList(data) {
+      data.features.forEach(function (location, i) {
+        /**
+         * Create a shortcut for `location.properties`,
+         * which will be used several times below.
+        **/
+        var prop = location.properties;
+
+        /* Add a new listing section to the sidebar. */
+        var listings = document.getElementById('listings');
+        var listing = listings.appendChild(document.createElement('div'));
+        /* Assign a unique `id` to the listing. */
+        listing.id = "listing-" + prop.id;
+        /* Assign the `item` class to each listing for styling. */
+        listing.className = 'item';
+
+        /* Add the link to the individual listing created above. */
+        var link = listing.appendChild(document.createElement('a'));
+        link.href = '#';
+        link.className = 'title';
+        link.id = "link-" + prop.id;
+        link.innerHTML = prop.name;
+
+        /* Add details to the individual listing. */
+        var details = listing.appendChild(document.createElement('div'));
+        details.innerHTML = prop.address + "<br/>San Francisco, CA";
+        if (prop.phone_number_formatted) {
+          details.innerHTML += '<br/>' + prop.phone_number_formatted;
+        }
+        if (prop.website) {
+          details.innerHTML += '<br/><a href="' + prop.website + '\">' + prop.website + '</a>'
+        }
+        if (prop.eligibility) {
+          details.innerHTML += '<p><strong>Eligibility:</strong> ' + prop.eligibility + '</p>';
+        }
+        if (prop.testing_hours) {
+          details.innerHTML += '<p><strong>Hours:</strong> ' + prop.testing_hours + '</p>';
+        }
+        if (prop.medical_home) {
+          details.innerHTML += 'Testing provided by ' + prop.medical_home + '</p>';
+        }
+        if (prop.distance) {
+          var roundedDistance = Math.round(prop.distance * 100) / 100;
+          details.innerHTML += '<p><strong>' + roundedDistance + ' miles away</strong></p>';
+        }
+        /**
+         * Listen to the element and when it is clicked, do four things:
+         * 1. Update the `currentFeature` to the location associated with the clicked link
+         * 2. Fly to the point
+         * 3. Close all other popups and display popup for clicked location
+         * 4. Highlight listing in sidebar (and remove highlight for all other listings)
+        **/
+        link.addEventListener('click', function (e) {
+          for (var i = 0; i < data.features.length; i++) {
+            if (this.id === "link-" + data.features[i].properties.id) {
+              var clickedListing = data.features[i];
+              flyTolocation(clickedListing);
+              createPopUp(clickedListing);
+            }
+          }
+          var activeItem = document.getElementsByClassName('active');
+          if (activeItem[0]) {
+            activeItem[0].classList.remove('active');
+          }
+          this.parentNode.classList.add('active');
+        });
+      });
+    }
+
+    /**
+     * Use Mapbox GL JS's `flyTo` to move the camera smoothly
+     * a given center point.
+    **/
+    function flyTolocation(currentFeature) {
+      map.flyTo({
+        center: currentFeature.geometry.coordinates,
+        zoom: 15
+      });
+    }
+
+    /**
+     * Create a Mapbox GL JS `Popup`.
+    **/
+    function createPopUp(currentFeature) {
+      var popUps = document.getElementsByClassName('mapboxgl-popup');
+      if (popUps[0]) popUps[0].remove();
+      var popup = new mapboxgl.Popup({ closeOnClick: false })
+        .setLngLat(currentFeature.geometry.coordinates)
+        .setHTML('<h3>' + currentFeature.properties.name + '</h3>' +
+          '<h4>' + currentFeature.properties.address + '</h4><p>' +
+          '<strong>Eligibility:</strong> ' + currentFeature.properties.eligibility + '</br>' +
+          '<strong>Hours:</strong> ' + currentFeature.properties.testing_hours + '<br/>' +
+          '<strong>Call to Action</strong>' +
+          '</p>')
+        .addTo(map);
+    }
+  </script>
+</body>
+
+</html>
