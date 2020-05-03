@@ -275,11 +275,11 @@
     });
 
     var geolocate = new mapboxgl.GeolocateControl({
-          positionOptions: {
-            enableHighAccuracy: true
-          },
-          trackUserLocation: true
-        });
+      positionOptions: {
+        enableHighAccuracy: true
+      },
+      trackUserLocation: true
+    });
 
     map.addControl(geolocate, 'top-left');
 
@@ -314,9 +314,9 @@
             "phone_number_formatted": "(415) 833-2000",
             "website": null,
             "name": "French Campus",
-            "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.",
+            "eligibility": "Must be a Kaiser patient",
             "phone_number": "4158332000",
-            "location_type": "Public",
+            "location_type": "Private",
             "address": "4131 Geary Blvd",
             "testing_hours": "8am-5pm M-F"
           },
@@ -379,7 +379,7 @@
             "name": "Go Health Urgent Care Centers",
             "eligibility": "Virtual Visit required first for screening. Virtual Visits have zero cost to patients under Medicare/Medicaid and most other major insurance plans during the public health emergency. Currently, Virtual Visits are covered by Aetna, Anthem, Cigna, Health Plan San Mateo, Health Net (during emergency declarations) Humana, and UnitedHealthcare. Otherwise $140 out of pocket for virtual visit, which goes toward copay if visit to physical location is necessary after virtual screening, visit must happen within 24 hours of referral.",
             "phone_number": null,
-            "location_type": null,
+            "location_type": "Private",
             "address": "288 Market Street (Multiple Locations)",
             "testing_hours": "8am-8pm M-F, 9am-5pm Weekends"
           },
@@ -419,7 +419,7 @@
             "phone_number_formatted": "(510) 686-3621",
             "website": "https://carbonhealth.com/mobile-clinic",
             "name": "Haight & Stanyan Mobile Clinic",
-            "eligibility": "Must be Carbon patient",
+            "eligibility": "Must be Carbon Health patient",
             "phone_number": "5106863621",
             "location_type": "Private",
             "address": "705 Stanyan St",
@@ -465,7 +465,7 @@
             "phone_number": "4158332000",
             "location_type": "Private",
             "address": "2350 Geary Blvd",
-            "testing_hours": null
+            "testing_hours": "8am-5pm M-F"
           },
           "geometry": {
             "type": "Point",
@@ -671,7 +671,7 @@
             "phone_number_formatted": "(415) 792-6040",
             "website": "https://carbonhealth.com/mobile-clinic",
             "name": "Carbon Health - Castro Clinic",
-            "eligibility": "Must be Carbon patient",
+            "eligibility": "Must be Carbon Health patient",
             "phone_number": "4157926040",
             "location_type": "Private",
             "address": "1998 Market St",
@@ -776,7 +776,7 @@
             "phone_number_formatted": "(510) 686-3621",
             "website": "https://carbonhealth.com/mobile-clinic",
             "name": "Stonestown Mobile Clinic",
-            "eligibility": "Must be Carbon patient",
+            "eligibility": "Must be Carbon Health patient",
             "phone_number": "5106863621",
             "location_type": "Private",
             "address": "501 Buckingham Way",
@@ -868,14 +868,14 @@
         "data": locations
       });
 
-      geolocate.on('geolocate', function(ev) {
+      geolocate.on('geolocate', function (ev) {
         var geom = {
           geometry: {
             coordinates: [ev.coords.longitude, ev.coords.latitude],
             type: "Point"
           }
         };
-        
+
         reSortList(geom);
       })
 
@@ -892,7 +892,7 @@
         reSortList(ev.result.geometry);
       });
 
-    function reSortList(geom) {
+      function reSortList(geom) {
         /**
          * Calculate distances:
          * For each location, use turf.disance to calculate the distance
