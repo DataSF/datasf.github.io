@@ -278,7 +278,7 @@
       positionOptions: {
         enableHighAccuracy: true
       },
-      trackUserLocation: true
+      trackUserLocation: false
     });
 
     map.addControl(geolocate, 'top-left');
@@ -1060,6 +1060,11 @@
         link.id = "link-" + prop.id;
         link.innerHTML = prop.name;
 
+        if (prop.distance) {
+          var roundedDistance = Math.round(prop.distance * 100) / 100;
+          listing.prepend(roundedDistance + ' miles away')
+        }
+
         /* Add details to the individual listing. */
         var details = listing.appendChild(document.createElement('div'));
         details.innerHTML = prop.address + "<br/>San Francisco, CA";
@@ -1078,10 +1083,7 @@
         if (prop.medical_home) {
           details.innerHTML += 'Testing provided by ' + prop.medical_home + '</p>';
         }
-        if (prop.distance) {
-          var roundedDistance = Math.round(prop.distance * 100) / 100;
-          details.innerHTML += '<p><strong>' + roundedDistance + ' miles away</strong></p>';
-        }
+        
         /**
          * Listen to the element and when it is clicked, do four things:
          * 1. Update the `currentFeature` to the location associated with the clicked link
