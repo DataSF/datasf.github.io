@@ -89,6 +89,11 @@
       color: #212123;
     }
 
+    #listings-container {
+      height: 100%;
+      overflow: hidden;
+    }
+
     .listings {
       height: calc(100% - 272px);
       overflow: auto;
@@ -339,7 +344,38 @@
     }
 
     /* Extra small devices (phones, 600px and down) */
-    @media only screen and (max-width: 600px) {}
+    @media only screen and (max-width: 600px) {
+      .map {
+        top: 50%;
+        left: 0;
+        width: 100%;
+        bottom: 0;
+        right: 0;
+      }
+
+      .sidebar {
+        height: 50%;
+        width: 100%;
+      }
+
+      .mapboxgl-ctrl-geocoder {
+        width: 75px;
+      }
+
+      .mapboxgl-popup {
+        display: none;
+      }
+
+      #listings-container {
+        overflow: auto;
+        height: calc(100% - 96px)
+      }
+
+      .listings {
+        height: auto;
+      }
+
+    }
 
     /* Small devices (portrait tablets and large phones, 600px and up) */
     @media only screen and (min-width: 600px) {}
@@ -361,25 +397,28 @@
       <h1>COVID-19 Testing Locations</h1>
       <div>Read more <a href="https://sf.gov/GetTestedSF">about getting tested in San Francisco</a></div>
     </div>
-    <div id='filters' class='filters'>
-      <div class="switch-field">
-        <div class="switch-title"><strong>Filter Sites</strong></div>
-        <div class="switch-input" data-children-count="2">
-          <input id="filter-all-sites" type="radio" name="maptoggle" value="all" checked="checked"><label
-            id="label-all-sites" for="filter-all-sites">All Sites</label><input id="filter-public-sites" type="radio" name="maptoggle"
-            value="public"><label id="label-public-sites" for="filter-public-sites">No Insurance Required</label>
+    <div id='listings-container'>
+      <div id='filters' class='filters'>
+        <div class="switch-field">
+          <div class="switch-title"><strong>Filter Locations</strong></div>
+          <div class="switch-input" data-children-count="2">
+            <input id="filter-all-sites" type="radio" name="maptoggle" value="all" checked="checked"><label
+              id="label-all-sites" for="filter-all-sites">All Sites</label><input id="filter-public-sites" type="radio"
+              name="maptoggle" value="public"><label id="label-public-sites" for="filter-public-sites">No Insurance
+              Required</label>
+          </div>
+        </div>
+        <div class="switch-field">
+          <div class="switch-title"><strong>Sort Locations</strong></div>
+          <div class="switch-input" data-children-count="2">
+            <input id="sort-alpha" type="radio" name="sites" value="alpha" checked="checked"><label id="label-alpha"
+              for="sort-alpha">Alphabetically</label><input id="sort-closest" type="radio" name="sites"
+              value="closest"><label id="label-closest" for="sort-closest">Closest to Me</label>
+          </div>
         </div>
       </div>
-      <div class="switch-field">
-        <div class="switch-title"><strong>Sort Sites</strong></div>
-        <div class="switch-input" data-children-count="2">
-          <input id="sort-alpha" type="radio" name="sites" value="alpha" checked="checked"><label id="label-alpha"
-            for="sort-alpha">Alphabetically</label><input id="sort-closest" type="radio" name="sites" value="closest"><label
-            id="label-closest" for="sort-closest">Closest to Me</label>
-        </div>
-      </div>
+      <div id='listings' class='listings'></div>
     </div>
-    <div id='listings' class='listings'></div>
   </div>
   <div id='map' class='map'></div>
   <script>
@@ -416,7 +455,7 @@
     var locations = {
       "type": "FeatureCollection",
       "features": [
-        { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "Southeast Health Center Alternative Testing Site", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821740", "location_type": "Public", "address": "2401 Keith Street", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.39251, 37.725915] } }, { "type": "Feature", "properties": { "medical_home": "Kaiser", "phone_number_formatted": "(415) 833-2000", "name": "French Campus", "eligibility": "Must be a Kaiser patient", "phone_number": "4158332000", "cta_text": "Sign up with provider", "cta_link": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/get-care", "location_type": "Private", "address": "4131 Geary Blvd", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.46406000000002, 37.780968] } }, { "type": "Feature", "properties": { "medical_home": "Northeast Medical Services", "phone_number_formatted": "(415) 391-9686", "name": "Noriega Clinic", "eligibility": "Must be NEMS patient. May register as a new NEMS patient for free", "phone_number": "4153919686", "cta_text": "Sign up with provider", "cta_link": "https://www.nems.org/covid19/", "location_type": "Private", "address": "1450 Noriega", "testing_hours": "2-3pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.47940600000001, 37.754113] } }, { "type": "Feature", "properties": { "medical_home": "Brown and Toland/Sutter", "phone_number_formatted": "(415) 600-6000", "name": "CPMC Pacific Heights Campus", "eligibility": "Must be Brown and Toland patient", "phone_number": "4156006000", "cta_text": "Sign up with provider", "cta_link": "https://www.sutterhealth.org/cpmc/for-patients/health-alerts/2019-novel-coronavirus", "location_type": "Private", "address": "2333 Buchanan Street", "testing_hours": "9am-4pm M-F, 9am-1pm Sat" }, "geometry": { "type": "Point", "coordinates": [-122.43098300000001, 37.791321] } }, { "type": "Feature", "properties": { "medical_home": "Dignity Health", "phone_number_formatted": null, "name": "Go Health Urgent Care Centers", "eligibility": "Virtual Visit required first for screening. Virtual Visits have zero cost to patients under Medicare/Medicaid and most other major insurance plans during the public health emergency. Currently, Virtual Visits are covered by Aetna, Anthem, Cigna, Health Plan San Mateo, Health Net (during emergency declarations) Humana, and UnitedHealthcare. Otherwise $140 out of pocket for virtual visit, which goes toward copay if visit to physical location is necessary after virtual screening, visit must happen within 24 hours of referral.", "phone_number": null, "cta_text": "Sign up with provider", "cta_link": "https://www.gohealthuc.com/bayarea/virtual-visits", "location_type": "Private", "address": "288 Market Street (Multiple Locations)", "testing_hours": "8am-8pm M-F, 9am-5pm Weekends" }, "geometry": { "type": "Point", "coordinates": [-122.397329, 37.792479] } }, { "type": "Feature", "properties": { "medical_home": "UCSF", "phone_number_formatted": "(415) 885-7478", "name": "Parnassus - UCSF", "eligibility": "Must be UCSF patient", "phone_number": "4158857478", "cta_text": "Physician referral required", "cta_link": null, "location_type": "Private", "address": "400 Parnassus Ave", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.45813700000001, 37.763414] } }, { "type": "Feature", "properties": { "medical_home": "Carbon Health", "phone_number_formatted": "(510) 686-3621", "name": "Haight & Stanyan Mobile Clinic", "eligibility": "Must be Carbon Health patient", "phone_number": "5106863621", "cta_text": "Sign up with provider", "cta_link": "https://carbonhealth.com/mobile-clinic", "location_type": "Private", "address": "705 Stanyan St", "testing_hours": "9am-7pm" }, "geometry": { "type": "Point", "coordinates": [-122.45352, 37.76903000000001] } }, { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "Castro Mission - Alternative Testing Site", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821740", "location_type": "Public", "address": "3850 17th Street", "testing_hours": "8am-5pm M-F, 12-4 pm Weekends" }, "geometry": { "type": "Point", "coordinates": [-122.43183, 37.762707000000006] } }, { "type": "Feature", "properties": { "medical_home": "Kaiser", "phone_number_formatted": "(415) 833-2000", "name": "Tent & Respiratory Clinic", "eligibility": "Must be a Kaiser patient", "phone_number": "4158332000", "cta_text": "Sign up with provider", "cta_link": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/get-care", "location_type": "Private", "address": "2350 Geary Blvd", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.44215400000002, 37.783041] } }, { "type": "Feature", "properties": { "medical_home": "SF Department of Public Health in partnership with Color", "phone_number_formatted": "Dial 3-1-1", "name": "CityTest SF - Piers 30/32", "eligibility": "Anyone living or working in SF. No insurance required. Convenient for people in vehicles.", "phone_number": "311", "cta_text": "Schedule a test", "cta_link": "https://home.color.com/covid/sign-up/start", "location_type": "Public", "address": "40 The Embarcadero, Piers 30-32", "testing_hours": "8am-6pm Every Day" }, "geometry": { "type": "Point", "coordinates": [-122.38768100000001, 37.787438] } }, { "type": "Feature", "properties": { "medical_home": "Northeast Medical Services", "phone_number_formatted": "(415) 391-9686", "name": "Vallejo St Clinic", "eligibility": "Must be NEMS patient. May register as a new NEMS patient for free", "phone_number": "4153919686", "cta_text": "Sign up with provider", "cta_link": "https://www.nems.org/covid19/", "location_type": "Private", "address": "735 Vallejo St", "testing_hours": "3-4pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40938600000001, 37.798509] } }, { "type": "Feature", "properties": { "medical_home": "Forward", "phone_number_formatted": "(833) 334-6393", "name": "Forward Clinic", "eligibility": "Must be Forward Health patient", "phone_number": "8333346393", "cta_text": "Sign up with provider", "cta_link": "https://goforward.com/coronavirus", "location_type": "Private", "address": "180 Sutter St", "testing_hours": "8am-6pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40331899999998, 37.789899] } }, { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "ZSFG - Alternative Testing Site", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821740", "location_type": "Public", "address": "1001 Potrero Ave", "testing_hours": "9-6 pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40660800000002, 37.756171] } }, { "type": "Feature", "properties": { "medical_home": "UCSF", "phone_number_formatted": "(415) 885-7478", "name": "Laurel Heights Campus", "eligibility": "Must be UCSF patient", "phone_number": "4158857478", "cta_text": "Physician referral required", "cta_link": null, "location_type": "Private", "address": "3333 California St", "testing_hours": "9am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.448645, 37.786995] } }, { "type": "Feature", "properties": { "medical_home": "SF Department of Public Health in partnership with Color", "phone_number_formatted": "Dial 3-1-1", "name": "CityTest SF - SoMa", "eligibility": "Anyone living or working in SF. No insurance required. Convenient for people on foot.", "phone_number": "311", "cta_text": "Schedule a test", "cta_link": "https://home.color.com/covid/sign-up/start", "location_type": "Public", "address": "600 7th Street", "testing_hours": "9am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.403233, 37.773044] } }, { "type": "Feature", "properties": { "medical_home": "One Medical", "phone_number_formatted": "(415) 593-1134", "name": "One Medical Clinic - Drive Thru", "eligibility": "Must be One Medical patient", "phone_number": "4155931134", "cta_text": "Sign up with provider", "cta_link": "https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical", "location_type": "Private", "address": "3333 California St", "testing_hours": "8am-6pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.448645, 37.786995] } }, { "type": "Feature", "properties": { "medical_home": "Northeast Medical Services", "phone_number_formatted": "(415) 391-9686", "name": "Stockton St Clinic", "eligibility": "Must be NEMS patient. May register as a new NEMS patient for free", "phone_number": "4153919686", "cta_text": "Sign up with provider", "cta_link": "https://www.nems.org/covid19/", "location_type": "Private", "address": "1520 Stockton St", "testing_hours": "8:30am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40907999999999, 37.799897] } }, { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(628) 206-4100", "name": "ZSFG - Occupational Health", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "6282064100", "cta_text": "Call to book test", "cta_link": "tel://6282064100", "location_type": "Public", "address": "1001 Potrero Ave", "testing_hours": "9am-4:30pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40660800000002, 37.756171] } }, { "type": "Feature", "properties": { "medical_home": "Carbon Health", "phone_number_formatted": "(415) 792-6040", "name": "Carbon Health - Castro Clinic", "eligibility": "Must be Carbon Health patient", "phone_number": "4157926040", "cta_text": "Sign up with provider", "cta_link": "https://patient.carbonhealth.com/#/schedule?practiceId=5bdaef44-8ff0-439f-99d7-3285afcc6911&vstId=0f02af4e-1d1c-4a4b-a0f2-e67fca98dd77&vstrId=f743d1d1-d2a1-4fce-a5f9-2e29339b2406&specialtyIds=652c64cc-9fcb-442f-b71e-266390ef2f63", "location_type": "Private", "address": "1998 Market St", "testing_hours": "9am-7pm" }, "geometry": { "type": "Point", "coordinates": [-122.425886, 37.77001] } }, { "type": "Feature", "properties": { "medical_home": "UCSF", "phone_number_formatted": "(415) 885-7478", "name": "Respiratory Care Clinic at the Gateway Building in  Mission Bay", "eligibility": "Must be UCSF patient", "phone_number": "4158857478", "cta_text": "Physician referral required", "cta_link": null, "location_type": "Private", "address": "1825 4th St", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.390817, 37.76660400000001] } }, { "type": "Feature", "properties": { "medical_home": "One Medical", "phone_number_formatted": "(415) 593-1134", "name": "One Medical Clinic - Hayes Valley", "eligibility": "Must be One Medical patient", "phone_number": "4155931134", "cta_text": "Sign up with provider", "cta_link": "https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical", "location_type": "Private", "address": "98 Gough St", "testing_hours": "8am-6pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.422434, 37.774082] } }, { "type": "Feature", "properties": { "medical_home": "SF Free Clinic", "phone_number_formatted": "(415) 750-9894", "name": "SF Free Clinic", "eligibility": "Anyone living or working in SF. No insurance required.", "phone_number": "4157509894", "cta_text": null, "cta_link": "tel://4157509894", "location_type": "Public", "address": "4900 California St", "testing_hours": "10am-4:30pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.470093, 37.784563] } }, { "type": "Feature", "properties": { "medical_home": "Northeast Medical Services", "phone_number_formatted": "(415) 391-9686", "name": "San Bruno Ave Clinic", "eligibility": "Must be NEMS patient. May register as a new NEMS patient for free", "phone_number": "4153919686", "cta_text": "Sign up with provider", "cta_link": "https://www.nems.org/covid19/", "location_type": "Private", "address": "2574 San Bruno Ave", "testing_hours": "8:30am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.404218, 37.7291] } }, { "type": "Feature", "properties": { "medical_home": "Carbon Health", "phone_number_formatted": "(510) 686-3621", "name": "Stonestown Mobile Clinic", "eligibility": "Must be Carbon Health patient", "phone_number": "5106863621", "cta_text": "Sign up with provider", "cta_link": "https://carbonhealth.com/mobile-clinic", "location_type": "Private", "address": "501 Buckingham Way", "testing_hours": "9am-7pm" }, "geometry": { "type": "Point", "coordinates": [-122.478464, 37.730071] } }, { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "Maxine Hall Health Center - Alternative Testing Site", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821740", "location_type": "Public", "address": "1181 Golden Gate Ave", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.42989600000001, 37.779825] } }, { "type": "Feature", "properties": { "medical_home": "UCSF", "phone_number_formatted": "(415) 885-7478", "name": "Pediatrics Clinic at Mt. Zion", "eligibility": "Must be UCSF patient", "phone_number": "4158857478", "cta_text": "Physician referral required", "cta_link": null, "location_type": "Private", "address": "2330 Post St #320", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.440375, 37.784227] } }]
+        { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "Southeast Health Center Alternative Testing Site", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821740", "location_type": "Public", "address": "2401 Keith Street", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.39251, 37.725915] } }, { "type": "Feature", "properties": { "medical_home": "Kaiser", "phone_number_formatted": "(415) 833-2000", "name": "French Campus", "eligibility": "Must be a Kaiser patient", "phone_number": "4158332000", "cta_text": "Sign up with provider", "cta_link": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/get-care", "location_type": "Private", "address": "4131 Geary Blvd", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.46406000000002, 37.780968] } }, { "type": "Feature", "properties": { "medical_home": "Northeast Medical Services", "phone_number_formatted": "(415) 391-9686", "name": "Noriega Clinic", "eligibility": "Must be NEMS patient. May register as a new NEMS patient for free", "phone_number": "4153919686", "cta_text": "Sign up with provider", "cta_link": "https://www.nems.org/covid19/", "location_type": "Private", "address": "1450 Noriega", "testing_hours": "2pm-3pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.47940600000001, 37.754113] } }, { "type": "Feature", "properties": { "medical_home": "Brown and Toland/Sutter", "phone_number_formatted": "(415) 600-6000", "name": "CPMC Pacific Heights Campus", "eligibility": "Must be Brown and Toland patient", "phone_number": "4156006000", "cta_text": "Sign up with provider", "cta_link": "https://www.sutterhealth.org/cpmc/for-patients/health-alerts/2019-novel-coronavirus", "location_type": "Private", "address": "2333 Buchanan Street", "testing_hours": "9am-4pm M-F, 9am-1pm Sat" }, "geometry": { "type": "Point", "coordinates": [-122.43098300000001, 37.791321] } }, { "type": "Feature", "properties": { "medical_home": "Dignity Health", "phone_number_formatted": null, "name": "Go Health Urgent Care Centers", "eligibility": "Virtual Visit required first for screening. Virtual Visits have zero cost to patients under Medicare/Medicaid and most other major insurance plans during the public health emergency. Currently, Virtual Visits are covered by Aetna, Anthem, Cigna, Health Plan San Mateo, Health Net (during emergency declarations) Humana, and UnitedHealthcare. Otherwise $140 out of pocket for virtual visit, which goes toward copay if visit to physical location is necessary after virtual screening, visit must happen within 24 hours of referral.", "phone_number": null, "cta_text": "Sign up with provider", "cta_link": "https://www.gohealthuc.com/bayarea/virtual-visits", "location_type": "Private", "address": "288 Market Street (Multiple Locations)", "testing_hours": "8am-8pm M-F, 9am-5pm Weekends" }, "geometry": { "type": "Point", "coordinates": [-122.397329, 37.792479] } }, { "type": "Feature", "properties": { "medical_home": "UCSF", "phone_number_formatted": "(415) 885-7478", "name": "Parnassus - UCSF", "eligibility": "Must be UCSF patient", "phone_number": "4158857478", "cta_text": "Physician referral required", "cta_link": null, "location_type": "Private", "address": "400 Parnassus Ave", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.45813700000001, 37.763414] } }, { "type": "Feature", "properties": { "medical_home": "Carbon Health", "phone_number_formatted": "(510) 686-3621", "name": "Haight & Stanyan Mobile Clinic", "eligibility": "Must be Carbon Health patient", "phone_number": "5106863621", "cta_text": "Sign up with provider", "cta_link": "https://carbonhealth.com/mobile-clinic", "location_type": "Private", "address": "705 Stanyan St", "testing_hours": "9am-7pm" }, "geometry": { "type": "Point", "coordinates": [-122.45352, 37.76903000000001] } }, { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "Castro Mission - Alternative Testing Site", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821740", "location_type": "Public", "address": "3850 17th Street", "testing_hours": "8am-5pm M-F, 12-4 pm Weekends" }, "geometry": { "type": "Point", "coordinates": [-122.43183, 37.762707000000006] } }, { "type": "Feature", "properties": { "medical_home": "Kaiser", "phone_number_formatted": "(415) 833-2000", "name": "Tent & Respiratory Clinic", "eligibility": "Must be a Kaiser patient", "phone_number": "4158332000", "cta_text": "Sign up with provider", "cta_link": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/get-care", "location_type": "Private", "address": "2350 Geary Blvd", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.44215400000002, 37.783041] } }, { "type": "Feature", "properties": { "medical_home": "SF Department of Public Health in partnership with Color", "phone_number_formatted": "Dial 3-1-1", "name": "CityTest SF - Piers 30/32", "eligibility": "Anyone living or working in SF. No insurance required. Convenient for people in vehicles.", "phone_number": "311", "cta_text": "Schedule a test", "cta_link": "https://home.color.com/covid/sign-up/start", "location_type": "Public", "address": "40 The Embarcadero, Piers 30-32", "testing_hours": "8am-6pm Every Day" }, "geometry": { "type": "Point", "coordinates": [-122.38768100000001, 37.787438] } }, { "type": "Feature", "properties": { "medical_home": "Northeast Medical Services", "phone_number_formatted": "(415) 391-9686", "name": "Vallejo St Clinic", "eligibility": "Must be NEMS patient. May register as a new NEMS patient for free", "phone_number": "4153919686", "cta_text": "Sign up with provider", "cta_link": "https://www.nems.org/covid19/", "location_type": "Private", "address": "735 Vallejo St", "testing_hours": "3pm-4pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40938600000001, 37.798509] } }, { "type": "Feature", "properties": { "medical_home": "Forward", "phone_number_formatted": "(833) 334-6393", "name": "Forward Clinic", "eligibility": "Must be Forward Health patient", "phone_number": "8333346393", "cta_text": "Sign up with provider", "cta_link": "https://goforward.com/coronavirus", "location_type": "Private", "address": "180 Sutter St", "testing_hours": "8am-6pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40331899999998, 37.789899] } }, { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "ZSFG - Alternative Testing Site", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821740", "location_type": "Public", "address": "1001 Potrero Ave", "testing_hours": "9am-6pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40660800000002, 37.756171] } }, { "type": "Feature", "properties": { "medical_home": "UCSF", "phone_number_formatted": "(415) 885-7478", "name": "Laurel Heights Campus", "eligibility": "Must be UCSF patient", "phone_number": "4158857478", "cta_text": "Physician referral required", "cta_link": null, "location_type": "Private", "address": "3333 California St", "testing_hours": "9am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.448645, 37.786995] } }, { "type": "Feature", "properties": { "medical_home": "SF Department of Public Health in partnership with Color", "phone_number_formatted": "Dial 3-1-1", "name": "CityTest SF - SoMa", "eligibility": "Anyone living or working in SF. No insurance required. Convenient for people on foot.", "phone_number": "311", "cta_text": "Schedule a test", "cta_link": "https://home.color.com/covid/sign-up/start", "location_type": "Public", "address": "600 7th Street", "testing_hours": "9am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.403233, 37.773044] } }, { "type": "Feature", "properties": { "medical_home": "One Medical", "phone_number_formatted": "(415) 593-1134", "name": "One Medical Clinic - Drive Thru", "eligibility": "Must be One Medical patient", "phone_number": "4155931134", "cta_text": "Sign up with provider", "cta_link": "https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical", "location_type": "Private", "address": "3333 California St", "testing_hours": "8am-6pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.448645, 37.786995] } }, { "type": "Feature", "properties": { "medical_home": "Northeast Medical Services", "phone_number_formatted": "(415) 391-9686", "name": "Stockton St Clinic", "eligibility": "Must be NEMS patient. May register as a new NEMS patient for free", "phone_number": "4153919686", "cta_text": "Sign up with provider", "cta_link": "https://www.nems.org/covid19/", "location_type": "Private", "address": "1520 Stockton St", "testing_hours": "8:30am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40907999999999, 37.799897] } }, { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "ZSFG - Occupational Health", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821741", "location_type": "Public", "address": "1001 Potrero Ave", "testing_hours": "9am-4:30pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.40660800000002, 37.756171] } }, { "type": "Feature", "properties": { "medical_home": "Carbon Health", "phone_number_formatted": "(415) 792-6040", "name": "Carbon Health - Castro Clinic", "eligibility": "Must be Carbon Health patient", "phone_number": "4157926040", "cta_text": "Sign up with provider", "cta_link": "https://patient.carbonhealth.com/#/schedule?practiceId=5bdaef44-8ff0-439f-99d7-3285afcc6911&vstId=0f02af4e-1d1c-4a4b-a0f2-e67fca98dd77&vstrId=f743d1d1-d2a1-4fce-a5f9-2e29339b2406&specialtyIds=652c64cc-9fcb-442f-b71e-266390ef2f63", "location_type": "Private", "address": "1998 Market St", "testing_hours": "9am-7pm" }, "geometry": { "type": "Point", "coordinates": [-122.425886, 37.77001] } }, { "type": "Feature", "properties": { "medical_home": "UCSF", "phone_number_formatted": "(415) 885-7478", "name": "Respiratory Care Clinic at the Gateway Building in  Mission Bay", "eligibility": "Must be UCSF patient", "phone_number": "4158857478", "cta_text": "Physician referral required", "cta_link": null, "location_type": "Private", "address": "1825 4th St", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.390817, 37.76660400000001] } }, { "type": "Feature", "properties": { "medical_home": "One Medical", "phone_number_formatted": "(415) 593-1134", "name": "One Medical Clinic - Hayes Valley", "eligibility": "Must be One Medical patient", "phone_number": "4155931134", "cta_text": "Sign up with provider", "cta_link": "https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical", "location_type": "Private", "address": "98 Gough St", "testing_hours": "8am-6pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.422434, 37.774082] } }, { "type": "Feature", "properties": { "medical_home": "SF Free Clinic", "phone_number_formatted": "(415) 750-9894", "name": "SF Free Clinic", "eligibility": "Anyone living or working in SF. No insurance required.", "phone_number": "4157509894", "cta_text": "Call to book test", "cta_link": "tel://4157509894", "location_type": "Public", "address": "4900 California St", "testing_hours": "10am-4:30pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.470093, 37.784563] } }, { "type": "Feature", "properties": { "medical_home": "Northeast Medical Services", "phone_number_formatted": "(415) 391-9686", "name": "San Bruno Ave Clinic", "eligibility": "Must be NEMS patient. May register as a new NEMS patient for free", "phone_number": "4153919686", "cta_text": "Sign up with provider", "cta_link": "https://www.nems.org/covid19/", "location_type": "Private", "address": "2574 San Bruno Ave", "testing_hours": "8:30am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.404218, 37.7291] } }, { "type": "Feature", "properties": { "medical_home": "Carbon Health", "phone_number_formatted": "(510) 686-3621", "name": "Stonestown Mobile Clinic", "eligibility": "Must be Carbon Health patient", "phone_number": "5106863621", "cta_text": "Sign up with provider", "cta_link": "https://carbonhealth.com/mobile-clinic", "location_type": "Private", "address": "501 Buckingham Way", "testing_hours": "9am-7pm" }, "geometry": { "type": "Point", "coordinates": [-122.478464, 37.730071] } }, { "type": "Feature", "properties": { "medical_home": "SF Health Network (Department of Public Health)", "phone_number_formatted": "(415) 682-1740", "name": "Maxine Hall Health Center - Alternative Testing Site", "eligibility": "Uninsured SF residents, SFHN Primary Care Patients, SFHN shared-risk patients who seek care at ZSFG specialty care sites.", "phone_number": "4156821740", "cta_text": "Call to book test", "cta_link": "tel://4156821740", "location_type": "Public", "address": "1181 Golden Gate Ave", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.42989600000001, 37.779825] } }, { "type": "Feature", "properties": { "medical_home": "UCSF", "phone_number_formatted": "(415) 885-7478", "name": "Pediatrics Clinic at Mt. Zion", "eligibility": "Must be UCSF patient", "phone_number": "4158857478", "cta_text": "Physician referral required", "cta_link": null, "location_type": "Private", "address": "2330 Post St #320", "testing_hours": "8am-5pm M-F" }, "geometry": { "type": "Point", "coordinates": [-122.440375, 37.784227] } }]
     };
 
     var filterState = ['Public', 'Private']
@@ -502,7 +541,7 @@
         while (listings.firstChild) {
           listings.removeChild(listings.firstChild);
         }
-        buildLocationList(locations);
+        buildLocationList(locations, filterState);
       }
 
       function reSortList(geom, filter) {
@@ -515,8 +554,8 @@
         var filter = filter ? filter : ['Private', 'Public']
         var options = { units: 'miles' };
         locations.features.forEach(function (location) {
-          if(filter.includes(location.properties["location_type"])) {
-              Object.defineProperty(location.properties, 'distance', {
+          if (filter.includes(location.properties["location_type"])) {
+            Object.defineProperty(location.properties, 'distance', {
               value: turf.distance(geom, location.geometry, options),
               writable: true,
               enumerable: true,
@@ -609,7 +648,7 @@
         filterState = ['Public'];
         let markers = document.getElementsByClassName("marker-private");
         for (let i = 0; i < markers.length; i++) {
-            markers[i].style.visibility = "hidden";
+          markers[i].style.visibility = "hidden";
         }
         let listings = document.getElementsByClassName("listing-item__private");
         for (let i = 0; i < listings.length; i++) {
@@ -618,7 +657,7 @@
       });
       var allSites = document.getElementById('label-all-sites');
       allSites.addEventListener('click', function (e) {
-        filterState = ['Public','Private'];
+        filterState = ['Public', 'Private'];
         let markers = document.getElementsByClassName("marker");
         for (let i = 0; i < markers.length; i++) {
           markers[i].style.visibility = "visible";
@@ -693,8 +732,12 @@
     /**
      * Add a listing for each location to the sidebar.
     **/
-    function buildLocationList(data) {
-      data.features.forEach(function (location, i) {
+    function buildLocationList(data, filter) {
+      var filter = filter ? filter : ['Public', 'Private']
+      let locations = data.features.filter(function (location) {
+        return filter.includes(location.properties["location_type"])
+      });
+      locations.forEach(function (location, i) {
         /**
          * Create a shortcut for `location.properties`,
          * which will be used several times below.
@@ -742,6 +785,9 @@
         } else {
           details.innerHTML += '<p><strong>' + prop.cta_text + '</strong></p>';
         }
+        if (prop.cta_link && prop.cta_link.includes('tel')) {
+          details.innerHTML += '<p><strong>Phone:</strong> ' + prop.phone_number_formatted + '</p>';
+        }
         if (prop.medical_home) {
           details.innerHTML += 'Testing provided by ' + prop.medical_home + '</p>';
         }
@@ -788,13 +834,15 @@
       var popUps = document.getElementsByClassName('mapboxgl-popup');
       if (popUps[0]) popUps[0].remove();
       var cta = currentFeature.properties.cta_link ? '<div class="sfgov-cta-button__container"><div class="field field--type-link __link field__item"><a href="' + currentFeature.properties.cta_link + '">' + currentFeature.properties.cta_text + '</a></div></div>' : '<div><strong>' + currentFeature.properties.cta_text + '</strong></div>'
+      var phone = (currentFeature.properties.cta_link && currentFeature.properties.cta_link.includes('tel')) ?
+        '<p><strong>Phone:</strong> ' + currentFeature.properties.phone_number_formatted + '</p>' : '';
       var popup = new mapboxgl.Popup({ closeOnClick: false })
         .setLngLat(currentFeature.geometry.coordinates)
         .setHTML('<h3>' + currentFeature.properties.name + '</h3>' +
           '<h4>' + currentFeature.properties.address + '</h4>' +
           '<p><strong>Eligibility:</strong> ' + currentFeature.properties.eligibility + '</p>' +
           '<p><strong>Hours:</strong> ' + currentFeature.properties.testing_hours + '</p>' +
-          cta)
+          cta + phone)
         .addTo(map);
     }
   </script>
