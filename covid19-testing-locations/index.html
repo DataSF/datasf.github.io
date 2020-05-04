@@ -502,7 +502,7 @@
         while (listings.firstChild) {
           listings.removeChild(listings.firstChild);
         }
-        buildLocationList(locations);
+        buildLocationList(locations, filterState);
       }
 
       function reSortList(geom, filter) {
@@ -693,8 +693,12 @@
     /**
      * Add a listing for each location to the sidebar.
     **/
-    function buildLocationList(data) {
-      data.features.forEach(function (location, i) {
+    function buildLocationList(data, filter) {
+      var filter = filter ? filter : ['Public','Private']
+      let locations = data.features.filter(function (location) {
+        return filter.includes(location.properties["location_type"])
+      });
+      locations.forEach(function (location, i) {
         /**
          * Create a shortcut for `location.properties`,
          * which will be used several times below.
