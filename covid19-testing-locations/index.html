@@ -797,7 +797,7 @@
           details.innerHTML += '<p><strong>Hours:</strong> ' + prop.testing_hours + '</p>';
         }
         if (prop.cta_link) {
-          details.innerHTML += '<div class="sfgov-cta-button__container"><div class="field field--type-link __link field__item"><a href="' + prop.cta_link + '">' + prop.cta_text + '</a></div></div>';
+          details.innerHTML += '<div class="sfgov-cta-button__container"><div class="field field--type-link __link field__item"><a class="cta-link" href="' + prop.cta_link + '">' + prop.cta_text + '</a></div></div>';
         } else {
           details.innerHTML += '<p><strong>' + prop.cta_text + '</strong></p>';
         }
@@ -849,7 +849,7 @@
     function createPopUp(currentFeature) {
       var popUps = document.getElementsByClassName('mapboxgl-popup');
       if (popUps[0]) popUps[0].remove();
-      var cta = currentFeature.properties.cta_link ? '<div class="sfgov-cta-button__container"><div class="field field--type-link __link field__item"><a href="' + currentFeature.properties.cta_link + '">' + currentFeature.properties.cta_text + '</a></div></div>' : '<div><strong>' + currentFeature.properties.cta_text + '</strong></div>'
+      var cta = currentFeature.properties.cta_link ? '<div class="sfgov-cta-button__container"><div class="field field--type-link __link field__item"><a class="cta-link" href="' + currentFeature.properties.cta_link + '">' + currentFeature.properties.cta_text + '</a></div></div>' : '<div><strong>' + currentFeature.properties.cta_text + '</strong></div>'
       var phone = (currentFeature.properties.cta_link && currentFeature.properties.cta_link.includes('tel')) ?
         '<p><strong>Phone:</strong> ' + currentFeature.properties.phone_number_formatted + '</p>' : '';
       var popup = new mapboxgl.Popup({ closeOnClick: false })
