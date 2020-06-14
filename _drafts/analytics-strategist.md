@@ -2,8 +2,8 @@
 title: Analytics Strategist
 author: jason_lally
 image:
-  thumb: /neighborhood-notices-hire/sf-antique-map.jpg
-  feature: /neighborhood-notices-hire/sf-antique-map.jpg
+  thumb: /valentines-with-the-stars/heart.jpg
+  feature: /valentines-with-the-stars/heart.jpg
   caption:
   source:
     title:
