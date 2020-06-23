@@ -5,8 +5,8 @@ author:
   - blake_valenta
   - tania_jogesh
 image:
-  thumb: /valentines-with-the-stars/heart.jpg
-  feature: /valentines-with-the-stars/heart.jpg
+  thumb: /analytics-engineer/join-datasf-sql-small.png
+  feature: /analytics-engineer/join-datasf-sql.png
   caption:
   source:
     title:
