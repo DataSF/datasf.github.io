@@ -15,7 +15,7 @@ image:
     author_link:
     license: Public Domain (US)
     license_link:
-description: Join DataSF as an Analytics Engineer.
+description: Join DataSF as an Analytics Engineer. Do hard and impactful work.
 categories:
   - blog
 published: true
