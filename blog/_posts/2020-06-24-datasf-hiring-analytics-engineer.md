@@ -18,6 +18,7 @@ image:
 description: Join DataSF as an Analytics Engineer.
 categories:
   - blog
+published: true
 ---
 
 Since March, the City has been rapidly responding to COVID-19. DataSF played and continues to play an essential role in helping the City quickly bring together crucial COVID related data for internal operational and external transparency and communications needs. We are incredibly proud of the results so far with many internal operational dashboards and the [public reporting work](https://datasf.org/covid19) spearheaded by DataSF, the [Controller&#39;s Office City Performance Unit](https://sfcontroller.org/city-performance), and the [Department of Public Health](https://www.sfdph.org/dph/default.asp).
