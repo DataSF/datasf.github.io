@@ -2421,7 +2421,7 @@ OL LI OL {
   margin-left: 20px;
 }
 
-article span:before { content: ''; display: block; position: relative; width: 0; height: 142px; margin-top: -142px }
+/*article span:before { content: ''; display: block; position: relative; width: 0; height: 142px; margin-top: -142px }*/
 
 .fr_option{
   font-weight: normal;
