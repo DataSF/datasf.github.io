@@ -17,6 +17,18 @@ categories:
   - blog
 ---
 
+
+<!DOCTYPE html>
+<iframe width="460" height="355" src="https://app.powerbigov.us/view?r=eyJrIjoiZWQ1NjQzZTEtNTQ2Ni00OGM2LWE1NGQtMjJmY2RmNGEyNWE4IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9&filterPaneEnabled=false&navContentPaneEnabled=false" frameborder="0" allowFullScreen="true"></iframe>
+
+
+<!DOCTYPE html>
+<iframe width="460" height="355" src="https://app.powerbigov.us/view?r=eyJrIjoiODIwNTgzZjMtY2RjMi00YjEwLTg3OWItMDVkNTc5ZjViNmU1IiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9&filterPaneEnabled=false&navContentPaneEnabled=false" frameborder="0" allowFullScreen="true"></iframe>
+
+
+<!DOCTYPE html>
+<iframe width="460" height="355" src="https://app.powerbigov.us/view?r=eyJrIjoiYTRiODMzZTktOWQ3Zi00ZTNkLTgzOTItYjU1NDM2YWUwNTNlIiwidCI6IjIyZDVjMmNmLWNlM2UtNDQzZC05YTdmLWRmY2MwMjMxZjczZiJ9&filterPaneEnabled=false&navContentPaneEnabled=false" frameborder="0" allowFullScreen="true"></iframe>
+
 Since March the city has been rapidly responding to COVID-19. DataSF played and continues to play a key role in helping the City rapidly bring together crucial COVID related data for internal operational and external transparency and communication needs. We are extremely proud of the results so far with countless internal operational dashboards and the [public reporting work](https://datasf.org/covid19) spearheaded by DataSF, CON Performance Unit, and SFDPH.
 
 And we want you to join the response.
