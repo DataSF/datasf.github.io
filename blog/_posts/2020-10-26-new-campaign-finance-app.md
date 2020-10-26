@@ -2,6 +2,8 @@
 title: In San Francisco, discovering top campaign contributors just got easier
 author: 
   - jason_lally
+  - steven_massey
+  - tyler_field
 image:
   thumb: /campaign-finance/campaign-finance-app.png
   feature: /campaign-finance/campaign-finance-app.png
@@ -18,7 +20,7 @@ categories:
   - blog
 published: true
 ---
-*This post co-authored with the San Francisco Elections Commission*
+*This post co-authored by the San Francisco Elections Commission*
 
 ## Follow the Money in the November 3, 2020 San Francisco local election
 
