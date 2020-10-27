@@ -20,7 +20,7 @@ categories:
   - blog
 published: true
 ---
-*This post co-authored by the San Francisco Elections Commission*
+*This post co-authored with the San Francisco Elections Commission*
 
 ## Follow the Money in the November 3, 2020 San Francisco local election
 
