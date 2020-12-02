@@ -1,5 +1,5 @@
 ---
-title: 'Part 1: How to solicit and select data science projects'
+title: Testing Blog Post
 author:
   - jason_lally
   - helen_mclendon
@@ -18,8 +18,9 @@ description: >-
   If you are starting a data science service in your jurisdiction, your first
   task will be to develop a backlog of projects. This article walks through how
   we solicit and select data science projects.
-date: 2018-03-12 00:00:00
+date: 2018-03-15 00:00:00
 categories:
   - blog
 ---
 
+Testing blog post
