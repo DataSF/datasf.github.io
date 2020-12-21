@@ -42,17 +42,6 @@ resources_list:
       - link: >-
           https://docs.google.com/document/d/1MdJKrbYcqYd5y5-4nYbwzcJEtkXZQBlDbKW-kxtsJyY/edit?usp=sharing
         media_type: Google Doc
-  - name: DataSF PowerBI Resource Collection
-    description: >-
-      A curated collection of DataSF created guides, vetted learning resources,
-      and helpful external resources.  Created to support recent attendees of
-      DataSF's Intro to PowerBI course.
-    post_date: 2018-05-31 00:00:00
-    resource_type: Document
-    links:
-      - link: >-
-          https://docs.google.com/document/d/1adUDdbHhl964270dPNyxL8laZgNGkpVwxLdLNWE65Vw/edit?usp=sharing
-        media_type: Google Doc
   - name: DataSF PowerBI Cheatsheet
     description: >-
       A 2 page visual cheat sheet to Power BI's Report Editor and Query Editor. 
