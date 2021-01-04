@@ -38,8 +38,6 @@ catalog:
     url: /opendata/
   - text: Browse Data
     url: 'https://data.sfgov.org/browse'
-  - text: Open Data Stats
-    url: 'https://data.sfgov.org/analytics'
   - text: Developers
     url: /opendata/developers/
 
