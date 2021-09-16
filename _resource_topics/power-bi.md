@@ -6,8 +6,21 @@ description: >-
 tags:
 audiences:
 resources_list:
+  - name: Data Visualization Guide for sf.gov
+    description: >-
+      Guide for making accessible public dashboards and data visualization for
+      the City and County of San Francisco website.  Includes pre-made PowerBI
+      template files and step by step video tutorials.
+    post_date: 2018-05-31 00:00:00
+    resource_type: Guide
+    links:
+      - link: https://datasf.gitbook.io/public-data-visualization-guide/
+        media_type: Link
+      - link: >-
+          https://datasf.gitbook.io/public-data-visualization-guide/using-the-power-bi-template
+        media_type: Link
   - name: Power BI Brown Bag
-    description: 'A high level overview of Power BI compared to Tableau, Excel, and R.'
+    description: A high level overview of Power BI compared to Tableau, Excel, and R.
     post_date: 2018-05-31 00:00:00
     resource_type: Document
     links:
@@ -66,7 +79,7 @@ resources_list:
 
 Power BI is a tool that allows analyst to quickly generate dashboards and reports from a variety of data sources.&nbsp; Thanks to the Department of Technologies recent acquisition of Power BI premium CCSF analyst have an easy way of distributing these reports within CCSF.
 
-Power BI's greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing. &nbsp;Learn more:
+Power BI’s greatest asset is the ability to automate the often laborious ‘data wrangling’ stage of dashboards and report creation, eliminating the need to reshape, clean, or edit data in excel before visualizing. &nbsp;Learn more:
 
 * Brown Bag slidedeck explains the benefits of Power BI versus other tools
 * Tipsheets on use of the CCSF Premium Capacity & Publish-to-Web feature
