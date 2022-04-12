@@ -5,7 +5,7 @@ email: michelle.littlefield@sfgov.org
 bio: 
 gravatar: 
 twitter: 
-headshot_image_path: /uploads/michelle_pic_circle.png
+headshot_image_path: /uploads/Blake Valenta_circle.jpg
 instructor: 'No'
 ---
 
