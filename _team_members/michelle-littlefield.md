@@ -5,7 +5,7 @@ email: michelle.littlefield@sfgov.org
 bio: 
 gravatar: bd1ca63b906c74490eff8a5223b81189
 twitter: 
-headshot_image_path: https://www.gravatar.com/avatar/bd1ca63b906c74490eff8a5223b81189?s=500
+headshot_image_path: /uploads/michelle_pic_circle.png
 instructor: 'Yes'
 ---
 
