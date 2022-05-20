@@ -2,7 +2,7 @@
 name: Jason Lally
 work_title: Former Chief Data Officer
 email: jason.lally@sfgov.org
-bio: Chief Data Officer, City and County of San Francisco
+bio: Former Chief Data Officer, City and County of San Francisco
 gravatar: 8614bd4a1d6f6c24c0f6b08a2b9c0335
 twitter: synchronouscity
 headshot_image_path: /uploads/Jason Lally_circle.jpg
