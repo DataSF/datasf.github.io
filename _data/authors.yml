@@ -2,7 +2,7 @@ joy_bonaguro:
   name: Joy Bonaguro
   title: Former Chief Data Officer
   email: joy.bonaguro@sfgov.org
-  bio: 'Former Chief Data Officer, City and County of San Francisco'
+  bio: Former Chief Data Officer, City and County of San Francisco
   long_bio: >-
     Joy Bonaguro was the first Chief Data Officer for the City and County of San
     Francisco, where she managed the City’s open data program. Joy has spent
@@ -20,17 +20,19 @@ joy_bonaguro:
   twitter: datasf
 jason_lally:
   name: Jason Lally
-  title: Chief Data Officer
+  title: Former Chief Data Officer
   email: jason.lally@sfgov.org
-  bio: 'Chief Data Officer, City and County of San Francisco'
+  bio: Chief Data Officer, City and County of San Francisco
   long_bio: >-
-    Jason Lally is the Chief Data Officer, responsible for developing city wide data policies and leading the DataSF team to remove barriers that prevent departments from maximizing their data’s value.
-    Prior to this, he was the Data Services Manager for DataSF and has been with the City for over 5 years. He came to open government and open data through
-    his work in cities and regions across the country on data-informed,
-    community planning processes. Jason is
-    pleased to contribute to making data more accessible and useful at the City.
-    He earned his Masters in City and Regional Planning from the University
-    of Pennsylvania.
+    Jason Lally is the Chief Data Officer, responsible for developing city wide
+    data policies and leading the DataSF team to remove barriers that prevent
+    departments from maximizing their data’s value. Prior to this, he was the
+    Data Services Manager for DataSF and has been with the City for over 5
+    years. He came to open government and open data through his work in cities
+    and regions across the country on data-informed, community planning
+    processes. Jason is pleased to contribute to making data more accessible and
+    useful at the City. He earned his Masters in City and Regional Planning from
+    the University of Pennsylvania.
   gravatar: b0d79f25e915d34f7f06907322ad8060
   twitter: synchronouscity
   google:
@@ -39,7 +41,7 @@ erica_finkle:
   name: Erica Finkle
   title: Former ShareSF Program Manager
   email: erica.finkle@sfgov.org
-  bio: 'Former ShareSF Program Manager, City and County of San Francisco'
+  bio: Former ShareSF Program Manager, City and County of San Francisco
   long_bio: >-
     Erica Finkle was the ShareSF Program Manager, working to support efficient,
     effective, consistent, secure and appropriate means for cross-departmental
@@ -60,7 +62,7 @@ janine_heiser:
   name: Janine Heiser
   title: Former Open Data Services Engineer
   email: janine.heiser@sfgov.org
-  bio: 'Former Open Data Services Engineer, City and County of San Francisco'
+  bio: Former Open Data Services Engineer, City and County of San Francisco
   long_bio: >-
     Janine Heiser was the Open Data Services Engineer working to help design and
     implement a scalable framework for accessing and publishing data across the
@@ -75,7 +77,7 @@ janine_heiser:
   twitter: J9Heiser
 jeff_johnson:
   name: Jeff Johnson
-  title: 'Manager, SFGIS'
+  title: Manager, SFGIS
   long_bio: >-
     Jeff Johnson manages San Francisco’s Enterprise GIS Program at the
     Department of Technology, and has worked with the City’s Open Data platform
@@ -89,7 +91,7 @@ jeff_johnson:
     technical opportunities available working in the beautiful Bay Area for the
     City and County of San Francisco.
   email: jeff.johnson@sfgov.org
-  bio: 'Manager, SFGIS and Open Data Services'
+  bio: Manager, SFGIS and Open Data Services
   image: jeff_johnson.jpg
 sam_valdez:
   name: Samuel Valdez
@@ -128,48 +130,56 @@ brian_quinn:
 blake_valenta:
   name: Blake Valenta
   title: Analytics Strategist
-  bio: 'Analytics Strategist, DataSF'
+  bio: Analytics Strategist, DataSF
   long_bio: >-
-    Blake Valenta is a Analytics Strategist at DataSF. He holds a 
-    bachelor's degree in political science from the University of Chicago and 
-    master's degree in public policy from the UCLA Luskin School. Blake came to 
-    DataSF as a Research Fellow with the Harvard Ash Center. Before joining DataSF, 
-    Blake worked as a researcher with the UCLA Labor Center, as a statistician with
-    the Empirical Research Group at the UCLA Law School, and a policy advocate
-    at IWJ, a non-profit in Chicago that focuses on labor rights and economic
-    justice issues.
+    Blake Valenta is a Analytics Strategist at DataSF. He holds a  bachelor's
+    degree in political science from the University of Chicago and  master's
+    degree in public policy from the UCLA Luskin School. Blake came to  DataSF
+    as a Research Fellow with the Harvard Ash Center. Before joining DataSF, 
+    Blake worked as a researcher with the UCLA Labor Center, as a statistician
+    with the Empirical Research Group at the UCLA Law School, and a policy
+    advocate at IWJ, a non-profit in Chicago that focuses on labor rights and
+    economic justice issues.
   gravatar: 3f5249ee91007d67194270ad9b1708fa
 kimberly_hicks:
   name: Kimberly Hicks
   title: Former Data Scientist
-  bio: 'Former Data Scientist, City and County of San Francisco'
+  bio: Former Data Scientist, City and County of San Francisco
   long_bio: >-
-    Kimberly Hicks was the Data Scientist specializing in data mining, predictive
-    analytics, machine learning and data visualization.  Her focus was putting
-    the City’s data to work to increase the quality of life for San Franciscans.
-    Kimberly comes to the City from the private sector having worked for several
-    years building innovative, statistical tools and ultimately improving
-    efficiency through advanced analytics. Kimberly holds a Bachelor’s degree in
-    Mathematics and a Master’s degree in Applied Statistics from the University
-    of Michigan, Ann Arbor.
+    Kimberly Hicks was the Data Scientist specializing in data mining,
+    predictive analytics, machine learning and data visualization.  Her focus
+    was putting the City’s data to work to increase the quality of life for San
+    Franciscans. Kimberly comes to the City from the private sector having
+    worked for several years building innovative, statistical tools and
+    ultimately improving efficiency through advanced analytics. Kimberly holds a
+    Bachelor’s degree in Mathematics and a Master’s degree in Applied Statistics
+    from the University of Michigan, Ann Arbor.
   gravatar: e60f96bec9c1d177713240e49bb71bf6
 tania_jogesh:
   name: Tania Jogesh
-  title: 'Data Scientist, City and County of San Francisco'
-  bio: 'Data Scientist, City and County of San Francisco'
+  title: Data Scientist
+  bio: Data Scientist, City and County of San Francisco
   long_bio: >-
-    Tania Jogesh is the Data Scientist at DataSF. Tania comes to DataSF with more than a decade of data-driven research experience, an unconventional background in pollination ecology, and a desire to improve the world with data. She holds a PhD in Entomology from the University of Illinois Urbana-Champaign and a Bachelor’s degree in Biology and Statistics from Carleton University, Canada. Prior to her current position, Tania was a postdoctoral scientist with the Chicago Botanic Garden, where she applied advanced statistical methods to understand plant and insect communities in natural ecosystems.
+    Tania Jogesh is the Data Scientist at DataSF. Tania comes to DataSF with
+    more than a decade of data-driven research experience, an unconventional
+    background in pollination ecology, and a desire to improve the world with
+    data. She holds a PhD in Entomology from the University of Illinois
+    Urbana-Champaign and a Bachelor’s degree in Biology and Statistics from
+    Carleton University, Canada. Prior to her current position, Tania was a
+    postdoctoral scientist with the Chicago Botanic Garden, where she applied
+    advanced statistical methods to understand plant and insect communities in
+    natural ecosystems.
   gravatar: f57c79da15c950f1c3b59704588a2204
 samuel_abbott:
   name: Sam Abbott
-  title: 'Performance Analyst, Controller''s Office'
-  bio: 'Performance Analyst, Controller''s Office'
+  title: Performance Analyst, Controller's Office
+  bio: Performance Analyst, Controller's Office
   long_bio: "Sam joined the City in August 2015 after working for three years at Urban Partnership Bank, a Chicago-based community development bank serving low to moderate-income communities by providing capital and financial services to spur economic development.\_ While at the bank, Sam developed his Excel skills as a financial analyst and continues to put them to work in City Performance.\_ Since joining the City, Sam has worked on projects such as creating online Tableau dashboards for park scores and enhancing Data Academy!\_ Sam graduated with honors from the University of Chicago in 2012, where he received a BA in Public Policy and a minor in Spanish.\_ He is originally from Cleveland, Ohio and enjoys watching documentaries and playing basketball."
   gravatar: 84d3934d65fd0d0ead82de7a4ed5a35e
 sherman_luk:
   name: Sherman Luk
-  title: 'Project Manager, Controller''s Office'
-  bio: 'Project Manager, Controller''s Office'
+  title: Project Manager, Controller's Office
+  bio: Project Manager, Controller's Office
   long_bio: >-
     Sherman oversees the formation and expansion of the Data Academy and manages
     a portfolio of technology projects for the City Performance Unit of the
@@ -182,58 +192,89 @@ sherman_luk:
   gravatar: 5fe27ec33342f3942bf7ff581a898955
 omar_corona:
   name: Omar Corona
-  title: 'San Francisco Fellow, Controller''s Office'
-  bio: 'San Francisco Fellow, Controller''s Office'
+  title: San Francisco Fellow, Controller's Office
+  bio: San Francisco Fellow, Controller's Office
   long_bio: .
   gravatar: omar_corona.jpg
 charlie_moffett:
   name: Charlie Moffett
   title: DataSF Summer Intern
-  bio: 'DataSF Summer Intern, City and County of San Francisco'
+  bio: DataSF Summer Intern, City and County of San Francisco
   long_bio: .
   gravatar: 02a2ea613df50585a71419b319d13477
 anna_dunning:
   name: Anna Duning
   title: Budget Office Summer Intern
-  bio: 'Budget Office Summer Intern, City and County of San Francisco'
+  bio: Budget Office Summer Intern, City and County of San Francisco
   long_bio: .
   gravatar: 47c1534b6e375f002a4af275d813f8ee
-tania_jogesh:
-  name: Tania Jogesh
-  title: 'Data Scientist'
-  bio: 'Data Scientist, City and County of San Francisco'
-  long_bio: >-
-    Tania Jogesh is the Data Scientist at DataSF. Tania comes to DataSF with more than a decade of data-driven research experience, an unconventional background in pollination ecology, and a desire to improve the world with data. She holds a PhD in Entomology from the University of Illinois Urbana-Champaign and a Bachelor’s degree in Biology and Statistics from Carleton University, Canada. Prior to her current position, Tania was a postdoctoral scientist with the Chicago Botanic Garden, where she applied advanced statistical methods to understand plant and insect communities in natural ecosystems.
-  gravatar: f57c79da15c950f1c3b59704588a2204
 steven_massey:
   name: Steven Massey
-  title: 'Director of Technology Services'
-  bio: 'Director of Technology Services, SF Ethics Commission'
+  title: Director of Technology Services
+  bio: Director of Technology Services, SF Ethics Commission
   gravatar: 396055c9b3d93ff822f1de6a73793928
 tyler_field:
   name: Tyler Field
-  title: 'Senior IS Analyst'
-  bio: 'Senior IS Analyst, SF Ethics Commission'
+  title: Senior IS Analyst
+  bio: Senior IS Analyst, SF Ethics Commission
   gravatar: 79b9fea29899c271fa2c5a9503edf1c3
 helen_mclendon:
   name: Helen McLendon
-  title: 'Analytics Engineer'
-  bio: 'Analytics Engineer, City and County of San Francisco'
+  title: Analytics Engineer
+  bio: Analytics Engineer, City and County of San Francisco
   long_bio: >-
-    Helen McLendon is the Analytics Engineer at DataSF. She comes to the City with a background in computational neuroscience, experience developing healthcare software, and a zeal for building well-structured, meaningful datasets. She received her Bachelor's degree in Biology from Stanford University and Ph.D. in Neuroscience from UCSF where she studied the neuronal mechanisms underlying auditory perception in songbirds. Prior to joining the DataSF team, Helen spent 5 years at a Medicare Advantage startup, serving in numerous roles including Data Scientist, Operations Manager, and Data Engineer. She is passionate about creating trusted systems that empower users to make data-driven decisions.
+    Helen McLendon is the Analytics Engineer at DataSF. She comes to the City
+    with a background in computational neuroscience, experience developing
+    healthcare software, and a zeal for building well-structured, meaningful
+    datasets. She received her Bachelor's degree in Biology from Stanford
+    University and Ph.D. in Neuroscience from UCSF where she studied the
+    neuronal mechanisms underlying auditory perception in songbirds. Prior to
+    joining the DataSF team, Helen spent 5 years at a Medicare Advantage
+    startup, serving in numerous roles including Data Scientist, Operations
+    Manager, and Data Engineer. She is passionate about creating trusted systems
+    that empower users to make data-driven decisions.
   gravatar: 37a7688a01be9b944fea6621ba477860
 michelle_littlefield:
   name: Michelle Littlefield
-  title: 'Chief Data Officer'
-  bio: 'Chief Data Officer, City and County of San Francisco'
+  title: Chief Data Officer
+  bio: Chief Data Officer, City and County of San Francisco
   long_bio: >-
-    Michelle Littlefield is the Chief Data Officer for the City and County of San Francisco, where she leads the City’s data strategy and expansion of the City’s analytics ecosystem.  Michelle brings 10 years of experience leading and building analytics capabilities and driving digital transformation in local government. She served as the Data & Analytics Manager for SF Planning where she focused on establishing consistent data governance standards, increasing GIS capabilities, and expanding the department’s Data & Analytics team.  Prior to this role, Michelle served as the Digital Services & Analytics Program Lead for Redwood City and co-founder of the Code for America Brigade for San Mateo County.  Michelle earned Bachelor’s degrees in Political Science and Urban Studies & Planning from UC San Diego, completed her Executive Leadership Program at Stanford University Graduate School of Business, and is pursuing an M.S. in Applied and Computational Mathematics from the Johns Hopkins University. She’s passionate about connected urban systems and serves as an advisor on smart cities and urban analytics at various academic institutions and organizations. 
-
+    Michelle Littlefield is the Chief Data Officer for the City and County of
+    San Francisco, where she leads the City’s data strategy and expansion of the
+    City’s analytics ecosystem.  Michelle brings 10 years of experience leading
+    and building analytics capabilities and driving digital transformation in
+    local government. She served as the Data & Analytics Manager for SF Planning
+    where she focused on establishing consistent data governance standards,
+    increasing GIS capabilities, and expanding the department’s Data & Analytics
+    team.  Prior to this role, Michelle served as the Digital Services &
+    Analytics Program Lead for Redwood City and co-founder of the Code for
+    America Brigade for San Mateo County.  Michelle earned Bachelor’s degrees in
+    Political Science and Urban Studies & Planning from UC San Diego, completed
+    her Executive Leadership Program at Stanford University Graduate School of
+    Business, and is pursuing an M.S. in Applied and Computational Mathematics
+    from the Johns Hopkins University. She’s passionate about connected urban
+    systems and serves as an advisor on smart cities and urban analytics at
+    various academic institutions and organizations. 
   gravatar: bd1ca63b906c74490eff8a5223b81189
 cody_xuereb:
   name: Cody Xuereb
   title: Analytics Strategist
-  bio: 'Analytics Strategist, DataSF'
+  bio: Analytics Strategist, DataSF
   long_bio: >-
-    Cody Xuereb is the Analytics Strategist at DataSF. Cody joins DataSF with a decade of experience leading and managing analytics and evaluation projects for public sector agencies and a passion for using data to inform decision-making. Prior to joining DataSF, Cody worked as a Principal Analyst for the San Francisco Board of Supervisors’ Budget & Legislative Analyst/ Harvey M. Rose Associates. He also set up and managed the Research & Planning Unit at the San Francisco Juvenile Probation Department, which was responsible for advising the Department on performance and legislative changes. Besides his experience in San Francisco, Cody spent six years in the United Kingdom, where he worked as an economist for the British Government, including in the Prime Minister’s Implementation Unit, analyzing and advising on the implementation of national policies. He has also worked as a research associate at the London School of Economics and the University of California, Berkeley. Cody holds a Master of Science degree in Public Policy from University College London and a Bachelor of Arts in Political Economy and Public Policy from the University of California, Berkeley.
+    Cody Xuereb is the Analytics Strategist at DataSF. Cody joins DataSF with a
+    decade of experience leading and managing analytics and evaluation projects
+    for public sector agencies and a passion for using data to inform
+    decision-making. Prior to joining DataSF, Cody worked as a Principal Analyst
+    for the San Francisco Board of Supervisors’ Budget & Legislative Analyst/
+    Harvey M. Rose Associates. He also set up and managed the Research &
+    Planning Unit at the San Francisco Juvenile Probation Department, which was
+    responsible for advising the Department on performance and legislative
+    changes. Besides his experience in San Francisco, Cody spent six years in
+    the United Kingdom, where he worked as an economist for the British
+    Government, including in the Prime Minister’s Implementation Unit, analyzing
+    and advising on the implementation of national policies. He has also worked
+    as a research associate at the London School of Economics and the University
+    of California, Berkeley. Cody holds a Master of Science degree in Public
+    Policy from University College London and a Bachelor of Arts in Political
+    Economy and Public Policy from the University of California, Berkeley.
   gravatar: 74833b907fc082ff78c68720650263cf
