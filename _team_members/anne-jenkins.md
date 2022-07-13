@@ -1,6 +1,6 @@
 ---
 name: Anne Jenkins
-work_title: Lead Performance Analyst, SF Public Works
+work_title: Former Data Academy Instructor
 email:
 bio:
 gravatar:
