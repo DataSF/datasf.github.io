@@ -1,6 +1,6 @@
 ---
 name: Elaine Vilorio
-work_title: 'San Francisco Fellow, HOPE SF'
+work_title: Former Data Academy Instructor
 email:
 bio:
 gravatar:
