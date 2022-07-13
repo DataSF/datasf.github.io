@@ -1,6 +1,6 @@
 ---
 name: Dan Kaplan
-work_title: 'Performance Analyst, Controller''s Office'
+work_title: Former Data Academy Instructor
 email:
 bio:
 gravatar:
