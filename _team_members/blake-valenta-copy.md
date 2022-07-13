@@ -1,6 +1,6 @@
 ---
 name: Blake Valenta
-work_title: Former Data Analyst & Analytics Strategist, DataSF
+work_title: Former Data Academy Instructor
 email:
 bio:
 gravatar:
