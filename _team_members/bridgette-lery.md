@@ -1,6 +1,6 @@
 ---
 name: Bridgette Lery
-work_title: Human Services Agency
+work_title: Former Data Academy Instructor
 email:
 bio:
 gravatar:
