@@ -1,6 +1,6 @@
 ---
 name: Ellen Love
-work_title: Principal Administrative Analyst, Office of Labor Standards Enforcement
+work_title: Former Data Academy Instructor
 email:
 bio:
 gravatar:
