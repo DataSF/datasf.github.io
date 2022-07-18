@@ -1,6 +1,6 @@
 ---
 name: Eric Pawlowsky
-work_title: 'Planning & Performance Analyst, Recreation & Parks Department'
+work_title: Former Data Academy Instructor
 email:
 bio:
 gravatar:
