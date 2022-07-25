@@ -14,7 +14,7 @@ resources_list:
     post_date: 2017-05-29 00:00:00
     resource_type: Guide
     links:
-      - link: 'https://www.gitbook.com/book/datasf/datasf-guides-data-quality/details'
+      - link: 'https://datasf.gitbook.io/datasf-guides-data-quality/'
         media_type: Link
   - name: 'Companion Worksheet: How to Ensure Data Quality'
     description: >-
