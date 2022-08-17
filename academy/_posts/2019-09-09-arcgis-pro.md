@@ -1,7 +1,7 @@
 ---
 title: ArcGIS Pro
 description: >-
-  Unleash the power of ArcGIS Pro! This four-hour workshop is designed for both
+  Unleash the power of ArcGIS Pro!! This four-hour workshop is designed for both
   new GIS users and those who are familiar with Arc Map or QGIS. We will become
   familiar with core GIS functionality in ArcGIS Pro and explore the ease with
   which Pro accomplishes advanced geoprocessing functions and its efficient data
@@ -19,11 +19,10 @@ subjects:
 series:
 team_members:
 course_short_name: ArcGIS Pro
-course_materials_link: 'https://drive.google.com/open?id=1rQLjjy5PHvaXM95qJcxc2Xzr6qDfIYfI'
+course_materials_link: https://drive.google.com/open?id=1rQLjjy5PHvaXM95qJcxc2Xzr6qDfIYfI
 order: 0
 category: academy
 ---
-
 ## About this course
 
 Unleash the power of ArcGIS Pro\! This four-hour workshop is designed for both new GIS users and those who are familiar with Arc Map or QGIS. We will become familiar with core GIS functionality in ArcGIS Pro and explore the ease with which Pro accomplishes advanced geoprocessing functions and its efficient data management tools.
