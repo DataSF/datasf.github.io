@@ -6,7 +6,7 @@ description: >-
   program that focuses on the entire business intelligence chain: from data
   wrangling to visualizing to sharing to automation.
 prerequisites: Participants should have a good working knowledge of pivot tables.
-length: 8 hours split across two days
+length: 8 hours over two days
 subjects:
   - Data Management
   - Visualization
