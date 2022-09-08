@@ -6,7 +6,7 @@ description: >-
   program that focuses on the entire business intelligence chain: from data
   wrangling to visualizing to sharing to automation.
 prerequisites: Participants should have a good working knowledge of pivot tables.
-length: 8 hours over two days
+length: Two 4-hour sessions, total 8
 subjects:
   - Data Management
   - Visualization
@@ -14,7 +14,7 @@ subjects:
 series:
   - PowerBI
 team_members:
-  - blake-valenta
+  - alice-kassinger
 course_short_name: Intro to Power BI
 course_materials_link: >-
   https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR?usp=sharing
@@ -23,12 +23,11 @@ category: academy
 categories:
   - academy
 ---
-
 ## About This Course
 
 This course is designed to give you a strong foundation in Power BI and a jump-start on your 1st Power BI project.
 
-Power BI is a powerful, low-cost program that focuses on the entire business intelligence chain: from data wrangling to visualizing to sharing to automation.  Most BI programs (such as Tableau) focus primarily on data visualization, which often leaves users having to do significant (often repetitive) ‘data wrangling’ in Excel before it is ready to import. In contrast, Power BI enables users to clean data and then visualize and share.
+Power BI is a powerful, low-cost program that focuses on the entire business intelligence chain: from data wrangling to visualizing to sharing to automation. &nbsp;Most BI programs (such as Tableau) focus primarily on data visualization, which often leaves users having to do significant (often repetitive) ‘data wrangling’ in Excel before it is ready to import. In contrast, Power BI enables users to clean data and then visualize and share.
 
 Power BI also has substantial visualization/sharing/automation abilities allowing for easier exploration of your department’s data by your co-workers and the public. Instead of always having to calculate how many X are in Supervisorial District Y, you can now create an embed-able chart on your department website that automatically updates and always shows the most up-to-date estimates.
 
@@ -41,7 +40,7 @@ Power BI also has substantial visualization/sharing/automation abilities allowin
 * Share your work privately within the city or publicly
 * Best practices for documenting and managing your workflow
 * Tips and Tricks specially designed for the data needs of CCSF employees
-* Note: class is dedicated to practice, not high level overview or comparison to other programs.  Review CCSF powerBI brown bag slidedeck which dives into those areas.
+* Note: class is dedicated to practice, not high level overview or comparison to other programs. &nbsp;Review CCSF powerBI brown bag slidedeck which dives into those areas.
 
 ## Course Outline
 
