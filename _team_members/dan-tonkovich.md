@@ -3,7 +3,7 @@ name: Dan Tonkovich
 work_title: Open Data Program Manager
 email: dan.tonkovich@sfgov.org
 bio:
-gravatar:
+gravatar: 4730336f05325ec2d67ab0fead28c08e
 twitter:
 headshot_image_path: 
 instructor: Yes
