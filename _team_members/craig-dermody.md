@@ -1,11 +1,11 @@
 ---
 name: Craig Dermody
-work_title: Senior Performance Analyst
+work_title: Performance Analyst, Controller's Office
 email: craig.dermody@sfgov.org
 bio:
 gravatar:
 twitter:
 headshot_image_path:
-instructor: Yes
+instructor: 'Yes'
 ---
 \[NEED TO ADD\]
