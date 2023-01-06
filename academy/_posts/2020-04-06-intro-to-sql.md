@@ -19,16 +19,13 @@ series:
 team_members:
   - sherman-luk
 course_short_name: Intro to SQL
-course_materials_link: 'https://drive.google.com/drive/folders/0BwRgeGq-b8f9YVFKM0dWQzJKTG8'
+course_materials_link: https://drive.google.com/drive/folders/0BwRgeGq-b8f9YVFKM0dWQzJKTG8
 order: 0
 category: academy
 categories:
   - academy
 ---
-
 ## About This Course
-
-\*\*\* Data Academy has suspended its in-person classes due to the City's Shelter-in-Place Directive.&nbsp; Meanwhile, please take advantage of the free SF Public Library online&nbsp;[SQL courses from Gale](https://education.gale.com/l-sfpl/SearchResults.aspx?SearchTerms=SQL)&nbsp;if you have a library card, or [other SQL related courses at EDX.org](https://www.edx.org/course/?search_query=SQL&amp;language=English)&nbsp;(audits only).\*\*\*
 
 Simple data analysis and manipulation is often done in Excel. &nbsp;However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is usually a more popular choice. This course introduces attendees to a global database language SQL (Structured Query Language).
 
@@ -41,5 +38,8 @@ Simple data analysis and manipulation is often done in Excel. &nbsp;However, wit
 * Merge Data Elements from Different Tables Using JOINS
 * Combine Subsets of Records from Different Tables Using UNION
 * Aggregate data with SUM, AVG, MIN, MAX and the GROUP BY clause
+* How to run SQL queries in Snowflake (CCSF's cloud based data warehouse solution)
 
 Created 6/8/2017
+
+Updated 1/6/2023
