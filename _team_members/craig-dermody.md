@@ -6,6 +6,6 @@ bio:
 gravatar:
 twitter:
 headshot_image_path:
-instructor:
+instructor: Yes
 ---
 \[NEED TO ADD\]
