@@ -1,5 +1,5 @@
 ---
-title: Intro to SQL
+title: Beginner SQL for Analysts
 description: >-
   Much of the initial and simple data analysis and manipulation is done in Excel
   spreadsheets. However, with larger and more complex datasets, a relational
@@ -11,14 +11,13 @@ description: >-
 prerequisites: >-
   This workshop assumes that you are comfortable with data analysis and have
   manipulated data in Excel.
-length: '2.5'
+length: '2'
 subjects:
   - Analysis
   - Data Management
 series:
 team_members:
-  - sherman-luk
-course_short_name: Intro to SQL
+course_short_name: Beginner SQL for Analysts
 course_materials_link: https://drive.google.com/drive/folders/0BwRgeGq-b8f9YVFKM0dWQzJKTG8
 order: 0
 category: academy
