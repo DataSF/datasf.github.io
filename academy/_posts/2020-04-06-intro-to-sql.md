@@ -17,8 +17,9 @@ subjects:
   - Data Management
 series:
 team_members:
+  - dan-tonkovich
 course_short_name: Beginner SQL for Analysts
-course_materials_link: https://drive.google.com/drive/folders/0BwRgeGq-b8f9YVFKM0dWQzJKTG8
+course_materials_link:
 order: 0
 category: academy
 categories:
