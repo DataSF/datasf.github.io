@@ -1,8 +1,14 @@
 ---
 layout: course
-title: Developing Actionable Research
-course_short_name: Developing Actionable Research
-description: "This classroom-based workshop is an interactive  course meant for beginner to intermediate surveyors.\_It covers basic topics like: when should you survey, how to talk about surveys, and how to design a survey."
+title: >-
+  Delivering better data & research insights: choosing the right method for the
+  right question
+course_short_name: Delivering better data & research insights
+description: >-
+  When someone approaches you with a problem, how do you ensure that the method
+  you’ve chosen will give you answers? How do you distill problems into
+  actionable research or data questions? And once you’ve got your question, how
+  do you decide between quantitative or qualitative methods?
 prerequisites: None
 length: 3
 series:
@@ -10,8 +16,9 @@ subjects:
   - Analysis
   - Process Improvement
 team_members:
+  - nadine-levin
 course_materials_link:
-order: 0
+order: 1
 ---
 ## About This Course
 
