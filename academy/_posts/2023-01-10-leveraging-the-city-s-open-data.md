@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Leveraging the City's Open Data (Open)
+title: Leveraging the City's Open Data [OPEN]
 description: >-
   This course helps you unlock features of the City's open data portal to
   improve your own data workflows.
