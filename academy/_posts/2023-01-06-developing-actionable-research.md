@@ -36,3 +36,7 @@ This course will cover the following topics:
 ## Prerequisites
 
 There are no prerequisites for this course, but it’s helpful if you come in having thought about a recent problem that has been brought to you that you need to use data or research to solve.
+
+## Upcoming Courses Scheduled
+
+* **Jan. 27, 2023 @ 9AM - 12PM** ​​​​​​. Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.
