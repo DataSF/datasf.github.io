@@ -39,6 +39,12 @@ SQL, is an international standard language for data manipulation in a relational
 
 This workshop assumes that you are comfortable with data analysis and have manipulated data in Excel.
 
+## Upcoming Courses Scheduled
+
+* **Mar. 15, 2023 @ 9 - 11AM**
+
+*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+
 Created 6/8/2017
 
 Updated 1/6/2023
