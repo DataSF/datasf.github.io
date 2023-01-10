@@ -46,7 +46,9 @@ This workshop assumes that you are comfortable with data analysis and have manip
 
 ## Upcoming Courses Scheduled
 
-* **Feb. 9, 2023 @ 9 - 10AM** ​​​​​​. Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.
+* **Feb. 9, 2023 @ 9 - 10AM** ​​​​​​.
+
+*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
 
 ## More Resources
 
