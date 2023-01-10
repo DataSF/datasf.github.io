@@ -44,6 +44,10 @@ The class assumes you have working knowledge of Excel and a curiosity to learn n
 
 This workshop assumes that you are comfortable with data analysis and have manipulated data in Excel.
 
+## Upcoming Courses Scheduled
+
+* **Feb. 9, 2023 @ 9 - 10AM&nbsp;**​​​​​​. Click on the green button to register to attend.
+
 ## More Resources
 
 * Learn more on the [City's open data portal](https://data.sfgov.org)
