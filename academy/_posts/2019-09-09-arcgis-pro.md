@@ -39,4 +39,9 @@ By the end of this workshop you will be able to:
 For students interested in extending their skills, we will explore:
 
 * Tot spot analysis;
-* Basic ArcPy commands and scripting GeoJSON feeds into an ArcGIS Pro project.
+
+## Upcoming Courses Scheduled
+
+* **Mar. 17, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
+
+*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
