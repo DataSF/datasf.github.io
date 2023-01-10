@@ -45,9 +45,9 @@ This course will give analyst a new set of data eyes allowing them to identify a
 ## Course Outline
 
 * Data Structure - 1.5 hours
-* Mid-Point Exercise - .5 hours
+* Mid-Point Exercise - 0.5 hours
 * Data Modeling - 4 hours
-* Workflow Best Practices - .5 hours
+* Workflow Best Practices - 0.5 hours
 
 ## Pre-requisites
 
@@ -58,3 +58,9 @@ Completion of Data Academy’s Intro to PowerBI Course is required. &nbsp;This c
 Attendees should have made use of PowerBI since taking the Intro to PowerBI Course. &nbsp;This course is not designed as a refresher course, but as the next stage in training for advanced PowerBI analyst. &nbsp;Attendees out of practice should refresh their memories via an online course or work through the [final exercise again from the Intro Class](https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR){: target="_blank"}.
 
 Not everyone who takes the Intro to PowerBI course needs (or should) take this course; it is fast paced and geared for users of PowerBI tasked with complicated Data Modeling scenarios.
+
+## Upcoming Courses Scheduled
+
+* **Mar. 24, 2023 @ 9AM - 1PM (Part 1) & Mar. 31, 2023 @ 9AM - 1PM (Part 2)**
+
+*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
