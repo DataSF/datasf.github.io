@@ -2,7 +2,7 @@
 layout: course
 title: >-
   Delivering better data & research insights: choosing the right method for the
-  right question
+  right question [OPEN FOR ENROLLMENT]
 course_short_name: Delivering better data & research insights
 description: >-
   When someone approaches you with a problem, how do you ensure that the method

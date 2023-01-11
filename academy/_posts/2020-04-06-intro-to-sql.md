@@ -1,5 +1,5 @@
 ---
-title: Beginner SQL for Analysts
+title: Beginner SQL for Analysts [OPEN FOR ENROLLMENT]
 description: "Data analysis and manipulation is often done in Excel.\_ However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is often a more popular and effective choice. This course introduces attendees to a global database language SQL (Structured Query Language)."
 prerequisites: >-
   This workshop assumes that you are comfortable with data analysis and have

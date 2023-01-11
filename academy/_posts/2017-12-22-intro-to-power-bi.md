@@ -1,5 +1,5 @@
 ---
-title: Intro to Power BI
+title: Intro to Power BI [OPEN FOR ENROLLMENT]
 description: >-
   This course is designed to give you a strong foundation in Power BI and a
   jump-start on your 1st Power BI project. Power BI is a powerful, low-cost

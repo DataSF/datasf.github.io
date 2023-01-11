@@ -1,5 +1,5 @@
 ---
-title: ArcGIS Pro
+title: Intro to ArcGIS Pro [OPEN FOR ENROLLMENT]
 description: >-
   Unleash the power of ArcGIS Pro!! This four-hour workshop is designed for both
   new GIS users and those who are familiar with Arc Map or QGIS. We will become
