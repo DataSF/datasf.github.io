@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Leveraging the City's Open Data [OPEN FOR ENROLLMENT]
+title: Leveraging the City's Open Data [OPEN]
 description: >-
   This course helps you unlock features of the City's open data portal to
   improve your own data workflows.
@@ -46,7 +46,7 @@ This workshop assumes that you are comfortable with data analysis and have manip
 
 ## Upcoming Courses Scheduled
 
-* **Feb. 9, 2023 @ 9 - 10AM** ​​​​​​.
+* **Feb. 9, 2023 @ 9 - 10AM**
 
 *Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
 

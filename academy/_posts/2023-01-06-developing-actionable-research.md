@@ -39,6 +39,6 @@ There are no prerequisites for this course, but it’s helpful if you come in ha
 
 ## Upcoming Courses Scheduled
 
-* **Jan. 27, 2023 @ 9AM - 12PM**
+* **Feb 24 @ 9AM - 12PM**
 
 *Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
