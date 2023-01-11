@@ -20,9 +20,9 @@ categories:
 ---
 ## About This Course
 
-Data analysis and manipulation is often done in Excel.&nbsp; However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is often a more popular and effective choice. This course introduces attendees to a global database language SQL (Structured Query Language).
+Data analysis and manipulation is often done in Excel. However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is often a more popular and effective choice. This course introduces attendees to a global database language SQL (Structured Query Language).
 
-SQL, is an international standard language for data manipulation in a relational database and is an important skill for data scientists and analysts.&nbsp; This workshop will introduce you to SQL so you can manipulate your data more elegantly and efficiently.
+SQL, is an international standard language for data manipulation in a relational database and is an important skill for data scientists and analysts. This workshop will introduce you to SQL so you can manipulate your data more elegantly and efficiently.
 
 ## What You’ll Learn In This Course
 
