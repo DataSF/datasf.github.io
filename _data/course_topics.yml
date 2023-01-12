@@ -25,6 +25,6 @@
 #- name: Data Science
 #  class: fa-flask
 #  icon: fa-flask
-#- name: Mapping
-#  class: .mapping
-#  icon: fa-globe
+- name: Mapping
+  class: .mapping
+  icon: fa-globe
