@@ -10,6 +10,7 @@ length: Two 4-hour sessions, total 8
 subjects:
   - Data Management
   - Visualization
+  - PowerBI
 series:
   - PowerBI
 team_members:
