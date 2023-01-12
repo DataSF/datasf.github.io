@@ -14,7 +14,7 @@ subjects:
 series:
   - PowerBI
 team_members:
-  - alice-kassinger
+  - craig-dermody
 course_short_name: Intro to Power BI
 course_materials_link: >-
   https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR?usp=sharing
