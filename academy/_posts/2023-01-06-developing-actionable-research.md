@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Delivering better data & research insights
+title: Delivering Better Data & Research Insights
 course_short_name: >-
   Delivering better data & research insights: choosing the right method for the
   right question [OPEN]
