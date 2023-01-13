@@ -1,9 +1,9 @@
 ---
 layout: course
-title: >-
+title: Delivering better data & research insights
+course_short_name: >-
   Delivering better data & research insights: choosing the right method for the
   right question [OPEN]
-course_short_name: Delivering better data & research insights
 description: >-
   When someone approaches you with a problem, how do you ensure that the method
   you’ve chosen will give you answers? How do you distill problems into
