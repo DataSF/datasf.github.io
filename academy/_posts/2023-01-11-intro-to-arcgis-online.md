@@ -1,11 +1,11 @@
 ---
-title: Intro to ArcGIS Pro [OPEN]
+title: Intro to ArcGIS Online [OPEN]
 description: >-
-  Unleash the power of ArcGIS Pro!! This four-hour workshop is designed for both
-  new GIS users and those who are familiar with Arc Map or QGIS. We will become
-  familiar with core GIS functionality in ArcGIS Pro and explore the ease with
-  which Pro accomplishes advanced geoprocessing functions and its efficient data
-  management tools.
+  Unleash the power of ArcGIS Online!! This four-hour workshop is designed for
+  both new GIS users and those who are familiar with Arc Map or QGIS. We will
+  become familiar with core GIS functionality in ArcGIS Online and explore the
+  ease with which it accomplishes advanced geoprocessing functions and its
+  efficient data management tools.
 
 
   The class will consist of four short lecture/demonstrations paired with
@@ -19,13 +19,13 @@ subjects:
 series:
 team_members:
 course_short_name: ArcGIS Pro
-course_materials_link: https://drive.google.com/open?id=1rQLjjy5PHvaXM95qJcxc2Xzr6qDfIYfI
+course_materials_link:
 order: 0
 category: academy
 ---
 ## About this course
 
-Unleash the power of ArcGIS Pro\! This four-hour workshop is designed for both new GIS users and those who are familiar with Arc Map or QGIS. We will become familiar with core GIS functionality in ArcGIS Pro and explore the ease with which Pro accomplishes advanced geoprocessing functions and its efficient data management tools.
+Unleash the power of ArcGIS Online\! This four-hour workshop is designed for both new GIS users and those who are familiar with Arc Map or QGIS. We will become familiar with core GIS functionality in ArcGIS Online and explore the ease with which it accomplishes advanced geoprocessing functions and its efficient data management tools.
 
 The class will consist of four short lecture/demonstrations paired with self-paced exercises.
 
@@ -42,6 +42,6 @@ For students interested in extending their skills, we will explore:
 
 ## Upcoming Courses Scheduled
 
-* **Mar. 17, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
+* **Mar. 27, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
 
 *Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*

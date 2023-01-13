@@ -1,5 +1,5 @@
 ---
-title: Intro to Power BI
+title: Intro to Power BI [OPEN]
 description: >-
   This course is designed to give you a strong foundation in Power BI and a
   jump-start on your 1st Power BI project. Power BI is a powerful, low-cost
@@ -14,7 +14,7 @@ subjects:
 series:
   - PowerBI
 team_members:
-  - alice-kassinger
+  - craig-dermody
 course_short_name: Intro to Power BI
 course_materials_link: >-
   https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR?usp=sharing
@@ -51,3 +51,11 @@ Power BI also has substantial visualization/sharing/automation abilities allowin
 ## Prerequisites
 
 Participants should have a good working knowledge of pivot tables. This is a fast-paced intermediate level Data Academy course. Working knowledge of higher level programming languages such as R or Python can be substituted for pivot tables. Exceptions are rare and at the approval of the instructor.
+
+## Upcoming Courses Scheduled
+
+* **Jan. 20, 2023 @ 9AM - 1PM (Part 1) & Jan. 26, 2023 @ 9AM - 1PM (Part 2)**
+* **Feb. 10, 2023 @ 9AM - 1PM (Part 1) & Feb. 17, 2023 @ 9AM - 1PM (Part 2)**
+* **Mar. 3, 2023 @ 9AM - 1PM (Part 1) & Mar. 10, 2023 @ 9AM - 1PM (Part 2)**
+
+*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
