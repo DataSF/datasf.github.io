@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Delivering Better Data & Research Insights
+title: Delivering Better Data & Research Insights [OPEN]
 course_short_name: >-
   Delivering better data & research insights: choosing the right method for the
   right question [OPEN]
@@ -22,7 +22,7 @@ order: 1
 ---
 ## About This Course
 
-When someone approaches you with a problem, how do you ensure that the method you’ve chosen will give you answers? How do you distill problems into actionable research or data questions? And once you’ve got your question, how do you decide between quantitative or qualitative methods?
+Delivering better data & research insights: choosing the right method for the right question. When someone approaches you with a problem, how do you ensure that the method you’ve chosen will give you answers? How do you distill problems into actionable research or data questions? And once you’ve got your question, how do you decide between quantitative or qualitative methods?
 
 ## What You’ll Learn In This Course
 
