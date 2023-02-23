@@ -15,11 +15,11 @@ category: academy
 categories:
   - academy
 ---
-## About This Course
+## About this course
 
 This course will cover fundamental concepts in project management and is meant for a beginner audience. It will focus on the use of project management tools for improved day-to-day management of and contribution to City projects. Special focus will be given to the application these concepts to participants’ existing workplace experience. The course will use specific examples drawn from City services and operations. Individuals who would benefit from this course will be primarily analysts who are interested in building their management knowledge base.
 
-## What You'll Learn In This Course
+## What you'll learn in this course
 
 Subject matter will include the following:
 
