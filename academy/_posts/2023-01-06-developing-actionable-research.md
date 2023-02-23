@@ -18,7 +18,7 @@ subjects:
 team_members:
   - nadine-levin
 course_materials_link:
-order: 1
+order: 2
 ---
 ## About this course
 
