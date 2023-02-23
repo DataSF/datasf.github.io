@@ -13,7 +13,7 @@ team_members:
   - dan-tonkovich
 course_short_name: Beginner SQL for Analysts
 course_materials_link:
-order: 0
+order: 2
 category: academy
 categories:
   - academy
