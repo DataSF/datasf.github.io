@@ -20,11 +20,11 @@ team_members:
 course_materials_link:
 order: 1
 ---
-## About This Course
+## About this course
 
 Delivering better data & research insights: choosing the right method for the right question. When someone approaches you with a problem, how do you ensure that the method you’ve chosen will give you answers? How do you distill problems into actionable research or data questions? And once you’ve got your question, how do you decide between quantitative or qualitative methods?
 
-## What You’ll Learn In This Course
+## What you’ll learn in this course
 
 This course will cover the following topics:
 
@@ -37,7 +37,7 @@ This course will cover the following topics:
 
 There are no prerequisites for this course, but it’s helpful if you come in having thought about a recent problem that has been brought to you that you need to use data or research to solve.
 
-## Upcoming Courses Scheduled
+## Upcoming courses scheduled
 
 * **Mar 24 @ 9AM - 12PM (currently full)**
 
