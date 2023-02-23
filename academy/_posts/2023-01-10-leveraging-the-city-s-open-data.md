@@ -7,7 +7,7 @@ description: >-
 prerequisites: >-
   This workshop assumes that you are comfortable with data analysis and have
   manipulated data in Excel.
-length: '1'
+length: '1.5'
 subjects:
   - Analysis
   - Data Management
@@ -15,7 +15,8 @@ series:
 team_members:
   - dan-tonkovich
 course_short_name: Leveraging the City's Open Data
-course_materials_link:
+course_materials_link: >-
+  https://drive.google.com/drive/folders/0BwRgeGq-b8f9M1BvYlRnQlBKWG8?resourcekey=0-8pXikwPKUP_fBx8RmS4uDg&usp=share_link
 order: 1
 category: academy
 categories:
@@ -46,7 +47,9 @@ This workshop assumes that you are comfortable with data analysis and have manip
 
 ## Upcoming Courses Scheduled
 
-* **Feb. 9, 2023 @ 9 - 10AM**
+* **Mar. 30, 2023 @ 9 - 10:30AM**
+* **Apr. 27, 2023 @ 9 - 10:30AM**
+* **May 25, 2023 @ 9 - 10:30AM**
 
 *Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
 
