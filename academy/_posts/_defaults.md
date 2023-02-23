@@ -14,3 +14,5 @@ category: academy
 ## About this course
 
 ## What you'll learn in this course
+
+## Upcoming courses scheduled
