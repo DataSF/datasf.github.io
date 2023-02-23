@@ -31,7 +31,7 @@ By the end of this workshop you will be able to:
 * Manipulate data in tabular and spatial forms
 * Perform basic GIS analyses
 
-## Upcoming Courses Scheduled
+## Upcoming courses scheduled
 
 * **Apr. 24, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
 
