@@ -23,7 +23,7 @@ category: academy
 categories:
   - academy
 ---
-## About This Course
+## About this course
 
 This course is designed to give you a strong foundation in Power BI and a jump-start on your 1st Power BI project.
 
@@ -31,7 +31,7 @@ Power BI is a powerful, low-cost program that focuses on the entire business int
 
 Power BI also has substantial visualization/sharing/automation abilities allowing for easier exploration of your department’s data by your co-workers and the public. Instead of always having to calculate how many X are in Supervisorial District Y, you can now create an embed-able chart on your department website that automatically updates and always shows the most up-to-date estimates.
 
-## What You'll Learn In This Course
+## What you'll learn in this course
 
 * Import and 'data wrangle' data from various sources
 * Join multiple data sets for analysis
@@ -42,7 +42,7 @@ Power BI also has substantial visualization/sharing/automation abilities allowin
 * Tips and Tricks specially designed for the data needs of CCSF employees
 * Note: class is dedicated to practice, not high level overview or comparison to other programs. &nbsp;Review CCSF powerBI brown bag slidedeck which dives into those areas.
 
-## Course Outline
+## Course outline
 
 * Instruction - 4 hours
 * Long Exercise - 1.5 hours
@@ -52,7 +52,7 @@ Power BI also has substantial visualization/sharing/automation abilities allowin
 
 Participants should have a good working knowledge of pivot tables. This is a fast-paced intermediate level Data Academy course. Working knowledge of higher level programming languages such as R or Python can be substituted for pivot tables. Exceptions are rare and at the approval of the instructor.
 
-## Upcoming Courses Scheduled
+## Upcoming courses scheduled
 
 * **Mar. 3, 2023 @ 9AM - 1PM (Part 1) & Mar. 10, 2023 @ 9AM - 1PM (Part 2) \[currently full\]**
 
