@@ -29,4 +29,4 @@ By the end of this workshop you will be able to:
 
 * **Apr. 3, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus) \[currently full\]**
 
-*Click on the green button to register your interest in attending the next scheduled course. You will need your supervisor's approval to attend.*
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
