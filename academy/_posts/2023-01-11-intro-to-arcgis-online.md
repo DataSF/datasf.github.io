@@ -1,5 +1,5 @@
 ---
-title: Intro to ArcGIS Online [OPEN]
+title: Intro to ArcGIS Online
 description: "This workshop will cover display and exploration of spatial data, geo-located surveys, dashboards and Story Maps. At the end of\_the workshop you will be able to import data, and do some basic analysis such as finding the nearest facility, finding relationships, determining how many of something are within an area."
 prerequisites: none
 length: '4'
