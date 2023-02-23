@@ -11,7 +11,7 @@ series:
 team_members:
 course_short_name: ArcGIS Pro
 course_materials_link:
-order: 0
+order: 2
 category: academy
 ---
 ## About this course
