@@ -1,5 +1,5 @@
 ---
-title: Intro to Python for GIS Analysis
+title: Intro to Python for GIS Analysis [OPEN]
 description: >-
   This workshop will cover basic python use in GIS analysis. By completing this
   workshop, you will be able to read GIS data from various sources, manipulate
