@@ -41,4 +41,4 @@ There are no prerequisites for this course, but it’s helpful if you come in ha
 
 * **Mar 24 @ 9AM - 12PM (currently full)**
 
-*Click on the green button to register your interest in attending the next course. You will need your supervisor's approval to attend.*
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
