@@ -1,5 +1,5 @@
 ---
-title: Intro to Power BI [OPEN]
+title: Intro to Power BI
 description: >-
   This course is designed to give you a strong foundation in Power BI and a
   jump-start on your 1st Power BI project. Power BI is a powerful, low-cost
@@ -54,8 +54,6 @@ Participants should have a good working knowledge of pivot tables. This is a fas
 
 ## Upcoming Courses Scheduled
 
-* **Jan. 20, 2023 @ 9AM - 1PM (Part 1) & Jan. 26, 2023 @ 9AM - 1PM (Part 2)**
-* **Feb. 10, 2023 @ 9AM - 1PM (Part 1) & Feb. 17, 2023 @ 9AM - 1PM (Part 2)**
-* **Mar. 3, 2023 @ 9AM - 1PM (Part 1) & Mar. 10, 2023 @ 9AM - 1PM (Part 2)**
+* **Mar. 3, 2023 @ 9AM - 1PM (Part 1) & Mar. 10, 2023 @ 9AM - 1PM (Part 2) \[currently full\]**
 
-*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+*Click on the green button to register your interest in attending the next available course. You will need your supervisor's approval to attend.*
