@@ -14,7 +14,7 @@ subjects:
   - Process Improvement
 team_members:
   - marc-hebert
-order: 3
+order: 0
 course_materials_link: https://drive.google.com/drive/folders/0BwRgeGq-b8f9bUx5MFpOT0hsV3c
 ---
 ## About this course
