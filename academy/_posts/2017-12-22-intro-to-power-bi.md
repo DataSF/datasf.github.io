@@ -18,7 +18,7 @@ team_members:
 course_short_name: Intro to Power BI
 course_materials_link: >-
   https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR?usp=sharing
-order: '0'
+order: '2'
 category: academy
 categories:
   - academy
