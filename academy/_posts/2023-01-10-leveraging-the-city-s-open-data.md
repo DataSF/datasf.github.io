@@ -51,7 +51,7 @@ This workshop assumes that you are comfortable with data analysis and have manip
 * **Apr. 27, 2023 @ 9 - 10:30AM**
 * **May 25, 2023 @ 9 - 10:30AM**
 
-*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
 
 ## More Resources
 
