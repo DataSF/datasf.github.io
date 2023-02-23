@@ -16,7 +16,7 @@ series:
 team_members:
 course_short_name: Intro to Python for GIS Analysis
 course_materials_link:
-order: 0
+order: 1
 category: academy
 ---
 ## About this course
