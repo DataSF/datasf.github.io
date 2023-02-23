@@ -1,9 +1,9 @@
 ---
 layout: course
-title: Delivering Better Data & Research Insights [OPEN]
+title: Delivering Better Data & Research Insights
 course_short_name: >-
   Delivering better data & research insights: choosing the right method for the
-  right question [OPEN]
+  right question
 description: >-
   When someone approaches you with a problem, how do you ensure that the method
   you’ve chosen will give you answers? How do you distill problems into
@@ -39,6 +39,6 @@ There are no prerequisites for this course, but it’s helpful if you come in ha
 
 ## Upcoming Courses Scheduled
 
-* **Feb 24 @ 9AM - 12PM**
+* **Mar 24 @ 9AM - 12PM (currently full)**
 
-*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+*Click on the green button to register your interest in attending the next course. You will need your supervisor's approval to attend.*
