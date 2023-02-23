@@ -25,7 +25,7 @@ By the end of this workshop you will be able to:
 * Import data
 * Perform basic analysis, such as finding the nearest facility, finding relationships, determining how many of something are within an area
 
-## Upcoming Courses Scheduled
+## Upcoming courses scheduled
 
 * **Apr. 3, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus) \[currently full\]**
 
