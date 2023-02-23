@@ -18,13 +18,13 @@ category: academy
 categories:
   - academy
 ---
-## About This Course
+## About this course
 
 Data analysis and manipulation is often done in Excel. However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is often a more popular and effective choice. This course introduces attendees to a global database language SQL (Structured Query Language).
 
 SQL, is an international standard language for data manipulation in a relational database and is an important skill for data scientists and analysts. This workshop will introduce you to SQL so you can manipulate your data more elegantly and efficiently.
 
-## What You’ll Learn In This Course
+## What you’ll learn in this course
 
 * Data Table Fundamental
 * Basic syntax of SQL – Your First SQL Query
@@ -39,7 +39,7 @@ SQL, is an international standard language for data manipulation in a relational
 
 This workshop assumes that you are comfortable with data analysis and have manipulated data in Excel.
 
-## Upcoming Courses Scheduled
+## Upcoming courses scheduled
 
 * **Mar. 15, 2023 @ 9 - 11AM \[currently full\]**
 
