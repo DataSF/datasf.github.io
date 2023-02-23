@@ -1,15 +1,6 @@
 ---
-title: Intro to ArcGIS Online [OPEN]
-description: >-
-  Unleash the power of ArcGIS Online!! This four-hour workshop is designed for
-  both new GIS users and those who are familiar with Arc Map or QGIS. We will
-  become familiar with core GIS functionality in ArcGIS Online and explore the
-  ease with which it accomplishes advanced geoprocessing functions and its
-  efficient data management tools.
-
-
-  The class will consist of four short lecture/demonstrations paired with
-  self-paced exercises.
+title: Intro to ArcGIS Online
+description: "This workshop will cover display and exploration of spatial data, geo-located surveys, dashboards and Story Maps. At the end of\_the workshop you will be able to import data, and do some basic analysis such as finding the nearest facility, finding relationships, determining how many of something are within an area."
 prerequisites: none
 length: '4'
 subjects:
@@ -20,28 +11,22 @@ series:
 team_members:
 course_short_name: ArcGIS Pro
 course_materials_link:
-order: 0
+order: 2
 category: academy
 ---
 ## About this course
 
-Unleash the power of ArcGIS Online\! This four-hour workshop is designed for both new GIS users and those who are familiar with Arc Map or QGIS. We will become familiar with core GIS functionality in ArcGIS Online and explore the ease with which it accomplishes advanced geoprocessing functions and its efficient data management tools.
-
-The class will consist of four short lecture/demonstrations paired with self-paced exercises.
+This workshop will cover display and exploration of spatial data, geo-located surveys, dashboards and Story Maps. At the end of the workshop you will be able to import data, and do some basic analysis such as finding the nearest facility, finding relationships, determining how many of something are within an area.
 
 ## What you'll learn in this course
 
 By the end of this workshop you will be able to:
 
-* Tell a story and solve a problem with a map;
-* Complete basic topology editing and integrate data from the City Open Data portal and other open source data sources.
+* Import data
+* Perform basic analysis, such as finding the nearest facility, finding relationships, determining how many of something are within an area
 
-For students interested in extending their skills, we will explore:
+## Upcoming courses scheduled
 
-* Tot spot analysis;
+* **Apr. 3, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus) \[currently full\]**
 
-## Upcoming Courses Scheduled
-
-* **Mar. 27, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
-
-*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*

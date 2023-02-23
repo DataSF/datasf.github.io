@@ -1,5 +1,5 @@
 ---
-title: Intermediate Power BI [OPEN]
+title: Intermediate Power BI
 description: "This course is the 2nd in DataSF’s series on PowerBI. \_This course will provide a strong foundation in Data Structure and Data Modeling through the tool of PowerBI. \_Analyst tasked with getting multiple data sources to talk to each other in PowerBI will find this class of use."
 prerequisites: >-
   Participants must have taken Data Academy's Intro to Power BI, and should be
@@ -15,7 +15,7 @@ team_members:
   - craig-dermody
 course_short_name: 'Intermediate Power BI: Data Modeling'
 course_materials_link: https://drive.google.com/open?id=1T_bQ75Uj96aVq27C00CrWLth5S2XzUXq
-order: '1'
+order: '2'
 category: academy
 categories:
   - academy
@@ -42,7 +42,7 @@ This course will give analyst a new set of data eyes allowing them to identify a
   * Identify and fix common data modeling challenges
   * Workflow best practice
 
-## Course Outline
+## Course outline
 
 * Data Structure - 1.5 hours
 * Mid-Point Exercise - 0.5 hours
@@ -59,8 +59,8 @@ Attendees should have made use of PowerBI since taking the Intro to PowerBI Cour
 
 Not everyone who takes the Intro to PowerBI course needs (or should) take this course; it is fast paced and geared for users of PowerBI tasked with complicated Data Modeling scenarios.
 
-## Upcoming Courses Scheduled
+## Upcoming courses scheduled
 
-* **Mar. 24, 2023 @ 9AM - 1PM (Part 1) & Mar. 31, 2023 @ 9AM - 1PM (Part 2)**
+* **Mar. 24, 2023 @ 9AM - 1PM (Part 1) & Mar. 31, 2023 @ 9AM - 1PM (Part 2) \[currently full\]**
 
-*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*

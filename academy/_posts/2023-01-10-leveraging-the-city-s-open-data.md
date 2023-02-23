@@ -7,7 +7,7 @@ description: >-
 prerequisites: >-
   This workshop assumes that you are comfortable with data analysis and have
   manipulated data in Excel.
-length: '1'
+length: '1.5'
 subjects:
   - Analysis
   - Data Management
@@ -15,13 +15,14 @@ series:
 team_members:
   - dan-tonkovich
 course_short_name: Leveraging the City's Open Data
-course_materials_link:
+course_materials_link: >-
+  https://drive.google.com/drive/folders/0BwRgeGq-b8f9M1BvYlRnQlBKWG8?resourcekey=0-8pXikwPKUP_fBx8RmS4uDg&usp=share_link
 order: 1
 category: academy
 categories:
   - academy
 ---
-## About This Course
+## About this course
 
 This course helps you unlock features of the open data portal to improve your own data workflows.
 
@@ -29,7 +30,7 @@ Have you heard of the [City's open data portal](https://data.sfgov.org)? Even if
 
 The class assumes you have working knowledge of Excel and a curiosity to learn new tools.
 
-## What You’ll Learn In This Course
+## What you’ll learn in this course
 
 * Using the open data portal (30 min)
   * Finding a dataset
@@ -44,12 +45,14 @@ The class assumes you have working knowledge of Excel and a curiosity to learn n
 
 This workshop assumes that you are comfortable with data analysis and have manipulated data in Excel.
 
-## Upcoming Courses Scheduled
+## Upcoming courses scheduled
 
-* **Feb. 9, 2023 @ 9 - 10AM**
+* **Mar. 30, 2023 @ 9 - 10:30AM**
+* **Apr. 27, 2023 @ 9 - 10:30AM**
+* **May 25, 2023 @ 9 - 10:30AM**
 
-*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
 
-## More Resources
+## More resources
 
 * Learn more on the [City's open data portal](https://data.sfgov.org)

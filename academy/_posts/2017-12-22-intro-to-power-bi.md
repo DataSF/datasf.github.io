@@ -1,5 +1,5 @@
 ---
-title: Intro to Power BI [OPEN]
+title: Intro to Power BI
 description: >-
   This course is designed to give you a strong foundation in Power BI and a
   jump-start on your 1st Power BI project. Power BI is a powerful, low-cost
@@ -18,12 +18,12 @@ team_members:
 course_short_name: Intro to Power BI
 course_materials_link: >-
   https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR?usp=sharing
-order: '0'
+order: '2'
 category: academy
 categories:
   - academy
 ---
-## About This Course
+## About this course
 
 This course is designed to give you a strong foundation in Power BI and a jump-start on your 1st Power BI project.
 
@@ -31,7 +31,7 @@ Power BI is a powerful, low-cost program that focuses on the entire business int
 
 Power BI also has substantial visualization/sharing/automation abilities allowing for easier exploration of your department’s data by your co-workers and the public. Instead of always having to calculate how many X are in Supervisorial District Y, you can now create an embed-able chart on your department website that automatically updates and always shows the most up-to-date estimates.
 
-## What You'll Learn In This Course
+## What you'll learn in this course
 
 * Import and 'data wrangle' data from various sources
 * Join multiple data sets for analysis
@@ -42,7 +42,7 @@ Power BI also has substantial visualization/sharing/automation abilities allowin
 * Tips and Tricks specially designed for the data needs of CCSF employees
 * Note: class is dedicated to practice, not high level overview or comparison to other programs. &nbsp;Review CCSF powerBI brown bag slidedeck which dives into those areas.
 
-## Course Outline
+## Course outline
 
 * Instruction - 4 hours
 * Long Exercise - 1.5 hours
@@ -52,10 +52,8 @@ Power BI also has substantial visualization/sharing/automation abilities allowin
 
 Participants should have a good working knowledge of pivot tables. This is a fast-paced intermediate level Data Academy course. Working knowledge of higher level programming languages such as R or Python can be substituted for pivot tables. Exceptions are rare and at the approval of the instructor.
 
-## Upcoming Courses Scheduled
+## Upcoming courses scheduled
 
-* **Jan. 20, 2023 @ 9AM - 1PM (Part 1) & Jan. 26, 2023 @ 9AM - 1PM (Part 2)**
-* **Feb. 10, 2023 @ 9AM - 1PM (Part 1) & Feb. 17, 2023 @ 9AM - 1PM (Part 2)**
-* **Mar. 3, 2023 @ 9AM - 1PM (Part 1) & Mar. 10, 2023 @ 9AM - 1PM (Part 2)**
+* **Mar. 3, 2023 @ 9AM - 1PM (Part 1) & Mar. 10, 2023 @ 9AM - 1PM (Part 2) \[currently full\]**
 
-*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*

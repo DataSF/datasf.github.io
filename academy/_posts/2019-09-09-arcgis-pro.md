@@ -1,15 +1,10 @@
 ---
-title: Intro to ArcGIS Pro [OPEN]
+title: Intro to ArcGIS Pro
 description: >-
-  Unleash the power of ArcGIS Pro!! This four-hour workshop is designed for both
-  new GIS users and those who are familiar with Arc Map or QGIS. We will become
-  familiar with core GIS functionality in ArcGIS Pro and explore the ease with
-  which Pro accomplishes advanced geoprocessing functions and its efficient data
-  management tools.
-
-
-  The class will consist of four short lecture/demonstrations paired with
-  self-paced exercises.
+  This workshop will leverage City of San Francisco geospatial data to
+  demonstrate creating and editing GIS data as well as performing basic
+  intermediate level spatial analysis techniques. These topics will include:
+  Zonal statistics, spatial joins, and attribute field calculations.
 prerequisites: none
 length: '4'
 subjects:
@@ -20,28 +15,23 @@ series:
 team_members:
 course_short_name: ArcGIS Pro
 course_materials_link: https://drive.google.com/open?id=1rQLjjy5PHvaXM95qJcxc2Xzr6qDfIYfI
-order: 0
+order: 2
 category: academy
 ---
 ## About this course
 
-Unleash the power of ArcGIS Pro\! This four-hour workshop is designed for both new GIS users and those who are familiar with Arc Map or QGIS. We will become familiar with core GIS functionality in ArcGIS Pro and explore the ease with which Pro accomplishes advanced geoprocessing functions and its efficient data management tools.
-
-The class will consist of four short lecture/demonstrations paired with self-paced exercises.
+This workshop will leverage City of San Francisco geospatial data to demonstrate creating and editing GIS data as well as performing basic intermediate level spatial analysis techniques. These topics will include: Zonal statistics, spatial joins, and attribute field calculations. By completing this course workshop you will be able to create and edit shapefiles and geodatabases, join separate datasets together such as Restaurant Health Scores to areas such as census tracts, and calculate values within GIS data like number of restaurants with high health scores in a census tract, proximity to nearest emergency response infrastructure, and length of bike lanes in a particular neighborhood.
 
 ## What you'll learn in this course
 
 By the end of this workshop you will be able to:
 
-* Tell a story and solve a problem with a map;
-* Complete basic topology editing and integrate data from the City Open Data portal and other open source data sources.
-
-For students interested in extending their skills, we will explore:
-
-* Tot spot analysis;
+* create and edit shapefiles and geodatabases,
+* join separate datasets together such as Restaurant Health Scores to areas such as census tracts, and
+* calculate values within GIS data like number of restaurants with high health scores in a census tract, proximity to nearest emergency response infrastructure, and length of bike lanes in a particular neighborhood.
 
 ## Upcoming Courses Scheduled
 
-* **Mar. 17, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
+* **Mar. 17, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus) \[currently full\]**
 
-*Click on the green button to register your interest in attending the course. You will need your supervisor's approval to attend.*
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
