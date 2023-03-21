@@ -157,10 +157,10 @@ kimberly_hicks:
   gravatar: e60f96bec9c1d177713240e49bb71bf6
 tania_jogesh:
   name: Tania Jogesh
-  title: Data Scientist
-  bio: Data Scientist, City and County of San Francisco
+  title: Senior Data Scientist
+  bio: Senior Data Scientist, City and County of San Francisco
   long_bio: >-
-    Tania Jogesh is the Data Scientist at DataSF. Tania comes to DataSF with
+    Tania Jogesh is the Senior Data Scientist at DataSF. Tania comes to DataSF with
     more than a decade of data-driven research experience, an unconventional
     background in pollination ecology, and a desire to improve the world with
     data. She holds a PhD in Entomology from the University of Illinois
@@ -220,10 +220,10 @@ tyler_field:
   gravatar: 79b9fea29899c271fa2c5a9503edf1c3
 helen_mclendon:
   name: Helen McLendon
-  title: Analytics Engineer
-  bio: Analytics Engineer, City and County of San Francisco
+  title: Senior Analytics Engineer
+  bio: Senior Analytics Engineer, City and County of San Francisco
   long_bio: >-
-    Helen McLendon is the Analytics Engineer at DataSF. She comes to the City
+    Helen McLendon is the Senior Analytics Engineer at DataSF. She comes to the City
     with a background in computational neuroscience, experience developing
     healthcare software, and a zeal for building well-structured, meaningful
     datasets. She received her Bachelor's degree in Biology from Stanford
@@ -290,3 +290,10 @@ dan_tonkovich:
     Dan bikes around SF, stopping a lot for snacks. He holds a bachelor's degree
     in Economics from Tulane University.
   gravatar: 4730336f05325ec2d67ab0fead28c08e
+matt_smith:
+  name: Matthew Smith
+  title: Analytics Engineer
+  bio: Analytics Engineer, DataSF
+  long_bio: >-
+    Matthew Smith is an Analytics Engineer at DataSF. A Bay Area local, Matt began working for the City after receiving his Bachelor's degree in Computer Science from the University of California, Berkeley. First beginning as a data engineer at San Francisco International Airport, Matt spent 2 1/2 years working for the Department of Public Health on the City's COVID-19 response. He built the daily process that brings in vaccination data from the state's registry, and managed the data pipelines that populate the open data portal datasets for COVID and mpox. In his free time, Matt enjoys long bike rides, the produce section at Berkeley Bowl, and independent movie theaters.
+  gravatar: bc7d0addc2b3b411213e37eb65369ee6
