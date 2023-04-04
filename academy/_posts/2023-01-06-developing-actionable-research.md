@@ -17,7 +17,8 @@ subjects:
   - Process Improvement
 team_members:
   - nadine-levin
-course_materials_link:
+course_materials_link: >-
+  https://drive.google.com/drive/folders/1hfX4olmBWzwpd1ADx5aPN84Cig3wmSCM?usp=share_link
 order: 2
 ---
 ## About this course
@@ -39,6 +40,6 @@ There are no prerequisites for this course, but it’s helpful if you come in ha
 
 ## Upcoming courses scheduled
 
-* **Mar 24 @ 9AM - 12PM (currently full)**
+* **More courses coming soon (June 2023, date TBC)!**
 
 *Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*

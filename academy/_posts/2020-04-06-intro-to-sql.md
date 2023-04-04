@@ -12,7 +12,8 @@ series:
 team_members:
   - dan-tonkovich
 course_short_name: Beginner SQL for Analysts
-course_materials_link:
+course_materials_link: >-
+  https://drive.google.com/drive/folders/0BwRgeGq-b8f9YVFKM0dWQzJKTG8?resourcekey=0-UOJoxCd6VzbYWaHtMeNE0g&usp=share_link
 order: 2
 category: academy
 categories:
@@ -41,10 +42,10 @@ This workshop assumes that you are comfortable with data analysis and have manip
 
 ## Upcoming courses scheduled
 
-* **Mar. 15, 2023 @ 9 - 11AM \[currently full\]**
+* **More courses coming soon (April, May, June 2023)**
 
 *Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
 
 Created 6/8/2017
 
-Updated 1/6/2023
+Updated 4/4/2023
