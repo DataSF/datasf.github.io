@@ -3,7 +3,6 @@ title: Data Coordinator Guidance
 description: >-
   Resources to aid data coordinators in their duties including the collection
   and maintenance of dataset inventories for the open data program.
-tags:
 resources_list:
   - name: Data Coordinator Guidebook
     description: Guidebook for City and County of San Francisco data coordinators.
@@ -54,7 +53,7 @@ resources_list:
     post_date: 2015-01-29 00:00:00
     resource_type: Video
     links:
-      - link: 'https://www.youtube.com/watch?v=sJn6vdaebmU'
+      - link: https://www.youtube.com/watch?v=sJn6vdaebmU
         media_type: Link
   - name: Data Inventory Template
     description: >-
@@ -75,7 +74,6 @@ resources_list:
           https://drive.google.com/uc?export=download&id=1w2KTSiOPjX-Ndn80SMMf-RJ1Jp6ALD2T
         media_type: Excel
 ---
-
 The resources here provide a mix of guidance, templates and examples to help data coordinators. You can read more about the process in the blog post, [5 Ways to Scale the Mountain of Data in Your Organization](/blog/5-ways-to-scale-mountain-of-data/).
 
 The [dataset inventory provides a list of data maintained by departments](https://data.sfgov.org/City-Management-and-Ethics/Dataset-Inventory/y8fp-fbf5) and is collected in accordance with Chapter 22D of the Administrative Code. Additionally, when data can be published to the portal, a link to the public dataset is made available in that inventory. Data Coordinators, appointed by their departments, are responsible for annual inventory updates.
