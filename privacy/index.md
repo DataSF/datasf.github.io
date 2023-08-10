@@ -1,7 +1,5 @@
 ---
-layout: fixed
-title: Privacy Policy
-toc: true
+redirect_to: https://sf.gov/information/datasf-privacy-policy
 ---
 
 Last Revised: August 30, 2016
