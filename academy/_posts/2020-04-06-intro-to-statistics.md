@@ -15,8 +15,6 @@ order: 0
 ---
 ## About This Course
 
-\*\*\* Data Academy has suspended its in-person classes due to the City's Shelter-in-Place Directive.&nbsp; Meanwhile, please take advantage of the free SF Public Library online [Introduction to Statistics course from Gale](https://education.gale.com/l-sfpl/online-courses/statistics-introduction?tab=detail)&nbsp;if you have a library card, or [other statistics related courses at EDX.org](https://www.edx.org/course/?search_query=statistics&amp;level=Introductory&amp;language=English)&nbsp;(audits only).\*\*\*
-
 In this two-part introductory statistics course, participants will learn the building blocks necessary to understand the data they work with and conduct more advanced analysis in the future.
 
 Topics covered in the first part include: statistical terminology, introduction to sampling, summarizing data through central tendency measures, understanding data variability measures, and examining distributions of data.
