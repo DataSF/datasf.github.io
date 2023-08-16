@@ -1,5 +1,5 @@
 ---
-title: Intro to SQL
+title: Intro to SQL [OPEN]
 description: "Data analysis and manipulation is often done in Excel.\_ However, with larger and more complex datasets, a relational database (e.g. Oracle, Microsoft SQL Server/Access) is often a more popular and effective choice. This course introduces attendees to a global database language SQL (Structured Query Language)."
 prerequisites: >-
   This workshop assumes that you are comfortable with data analysis and have
@@ -42,10 +42,10 @@ This workshop assumes that you are comfortable with data analysis and have manip
 
 ## Upcoming courses scheduled
 
-* **More courses coming soon (April, May, June 2023)**
+* **Runs monthly!&nbsp;**Check the Data Academy calendar for upcoming course dates.
 
 *Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
 
 Created 6/8/2017
 
-Updated 4/4/2023
+Updated 8/16/2023

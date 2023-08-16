@@ -1,5 +1,5 @@
 ---
-title: Intro to ArcGIS Pro
+title: Intro to ArcGIS Pro [OPEN]
 description: >-
   This workshop will leverage City of San Francisco geospatial data to
   demonstrate creating and editing GIS data as well as performing basic
@@ -12,7 +12,6 @@ subjects:
   - Mapping
   - Visualization
 series:
-team_members:
 course_short_name: ArcGIS Pro
 course_materials_link: https://drive.google.com/open?id=1rQLjjy5PHvaXM95qJcxc2Xzr6qDfIYfI
 order: 2
@@ -32,6 +31,6 @@ By the end of this workshop you will be able to:
 
 ## Upcoming Courses Scheduled
 
-* **Mar. 17, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus) \[currently full\]**
+* **Oct. 26, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
 
 *Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*

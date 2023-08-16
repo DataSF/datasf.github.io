@@ -1,5 +1,5 @@
 ---
-title: Intro to Power BI
+title: Intro to Power BI [OPEN]
 description: >-
   This course is designed to give you a strong foundation in Power BI and a
   jump-start on your 1st Power BI project. Power BI is a powerful, low-cost
@@ -54,6 +54,8 @@ Participants should have a good working knowledge of pivot tables. This is a fas
 
 ## Upcoming courses scheduled
 
-* **Mar. 3, 2023 @ 9AM - 1PM (Part 1) & Mar. 10, 2023 @ 9AM - 1PM (Part 2) \[currently full\]**
+* **Sep. 8, 2023 @ 9AM - 1PM (Part 1) & Sep.15, 2023 @ 9AM - 1PM (Part 2)**​​​​​​
+
+​This course will be taught every other month. Check the Data Academy calendar the upcoming course dates.
 
 *Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
