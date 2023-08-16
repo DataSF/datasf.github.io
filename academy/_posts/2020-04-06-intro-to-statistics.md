@@ -1,8 +1,13 @@
 ---
 layout: course
-title: Intro to Statistics
+title: Intro to Statistics [OPEN]
 course_short_name: Intro to Statistics
-description: "In this two-part introductory statistics course, participants will learn the building blocks necessary to understand the data they work with and conduct more advanced analysis in the future. \n\nTopics covered in the first part include: statistical terminology, introduction to sampling, summarizing data through central tendency measures, understanding data variability measures, and examining distributions of data.\n\nThe second part\_will build on this content, with topics covering: introduction to probabilities, how to tell if statistics are meaningfully different from one-another, and how to make inferences about populations using samples. It is recommended that students attend part one or be familiar with the topics discussed\_in part one\_before attending part two of this series."
+description: >-
+  In this two-part introductory statistics course, participants will learn the
+  building blocks necessary to understand the data they work with and conduct
+  more advanced analysis in the future. Statistical concepts covered include:
+  probabilities, data variability measures and distributions, significance
+  testing, and more.
 prerequisites: >-
   For Part II - Attendance to Part I or an understanding of the topics discussed
   in it.
