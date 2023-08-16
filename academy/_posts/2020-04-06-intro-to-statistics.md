@@ -10,11 +10,9 @@ length: Two 2-hour sessions
 series:
 subjects:
   - Analysis
-team_members:
-course_materials_link: 'https://drive.google.com/open?id=1A045pvgKNvxmO2fW7ER3Gs0KFeTOsr7E'
+course_materials_link: https://drive.google.com/open?id=1A045pvgKNvxmO2fW7ER3Gs0KFeTOsr7E
 order: 0
 ---
-
 ## About This Course
 
 \*\*\* Data Academy has suspended its in-person classes due to the City's Shelter-in-Place Directive.&nbsp; Meanwhile, please take advantage of the free SF Public Library online [Introduction to Statistics course from Gale](https://education.gale.com/l-sfpl/online-courses/statistics-introduction?tab=detail)&nbsp;if you have a library card, or [other statistics related courses at EDX.org](https://www.edx.org/course/?search_query=statistics&amp;level=Introductory&amp;language=English)&nbsp;(audits only).\*\*\*
@@ -48,4 +46,12 @@ Part II
 
 For Part II - Attendance to Part I or an understanding of the topics discussed in it.&nbsp;
 
+## Upcoming courses scheduled
+
+* **Course dates to be announced based on demand.**
+
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
+
 Created 3/1/2016
+
+Updated 8/16/2023
