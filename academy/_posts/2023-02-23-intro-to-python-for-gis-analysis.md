@@ -13,7 +13,6 @@ subjects:
   - Mapping
   - Visualization
 series:
-team_members:
 course_short_name: Intro to Python for GIS Analysis
 course_materials_link:
 order: 1
@@ -33,6 +32,6 @@ By the end of this workshop you will be able to:
 
 ## Upcoming courses scheduled
 
-* **Apr. 24, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
+* **Sep. 5, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
 
 *Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
