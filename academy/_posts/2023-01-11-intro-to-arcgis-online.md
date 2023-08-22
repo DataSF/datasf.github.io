@@ -1,5 +1,5 @@
 ---
-title: Intro to ArcGIS Online
+title: Intro to ArcGIS Online [OPEN]
 description: "This workshop will cover display and exploration of spatial data, geo-located surveys, dashboards and Story Maps. At the end of\_the workshop you will be able to import data, and do some basic analysis such as finding the nearest facility, finding relationships, determining how many of something are within an area."
 prerequisites: none
 length: '4'
@@ -8,7 +8,6 @@ subjects:
   - Mapping
   - Visualization
 series:
-team_members:
 course_short_name: ArcGIS Pro
 course_materials_link:
 order: 2
@@ -27,6 +26,6 @@ By the end of this workshop you will be able to:
 
 ## Upcoming courses scheduled
 
-* **Apr. 3, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus) \[currently full\]**
+* **Sept 28, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
 
 *Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*

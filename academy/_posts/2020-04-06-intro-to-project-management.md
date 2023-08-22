@@ -6,7 +6,6 @@ length: 3 hours
 subjects:
   - Data Management
 series:
-team_members:
 course_short_name: Intro to Project Management
 course_materials_link: >-
   https://drive.google.com/drive/folders/17xD3g4CD3D4WOe6qHJODrPR9M_TmmmCX?usp=sharing

@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Delivering Better Data & Research Insights
+title: Delivering Better Data & Research Insights [OPEN]
 course_short_name: >-
   Delivering better data & research insights: choosing the right method for the
   right question
@@ -40,6 +40,6 @@ There are no prerequisites for this course, but it’s helpful if you come in ha
 
 ## Upcoming courses scheduled
 
-* **More courses coming soon (June 2023, date TBC)!**
+* **More courses coming soon!**
 
 *Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*

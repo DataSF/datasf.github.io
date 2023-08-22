@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Intro to Survey Design
+title: Intro to Survey Design [OPEN]
 course_short_name: Intro to Survey Design
 description: "This classroom-based workshop is an interactive  course meant for beginner to intermediate surveyors.\_It covers basic topics like: when should you survey, how to talk about surveys, and how to design a survey."
 prerequisites: None
@@ -8,12 +8,10 @@ length: 3
 series:
 subjects:
   - Data Management
-team_members:
 course_materials_link: >-
   https://drive.google.com/drive/folders/1rJcvPRigyupCvlwnFJ-n_DzRgxBQwzUX?usp=sharing
 order: 0
 ---
-
 ## About This Course
 
 Are you thinking about sending out a survey? Are you already doing so regularly but want to get more helpful responses? Come learn about good survey design and implementation. This is an interactive&nbsp; course meant for beginner to intermediate surveyors. You don’t need to have a project started or planned.
@@ -29,4 +27,10 @@ This course will cover the following topics:
 
 ## Prerequisites
 
-There are no prerequisites for this course, but it’s helpful if you come in having thought about what you have used or want to use surveys for\!
+There are no prerequisites for this course, but it’s helpful if you come in having thought about what you have used or want to use surveys for!
+
+## Upcoming courses scheduled
+
+* **Course dates to be announced soon.**
+
+*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
