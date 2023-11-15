@@ -32,6 +32,8 @@ By the end of this workshop you will be able to:
 
 ## Upcoming courses scheduled
 
-* **Sep. 5, 2023 @ 9AM - 1PM (in person at USF Lone Mountain campus)**
+[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noopener noreferrer"}&nbsp;to see a list of confirmed upcoming classes. Enrollment for a class starts about 3 weeks before the course date.
 
-*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
+To be notified when a class opens for enrollment, fill out the&nbsp;[Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noopener noreferrer"}&nbsp;and select the courses you’re interested in. You will receive an email the next time the class is offered (and seats are available).
+
+*Note: You must seek your supervisor’s approval to attend any Data Academy courses.*
