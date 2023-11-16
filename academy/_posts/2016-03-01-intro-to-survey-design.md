@@ -36,9 +36,3 @@ There are no prerequisites for this course, but it’s helpful if you come in ha
 After completing the interest form, you will get an email when enrollment opens 3 weeks prior to class. Enrollment is not guaranteed as sometimes there are more interested employees than available seats.
 
 *Note: You must get your supervisor’s approval to attend any Data Academy courses.*
-
-a class starts about 3 weeks before the course date.
-
-To be notified when a class opens for enrollment, fill out the&nbsp;[Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noopener noreferrer"}&nbsp;and select the courses you’re interested in. You will receive an email the next time the class is offered (and seats are available).
-
-*Note: You must seek your supervisor’s approval to attend any Data Academy courses.*
