@@ -47,9 +47,11 @@ This workshop assumes that you are comfortable with data analysis and have manip
 
 ## Upcoming courses scheduled
 
-* **Runs monthly!** Check the Data Academy calendar to see upcoming dates.
+[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noreferrer noopener"}&nbsp;to see a list of upcoming classes. To get notified when enrollment opens for a class, complete the&nbsp;[Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noreferrer noopener"}&nbsp;and select the class (or classes) you’re interested in.
 
-*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
+After completing the interest form, you will get an email when enrollment opens 3 weeks prior to class. Enrollment is not guaranteed as sometimes there are more interested employees than available seats.
+
+*Note: You must get your supervisor’s approval to attend any Data Academy courses.*
 
 ## More resources
 

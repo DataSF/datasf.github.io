@@ -54,8 +54,8 @@ Participants should have a good working knowledge of pivot tables. This is a fas
 
 ## Upcoming courses scheduled
 
-* **Sep. 8, 2023 @ 9AM - 1PM (Part 1) & Sep.15, 2023 @ 9AM - 1PM (Part 2)**​​​​​​
+[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noreferrer noopener"}&nbsp;to see a list of upcoming classes. To get notified when enrollment opens for a class, complete the&nbsp;[Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noreferrer noopener"}&nbsp;and select the class (or classes) you’re interested in.
 
-​This course will be taught every other month. Check the Data Academy calendar the upcoming course dates.
+After completing the interest form, you will get an email when enrollment opens 3 weeks prior to class. Enrollment is not guaranteed as sometimes there are more interested employees than available seats.
 
-*Click the green button to be put on the wait list. You will receive an email the next time the class is offered (and seats are available). You must seek your supervisor’s approval to attend any Data Academy courses.*
+*Note: You must get your supervisor’s approval to attend any Data Academy courses.*
