@@ -13,7 +13,7 @@ resources_list:
     resource_type: One Pager
     links:
       - link: >-
-          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnTUc1eXBNdjVtS3c
+          https://datasfstaging.blob.core.usgovcloudapi.net/public/OnePageSummaryofPersonalDataRequests.pdf?sp=r&st=2024-01-04T19:31:45Z&se=2027-01-05T03:31:45Z&spr=https&sv=2022-11-02&sr=b&sig=d0MCmqa4wHZjfLbTv%2BYcDAEIbDe13E7Ma9K1kB5PFjs%3D
         media_type: PDF
   - name: Personal Data Request Guidebook
     description: >-
@@ -23,7 +23,7 @@ resources_list:
     resource_type: Guide
     links:
       - link: >-
-          https://drive.google.com/uc?export=download&id=0B6av1JsL3xAnREFfc1JYb0NwcUE
+          https://datasfstaging.blob.core.usgovcloudapi.net/public/PersonalDataRequestGuidanceV1.0%20(1).pdf?sp=r&st=2024-01-04T19:32:40Z&se=2030-01-05T03:32:40Z&spr=https&sv=2022-11-02&sr=b&sig=bjOY%2FfSLXetOBFQpx5nHariBAIiK2g0gWdcAM8QajJ0%3D
         media_type: PDF
 ---
 
