@@ -19,9 +19,9 @@ category: academy
 ---
 ## About this course
 
-The goal of the course is to teach all the features of DAX, providing the knowledge to write formulas for common and advanced business scenarios. You can watch the videos at anytime and the system will keep track of your progress. Within the course you can download the material for all the exercises. The course is provided through the SQLBI online portal and made available by DataSF.
+The goal of this video course is to teach all the features of DAX, providing the knowledge to write formulas for common and advanced business scenarios. You can watch the videos at anytime and the system will keep track of your progress. Within the course you can download the material for all the exercises. The course is provided through the SQLBI online portal and made available by DataSF.
 
-**Length**: The course is made up of over 15 hours of lectures, plus another 15-20 hours of individual exercises. You will have access to this course for two weeks.
+**Length**: The course is fully self-paced and online. It includes over 15 hours of recorded lectures, plus another 15-20 hours of individual exercises. You will have access to this course for two weeks.
 
 ## What you'll learn in this course
 
