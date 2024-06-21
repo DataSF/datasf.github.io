@@ -9,7 +9,7 @@ prerequisites: >-
   This is an advanced Power BI course. You should already be familiar and able
   to use DAX to create measures and tables.
 length: '15'
-subjects: Analysis
+subjects: Analysis, PowerBI
 series:
 course_short_name: 'Advanced Power BI: Data Modeling (self-paced)'
 course_materials_link:

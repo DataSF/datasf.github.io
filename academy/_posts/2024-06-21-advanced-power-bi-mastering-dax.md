@@ -11,6 +11,7 @@ prerequisites: This is an advanced Power BI class intended for power users.
 length: '15'
 subjects:
   - Analysis
+  - PowerBI
 series:
 course_short_name: 'Advanced Power BI: Mastering DAX (self-paced)'
 course_materials_link:
