@@ -1,18 +1,18 @@
 ---
-title: 'Advanced Power BI: Mastering DAX (self-paced) [OPEN]'
+title: 'Advanced Power BI: Mastering DAX'
 description: >-
   The goal of the course is to teach all the features of DAX, providing the
   knowledge to write formulas for common and advanced business scenarios. You
   can watch the videos at anytime and the system will keep track of your
   progress. Within the course you can download the material for all the
-  exercises.
-prerequisites: >-
-  This is an advanced Power BI course. You should already be familiar and able
-  to use DAX to create measures and tables.
+  exercises. The course is provided through the SQLBI online portal and made
+  available by DataSF.
+prerequisites: This is an advanced Power BI class intended for power users.
 length: '15'
 subjects:
+  - Analysis
 series:
-course_short_name:
+course_short_name: 'Advanced Power BI: Mastering DAX (self-paced)'
 course_materials_link:
 order: 1
 category: academy
