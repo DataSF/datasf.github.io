@@ -20,7 +20,7 @@ category: academy
 
 The goal of the video course is to teach through examples of increasing complexity how to solve business scenarios by adapting the data model, so that the required DAX code becomes easier, faster and more robust. All the demos and the exercises are based on Power BI examples. The course is provided through the SQLBI online portal and made available by DataSF.
 
-**Length**: The course is made up of over 15 hours of lectures, plus another 15-20 hours of individual exercises. You will have access to this course for two weeks.
+**Length**: The course is fully self-paced and online. It includes over 15 hours of recorded lectures, plus another 15-20 hours of individual exercises. You will have access to this course for two weeks.
 
 ## What you'll learn in this course
 
