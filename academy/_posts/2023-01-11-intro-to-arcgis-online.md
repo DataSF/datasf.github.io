@@ -8,8 +8,9 @@ subjects:
   - Mapping
   - Visualization
 series:
-course_short_name: ArcGIS Pro
-course_materials_link:
+course_short_name: Intro to ArcGIS Online
+course_materials_link: >-
+  https://drive.google.com/drive/folders/1hq-xBUnS43SOxdSywzI2mgLGXlz1TdSo?usp=drive_link
 order: 2
 category: academy
 ---
@@ -26,7 +27,7 @@ By the end of this workshop you will be able to:
 
 ## Upcoming courses scheduled
 
-[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noreferrer noopener"}&nbsp;to see a list of upcoming classes. To get notified when enrollment opens for a class, complete the&nbsp;[Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noreferrer noopener"}&nbsp;and select the class (or classes) you’re interested in.
+[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noreferrer noopener"} to see a list of upcoming classes. To get notified when enrollment opens for a class, complete the [Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noreferrer noopener"} and select the class (or classes) you’re interested in.
 
 After completing the interest form, you will get an email when enrollment opens 3 weeks prior to class. Enrollment is not guaranteed as sometimes there are more interested employees than available seats.
 

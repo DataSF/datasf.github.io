@@ -5,7 +5,9 @@ description: >-
   jump-start on your 1st Power BI project. Power BI is a powerful, low-cost
   program that focuses on the entire business intelligence chain: from data
   wrangling to visualizing to sharing to automation.
-prerequisites: Participants should have a good working knowledge of pivot tables.
+prerequisites: >-
+  Participants should have a good working knowledge of pivot tables and must
+  have Power BI Desktop installed before their course.
 length: Two 4-hour sessions, total 8
 subjects:
   - Data Management
@@ -14,7 +16,6 @@ subjects:
 series:
   - PowerBI
 team_members:
-  - craig-dermody
 course_short_name: Intro to Power BI
 course_materials_link: >-
   https://drive.google.com/drive/folders/1ot7J4lkhaoBR24dBhXbJbqs7wO5gJQpR?usp=sharing
@@ -51,6 +52,8 @@ Power BI also has substantial visualization/sharing/automation abilities allowin
 ## Prerequisites
 
 Participants should have a good working knowledge of pivot tables. This is a fast-paced intermediate level Data Academy course. Working knowledge of higher level programming languages such as R or Python can be substituted for pivot tables. Exceptions are rare and at the approval of the instructor.
+
+Participants must work with their IT department to ensure Power BI Desktop is installed prior to taking the course.
 
 ## Upcoming courses scheduled
 
