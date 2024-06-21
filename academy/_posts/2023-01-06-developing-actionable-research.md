@@ -1,14 +1,12 @@
 ---
 layout: course
-title: Delivering Better Data & Research Insights [OPEN]
-course_short_name: >-
-  Delivering better data & research insights: choosing the right method for the
-  right question
+title: Developing Effective Research for Better Insights
+course_short_name: Delivering Effective Research for Better Insights
 description: >-
   When someone approaches you with a problem, how do you ensure that the method
   you’ve chosen will give you answers? How do you distill problems into
   actionable research or data questions? And once you’ve got your question, how
-  do you decide between quantitative or qualitative methods?
+  do you decide between quantitative or qualitative methods? 
 prerequisites: None
 length: 3
 series:
@@ -25,6 +23,8 @@ order: 2
 
 Delivering better data & research insights: choosing the right method for the right question. When someone approaches you with a problem, how do you ensure that the method you’ve chosen will give you answers? How do you distill problems into actionable research or data questions? And once you’ve got your question, how do you decide between quantitative or qualitative methods?
 
+Expect an engaging session filled with interactive activities. So be prepared to have video and audio on for breakout rooms, where active participation is not just encouraged; it’s essential for better learning.
+
 ## What you’ll learn in this course
 
 This course will cover the following topics:
@@ -40,7 +40,7 @@ There are no prerequisites for this course, but it’s helpful if you come in ha
 
 ## Upcoming courses scheduled
 
-[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noreferrer noopener"}&nbsp;to see a list of upcoming classes. To get notified when enrollment opens for a class, complete the&nbsp;[Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noreferrer noopener"}&nbsp;and select the class (or classes) you’re interested in.
+[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noreferrer noopener"} to see a list of upcoming classes. To get notified when enrollment opens for a class, complete the [Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noreferrer noopener"} and select the class (or classes) you’re interested in.
 
 After completing the interest form, you will get an email when enrollment opens 3 weeks prior to class. Enrollment is not guaranteed as sometimes there are more interested employees than available seats.
 

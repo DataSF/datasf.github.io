@@ -14,7 +14,8 @@ subjects:
   - Visualization
 series:
 course_short_name: Intro to Python for GIS Analysis
-course_materials_link:
+course_materials_link: >-
+  https://drive.google.com/drive/folders/1-kv4p0UJNyyEjbWr46WEn3_kTqThdya4?usp=drive_link
 order: 1
 category: academy
 ---
