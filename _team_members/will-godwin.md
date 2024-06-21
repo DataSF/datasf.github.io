@@ -1,6 +1,6 @@
 ---
 name: Will Godwin
-work_title: Epidemiologist
+work_title: Epidemiologist, Department of Public Health
 email: william.godwin@sfdph.org
 bio:
 gravatar:
