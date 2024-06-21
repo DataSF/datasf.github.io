@@ -1,8 +1,6 @@
 ---
 layout: course
-title: >-
-  Developing Effective Research for Better Insights: choosing the right method
-  for the right question
+title: Developing Effective Research for Better Insights
 course_short_name: Delivering Effective Research for Better Insights
 description: >-
   When someone approaches you with a problem, how do you ensure that the method
@@ -42,7 +40,7 @@ There are no prerequisites for this course, but it’s helpful if you come in ha
 
 ## Upcoming courses scheduled
 
-[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noreferrer noopener"}&nbsp;to see a list of upcoming classes. To get notified when enrollment opens for a class, complete the&nbsp;[Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noreferrer noopener"}&nbsp;and select the class (or classes) you’re interested in.
+[View the Course Calendar](https://datasf.org/academy/calendar/){: target="_blank" rel="noreferrer noopener"} to see a list of upcoming classes. To get notified when enrollment opens for a class, complete the [Course Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdbubwh6VG_QXphYMfJ-YHGqACK5uhlbv6Qs1hdrLaiFnJQCA/viewform){: target="_blank" rel="noreferrer noopener"} and select the class (or classes) you’re interested in.
 
 After completing the interest form, you will get an email when enrollment opens 3 weeks prior to class. Enrollment is not guaranteed as sometimes there are more interested employees than available seats.
 
