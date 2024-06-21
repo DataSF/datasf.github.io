@@ -1,5 +1,5 @@
 ---
-title: 'Advanced Power BI: Mastering DAX'
+title: 'Advanced Power BI: Mastering DAX (self-paced) [OPEN]'
 description: >-
   The goal of the course is to teach all the features of DAX, providing the
   knowledge to write formulas for common and advanced business scenarios. You
