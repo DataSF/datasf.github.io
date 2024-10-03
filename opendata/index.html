@@ -13,10 +13,12 @@ js: opendata.js
      </h2>
 			<div class="row">
 				<div class="col-md-12" style="margin-top: 40px;">
-					<form action="https://data.sfgov.org/browse" role="form" class="form-inline">
-						<input id="search-catalog-input" class="search-input form-control" type="text" name="q" placeholder="Search for things like Crime, 311 cases, lobbyists, etc." autocomplete="off" style="width:100%; background-color: white; border: 2px solid #212123; color: #212123;" />
-						<button type="submit" class="fa fa-search" id="search-submit" value="Search"><span class="sr-only">Search</span></button>
-					</form>
+				  <form action="https://data.sfgov.org/browse" role="form" class="form-inline" style="display: flex; width: 50%;">
+            <input id="search-catalog-input" class="search-input form-control" type="text" name="q" placeholder="Search for things like Crime, 311 cases, lobbyists, etc." autocomplete="off" style="flex: 1; background-color: white; border: 2px solid #212123; color: #212123;" />
+            <button type="submit" class="fa fa-search" id="search-submit" value="Search" style="border: 2px solid #212123; border-left: none; background-color: #212123; color: white;">
+              <span class="sr-only">Search</span>
+            </button>
+          </form>
 				</div>
 			</div>
 	</p></div>
