@@ -2,14 +2,13 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Redirecting…</title>
-  <!-- Instant client-side redirect -->
+  <title>Page moved</title>
+  <!-- Meta refresh to send unknown subpaths to the target -->
   <meta http-equiv="refresh" content="0;url=https://sf.gov/data">
   <script>
-    // Fallback JS redirect — send visitors to the root target.
+    // Fallback JS redirect for unknown pages
     (function(){
       var target = 'https://sf.gov/data';
-      // Replace so this navigation doesn't create a history entry
       if (window.location.hostname !== 'sf.gov') {
         window.location.replace(target);
       }
@@ -18,6 +17,6 @@
   <link rel="canonical" href="https://sf.gov/data">
 </head>
 <body>
-  Redirecting to <a href="https://sf.gov/data">https://sf.gov/data</a>...
+  Page moved — redirecting to <a href="https://sf.gov/data">https://sf.gov/data</a>...
 </body>
 </html>
